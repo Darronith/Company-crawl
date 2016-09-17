@@ -1,0 +1,12 @@
+Processing: 1-888-ohiocomp.com
+
+Traceback (most recent call last):
+  File "C:/Users/Sz L/Desktop/szgyak/ws/NER_tagger.py", line 106, in <module>
+    file.write(prev_token[0]+" O"+'\n')
+
+  File "C:\Anaconda3\envs\ws\CondaEnv\lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 8-9: character maps to <undefined>
+
+Process finished with exit code 1

@@ -12,7 +12,7 @@ dessert O
 . O
 
 From O
-America U-LOC
+America LOCATION
 's O
 finest O
 bakeries O
@@ -75,10 +75,10 @@ Back O
 to O
 School O
 
-Mardi O
-Gras O
-King O
-Cake O
+Mardi ORGANIZATION
+Gras ORGANIZATION
+King ORGANIZATION
+Cake ORGANIZATION
 
 Employee O
 Appreciation O
@@ -99,8 +99,8 @@ Mother O
 Day O
 Gifts O
 
-Rosh B-PER
-Hashanah L-PER
+Rosh PERSON
+Hashanah PERSON
 
 Memorial O
 Day O
@@ -164,9 +164,9 @@ Bouquets O
 Cookie O
 Gifts O
 
-Custom O
-Fortune O
-Cookies O
+Custom ORGANIZATION
+Fortune ORGANIZATION
+Cookies ORGANIZATION
 
 Mini O
 Cookies O
@@ -299,7 +299,7 @@ Checkout O
 
 Register O
 
-Login U-PER
+Login PERSON
 
 Corporate O
 Gifts O
@@ -328,10 +328,10 @@ Back O
 to O
 School O
 
-Mardi O
-Gras O
-King O
-Cake O
+Mardi ORGANIZATION
+Gras ORGANIZATION
+King ORGANIZATION
+Cake ORGANIZATION
 
 Employee O
 Appreciation O
@@ -352,8 +352,8 @@ Mother O
 Day O
 Gifts O
 
-Rosh B-PER
-Hashanah L-PER
+Rosh PERSON
+Hashanah PERSON
 
 Memorial O
 Day O
@@ -417,9 +417,9 @@ Bouquets O
 Cookie O
 Gifts O
 
-Custom O
-Fortune O
-Cookies O
+Custom ORGANIZATION
+Fortune ORGANIZATION
+Cookies ORGANIZATION
 
 Mini O
 Cookies O
@@ -536,10 +536,10 @@ Delivery O
 Gifts O
 Cards O
 
-Top B-PER
-Rated L-PER
+Top PERSON
+Rated PERSON
 
-America U-LOC
+America LOCATION
 's O
 Top O
 Rated O
@@ -853,7 +853,7 @@ other O
 special O
 treats O
 from O
-America U-LOC
+America LOCATION
 's O
 finest O
 bakeries O
@@ -1083,7 +1083,7 @@ SATISFACTION O
 GUARANTEE O
 
 CHEF O
-STEVE U-PER
+STEVE PERSON
 'S O
 BLOG O
 
@@ -1104,9 +1104,9 @@ Inc. O
 Church O
 St. O
 · O
-Winchester U-PER
+Winchester PERSON
 , O
-MA U-LOC
+MA LOCATION
 01890 O
 · O
 © O
@@ -1121,5 +1121,5 @@ reserved O
 
 Powered O
 by O
-Zoey U-PER
+Zoey PERSON
 
