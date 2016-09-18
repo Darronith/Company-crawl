@@ -18,8 +18,8 @@ st = StanfordNERTagger("../ws/stanford_ner/classifiers/english.all.3class.distsi
 for file_name in list_of_file_names:
     file_name = file_name.rstrip()  # whitespace vegzodes leszedes
     print("Processing: "+file_name)
-    company_data = json.load(open(input_dir+file_name, 'r'))
-    file = open(output_dir+file_name, 'w')
+    company_data = json.load(open(input_dir+file_name, 'r', encoding='utf-8'))
+    file = open(output_dir+file_name, 'w', encoding='utf-8')
 
     for content in company_data['content']:  # vegigmegy a weboldalon talalt szovegegysegeken
         for sentence in tokenizer.tokenize(content):  # mondatokra bontja a szovegegyseget
