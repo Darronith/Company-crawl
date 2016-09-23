@@ -237,7 +237,6 @@ Road O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 Office O
 : O
@@ -282,7 +281,7 @@ Click O
 here O
 
 To O
-find O
+find U-CONTACT
 out O
 what O
 you O
@@ -470,7 +469,7 @@ Display O
 '' O
 : O
 '' O
-100 O
+100 U-ADDRESS
 '' O
 , O
 '' O
@@ -522,7 +521,6 @@ Gateway O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -572,7 +570,6 @@ Centerstone O
 121 O
 COMMERCE O
 , O
-100 O
 
 Danville O
 , O
@@ -662,7 +659,6 @@ Oak O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -693,7 +689,6 @@ Highway O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -724,7 +719,6 @@ Highway O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -749,7 +743,6 @@ Highway O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -765,7 +758,7 @@ By O
 RE/MAX O
 Centerstone O
 
-600 O
+600 U-ADDRESS
 Valley O
 
 Martinsville O
@@ -799,7 +792,6 @@ Solidago O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -825,7 +817,7 @@ Centerstone O
 East O
 CO O
 RD O
-100 O
+100 U-ADDRESS
 N O
 
 Avon O
@@ -856,7 +848,6 @@ Hwy O
 Stilesville O
 , O
 IN U-STATE
-46180 O
 
 MLS O
 # O
@@ -881,7 +872,6 @@ Hwy O
 Stilesville O
 , O
 IN U-STATE
-46180 O
 
 MLS O
 # O
@@ -906,7 +896,6 @@ Hwy O
 Stilesville O
 , O
 IN U-STATE
-46180 O
 
 MLS O
 # O
@@ -929,7 +918,6 @@ Plaza O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -951,7 +939,6 @@ Kensington O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -980,7 +967,6 @@ MAIN O
 Plainfield U-CITY
 , O
 IN U-STATE
-46168 O
 
 MLS O
 # O
@@ -1031,7 +1017,6 @@ LINCOLN O
 Mooresville O
 , O
 IN U-STATE
-46158 O
 
 MLS O
 # O
