@@ -1,17 +1,18 @@
 Labelled 1709 files.
 
-[CONTACT]  entity found  [1042]  times.
-[COMPANY]  entity found  [13762]  times.
-[STATE]  entity found  [2904]  times.
-[CITY]  entity found  [6246]  times.
-[ADDRESS]  entity found  [1058]  times.
+[CONTACT]  entity found  [1032]  times.
+[COMPANY]  entity found  [13696]  times.
+[STATE]  entity found  [2903]  times.
+[CITY]  entity found  [6163]  times.
+[ADDRESS]  entity found  [2434]  times.
 [ZIP]  entity found  [1005]  times.
 
 [CONTACT]  entity found at least once in  [341]  files.   [ 19.95% ]
-[COMPANY]  entity found at least once in  [1515]  files.   [ 88.65% ]
-[STATE]  entity found at least once in  [919]  files.   [ 53.77% ]
-[CITY]  entity found at least once in  [1137]  files.   [ 66.53% ]
-[ADDRESS]  entity found at least once in  [658]  files.   [ 38.50% ]
+[COMPANY]  entity found at least once in  [1514]  files.   [ 88.59% ]
+[STATE]  entity found at least once in  [918]  files.   [ 53.72% ]
+[CITY]  entity found at least once in  [1128]  files.   [ 66.00% ]
+[ADDRESS]  entity found at least once in  [834]  files.   [ 48.80% ]
 [ZIP]  entity found at least once in  [676]  files.   [ 39.56% ]
 
 Number of failed searches due to 'Nan' in json: 378
+Number of useless documents: 60
