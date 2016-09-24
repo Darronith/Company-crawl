@@ -1,6 +1,6 @@
 Mr. B-COMPANY
-Mat L-COMPANY
-is O
+Mat I-COMPANY
+is L-COMPANY
 a O
 New O
 Jersey O

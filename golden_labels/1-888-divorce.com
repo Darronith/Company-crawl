@@ -53,7 +53,7 @@ possibilities O
 . O
 
 Search O
-for O
+for U-CITY
 your O
 new O
 name O

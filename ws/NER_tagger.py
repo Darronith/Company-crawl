@@ -31,6 +31,9 @@ for item in total_label_count:
     item.append(0)
     item.append(0)
 
+# case sensitive fields
+case_sensitive = ['STATE', 'CONTACT']
+
 for file_name in list_of_file_names:
     file_name = file_name.rstrip()  # remove whitespace ending
     print("Processing: "+file_name)
@@ -50,6 +53,12 @@ for file_name in list_of_file_names:
                     target_list.append([target, json_fields[field][1], 0])
                 else:
                     target = nltk.word_tokenize(item)
+                    if not case_sensitive.__contains__(json_fields[field][1]):
+                        uppercase = []
+                        for t in target:
+                            t = t.upper()
+                            uppercase.append(t)
+                        target = uppercase
                     target_list.append([target, json_fields[field][1], 0])
 
     for content in company_data['content']:
@@ -60,24 +69,32 @@ for file_name in list_of_file_names:
             position = 0
             word_list = nltk.word_tokenize(sentence)
             i = 0
-            while i < len(word_list):
-                # print('current word '+word_list[i])
-                success = False
-                for t in range(0, len(temp_target_list)):
-                    target = temp_target_list[t]
-                    if position < len(target[0]) and target[1] != 'Skip':  # prevents out of range indexing
-                        if SequenceMatcher(None, target[0][position], word_list[i]).ratio() > 0.685 or target[0][position][:1] == word_list[i][:1] and position > 0:
-                            success = True
-                            chain_label = target[1]  # the last target that matches will be the label of the chain
-                            target_number = t
-                        else:  # label name 'Skip' means this target has failed to match
-                            target[1] = 'Skip'
+            while i < len(word_list)+1:
+                if i != len(word_list):  # prevents out of range indexing
+                    # print('current word '+word_list[i])
+                    success = False
+                    for t in range(0, len(temp_target_list)):
+                        target = temp_target_list[t]
+                        if position < len(target[0]) and target[1] != 'Skip':  # prevents out of range indexing
+                            # matching the target with the words in the document
+                            current_word = word_list[i]
+                            if not case_sensitive.__contains__(target[1]):
+                                current_word = current_word.upper()
+                            if SequenceMatcher(None, target[0][position], current_word).ratio() > 0.685 or target[0][position][:1] == current_word[:1] and position > 0:
+                                success = True
+                                chain_label = target[1]  # the last target that matches will be the label of the chain
+                                target_number = t
+                            else:  # label name 'Skip' means this target has failed to match
+                                target[1] = 'Skip'
+                else:  # after processing the sentence one more loop to flush the last word chain
+                    success = False
+
                 if success:
                     position += 1  # marks the progress of the matching
                     word_chain.append(word_list[i])
 
-                # every target is on 'Skip' mode and the chain is built, or all target failed immediately and
-                # the current word is getting the 'O' label
+                # success == False if every target is on 'Skip' mode and the chain is built,
+                # or all target failed immediately and the current word is getting the 'O' label
                 if not success:
                     if len(word_chain) == 1:
                         file.write(word_chain[0]+" U-"+chain_label+'\n')
@@ -91,7 +108,8 @@ for file_name in list_of_file_names:
                         i -= 1  # chain breaking word
                         target_list[target_number][2] += 1
                     else:
-                        file.write(word_list[i]+" O"+'\n')
+                        if i != len(word_list):  # out of range indexing prevention
+                            file.write(word_list[i]+" O"+'\n')
                     word_chain = []
                     temp_target_list = copy.deepcopy(target_list)
                     chain_label = 'New'

@@ -226,8 +226,8 @@ Team O
 
 Broker/Associates O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 3930 O
 Clarks O
@@ -237,6 +237,7 @@ Road O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 Office O
 : O
@@ -387,6 +388,7 @@ I O
 serve O
 ... O
 
+Plainfield U-CITY
 
 Mooresville O
 
@@ -521,6 +523,7 @@ Gateway O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -533,8 +536,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 4681 O
 East O
@@ -564,12 +567,13 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 121 O
 COMMERCE O
 , O
+100 U-ADDRESS
 
 Danville O
 , O
@@ -587,8 +591,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 7085 O
 West O
@@ -618,8 +622,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 7085 O
 West O
@@ -649,8 +653,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 1032 O
 Red O
@@ -659,6 +663,7 @@ Oak O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -677,8 +682,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 5466 O
 East O
@@ -689,6 +694,7 @@ Highway O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -707,8 +713,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 5466 O
 East O
@@ -719,6 +725,7 @@ Highway O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -731,8 +738,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 5466 O
 East O
@@ -743,6 +750,7 @@ Highway O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -755,8 +763,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 600 U-ADDRESS
 Valley O
@@ -783,8 +791,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 2701 O
 Solidago O
@@ -792,6 +800,7 @@ Solidago O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -810,8 +819,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 8505 O
 East O
@@ -836,8 +845,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 6270 O
 West O
@@ -848,6 +857,7 @@ Hwy O
 Stilesville O
 , O
 IN U-STATE
+46180 U-ZIP
 
 MLS O
 # O
@@ -860,8 +870,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 6270 O
 West O
@@ -872,6 +882,7 @@ Hwy O
 Stilesville O
 , O
 IN U-STATE
+46180 U-ZIP
 
 MLS O
 # O
@@ -884,8 +895,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 6270 O
 West O
@@ -896,6 +907,7 @@ Hwy O
 Stilesville O
 , O
 IN U-STATE
+46180 U-ZIP
 
 MLS O
 # O
@@ -908,8 +920,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 1925 O
 Crown O
@@ -918,6 +930,7 @@ Plaza O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -930,8 +943,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 5724 O
 Kensington O
@@ -939,6 +952,7 @@ Kensington O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -957,8 +971,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 120 O
 West O
@@ -967,6 +981,7 @@ MAIN O
 Plainfield U-CITY
 , O
 IN U-STATE
+46168 U-ZIP
 
 MLS O
 # O
@@ -979,8 +994,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 8121 O
 South O
@@ -1008,8 +1023,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 36 O
 LINCOLN O
@@ -1017,6 +1032,7 @@ LINCOLN O
 Mooresville O
 , O
 IN U-STATE
+46158 U-ZIP
 
 MLS O
 # O
@@ -1035,8 +1051,8 @@ $ O
 Listed O
 By O
 
-RE/MAX O
-Centerstone O
+RE/MAX B-COMPANY
+Centerstone L-COMPANY
 
 Loading O
 ... O

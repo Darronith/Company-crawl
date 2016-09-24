@@ -61,6 +61,7 @@ charity U-COMPANY
 , O
 vehicle O
 donation O
+charity U-COMPANY
 
 Car O
 Donation O
@@ -96,6 +97,7 @@ America O
 1 O
 Car O
 Donation O
+Charity U-COMPANY
 
 Live O
 Operators O
@@ -162,6 +164,7 @@ Middlemen O
 % O
 Goes O
 to O
+Charity U-COMPANY
 
 Fast O
 - O
@@ -1112,6 +1115,8 @@ Learn O
 More O
 
 About O
+Charity B-COMPANY
+Cars L-COMPANY
 
 Extreme O
 Makeover O

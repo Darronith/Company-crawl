@@ -402,7 +402,7 @@ valuable O
 skills O
 you O
 can O
-use O
+use U-COMPANY
 in O
 your O
 civilian O
