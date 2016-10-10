@@ -1,0 +1,21 @@
+Labelling in: africare.org
+
+Labelled 173 word chains with COMPANY, pattern used: AFRICARE.
+->  Africare, Africa, africare.org, AFRICARE, African
+
+Labelled 0 word chains with CONTACT, pattern used: Julius E Coles.
+->  
+
+Labelled 1 word chains with STATE, pattern used: DC.
+->  DC
+
+Labelled 5 word chains with CITY, pattern used: WASHINGTON.
+->  Washington
+
+Labelled 1 word chains with ADDRESS, pattern used: 440 R ST NW.
+->  440 R
+
+Labelled 1 word chains with ZIP, pattern used: 20001 1935.
+->  20001
+
+

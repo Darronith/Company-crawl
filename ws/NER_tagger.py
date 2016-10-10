@@ -2,7 +2,7 @@ import json
 import nltk.data
 import copy
 import math
-import re
+import io
 from difflib import SequenceMatcher
 
 import os
@@ -14,20 +14,23 @@ os.environ['JAVAHOME'] = java_path
 # output_dir = '..\\silver_labels\\'
 # report_dir = '..\\reports\\'
 
-input_dir = '..\\..\\data_set\\data\\crawl\\data\\'
+input_dir = '..\\..\\data_set\\data\\crawl\\'
 output_dir = '..\\..\\data_set\\data\\silver_labels\\'
 report_dir = '..\\..\\data_set\\data\\reports\\'
 
 list_file = '..\\list.txt'
 list_of_file_names = open(list_file, 'r')
 
-total_report = open('..\\report.txt', 'w')
-useless_pages = open('..\\useless.txt', 'w')
-almost_useless_pages = open('..\\almost_useless.txt', 'w')
-uneven_pairs = open('..\\uneven_pairs.txt', 'w')
+total_report = open('..\\report.txt', 'w', encoding='utf-8')
+useless_pages = open('..\\useless.txt', 'w', encoding='utf-8')
+almost_useless_pages = open('..\\almost_useless.txt', 'w', encoding='utf-8')
+uneven_pairs = open('..\\uneven_pairs.txt', 'w', encoding='utf-8')
 uneven_pairs.write('Format: LABEL: Actual words in document  --  [Pattern used]\n\n')
-every_pair = open('..\\every_pair.txt', 'w')
+every_pair = open('..\\every_pair.txt', 'w', encoding='utf-8')
 every_pair.write('Format: LABEL: Actual words in document  --  [Pattern used]\n\n')
+every_pair_set = open('..\\every_pair_set.txt', 'w', encoding='utf-8')
+every_pair_set.write('Format: LABEL: Actual words in document  --  [Pattern used]\n\n')
+pair_set = set()
 num_of_files = 0
 failed_match = 0
 num_of_useless_pages = 0
@@ -58,17 +61,26 @@ case_sensitive = ['STATE', 'CONTACT']
 
 # interchangeable words
 switchable_words = {'&': 'and',
-                  'inc': 'incorporation'}
+                  'inc': 'incorporation',
+                  'ave': 'avenue',
+                   'rd': 'road'}  # 3rd ??
+
+# matching with these words won't count because it's too easy to fit on these due to their commonness
+# this change probably won't ruin many valid matches, but it'll surely prevent many invalid ones (be careful, IN can be a state for example)
+too_common_words = set(['the', 'of'])
+
+from_num = 3400
+to_num = 3600
 
 progress_count = 0
 for file_name in list_of_file_names:
     progress_count += 1
-    if progress_count > 2 and progress_count <= 40:
+    if from_num < progress_count <= to_num:
         file_name = file_name.rstrip()  # remove whitespace ending
         print("Processing: " + file_name)
         company_data = json.load(open(input_dir + file_name, 'r', encoding='utf-8'))
         file = open(output_dir + file_name, 'w', encoding='utf-8')
-        labelling_report = open(report_dir + file_name, 'w')
+        labelling_report = open(report_dir + file_name, 'w', encoding='utf-8')
         # format: [[word_list], label_name, local_counter, offset, skipped_words, score, is_normal, first_match, skip]
         target_list = []
         for field in range(0, len(json_fields)):
@@ -114,29 +126,31 @@ for file_name in list_of_file_names:
         for t in target_list:
             list_of_sets_of_labelled_chains.append(set())
 
-        for content in company_data['content']:
-            for sentence in tokenizer.tokenize(content):
-                word_chain = []
-                temp_target_list = copy.deepcopy(target_list)
-                chain_label = 'New'
-                position = 0
-                word_list = nltk.word_tokenize(sentence)
-                i = 0
-                while i < len(word_list) + 1:
-                    if i != len(word_list):  # prevents out of range indexing
-                        # print('current word '+word_list[i])
-                        in_chain = False
-                        for t in range(0, len(temp_target_list)):
-                            target = temp_target_list[t]
-                            success = False
-                            # if 2 consecutive words has been skipped, stop matching this target
-                            # also, if the current word couldn't match with the beginning of the target,
-                            # stop matching now and try later again
-                            if target[4] >= num_of_word_skip+1 or target[8] == 1:
-                                target[8] = 1
-                                continue
-                            #offset = target[3]
-                            if (position + target[3]) < len(target[0]) and target[8] != 1:  # prevents out of range indexing
+        # index contact partners products
+        for dictionary_element in company_data['content']:
+            for content in company_data['content'][dictionary_element]:
+                for sentence in tokenizer.tokenize(content):
+                    word_chain = []
+                    temp_target_list = copy.deepcopy(target_list)
+                    chain_label = 'New'
+                    position = 0
+                    word_list = nltk.word_tokenize(sentence)
+                    i = 0
+                    while i < len(word_list) + 1:
+                        if i != len(word_list):  # prevents out of range indexing
+                            # print('current word '+word_list[i])
+                            in_chain = False
+                            for t in range(0, len(temp_target_list)):
+                                target = temp_target_list[t]
+                                success = False
+                                # if 2 consecutive words has been skipped, stop matching this target
+                                # also, if the current word couldn't match with the beginning of the target,
+                                # stop matching now and try later again
+                                if target[4] >= num_of_word_skip+1 or target[8] == 1:
+                                    target[8] = 1
+                                    continue
+                                #offset = target[3]
+                                #if (position + target[3]) < len(target[0]) and target[8] != 1:  # prevents out of range indexing
                                 # matching the target with the words from the document
                                 current_word = word_list[i]
                                 #in_chain = True
@@ -161,14 +175,22 @@ for file_name in list_of_file_names:
                                             if current_word.isdigit():
                                                 if current_word == target[0][mod_position]:
                                                     matched = True
-                                            # Person matching: fist word - 78.5%, every other, after the first match - only first letter
+                                            # Person matching: fist word - 78.5%, every other, after the first
+                                            # match - only first letter and at least one of them needs to be at most 2 characters long
                                             elif target[1] == 'CONTACT':
-                                                if SequenceMatcher(None, target[0][mod_position], current_word).ratio() > sim_threshold or target[0][mod_position][:1] == current_word[:1] and target[7] >= 0:
+                                                if SequenceMatcher(None, target[0][mod_position], current_word).ratio() > sim_threshold:
+                                                    matched = True
+                                                if target[0][mod_position][:1] == current_word[:1] and target[7] >= 0 and (len(current_word) <= 2 or len(target[0][mod_position]) <= 2):
                                                     matched = True
                                             # anything else needs 78.5% matching on every word
                                             else:
                                                 if SequenceMatcher(None, target[0][mod_position], current_word).ratio() > sim_threshold:
                                                     matched = True
+                                            # invalidating otherwise passed matches
+                                            if matched and target[1] != 'STATE':
+                                                if mod_position != 0:  # allow names to start with 'The'
+                                                    if too_common_words.__contains__(target[0][mod_position].lower()) or too_common_words.__contains__(current_word.lower()):
+                                                        matched = False
                                         # out of range indexing could happen, but it's necessary to allow word skipping (regardless of stretching out of the length of the target)
                                         if matched:
                                             in_chain = True
@@ -192,89 +214,101 @@ for file_name in list_of_file_names:
                                                 in_chain = True
                                         if target[3] != 0:
                                             target[6] = 1
-                        # if the chain continues, we increment the number of skipped words on every
-                        # target, that has been set to 'Skip' state, because this way, the target with
-                        # the highest score will have the proper amount of skipped words to function properly
+                            # if the chain continues, we increment the number of skipped words on every
+                            # target, that has been set to 'Skip' state, because this way, the target with
+                            # the highest score will have the proper amount of skipped words to function properly
+                            if in_chain:
+                                for t in temp_target_list:
+                                    if t[8] == 1:
+                                        t[4] += 1
+                                        t[5] -= 0.55
+                        else:  # after processing the sentence one more loop to flush the last word chain
+                            in_chain = False
+
                         if in_chain:
-                            for t in temp_target_list:
-                                if t[8] == 1:
-                                    t[4] += 1
-                                    t[5] -= 0.55
-                    else:  # after processing the sentence one more loop to flush the last word chain
-                        in_chain = False
+                            position += 1  # marks the progress of the matching
+                            word_chain.append(word_list[i])
 
-                    if in_chain:
-                        position += 1  # marks the progress of the matching
-                        word_chain.append(word_list[i])
+                        # success == False if every target is on 'Skip' mode and the chain is built,
+                        # or all target failed immediately and the current word is getting the 'O' label
+                        if not in_chain:
+                            max_index = -1
+                            max_score = -100
+                            uneven = False
+                            not_outside = False
+                            for j in range(0, len(temp_target_list)):
+                                t = temp_target_list[j]
+                                #t[5] = min(len(t[0]), len(word_chain)) - 0.55 * abs(len(t[0]) - len(word_chain))
+                                if t[5] > max_score:
+                                    max_score = t[5]
+                                    max_index = j
+                            target = temp_target_list[max_index]
+                            chain_label = target[1]
+                            # remove words from the end of the chain equal to the number of skipped words associated with the target with the highest score
+                            if target[4] != 0 and len(word_chain) != 0:
+                                word_chain = word_chain[:-target[4]]
+                            # a single word with O label shouldn't set back the word index by 1 ( which is the amount of skipped words by any targets )
+                            if len(word_chain) != 0:
+                                i -= target[4]
 
-                    # success == False if every target is on 'Skip' mode and the chain is built,
-                    # or all target failed immediately and the current word is getting the 'O' label
-                    if not in_chain:
-                        max_index = -1
-                        max_score = -100
-                        uneven = False
-                        not_outside = False
-                        for j in range(0, len(temp_target_list)):
-                            t = temp_target_list[j]
-                            #t[5] = min(len(t[0]), len(word_chain)) - 0.55 * abs(len(t[0]) - len(word_chain))
-                            if t[5] > max_score:
-                                max_score = t[5]
-                                max_index = j
-                        target = temp_target_list[max_index]
-                        chain_label = target[1]
-                        # remove words from the end of the chain equal to the number of skipped words associated with the target with the highest score
-                        if target[4] != 0 and len(word_chain) != 0:
-                            word_chain = word_chain[:-target[4]]
-                        # a single word with O label shouldn't set back the word index by 1 ( which is the amount of skipped words by any targets )
-                        if len(word_chain) != 0:
-                            i -= target[4]
-
-                        if len(word_chain) == 1:
-                            # special case where the Unit label is probably not appropriate,
-                            # because the chain is small and the word is small and it is not a STATE
-                            # additionally, if the target too long, matching only once is not enough
-                            if len(word_chain[0]) <= 3 and chain_label != 'STATE' or len(target[0]) > 2:
-                                file.write(word_chain[0] + " O" + '\n')
-                            else:
-                                file.write(word_chain[0] + " U-" + chain_label + '\n')
-                                if target[6] != 0:
-                                    uneven = True
-                                not_outside = True
-                            i -= 1  # chain breaking words may start a new chain, so we check it again (after resetting the local variables)
-                            target_list[max_index][2] += 1
-                        elif len(word_chain) > 1:
-                            if len(word_chain) >= len(target[0])/accept_ratio:
-                                file.write(word_chain[0] + " B-" + chain_label + '\n')
-                                for j in range(1, len(word_chain) - 1):
-                                    file.write(word_chain[j] + " I-" + chain_label + '\n')
-                                file.write(word_chain[-1] + " L-" + chain_label + '\n')
-                                i -= 1  # chain breaking word
+                            if len(word_chain) == 1:
+                                # special case where the Unit label is probably not appropriate,
+                                # because the chain is small and the word is small and it is not a STATE
+                                # additionally, if the target too long, matching only once is not enough
+                                # also, a number alone which is not a ZIP code, is also discarded
+                                if len(word_chain[0]) <= 3 and chain_label != 'STATE' and chain_label != 'ZIP' or len(target[0]) > 2 or word_chain[0].isdigit() and chain_label != 'ZIP':
+                                    file.write(word_chain[0] + " O" + '\n')
+                                else:
+                                    file.write(word_chain[0] + " U-" + chain_label + '\n')
+                                    if target[6] != 0:
+                                        uneven = True
+                                    not_outside = True
+                                i -= 1  # chain breaking words may start a new chain, so we check it again (after resetting the local variables)
                                 target_list[max_index][2] += 1
-                                if target[6] != 0:
-                                    uneven = True
-                                not_outside = True
+                            elif len(word_chain) > 1:
+                                if len(word_chain) >= len(target[0])/accept_ratio:
+                                    file.write(word_chain[0] + " B-" + chain_label + '\n')
+                                    for j in range(1, len(word_chain) - 1):
+                                        file.write(word_chain[j] + " I-" + chain_label + '\n')
+                                    file.write(word_chain[-1] + " L-" + chain_label + '\n')
+                                    i -= 1  # chain breaking word
+                                    target_list[max_index][2] += 1
+                                    if target[6] != 0:
+                                        uneven = True
+                                    not_outside = True
+                                else:
+                                    for j in range(0, len(word_chain) - 1):
+                                        file.write(word_chain[j] + " O" + '\n')
                             else:
-                                for j in range(0, len(word_chain) - 1):
-                                    file.write(word_chain[j] + " O" + '\n')
-                        else:
-                            if i != len(word_list):  # out of range indexing prevention
-                                file.write(word_list[i] + " O" + '\n')
-                        # collecting not normal matchings
-                        if uneven:
-                            uneven_pairs.write(chain_label+': '+' '.join(word_chain)+'\t--\t['+' '.join(temp_target_list[max_index][0])+']\n')
-                        # collecting sets of chains to present in local reports
-                        if not_outside:
-                            list_of_sets_of_labelled_chains[max_index].add(' '.join(word_chain))
-                            if progress_count < 100:
-                                every_pair.write(chain_label+': '+' '.join(word_chain)+'\t--\t['+' '.join(temp_target_list[max_index][0])+']\n')
-                            else:
-                                every_pair.close()
-                        word_chain = []
-                        temp_target_list = copy.deepcopy(target_list)
-                        chain_label = 'New'
-                        position = 0
-                    i += 1
-                file.write('\n')  # marks the end of a sentence
+                                if i != len(word_list):  # out of range indexing prevention
+                                    file.write(word_list[i] + " O" + '\n')
+                            # collecting not normal matchings
+                            if uneven:
+                                uneven_pairs.write(chain_label+': '+' '.join(word_chain)+'\t--\t['+' '.join(temp_target_list[max_index][0])+']\n')
+                            # collecting sets of chains to present in local reports
+                            if not_outside:
+                                list_of_sets_of_labelled_chains[max_index].add(' '.join(word_chain))
+                                if progress_count < from_num + 100:
+                                    if i-len(word_chain) >= 0:
+                                        prev_word = word_list[i-len(word_chain)]
+                                    else:
+                                        prev_word = ''
+                                    if i+1 < len(word_list):
+                                        next_word = word_list[i+1]
+                                    else:
+                                        next_word = ''
+                                    string_to_write = chain_label+': '+prev_word+'   <| '+' '.join(word_chain)+' |>   '+next_word+'   --   ['+' '.join(temp_target_list[max_index][0])+']'
+                                    every_pair.write(string_to_write+'\n')
+                                    pair_set.add(string_to_write)
+                                else:
+                                    every_pair.close()
+                            word_chain = []
+                            temp_target_list = copy.deepcopy(target_list)
+                            chain_label = 'New'
+                            position = 0
+                        i += 1
+                    file.write('\n')  # marks the end of a sentence
+            file.write('\n')  # marks the end of a page
 
         file.close()
         print("Labelling done in: " + file_name + '\n')
@@ -291,7 +325,8 @@ for file_name in list_of_file_names:
                     t[0]) + '.'
                 # print(report)
                 labelling_report.write(report + '\n')
-                labelling_report.write('->  '+', '.join(list_of_sets_of_labelled_chains[i])+'\n\n')
+                report = '->  '+', '.join(list_of_sets_of_labelled_chains[i])+'\n\n'
+                labelling_report.write(report)
                 for tt in total_label_count:
                     if tt[1] == t[1]:
                         tt[2] += t[2]
@@ -336,7 +371,6 @@ for file_name in list_of_file_names:
             labelling_report.write('This document was almost useless.\n')
 
 # global report
-# print('Processed '+str(num_of_files)+' files.')
 total_report.write('Labelled ' + str(num_of_files) + ' files.\n\n')
 for t in total_label_count:
     total_report.write('[' + t[1] + ']  entity found  [' + str(t[2]) + ']  times.\n')
@@ -350,3 +384,6 @@ total_report.write('\nNumber of failed searches due to \'Nan\' in json: ' + str(
 total_report.write('\nNumber of useless documents: ' + str(num_of_useless_pages))
 total_report.write('\nNumber of targets: ' + str(total_num_of_targets))
 total_report.write('\nNumber of skipped targets due to repetition: ' + str(num_of_skipped_targets))
+
+for t in pair_set:
+    every_pair_set.write(t+'\n\n')

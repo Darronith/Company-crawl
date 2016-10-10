@@ -1,0 +1,20 @@
+Labelling in: africagenesis.org
+
+Labelled 28 word chains with COMPANY, pattern used: AFRICA GENESIS FOUNDATION.
+->  Africa , Africa Genesis Foundation, Africa Genesis Foundation
+
+Failed to find CONTACT, pattern was 'Nan'.
+
+Labelled 2 word chains with STATE, pattern used: IL.
+->  IL
+
+Labelled 1 word chains with CITY, pattern used: LA SALLE.
+->  shall
+
+Labelled 0 word chains with ADDRESS, pattern used: 1430 PORTER AVENUE.
+->  
+
+Labelled 0 word chains with ZIP, pattern used: 61301 1464.
+->  
+
+

@@ -1,0 +1,21 @@
+Labelling in: africanfamily.org
+
+Labelled 79 word chains with COMPANY, pattern used: AFRICAN FAMILY FILM FOUNDATION.
+->  African Film, Film Foundation, African Family Film Foundation, African Family, AFRICAN FAMILY, Panafrican Film, Family Foundation, PanAfrican Film, AFRICAN FAMILY FILM FOUNDATION
+
+Labelled 1 word chains with CONTACT, pattern used: Taale Rosellini.
+->  Taale Laafi Rosellini
+
+Labelled 15 word chains with STATE, pattern used: CA.
+->  CA
+
+Labelled 8 word chains with CITY, pattern used: SANTA CRUZ.
+->  Santa Cruz
+
+Labelled 2 word chains with ADDRESS, pattern used: 903 PACIFIC AVENUE.
+->  
+
+Labelled 0 word chains with ZIP, pattern used: 95060 4448.
+->  
+
+
