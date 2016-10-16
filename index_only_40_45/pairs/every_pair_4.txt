@@ -1,0 +1,769 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: of   <| Air Comfort |>   HVAC   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY: Club   <| Air Control |>      --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 12
+STATE: ,   <| GA. |>   Richard   --   [GA]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY: from   <| Air Cycle |>   .   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+STATE: ,   <| NM |>   and   --   [NM]  {airconditioningnm.com}    Occurrence: 10
+CONTACT: from   <| John Connolly |>   ,   --   [John Connolly]  {aircooled.net}    Occurrence: 1
+COMPANY: services   <| air cleaning |>   equipment   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+COMPANY: on   <| Air Control |>   Air   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+COMPANY:    <| Airdex Inc. |>   is   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 2
+CITY: the   <| Hurst |>   ,   --   [HURST]  {airco.com}    Occurrence: 1
+COMPANY: new   <| air conditioning |>   systems   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: Georgia   <| Air Comfort |>   HVAC   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+STATE: ,   <| GA |>   30082-5236   --   [GA]  {aircond.com}    Occurrence: 1
+ADDRESS:    <| 452 Dividend |>   Drive   --   [452 DIVIDEND DR]  {aircraftspruce.com}    Occurrence: 1
+ADDRESS:    <| 515 E 19th St |>   ,   --   [515 E 19TH ST]  {aircontrolservices.com}    Occurrence: 5
+CITY: (   <| Fords |>   ,   --   [FORDS]  {airdexinc.com}    Occurrence: 5
+ADDRESS:    <| 1076 North 10th |>   Street   --   [1076 N 10TH ST]  {aircooledengines.net}    Occurrence: 1
+COMPANY: stump   <| Air Comfort |>   ’   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+CITY:    <| Tucson |>   AZ   --   [TUCSON]  {airconceptsinc.com}    Occurrence: 1
+COMPANY: ,   <| Air Cycle |>   began   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY: with   <| Air Comfort |>   .   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+STATE: ,   <| PA |>   18651   --   [PA]  {airconservice.net}    Occurrence: 2
+CITY: ,   <| tulsa |>   plumber   --   [TULSA]  {aircoservice.com}    Occurrence: 4
+COMPANY:    <| Airco Service |>   has   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 1
+CITY: -   <| Peachtree City |>   ,   --   [PEACHTREE CITY]  {aircraftspruce.com}    Occurrence: 10
+COMPANY: 2016   <| Air Comfort |>   Services   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: how   <| Air Comfort |>   can   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+CITY: of   <| Sarasota |>   .   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Airco Mechanical |>   has   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 1
+COMPANY:    <| Air Cooling Energy |>   can   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: Ambient   <| Air Cleaning |>   ,   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+ZIP: ID   <| 83642 |>      --   [83642 4092]  {aire.com}    Occurrence: 1
+COMPANY:    <| Air Comm Systems |>   manufactures   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+STATE: Fairbanks   <| AK |>   99709   --   [AK]  {aircomavionics.com}    Occurrence: 1
+STATE: ,   <| AZ |>   .   --   [AZ]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: ,   <| Air Cleaning Technology |>   is   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+CITY:    <| Bakersfield |>   ,   --   [BAKERSFIELD]  {aircontrolservices.com}    Occurrence: 5
+ZIP: KY   <| 40347 |>      --   [40347 9707]  {airdriestud.com}    Occurrence: 2
+CITY: ,   <| Gurnee |>   ,   --   [GURNEE]  {airdiffusion.com}    Occurrence: 2
+ZIP: Florida   <| 34695 |>   (   --   [34695 2908]  {aircomair.com}    Occurrence: 1
+CITY:    <| Port Angeles |>   Motels   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 4
+COMPANY: call   <| Air Cooling Energy Corp. |>   for   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 2
+CITY: ,   <| Santa Ana |>   ,   --   [SANTA ANA]  {aircleaningtechnology.com}    Occurrence: 15
+CITY:    <| Redmond |>   WA   --   [REDMOND]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY: your   <| Sarasota |>   home   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 5
+COMPANY:    <| REAL ESTATE |>   COMPANY   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+STATE: ,   <| TX |>   &   --   [TX]  {airco.com}    Occurrence: 15
+CONTACT: is   <| Jim Padavan |>   and   --   [Jim Padavan]  {airdesigninc.com}    Occurrence: 1
+COMPANY: at   <| Air Comfort |>   HVAC   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 2
+COMPANY: of   <| AIRECO Real Estate |>   Corp.   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+COMPANY:    <| Aircon Energy |>   ’   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 3
+CITY: in   <| Port Angeles |>   ,   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 1
+COMPANY: are   <| Air Cooling Energy |>   –   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Airdex Inc. |>   Is   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+COMPANY: an   <| Air Cleaning Technology |>   team   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+CITY: the   <| Austin |>   area   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+STATE: Flushing   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp. |>   is   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 2
+COMPANY:    <| Air Comfort |>   –   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 2
+CITY: in   <| Lake Havasu & Bullhead City |>   ,   --   [LAKE HAVASU CITY]  {aircontrolaz.com}    Occurrence: 9
+ADDRESS:    <| 1314 Goodrick Dr |>   .   --   [1314 GOODRICK DR]  {aircraftbolts.com}    Occurrence: 1
+ZIP: NJ   <| 08863 |>      --   [08863 2136]  {airdexinc.com}    Occurrence: 7
+COMPANY: at   <| Air Control |>   Services   --   [AIR CONTROL SVC]  {aircontrolservices.com}    Occurrence: 3
+CITY:    <| Valley Stream |>   ,   --   [VALLEY STREAM]  {airdesigninc.com}    Occurrence: 1
+ZIP: CA   <| 92707 |>      --   [92707 3445]  {aircleaningtechnology.com}    Occurrence: 17
+STATE: Worth   <| TX |>   Colleyville   --   [TX]  {airco.com}    Occurrence: 1
+COMPANY:    <| Airdex , Inc. |>   ,   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+COMPANY: ,   <| Air Comfort |>   will   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: ,   <| Aircon Energy |>   is   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 3
+COMPANY:    <| Air Cycle |>   Blog   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 7
+ZIP: OH   <| 43420 |>   ,   --   [43420 3909]  {aireez.com}    Occurrence: 7
+COMPANY: of   <| air cleaning |>   and   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+ZIP: CA   <| 92880 |>      --   [92880 2527]  {aircraftspruce.com}    Occurrence: 1
+COMPANY:    <| air design systems |>   ,   --   [AIR DESIGN SYSTEMS INCORPORATION]  {airdesignhvac.com}    Occurrence: 1
+ZIP: OH   <| 43420 |>      --   [43420 3909]  {aireez.com}    Occurrence: 2
+COMPANY: Control   <| Air Conditioning |>   &   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 6
+CITY: HVAC   <| Sacramento |>   ,   --   [SACRAMENTO]  {airconenergy.com}    Occurrence: 3
+CITY:    <| Fords |>      --   [FORDS]  {airdexinc.com}    Occurrence: 5
+COMPANY: Contact   <| Airco Mechanical |>   |   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 3
+CITY: to   <| Sarasota |>   and   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Air Comm Systems |>   ,   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+COMPANY: by   <| Aircraft Models |>   Corporation   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   Catalyst   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: ,   <| AIRECO Real Estate |>   Corp   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+COMPANY: joined   <| Air Comfort |>   as   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY:    <| Air Doctorx |>      --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 8
+CITY:    <| Austin |>   Air   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+CITY: to   <| Redmond |>   .   --   [REDMOND]  {aircraftcabinsystems.com}    Occurrence: 1
+STATE: /   <| NJ |>   Metro   --   [NJ]  {airdexinc.com}    Occurrence: 1
+COMPANY: existing   <| Aircon Energy |>   customer   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 2
+COMPANY: to   <| Air Cooling Energy Corp. |>   for   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: in   <| Air Cleaning Technology |>   .   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY: ,   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 2
+COMPANY:    <| Air Cooling Energy Corp. |>   has   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+ZIP: WA   <| 98052 |>   .   --   [98052 5514]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY:    <| AIR-EEZ Comfort Systems |>   was   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+STATE:    <| GA |>   :   --   [GA]  {aircomfortheatingandair.com}    Occurrence: 18
+ZIP: Illinois   <| 60031 |>   |   --   [60031 2117]  {airdiffusion.com}    Occurrence: 2
+COMPANY: became   <| Aircon Energy |>   in   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+CITY: is   <| Santa Fe |>   '   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 1
+COMPANY: of   <| air cleaning |>   equipment   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+STATE: ,   <| ID |>   83680   --   [ID]  {aire.com}    Occurrence: 1
+STATE: ,   <| IL |>   60155   --   [IL]  {aircomfort.com}    Occurrence: 1
+COMPANY:    <| Aircraft Models Corp. |>   have   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 1
+CITY:    <| Midway |>   ,   --   [MIDWAY]  {airdriestud.com}    Occurrence: 3
+CITY: ,   <| Santa Fe |>   ,   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 27
+COMPANY: with   <| Air Comfort |>   since   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 2
+COMPANY: provides   <| air cleaning |>   systems   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+COMPANY: for   <| Airdrie Stud |>   he   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning Technology |>   is   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 7
+COMPANY:    <| Air Comfort |>   says   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 3
+COMPANY: from   <| Air Doctorx |>   .   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 1
+COMPANY: and   <| air conditioning |>   system   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: at   <| Air Cooling Energy Corp |>   for   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: provide   <| air cleaning |>   service   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+COMPANY: About   <| Aircon Energy |>   |   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 2
+STATE: ,   <| WA |>   98362   --   [WA]  {aircrest.com}    Occurrence: 1
+COMPANY: joining   <| AIR CLEANING TECHNOLOGY |>   in   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+STATE: ,   <| OK |>      --   [OK]  {aircoservice.com}    Occurrence: 12
+COMPANY: Commercial   <| Air Conditioning & Heating |>   Service   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 2
+COMPANY: About   <| Air Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY: to   <| Aircraft Cabin Systems |>   -   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 2
+STATE: ,   <| IL |>      --   [IL]  {airdiffusion.com}    Occurrence: 4
+ADDRESS:    <| 1076 North 10th St. |>   San   --   [1076 N 10TH ST]  {aircooledengines.net}    Occurrence: 4
+COMPANY: ®   <| Cabin Management System |>   and   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY: |   <| Sarasota |>   HVAC   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 2
+ZIP: IL   <| 60031 |>      --   [60031 2117]  {airdiffusion.com}    Occurrence: 1
+STATE: ,   <| OK |>   74146   --   [OK]  {aircoservice.com}    Occurrence: 8
+CITY: in   <| Santa Fe |>   ,   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 10
+CITY: Repair   <| Sarasota |>   |   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 2
+COMPANY: the   <| Air Comfort |>   team   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 3
+COMPANY: ,   <| Airco Service |>   began   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 1
+COMPANY:    <| Airdex , Inc. |>   provides   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+COMPANY:    <| Air Conditioning & Heating |>   Installation   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 2
+CITY:    <| Santa Fe |>      --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 11
+CITY: Our   <| Sarasota |>   installation   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+STATE: Queens   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+CITY: of   <| Sarasota |>   takes   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: in   <| air cleaning |>   equipment   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+CITY: your   <| Sarasota |>   air   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 2
+COMPANY: commercial   <| real estate |>   company   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp. |>   Our   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: your   <| air cleaning |>   or   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+COMPANY: the   <| Aircrest Motel |>   and   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 1
+CITY: Ave.   <| Fords |>   ,   --   [FORDS]  {airdexinc.com}    Occurrence: 6
+STATE: Bedford   <| TX |>   &   --   [TX]  {airco.com}    Occurrence: 1
+CITY: St.   <| San Jose |>   ,   --   [SAN JOSE]  {aircooledengines.net}    Occurrence: 4
+COMPANY:    <| Aircraft Heating |>   Inc   --   [AIRCRAFT HEATING AND ELECTRICAL]  {aircraftheating.com}    Occurrence: 2
+COMPANY:    <| Air Comfort |>   Certifications   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 10
+COMPANY:    <| Air Cycle Corp. |>   ,   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY:    <| Air Cooling Energy |>   the   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: Serving   <| Lake Havasu City |>   ,   --   [LAKE HAVASU CITY]  {aircontrolaz.com}    Occurrence: 3
+CITY: of   <| Sarasota |>   are   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: in   <| Bakersfield |>   ,   --   [BAKERSFIELD]  {aircontrolservices.com}    Occurrence: 4
+COMPANY: -   <| Aircrest Motel |>      --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   integrates   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+STATE: ,   <| CA |>   ,   --   [CA]  {aircontrolservices.com}    Occurrence: 1
+CITY: provide   <| Sarasota |>   and   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: in   <| Tulsa |>   ,   --   [TULSA]  {aircoservice.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   Corporation   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 11
+COMPANY: Industrial   <| Real Estate |>   Corp   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 2
+CITY: -   <| Port Angeles |>   Budget   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 6
+STATE: ,   <| TX |>   .   --   [TX]  {airco.com}    Occurrence: 2
+ZIP: NM   <| 87507 |>   -   --   [87507 9065]  {airconditioningnm.com}    Occurrence: 20
+COMPANY: Contact   <| Air Comfort |>   today   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: With   <| Air Cooling Energy Corp |>   ,   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+STATE: Tucson   <| AZ |>   85719   --   [AZ]  {airconceptsinc.com}    Occurrence: 1
+CITY:    <| Austin |>   Heating   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   CATALYST   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: ,   <| Air Cleaning Technology |>   '   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+ADDRESS:    <| 275 Buttonwood |>   Street   --   [275 BUTTONWOOD ST]  {airconservice.net}    Occurrence: 2
+COMPANY:    <| Air Cleaning Technology |>   provides   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 6
+COMPANY: -   <| Aircraft Cabin Systems |>   (   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: what   <| Aircraft Cabin Systems |>   is   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY: a   <| Midway |>   native   --   [MIDWAY]  {airdriestud.com}    Occurrence: 1
+COMPANY:    <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: our   <| Sarasota |>   clients   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: 2016   <| Air Diffusion Systems |>   .   --   [AIR DIFFUSION SYSTEMS]  {airdiffusion.com}    Occurrence: 2
+COMPANY:    <| Air Cleaning Technology |>   has   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY:    <| Air Comfort |>   employs   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+CITY: Palm   <| Harbor |>   ,   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 1
+COMPANY:    <| Aircraft Models Corp. |>   Website   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 2
+COMPANY:    <| Aircraft Heating and Electrical |>   ,   --   [AIRCRAFT HEATING AND ELECTRICAL]  {aircraftheating.com}    Occurrence: 3
+ZIP:    <| 87507 |>      --   [87507 9065]  {airconditioningnm.com}    Occurrence: 11
+COMPANY: ,   <| Air Direct Airways |>   has   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 1
+COMPANY: 2016   <| Aircon Energy |>   |   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 7
+CITY: and   <| Santa Fe |>   as   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 1
+COMPANY: to   <| Air Design |>   Inc   --   [AIR DESIGN]  {airdesigninc.com}    Occurrence: 1
+ADDRESS:    <| 3964 Grove Ave. |>   ,   --   [3964 GROVE AVENUE]  {airdiffusion.com}    Occurrence: 1
+COMPANY:    <| Air Duct Cleaners , Inc |>   .   --   [AIR DUCT CLEANERS INCORPORATION]  {airductcleanersinc.com}    Occurrence: 1
+STATE: ,   <| NY |>   with   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   MV   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: propelled   <| Aircon Energy |>   to   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+COMPANY: using   <| Air Comm Systems |>   ,   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+COMPANY: at   <| Airdrie Stud |>   since   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 1
+STATE: Colleyville   <| TX |>   &   --   [TX]  {airco.com}    Occurrence: 1
+ADDRESS:    <| Ave NE |>   .   --   [2811 152ND AVENUE NE]  {aircraftcabinsystems.com}    Occurrence: 2
+STATE: ,   <| OK |>   73108   --   [OK]  {aircoservice.com}    Occurrence: 4
+ADDRESS:    <| 2641 Old Frankfort Pike |>      --   [2641 OLD FRANKFORT PIKE]  {airdriestud.com}    Occurrence: 2
+COMPANY: The   <| Aircon Energy |>   design   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+ZIP: GA   <| 30269 |>      --   [30269 1906]  {aircraftspruce.com}    Occurrence: 1
+COMPANY:    <| Air Conditioning & Heating |>   Repair   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 2
+ADDRESS:    <| 1516 Central Park |>   Drive   --   [1516 CENTRAL PARK DR]  {airco.com}    Occurrence: 6
+ADDRESS: Office   <| 3964 Grove Ave. |>   ,   --   [3964 GROVE AVENUE]  {airdiffusion.com}    Occurrence: 1
+CITY:    <| Nashua |>   Tower   --   [NASHUA]  {airdirectairways.com}    Occurrence: 2
+ADDRESS:    <| 1635 Beltline Road |>      --   [1635 BELTLINE ROAD]  {aircraftheating.com}    Occurrence: 2
+CONTACT:    <| Rafael Salonga |>      --   [Rafael Salonga]  {aircraftmodelscorp.com}    Occurrence: 1
+COMPANY:    <| Aircraft Power Systems |>   |   --   [AIRCRAFT POWER SYSTEMS]  {aircraftpowersystems.com}    Occurrence: 2
+COMPANY:    <| Air Cooling Energy Corp. |>   offers   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 4
+CONTACT:    <| John Connolly |>   is   --   [John Connolly]  {aircooled.net}    Occurrence: 1
+COMPANY:    <| Airdex Inc |>   can   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+COMPANY: “   <| Air Comfort |>   is   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY:    <| Air Design |>   Inc   --   [AIR DESIGN]  {airdesigninc.com}    Occurrence: 2
+COMPANY: by   <| Air Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+COMPANY: 2016   <| Air Doctorx |>   .   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 8
+COMPANY: efficient   <| air cooling |>   system   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: The   <| Aircraft Cabin Systems |>   story   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: that   <| Airco Mechanical |>   will   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 1
+CITY: for   <| Safety Harbor |>   ,   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 2
+COMPANY:    <| Air Control |>   Services   --   [AIR CONTROL SVC]  {aircontrolservices.com}    Occurrence: 10
+COMPANY:    <| Air Cycle Corp. |>   is   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+ZIP: CA   <| 93305 |>      --   [93305 5109]  {aircontrolservices.com}    Occurrence: 5
+COMPANY: with   <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: our   <| Sarasota |>   customers   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Air Doctorx |>   provides   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 2
+STATE: ,   <| GA. |>   Aircraft   --   [GA]  {aircraftspruce.com}    Occurrence: 1
+COMPANY:    <| Aircraft Cabin Systems |>   and   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 2
+COMPANY: RestaurantsAir   <| Cleaning Technology |>   |   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 6
+ZIP: Ohio   <| 43420 |>      --   [43420 3909]  {aireez.com}    Occurrence: 7
+COMPANY:    <| Air Comfort |>   has   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+ZIP: NH   <| 03063 |>      --   [03063 1302]  {airdirectairways.com}    Occurrence: 1
+CITY: of   <| Sarasota |>   has   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: local   <| Sarasota |>   clients   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: onto   <| Redmond |>   Way   --   [REDMOND]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: to   <| Air Comfort |>   '   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+ADDRESS:    <| 385 New Brunswick Ave. |>   Fords   --   [385 NEW BRUNSWICK AVENUE]  {airdexinc.com}    Occurrence: 6
+COMPANY:    <| Airdyne Refrigeration |>   &   --   [AIRDYNE REFRIGERATION]  {airdyne.com}    Occurrence: 2
+COMPANY: 2015   <| Airdex Inc |>      --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 6
+ADDRESS: ·   <| 1853 South Eisenhower |>   Court   --   [1853 S EISENHOWER CT]  {airco-ict.com}    Occurrence: 1
+COMPANY:    <| AIR-EEZ Comfort Systems |>   also   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+COMPANY: believe   <| Air Cycle |>   is   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY: Control   <| Air Conditioning |>   and   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: out   <| Air Cycle |>   '   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY: at   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+COMPANY: with   <| Air Comfort |>   for   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 3
+COMPANY: An   <| Airdrie Stud |>   /   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 1
+COMPANY: aboutAir   <| Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+STATE: ,   <| NY |>   10012   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+STATE: ,   <| CA |>      --   [CA]  {aircraftspruce.com}    Occurrence: 10
+CITY: Havasu   <| City |>   ,   --   [PEACHTREE CITY]  {aircraftspruce.com}    Occurrence: 2
+COMPANY: determination   <| Airco Service |>   is   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning Technology |>   helps   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+COMPANY: ,   <| Air Comm Systems |>   ,   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+CITY:    <| Tehachapi |>   ,   --   [TEHACHAPI]  {aircraftbolts.com}    Occurrence: 1
+STATE: ,   <| CA |>   95112   --   [CA]  {aircooledengines.net}    Occurrence: 5
+COMPANY: with   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+COMPANY: Why   <| Air Cycle |>      --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 7
+COMPANY:    <| Air Direct Airways |>   •   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+COMPANY: of   <| Airdex Inc. |>   ,   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 2
+STATE: ,   <| TX |>   and   --   [TX]  {airco.com}    Occurrence: 5
+COMPANY: At   <| AIRDEX , Inc. |>   ,   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+COMPANY: to   <| Aircraft Cabin Systems |>      --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY: your   <| Sarasota |>   HVAC   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: in   <| Sarasota |>   Florida   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   Service   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: AM560   <| Air Comfort |>   Weather   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: joined   <| Airdrie Stud |>   as   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 1
+COMPANY: for   <| Air Cycle |>   service   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY: About   <| Air Cycle |>   Corporation   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+STATE: ,   <| TX |>   company   --   [TX]  {airco.com}    Occurrence: 1
+COMPANY: at   <| Air Direct Airways |>   !   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+COMPANY: at   <| Air Comfort |>   .   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 2
+COMPANY: from   <| Air Comfort |>   ’   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+STATE: ,   <| TX |>   78681-6641   --   [TX]  {aircomechanical.com}    Occurrence: 1
+CITY:    <| Hurst |>      --   [HURST]  {airco.com}    Occurrence: 8
+STATE: Heights   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: 941-355-444   <| Air Comfort |>   Services   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: from   <| Air Cold Supply |>   .   --   [AIR COLD SUPPLY INCORPORATION]  {aircold.com}    Occurrence: 2
+COMPANY: of   <| Air Cold Supply |>   '   --   [AIR COLD SUPPLY INCORPORATION]  {aircold.com}    Occurrence: 1
+ZIP: CA   <| 95112 |>      --   [95112 2992]  {aircooledengines.net}    Occurrence: 5
+COMPANY:    <| Air Comfort |>   consistently   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+ZIP: Arizona   <| 86403 |>      --   [86403 2552]  {aircontrolaz.com}    Occurrence: 3
+CITY: around   <| Santa Fe |>   .   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 1
+CITY: local   <| Sarasota |>   ac   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY:    <| Port Angeles |>   ,   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 1
+STATE: ,   <| DE |>   19953   --   [DE]  {airdoctorx.com}    Occurrence: 1
+COMPANY: is   <| Air Comfort |>      --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 2
+COMPANY:    <| Aircraft Models Corp |>   .   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 1
+COMPANY:    <| Air Doctorx |>   |   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 14
+COMPANY: your   <| air cleaning |>   requirements   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+COMPANY: Us-   <| Air Comm Systems , Inc. |>   provides   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+COMPANY:    <| AIR CONDITIONING |>      --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: ContactAir   <| Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+COMPANY:    <| Air Cooling Energy Corp. |>   is   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+STATE: ,   <| CA |>   90703   --   [CA]  {airdyne.com}    Occurrence: 1
+COMPANY:    <| Air Control |>   Air   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+CITY: of   <| Nashua |>   ,   --   [NASHUA]  {airdirectairways.com}    Occurrence: 2
+COMPANY: ,   <| Air Comm Systems , Inc |>   .   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 6
+COMPANY: the   <| Air Direct Airways |>   Flight   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 1
+ADDRESS: Follow   <| Perimeter Road |>   to   --   [125 PERIMETER ROAD]  {airdirectairways.com}    Occurrence: 2
+COMPANY: the   <| Air Comfort |>   family   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   Services   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 12
+STATE: ,   <| CA |>      --   [CA]  {airconenergy.com}    Occurrence: 2
+CITY:    <| Austin |>   is   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+COMPANY:    <| Air Design Systems , Inc. |>   -   --   [AIR DESIGN SYSTEMS INCORPORATION]  {airdesignhvac.com}    Occurrence: 2
+COMPANY:    <| Aircon Energy |>   ,   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 6
+COMPANY: 1999-2016   <| Aircooled.Net , Inc. |>   --   --   [AIRCOOLED.NET INCORPORATION]  {aircooled.net}    Occurrence: 6
+STATE: ,   <| NM |>      --   [NM]  {airconditioningnm.com}    Occurrence: 5
+STATE: ,   <| NH |>   provides   --   [NH]  {airdirectairways.com}    Occurrence: 2
+CITY: of   <| Sarasota |>   uses   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Air Control |>   is   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+ADDRESS: at   <| 901 N. 5th |>   Street   --   [901 N 5TH ST]  {aireez.com}    Occurrence: 6
+COMPANY:    <| Airdrie Stud |>   -   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 2
+COMPANY: at   <| Air Conditioning & Heating |>   Service   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 3
+COMPANY: the   <| Air Comfort |>   Service   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+CITY:    <| Lake Havasu |>      --   [LAKE HAVASU CITY]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: WHY   <| AIR DOCTORX |>   ?   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 8
+CITY: in   <| San Jose |>   .   --   [SAN JOSE]  {aircooledengines.net}    Occurrence: 1
+STATE: ,   <| CA |>   96003   --   [CA]  {aircraftheating.com}    Occurrence: 2
+STATE: ,   <| IL |>   60031   --   [IL]  {airdiffusion.com}    Occurrence: 2
+CITY: Havasu   <| City |>   until   --   [PEACHTREE CITY]  {aircraftspruce.com}    Occurrence: 1
+CITY: in   <| Austin |>   today   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+STATE: ,   <| IL |>   60453   --   [IL]  {aircommlimo.com}    Occurrence: 2
+COMPANY: Today   <| Airco Service |>   has   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 1
+ZIP:    <| 08863 |>      --   [08863 2136]  {airdexinc.com}    Occurrence: 5
+ADDRESS:    <| 3628 University Ave. S |>   Fairbanks   --   [3628 UNIVERSITY AVENUE S]  {aircomavionics.com}    Occurrence: 1
+COMPANY:    <| Aircon Service |>   Company   --   [AIRCON SERVICE CO]  {airconservice.net}    Occurrence: 10
+COMPANY:    <| AIRDEX Inc |>   .   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 2
+COMPANY: -   <| Airdrie Stud |>   ,   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 2
+ADDRESS:    <| 385 New Brunswick Ave |>   .   --   [385 NEW BRUNSWICK AVENUE]  {airdexinc.com}    Occurrence: 1
+CITY: of   <| Fremont |>   .   --   [FREMONT]  {aireez.com}    Occurrence: 1
+STATE: ,   <| NM |>   87507   --   [NM]  {airconditioningnm.com}    Occurrence: 20
+COMPANY:    <| air cleaning |>   serviceAir   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY: Select   <| Cabin Management System |>      --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY:    <| Airco Service |>   is   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 5
+COMPANY:    <| Air Design |>   has   --   [AIR DESIGN]  {airdesigninc.com}    Occurrence: 1
+CITY: throughout   <| Sacramento |>   and   --   [SACRAMENTO]  {airconenergy.com}    Occurrence: 1
+COMPANY: Gulfstream   <| Cabin Management System |>   (   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: to   <| Air Direct Airways |>   .   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 1
+ZIP: IL   <| 60031 |>   Office   --   [60031 2117]  {airdiffusion.com}    Occurrence: 1
+CITY:    <| Austin |>      --   [AUSTIN]  {aircomechanical.com}    Occurrence: 4
+STATE: in   <| NH |>      --   [NH]  {airdirectairways.com}    Occurrence: 2
+CITY: Call   <| Tulsa |>   Office   --   [TULSA]  {aircoservice.com}    Occurrence: 4
+COMPANY: ,   <| Aircon Energy |>   has   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+COMPANY: ServicesAir   <| Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+STATE: :   <| GA |>   706-952-4197   --   [GA]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY: comprehensive   <| air duct |>   cleaning   --   [AIR DUCT CLEANERS INCORPORATION]  {airductcleanersinc.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning |>   Filters   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 15
+COMPANY: Why   <| Air Comfort |>   ?   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 21
+COMPANY:    <| Air Cleaning Technology |>   takes   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+STATE: ,   <| UT |>   84107   --   [UT]  {aircooled.net}    Occurrence: 3
+COMPANY: Contact   <| Air Cycle Corp. |>   by   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning Technology |>   specializes   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 6
+CITY: ,   <| Redding |>   ,   --   [REDDING]  {aircraftheating.com}    Occurrence: 1
+COMPANY: Read   <| Air Cycle |>   '   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+ZIP: CA   <| 93561 |>      --   [93561 1508]  {aircraftbolts.com}    Occurrence: 1
+CITY: in   <| Sarasota |>   more   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+ZIP: PA   <| 18651 |>      --   [18651 2509]  {airconservice.net}    Occurrence: 2
+COMPANY: ,   <| Air Comfort |>   ’   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+ZIP: CA   <| 96003 |>      --   [96003 1405]  {aircraftheating.com}    Occurrence: 2
+COMPANY: At   <| Air Comm Systems , Inc. |>   it   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+COMPANY:    <| Air Cycle |>   '   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+CITY:    <| VALLEY STREAM |>   ,   --   [VALLEY STREAM]  {airdesigninc.com}    Occurrence: 4
+STATE: ,   <| ID |>   83642   --   [ID]  {aire.com}    Occurrence: 1
+COMPANY: The   <| Aircrest Motel |>   first   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 1
+COMPANY:    <| Aircraft cabin systems |>   ©   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 3
+COMPANY: of   <| Aircon Energy |>      --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+COMPANY: comprehensive   <| air duct |>   ,   --   [AIR DUCT CLEANERS INCORPORATION]  {airductcleanersinc.com}    Occurrence: 1
+STATE: Manhattan   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+CITY: |   <| Gurnee |>   ,   --   [GURNEE]  {airdiffusion.com}    Occurrence: 2
+COMPANY: ,   <| Air Cycle |>   developed   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+STATE: ,   <| WA |>   98052   --   [WA]  {aircraftcabinsystems.com}    Occurrence: 2
+COMPANY: commercial   <| real estate |>   brokers   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+ADDRESS: onto   <| Perimeter Road |>   after   --   [125 PERIMETER ROAD]  {airdirectairways.com}    Occurrence: 2
+COMPANY:    <| Air Cleaning |>   Service   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+COMPANY:    <| Air Comfort |>   is   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 2
+STATE: Hill   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+ZIP: AK   <| 99709 |>      --   [99709 4658]  {aircomavionics.com}    Occurrence: 1
+COMPANY:    <| Air Conditioning |>      --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 18
+CITY:    <| Tulsa |>   Office   --   [TULSA]  {aircoservice.com}    Occurrence: 5
+COMPANY:    <| Air Cleaning Technology |>   sells   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+STATE: Worth   <| TX |>   Bedford   --   [TX]  {airco.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   recognized   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+ZIP: NY   <| 11580 |>      --   [11580 5395]  {airdesigninc.com}    Occurrence: 5
+CITY:    <| Safety Harbor |>   ,   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 5
+COMPANY: aircoolingenergy.com   <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 2
+COMPANY: .Call   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+STATE: ,   <| NY |>   11788   --   [NY]  {airecorealestate.com}    Occurrence: 1
+CITY:    <| Santa Ana |>   ,   --   [SANTA ANA]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY: that   <| Air Cooling Energy Corp |>   can   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: Kansas   <| City |>   ,   --   [PEACHTREE CITY]  {aircraftspruce.com}    Occurrence: 1
+STATE: ,   <| TX |>   areas   --   [TX]  {airco.com}    Occurrence: 2
+CITY:    <| Fremont |>   ,   --   [FREMONT]  {aireez.com}    Occurrence: 7
+STATE:    <| NJ |>   :   --   [NJ]  {airdexinc.com}    Occurrence: 1
+COMPANY: the   <| Air Cooling Energy |>   customer   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: for   <| Aircon Energy |>   ,   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   Services   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 10
+CITY: of   <| Sarasota |>   sells   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: highlight   <| Air Direct Airways |>   and   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 1
+COMPANY:    <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 5
+ADDRESS:    <| 411 Rowland Ave |>   .   --   [411 ROWLAND AVENUE]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY: ©   <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 5
+COMPANY: At   <| Air Cooling Energy Corp |>   ,   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 2
+CITY:    <| Nashua |>   /   --   [NASHUA]  {airdirectairways.com}    Occurrence: 2
+COMPANY: with   <| Air Cooling Energy Corp. |>   Our   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: of   <| Airdex Inc. |>   will   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+COMPANY: provides   <| air cleaning |>   service   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+STATE: ,   <| GA |>   30736   --   [GA]  {aircomfortheatingandair.com}    Occurrence: 9
+COMPANY: -   <| Airdex Inc |>      --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 2
+COMPANY: ,   <| real estate |>   sales   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+CITY: ,   <| Fremont |>   ,   --   [FREMONT]  {aireez.com}    Occurrence: 15
+COMPANY:    <| Air Comm Systems , Inc |>   .   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 7
+CITY: ·   <| Wichita |>   ,   --   [WICHITA]  {airco-ict.com}    Occurrence: 1
+CITY: greater   <| Santa Fe |>   ,   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 1
+COMPANY: industrial   <| air cleaning |>   .   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning |>   Equipment   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 15
+STATE: ,   <| TX |>   |   --   [TX]  {airco.com}    Occurrence: 26
+COMPANY:    <| Air Cooling Energy Corp. |>   works   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: ©   <| Airco Service , Inc |>      --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 4
+COMPANY: joined   <| Air Comfort |>   in   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 69
+COMPANY: commercial   <| air conditioning and heating |>   services   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 1
+COMPANY:    <| Aircraft Cabin Systems |>   ,   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: with   <| Air Comfort |>   in   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+CITY: Motel   <| Port Angeles |>   History   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 1
+COMPANY: The   <| Aircrest Motel |>   in   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 3
+COMPANY:    <| Air Comfort |>   Updated   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+STATE: Fullerton   <| CA |>   92831   --   [CA]  {airdyne.com}    Occurrence: 1
+ZIP: Florida   <| 34695 |>      --   [34695 2908]  {aircomair.com}    Occurrence: 4
+CITY: AC   <| Sarasota |>   |   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 2
+CONTACT:    <| Scott Beierwaltes |>      --   [Scott Beierwaltes]  {aircycle.com}    Occurrence: 1
+CITY: in   <| Hartly |>   ,   --   [HARTLY]  {airdoctorx.com}    Occurrence: 3
+CITY: of   <| Sarasota |>   offers   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Aircon Energy |>      --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 2
+ZIP: IL   <| 60155 |>      --   [60155 3987]  {aircomfort.com}    Occurrence: 1
+COMPANY: ,   <| Air Cold Supply |>   -   --   [AIR COLD SUPPLY INCORPORATION]  {aircold.com}    Occurrence: 3
+COMPANY: to   <| Air Comfort |>   !   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+CITY: |   <| Safety Harbor |>   |   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 2
+COMPANY:    <| Aircon Energy |>   provides   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 3
+CITY: S   <| Fairbanks |>   AK   --   [FAIRBANKS]  {aircomavionics.com}    Occurrence: 1
+COMPANY:    <| Air Cycle |>   on   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+STATE: ,   <| FL |>      --   [FL]  {aircruisesavings.com}    Occurrence: 1
+ADDRESS: •   <| 125 Perimeter Rd |>   .   --   [125 PERIMETER ROAD]  {airdirectairways.com}    Occurrence: 2
+COMPANY: at   <| Air Comm Systems , Inc. |>   work   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+STATE: ,   <| TX |>   area   --   [TX]  {aircomechanical.com}    Occurrence: 1
+CITY: in   <| Santa Fe |>   Since   --   [SANTA FE]  {airconditioningnm.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp. |>   understand   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: At   <| Air Comfort |>   we   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+CITY:    <| Meridian |>   ,   --   [MERIDIAN]  {aire.com}    Occurrence: 2
+CITY: in   <| Hurst |>   ,   --   [HURST]  {airco.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp |>   to   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Air Conditioning & Heating |>   Service   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 32
+COMPANY:    <| Air Comfort |>   Weather   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 10
+COMPANY:    <| Air Doctorx |>   offers   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 4
+COMPANY:    <| AIR-EEZ Comfort Systems |>   is   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 9
+CITY: of   <| Sarasota |>   and   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+ADDRESS:    <| 125 WIRELESS BLVD , SUITE D |>   ,   --   [125 WIRELESS BLVD # D]  {airecorealestate.com}    Occurrence: 1
+CITY:    <| Corona |>   ,   --   [CORONA]  {aircraftspruce.com}    Occurrence: 1
+STATE: /   <| OK |>   Electrical   --   [OK]  {aircoservice.com}    Occurrence: 4
+CITY: ,   <| tulsa |>   hvac   --   [TULSA]  {aircoservice.com}    Occurrence: 4
+CITY: in   <| Tulsa |>   &   --   [TULSA]  {aircoservice.com}    Occurrence: 8
+COMPANY: Browse   <| Air Cycle |>      --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+CITY: in   <| Austin |>   ,   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 5
+COMPANY: to   <| Air Control |>   Services   --   [AIR CONTROL SVC]  {aircontrolservices.com}    Occurrence: 1
+COMPANY: of   <| Air Comfort |>   ’   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 2
+CITY: Serving   <| Lake Havasu |>   ,   --   [LAKE HAVASU CITY]  {aircontrolaz.com}    Occurrence: 3
+COMPANY:    <| Airdex Inc |>   .   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 10
+STATE: Hurst   <| TX |>      --   [TX]  {airco.com}    Occurrence: 1
+COMPANY: :   <| Airco Service |>   in   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 6
+ZIP: NY   <| 11788 |>      --   [11788 3937]  {airecorealestate.com}    Occurrence: 1
+CITY:    <| Tulsa |>   ,   --   [TULSA]  {aircoservice.com}    Occurrence: 8
+ZIP: KS   <| 67209 |>   ·   --   [67209 2892]  {airco-ict.com}    Occurrence: 1
+COMPANY: ,   <| Air Comfort |>   has   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+CITY:    <| Lake Havasu City |>   ,   --   [LAKE HAVASU CITY]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: 2015   <| Aircon Service |>   Company   --   [AIRCON SERVICE CO]  {airconservice.net}    Occurrence: 4
+CITY: in   <| Port Angeles |>      --   [PORT ANGELES]  {aircrest.com}    Occurrence: 1
+ADDRESS:    <| 1185 Cedar |>   Street   --   [1185 CEDAR ST]  {aircomair.com}    Occurrence: 5
+CITY: and   <| San Jose |>   State   --   [SAN JOSE]  {aircooledengines.net}    Occurrence: 1
+COMPANY: ,   <| Air Cycle |>   identified   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+STATE: Midtown   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Airco Mechanical |>   repairs   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 1
+STATE: Arlington   <| TX |>   ,   --   [TX]  {airco.com}    Occurrence: 2
+COMPANY:    <| Air Cycle |>   Corporation   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 8
+COMPANY: Call   <| Airco Mechanical |>   at   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 2
+COMPANY:    <| Air Diffusion Systems |>   |   --   [AIR DIFFUSION SYSTEMS]  {airdiffusion.com}    Occurrence: 4
+STATE: ,   <| CA |>   92880   --   [CA]  {aircraftspruce.com}    Occurrence: 1
+COMPANY:    <| Air Cooling Energy Corp. |>   takes   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: displays   <| Air Comfort |>   ’   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+ADDRESS:    <| 2021 E. Wilson |>   Lane   --   [2021 E WILSON LN]  {aire.com}    Occurrence: 1
+COMPANY:    <| Aircraft Models |>   |   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 3
+COMPANY: the   <| Air Comfort |>   team   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY: choose   <| Air Comfort |>   Services   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: at   <| Air Doctorx |>   for   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 1
+ZIP: UT   <| 84107 |>      --   [84107 6990]  {aircooled.net}    Occurrence: 3
+COMPANY: your   <| air conditioning |>   is   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+STATE: ,   <| CA |>   92563   --   [CA]  {aircommsys.com}    Occurrence: 6
+COMPANY: RepairAir   <| Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY: our   <| air cleaning |>   customer   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+ADDRESS:    <| 1 Crouch Ct |>   .   --   [1 CROUCH CT]  {airconditioningnm.com}    Occurrence: 11
+COMPANY: trust   <| Airco Mechanical |>   for   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 1
+CITY: in   <| Sarasota |>   can   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: ;   <| Flushing |>   NY   --   [FLUSHING]  {aircoolingenergy.com}    Occurrence: 1
+STATE: Irving   <| TX |>      --   [TX]  {airco.com}    Occurrence: 1
+COMPANY:    <| AIR DESIGN |>   ,   --   [AIR DESIGN]  {airdesigninc.com}    Occurrence: 4
+COMPANY: 1977   <| Air Cleaning Technology |>   has   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+COMPANY:    <| Air Cleaning |>   Installation   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 32
+CITY: in   <| Salt Lake City |>   ,   --   [SALT LAKE CITY]  {aircooled.net}    Occurrence: 1
+CITY: the   <| Austin |>   and   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+ADDRESS:    <| 225 Airport |>   Circle   --   [225 AIRPORT CIR]  {aircraftspruce.com}    Occurrence: 1
+ADDRESS:    <| 11331 East 58th |>   Street   --   [11331 E 58TH ST]  {aircoservice.com}    Occurrence: 4
+COMPANY: Cooling   <| Airdex Inc. |>   ’   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+CONTACT: ,   <| John Connolly |>   (   --   [John Connolly]  {aircooled.net}    Occurrence: 1
+STATE: ,   <| NJ |>   08863   --   [NJ]  {airdexinc.com}    Occurrence: 7
+CITY:    <| Port Angeles |>   Website   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 3
+COMPANY:    <| Airco Mechanical |>   ’   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 1
+COMPANY: Why   <| Air Doctorx |>   ?   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 11
+CITY: of   <| Sarasota |>   for   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: AM560   <| Air Comfort |>   AccuWeather   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: calling   <| Air Comfort |>   Services   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Air Cycle |>   offers   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+STATE: ,   <| NH |>   03063   --   [NH]  {airdirectairways.com}    Occurrence: 3
+COMPANY:    <| Aircooled.Net Inc |>   .   --   [AIRCOOLED.NET INCORPORATION]  {aircooled.net}    Occurrence: 6
+CITY: ,   <| HAUPPAUGE |>   ,   --   [HAUPPAUGE]  {airecorealestate.com}    Occurrence: 1
+STATE: NoHo   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+CITY: in   <| Peachtree City |>   ,   --   [PEACHTREE CITY]  {aircraftspruce.com}    Occurrence: 1
+COMPANY: Greetings   <| Air Comfort |>   Personnel   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY: in   <| air cleaning |>   systems   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+COMPANY:    <| Air Cooling Energy Corp. |>   |   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 2
+STATE: ,   <| CA |>   and   --   [CA]  {aircontrolservices.com}    Occurrence: 3
+COMPANY: nassau   <| real estate |>   ,   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+STATE:    <| OK |>   Mechanical   --   [OK]  {aircoservice.com}    Occurrence: 4
+COMPANY: ,   <| Air Cooling Energy Corp. |>   is   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+STATE: ,   <| TX |>   :   --   [TX]  {airco.com}    Occurrence: 1
+COMPANY: To   <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+STATE: ,   <| AZ |>      --   [AZ]  {aircontrolaz.com}    Occurrence: 9
+STATE: ,   <| TX |>      --   [TX]  {airco.com}    Occurrence: 11
+STATE: ,   <| GA |>   and   --   [GA]  {aircomfortheatingandair.com}    Occurrence: 1
+CITY:    <| Fords |>   ,   --   [FORDS]  {airdexinc.com}    Occurrence: 1
+COMPANY: our   <| Air Doctorx |>   written   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 3
+STATE: ,   <| CA |>   93561   --   [CA]  {aircraftbolts.com}    Occurrence: 1
+COMPANY: -   <| Air Conditioning & Heating |>   Service   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 20
+ADDRESS:    <| 901 N. Fifth St |>   .   --   [901 N 5TH ST]  {aireez.com}    Occurrence: 7
+COMPANY: with   <| Air Cycle |>      --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY:    <| Air Cooling Energy |>   was   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: experienced   <| real estate |>   brokers   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+COMPANY: e-mail   <| Air Cooling Energy Corp |>   today   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CONTACT:    <| Jim Irwin |>   has   --   [Jim Irwin]  {aircraftspruce.com}    Occurrence: 1
+ZIP: NH   <| 03063 |>   •   --   [03063 1302]  {airdirectairways.com}    Occurrence: 2
+CITY: ,   <| Tulsa |>   ,   --   [TULSA]  {aircoservice.com}    Occurrence: 4
+COMPANY:    <| Air Direct Airways |>   recently   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+COMPANY: on   <| Air Cooling Energy Corp. |>   for   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Air Direct Airways |>   of   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+COMPANY:    <| Air Cycle |>   is   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 2
+CONTACT: by   <| Sy Stoller |>   in   --   [Sy Stoller]  {airdexinc.com}    Occurrence: 1
+COMPANY: ,   <| Air Cooling Energy Corp |>   is   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+STATE: ,   <| CA |>   92707   --   [CA]  {aircleaningtechnology.com}    Occurrence: 17
+COMPANY: commercial   <| real estate |>   ,   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 2
+COMPANY:    <| Air Comfort |>   Annual   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: ,   <| airco service |>   ,   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 4
+STATE: ,   <| GA |>   from   --   [GA]  {aircraftspruce.com}    Occurrence: 1
+CONTACT:    <| Jim Irwin |>   ,   --   [Jim Irwin]  {aircraftspruce.com}    Occurrence: 1
+COMPANY: Why   <| Air Cycle |>   ?   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+CITY:    <| Sacramento |>   ,   --   [SACRAMENTO]  {airconenergy.com}    Occurrence: 2
+COMPANY: recommend   <| Air Cycle |>   to   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 8
+STATE: ,   <| GA. |>   Bryan   --   [GA]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY:    <| Air Direct Airways |>   Flight   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+STATE: (   <| NJ |>   )   --   [NJ]  {airdexinc.com}    Occurrence: 1
+COMPANY: Corp.   <| Air Cooling Energy Corp |>   .   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 8
+STATE: Soho   <| NY |>      --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: but   <| Air Cycle |>   makes   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY: About   <| Aircon Energy |>      --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 9
+CITY: the   <| Nashua |>   Airport   --   [NASHUA]  {airdirectairways.com}    Occurrence: 1
+COMPANY: rate   <| Air Cycle |>   as   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY:    <| Air Doctorx |>   Heating   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 4
+STATE: ,   <| CA |>   .   --   [CA]  {aircraftspruce.com}    Occurrence: 1
+COMPANY: -   <| Air Comm Systems , Inc |>   .   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 10
+COMPANY: industrial   <| real estate |>   long   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+STATE: Redmond   <| WA |>   .   --   [WA]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY:    <| Air Doctorx |>   is   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 5
+COMPANY:    <| Aircrest Motel |>   -   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 2
+COMPANY: Call   <| Air Doctorx |>   !   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 2
+COMPANY: recognized   <| Air Comfort |>   for   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp. |>   knows   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   partners   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 11
+COMPANY: entire   <| Air Comm |>   product   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+STATE: ,   <| KY |>   40347-9707   --   [KY]  {airdriestud.com}    Occurrence: 1
+CONTACT: Mr.   <| Yukio Sugimoto |>   ,   --   [Yukio Sugimoto]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY:    <| Tulsa |>      --   [TULSA]  {aircoservice.com}    Occurrence: 1
+STATE: our   <| CA |>   customers   --   [CA]  {aircold.com}    Occurrence: 1
+COMPANY: the   <| Aircrest Motel |>   since   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 1
+ZIP: California   <| 95834 |>      --   [95834 1295]  {airconenergy.com}    Occurrence: 2
+CITY: in   <| Sarasota |>   ,   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY:    <| Hartly |>   ,   --   [HARTLY]  {airdoctorx.com}    Occurrence: 1
+COMPANY: Call   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 2
+COMPANY:    <| Air Cold Supply |>   is   --   [AIR COLD SUPPLY INCORPORATION]  {aircold.com}    Occurrence: 2
+COMPANY: at   <| Air Cooling Energy Corp. |>   ,   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+STATE: ,   <| NM |>   area   --   [NM]  {airconditioningnm.com}    Occurrence: 1
+COMPANY:    <| AIRECO Real Estate |>   Corp   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+ADDRESS:    <| 2550 Braga |>   Drive   --   [2550 BRAGA DR]  {aircomfort.com}    Occurrence: 1
+COMPANY: ,   <| Air Control |>   Air   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+COMPANY: The   <| Aircrest Motel |>   -   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 2
+COMPANY:    <| Air Cold Supply |>   -   --   [AIR COLD SUPPLY INCORPORATION]  {aircold.com}    Occurrence: 6
+COMPANY: Contact   <| Air Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+COMPANY: ventilation   <| air cleaning |>   and   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+COMPANY: –   <| Aircon Service |>   Company   --   [AIRCON SERVICE CO]  {airconservice.net}    Occurrence: 6
+ADDRESS:    <| 901 N. |>   Fifth   --   [901 N 5TH ST]  {aireez.com}    Occurrence: 9
+COMPANY: :   <| Air Control |>   Services   --   [AIR CONTROL SVC]  {aircontrolservices.com}    Occurrence: 8
+COMPANY:    <| Air Conditioning and Heating |>   Service   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 1
+CITY:    <| Broadview |>   ,   --   [BROADVIEW]  {aircomfort.com}    Occurrence: 1
+COMPANY: -   <| Air Comfort |>      --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 12
+COMPANY: ,   <| Air Comfort |>   is   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 1
+COMPANY: |   <| Air Cooling Energy Corp. |>   Air   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 8
+COMPANY: Club   <| Air Control |>   ,   --   [AIR CONTROL AIR CONDITIONING]  {aircontrolaz.com}    Occurrence: 3
+ADDRESS: |   <| 3964 Grove Avenue |>   |   --   [3964 GROVE AVENUE]  {airdiffusion.com}    Occurrence: 2
+STATE: ROCK   <| TX |>   78681-6641   --   [TX]  {aircomechanical.com}    Occurrence: 4
+CITY: /   <| Redmond |>   Way   --   [REDMOND]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning Technology |>   understands   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 3
+COMPANY:    <| Air Cooling Energy |>   has   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 3
+CITY: in   <| Safety Harbor |>   ,   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 1
+CITY:    <| Austin |>   HVAC-   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 3
+COMPANY: serviceAir   <| Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 8
+COMPANY:    <| Aircraft Cabin Systems |>   is   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY: -   <| Corona |>   ,   --   [CORONA]  {aircraftspruce.com}    Occurrence: 10
+ADDRESS:    <| 1006 E. Front St |>   .   --   [1006 E FRONT ST]  {aircrest.com}    Occurrence: 1
+STATE: ,   <| OH |>   43420   --   [OH]  {aireez.com}    Occurrence: 9
+COMPANY: from   <| Air Comfort |>   Services   --   [AIR COMFORT INCORPORATION]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: ServiceAir   <| Cleaning Technology |>      --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 6
+CITY: in   <| Corona |>   ,   --   [CORONA]  {aircraftspruce.com}    Occurrence: 1
+COMPANY: at   <| Air Cooling Energy Corp |>   ,   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Air Duct Cleaners , Inc. |>   provides   --   [AIR DUCT CLEANERS INCORPORATION]  {airductcleanersinc.com}    Occurrence: 1
+COMPANY: ,   <| Air Cooling Energy Corp. |>   and   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: Airco   <| Austin |>   Today   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+COMPANY: of   <| Henway , Inc. |>   serves   --   [HENWAY INCORPORATION]  {aircraftbolts.com}    Occurrence: 1
+COMPANY:    <| AIR-EEZ Comfort |>      --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>      --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 30
+COMPANY: service   <| air cleaning |>   installation   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+CITY: of   <| Sarasota |>   is   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+CITY: in   <| Lake Havasu , Bullhead City |>   &   --   [LAKE HAVASU CITY]  {aircontrolaz.com}    Occurrence: 3
+CITY: repair   <| Sarasota |>   |   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 2
+CITY: •   <| Nashua |>   ,   --   [NASHUA]  {airdirectairways.com}    Occurrence: 2
+COMPANY: use   <| Air Cycle |>   '   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 2
+CITY:    <| HAUPPAUGE |>      --   [HAUPPAUGE]  {airecorealestate.com}    Occurrence: 2
+COMPANY:    <| Air Cleaning Technology |>   '   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+COMPANY: -   <| Air Comfort |>   HVAC   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 18
+COMPANY: with   <| Airdex Inc. |>   Now   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 1
+STATE: ,   <| GA |>      --   [GA]  {aircraftspruce.com}    Occurrence: 10
+CITY:    <| Nashua |>   ,   --   [NASHUA]  {airdirectairways.com}    Occurrence: 1
+COMPANY: contact   <| Air Comm Systems |>   for   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+COMPANY: The   <| air conditioning and heating |>   installation   --   [AIR CONDITIONING AND HEATING SVC]  {airconditioningnm.com}    Occurrence: 1
+COMPANY: ,   <| Aircrest Motel |>      --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 1
+COMPANY: to   <| Air Comm Systems , Inc |>   .   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+ZIP: DE   <| 19953 |>      --   [19953 3503]  {airdoctorx.com}    Occurrence: 1
+STATE: York   <| NY |>   area   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: of   <| Aircraft Models |>   Corporation   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 1
+COMPANY: than   <| Air Cooling Energy Corp. |>   We   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: -   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 14
+COMPANY:    <| Air Sparge Systems |>      --   [AIR DIFFUSION SYSTEMS]  {airdiffusion.com}    Occurrence: 2
+STATE: ,   <| CA |>   94587   --   [CA]  {aircleaningtechnology.com}    Occurrence: 17
+ZIP: OK   <| 74146 |>      --   [74146 6811]  {aircoservice.com}    Occurrence: 8
+ADDRESS:    <| 385 New Brunswick Ave |>      --   [385 NEW BRUNSWICK AVENUE]  {airdexinc.com}    Occurrence: 5
+COMPANY: Contact   <| Airco Mechanical |>   in   --   [AIRCO MECHANICAL INCORPORATION]  {aircomechanical.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning |>   Systems   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 9
+COMPANY: |   <| Aircon Energy |>      --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 12
+COMPANY:    <| Air Comm Systems |>   also   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+STATE: ,   <| GA |>   30269   --   [GA]  {aircraftspruce.com}    Occurrence: 1
+STATE: York   <| NY |>   .   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: :   <| Air Cooling Energy Corp |>   ,   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY:    <| Peachtree City |>   ,   --   [PEACHTREE CITY]  {aircraftspruce.com}    Occurrence: 1
+COMPANY: to   <| Aircraft Models |>   Corporation   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 1
+CITY: ,   <| tulsa |>   ac   --   [TULSA]  {aircoservice.com}    Occurrence: 4
+ZIP: Utah   <| 84107 |>   USA   --   [84107 6990]  {aircooled.net}    Occurrence: 6
+COMPANY: on   <| Air Cooling Energy Corp |>   for   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: |   <| Hurst |>   ,   --   [HURST]  {airco.com}    Occurrence: 1
+CITY: of   <| Austin |>   ,   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+COMPANY: that   <| Air Cycle |>   offers   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 2
+CITY:    <| San Jose |>   ,   --   [SAN JOSE]  {aircooledengines.net}    Occurrence: 1
+CITY: of   <| Sarasota |>   at   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+ADDRESS:    <| 411 Rowland Avenue |>   ,   --   [411 ROWLAND AVENUE]  {aircleaningtechnology.com}    Occurrence: 15
+COMPANY: of   <| AIR-EEZ Comfort Systems |>      --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+CITY: conservation   <| Sacramento |>      --   [SACRAMENTO]  {airconenergy.com}    Occurrence: 1
+STATE: ,   <| TX |>   ,   --   [TX]  {airco.com}    Occurrence: 8
+COMPANY:    <| Air Direct Airways |>      --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+CITY: ,   <| Redmond |>   ,   --   [REDMOND]  {aircraftcabinsystems.com}    Occurrence: 1
+CITY: newly-built   <| Sarasota |>   home   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+STATE: Keller   <| TX |>   ,   --   [TX]  {airco.com}    Occurrence: 2
+CITY: operated   <| Sarasota |>   Air   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: 2001   <| Aircraft Power Systems |>   ,   --   [AIRCRAFT POWER SYSTEMS]  {aircraftpowersystems.com}    Occurrence: 1
+COMPANY: Commercial   <| Real Estate |>   -   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 2
+COMPANY: -   <| Air Direct Airways |>      --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 4
+COMPANY:    <| Air Comfort |>   ...   --   [AIR COMFORT CORP]  {aircomfort.com}    Occurrence: 2
+COMPANY:    <| Air Cooling Energy Corp. |>   can   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: in   <| Austin |>   are   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+COMPANY: ;   <| Air Control |>   Services   --   [AIR CONTROL SVC]  {aircontrolservices.com}    Occurrence: 1
+STATE: ,   <| NY |>   11580   --   [NY]  {airdesigninc.com}    Occurrence: 5
+ADDRESS:    <| 331 W. Merrick Rd |>   .   --   [331 W MERRICK ROAD]  {airdesigninc.com}    Occurrence: 1
+COMPANY:    <| Air Comm Systems , Inc. |>   has   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+COMPANY: where   <| AIR-EEZ Comfort Systems |>   ,   --   [AIR-EEZ COMFORT SYSTEMS]  {aireez.com}    Occurrence: 1
+CITY:    <| Redmond |>   ,   --   [REDMOND]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY:    <| Air Cold Supply |>   Comm   --   [AIR COLD SUPPLY INCORPORATION]  {aircold.com}    Occurrence: 1
+CITY: Palm   <| Harbor |>   |   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 2
+CITY: in   <| Tehachapi |>   ,   --   [TEHACHAPI]  {aircraftbolts.com}    Occurrence: 1
+CITY: Our   <| Sarasota |>   duct   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: 2014   <| Air Control |>   Services   --   [AIR CONTROL SVC]  {aircontrolservices.com}    Occurrence: 5
+STATE: ,   <| IL |>   60532   --   [IL]  {aircycle.com}    Occurrence: 2
+STATE: ,   <| CA |>   94547   --   [CA]  {aircraftmodelscorp.com}    Occurrence: 1
+STATE: ,   <| IL |>   60601   --   [IL]  {aircycle.com}    Occurrence: 1
+CITY: Conditioning   <| Hurst |>   ,   --   [HURST]  {airco.com}    Occurrence: 2
+COMPANY: allowed   <| Airco Service |>   to   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 1
+CITY: Trusted   <| Sarasota |>   Contractor   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY: ,   <| Air Doctorx |>   has   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 3
+COMPANY: Mahogany   <| Aircraft Models |>   for   --   [AIRCRAFT MODELS CORP]  {aircraftmodelscorp.com}    Occurrence: 1
+CITY: ,   <| tulsa |>   heat   --   [TULSA]  {aircoservice.com}    Occurrence: 4
+STATE: ,   <| TX |>      --   [TX]  {aircomechanical.com}    Occurrence: 4
+COMPANY: both   <| Aircon ’ s energy |>   project   --   [AIRCON ENERGY ENCOMPASS]  {airconenergy.com}    Occurrence: 1
+CITY: and   <| Sarasota |>   operated   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+ZIP: WA   <| 98052 |>   USA   --   [98052 5514]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: with   <| Airdex Inc |>   .   --   [AIRDEX INCORPORATION]  {airdexinc.com}    Occurrence: 2
+CITY:    <| Redding |>   ,   --   [REDDING]  {aircraftheating.com}    Occurrence: 2
+STATE: ,   <| KY |>   40347   --   [KY]  {airdriestud.com}    Occurrence: 2
+COMPANY: emergency   <| Air Doctorx |>   offers   --   [AIR DOCTORX DUCT CLEANING]  {airdoctorx.com}    Occurrence: 2
+STATE: ,   <| CA |>   93305   --   [CA]  {aircontrolservices.com}    Occurrence: 5
+STATE: ,   <| TX |>   !   --   [TX]  {airco.com}    Occurrence: 1
+CITY: prestigious   <| Boca Raton |>   ,   --   [BOCA RATON]  {aircruisesavings.com}    Occurrence: 1
+COMPANY: At   <| Air Cleaning Technology |>   ,   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+CITY: of   <| Sarasota |>   '   --   [SARASOTA]  {aircomfortservices.com}    Occurrence: 1
+COMPANY:    <| Airco Service , Inc |>   .   --   [AIRCO SERVICE INCORPORATION]  {aircoservice.com}    Occurrence: 12
+CITY: ,   <| Safety Harbor |>   ,   --   [SAFETY HARBOR]  {aircomair.com}    Occurrence: 3
+COMPANY:    <| real estate |>   requirements   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+ZIP: WA   <| 98362 |>      --   [98362 4017]  {aircrest.com}    Occurrence: 1
+COMPANY: ,   <| Air Cleaning Technology |>   takes   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 2
+CITY: ,   <| Port Angeles |>   Budget   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 3
+COMPANY: to   <| Airdrie Stud |>   ,   --   [AIRDRIE STUD]  {airdriestud.com}    Occurrence: 2
+COMPANY: ,   <| Air Cooling Energy Corp. |>   can   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+CITY: greater   <| Austin |>   ,   --   [AUSTIN]  {aircomechanical.com}    Occurrence: 1
+STATE: ,   <| KS |>   67209   --   [KS]  {airco-ict.com}    Occurrence: 1
+STATE: /   <| OK |>   Plumbing   --   [OK]  {aircoservice.com}    Occurrence: 4
+COMPANY:    <| Aircraft Cabin Systems |>   (   --   [AIRCRAFT CABIN SYSTEMS]  {aircraftcabinsystems.com}    Occurrence: 1
+COMPANY: with   <| Air Cycle |>   ?   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 2
+COMPANY:    <| Aircrest Motel |>      --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 4
+COMPANY:    <| Air Comm Systems |>   suggests   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+CITY: &   <| Hurst |>   TX   --   [HURST]  {airco.com}    Occurrence: 1
+CITY:    <| Midway |>   stud   --   [MIDWAY]  {airdriestud.com}    Occurrence: 1
+ADDRESS:    <| 125 Perimeter Rd |>   .   --   [125 PERIMETER ROAD]  {airdirectairways.com}    Occurrence: 1
+COMPANY: ,   <| Air Cycle |>   introduced   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY:    <| Air Cleaning Technology |>   completes   --   [AIR CLEANING TECHNOLOGY]  {aircleaningtechnology.com}    Occurrence: 4
+COMPANY: -   <| Air Cycle |>      --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 14
+COMPANY:    <| Air Design Systems |>   is   --   [AIR DESIGN SYSTEMS INCORPORATION]  {airdesignhvac.com}    Occurrence: 1
+CITY: in   <| Port Angeles |>   -   --   [PORT ANGELES]  {aircrest.com}    Occurrence: 2
+COMPANY: |   <| Air Diffusion Systems |>      --   [AIR DIFFUSION SYSTEMS]  {airdiffusion.com}    Occurrence: 2
+STATE: Village   <| NY |>   ;   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY:    <| Aircrest Motel |>   Port   --   [AIRCREST MOTEL]  {aircrest.com}    Occurrence: 1
+COMPANY:    <| Air Cycle |>   makes   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 1
+COMPANY: 2015   <| AIR DESIGN SYSTEMS |>   |   --   [AIR DESIGN SYSTEMS INCORPORATION]  {airdesignhvac.com}    Occurrence: 1
+COMPANY: ,   <| Aircooled.Net , Inc. |>   does   --   [AIRCOOLED.NET INCORPORATION]  {aircooled.net}    Occurrence: 2
+ZIP:    <| 76053 |>      --   [76053 7402]  {airco.com}    Occurrence: 6
+COMPANY: 1969   <| Air Comm Systems , Inc. |>   began   --   [AIR COMM SYSTEMS INCORPORATION]  {aircommsys.com}    Occurrence: 1
+STATE: Serving   <| NY |>   Since   --   [NY]  {aircoolingenergy.com}    Occurrence: 1
+STATE:    <| GA |>   ,   --   [GA]  {aircond.com}    Occurrence: 1
+COMPANY:    <| Air Comfort |>   HVAC   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 31
+COMPANY: ,   <| Air Cooling Energy Corp |>   has   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: for   <| Air Comfort |>   since   --   [AIR COMFORT]  {aircomfortheatingandair.com}    Occurrence: 1
+COMPANY: call   <| Air Cooling Energy |>   today   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: is   <| Air Cooling Energy Corp. |>   With   --   [AIR COOLING ENERGY CORP]  {aircoolingenergy.com}    Occurrence: 1
+COMPANY: island   <| real estate |>   ,   --   [AIRECO REAL ESTATE]  {airecorealestate.com}    Occurrence: 1
+COMPANY: 2011-2016   <| Air Direct Airways |>   .   --   [AIR DIRECT AIRWAYS]  {airdirectairways.com}    Occurrence: 2
+COMPANY: Love   <| Air Cycle |>   and   --   [AIR CYCLE CORP]  {aircycle.com}    Occurrence: 2

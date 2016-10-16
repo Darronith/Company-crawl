@@ -1,0 +1,407 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: ©   <| Arthur J. Gallagher & Co. |>   1999   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 9
+ZIP: Alabama   <| 36602 |>      --   [36602 3222]  {ajlaw.com}    Occurrence: 7
+COMPANY:    <| Ajanta Restaurant |>   |   --   [AJANTA RESTAURANT]  {ajantarestaurant.com}    Occurrence: 1
+CITY:    <| Anchorage |>   ,   --   [ANCHORAGE]  {ajeatt.org}    Occurrence: 1
+COMPANY:    <| Anderson , Julian & Hull |>   LLP   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 3
+ADDRESS:    <| 430 Center Avenue |>      --   [430 CENTER AVENUE # 2]  {ajbenet.com}    Occurrence: 11
+COMPANY:    <| Ajillus , Inc. |>   :   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 8
+COMPANY: ,   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 3
+CITY: 488   <| Chandler |>   ,   --   [CHANDLER]  {ajsfinefoods.com}    Occurrence: 2
+CITY: Vaqueros   <| Las Vegas |>   are   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+ZIP: WA   <| 98101 |>      --   [98101 2229]  {ajillus.com}    Occurrence: 1
+COMPANY:    <| J. Patrick Gallagher |>   Jr   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+CITY: 180   <| Washington |>   Ave   --   [WASHINGTON]  {ajas.org}    Occurrence: 1
+CITY:    <| Mamaroneck |>   ,   --   [MAMARONECK]  {ajbenet.com}    Occurrence: 11
+STATE: ,   <| NY |>   10543   --   [NY]  {ajbenet.com}    Occurrence: 11
+COMPANY: About   <| A & J Programming |>      --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY:    <| Ajo Realty |>   Ajo   --   [AJO REALTY]  {ajorealty.com}    Occurrence: 2
+COMPANY:    <| American Jewish Congress |>      --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 6
+STATE: ,   <| PA |>   19013   --   [PA]  {ajlewiscorp.com}    Occurrence: 6
+COMPANY: the   <| American Jewish Congress |>   has   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 7
+CITY: in   <| San Luis Obispo |>   County   --   [SAN LUIS OBISPO]  {ajrefrigeration.net}    Occurrence: 1
+CITY: |   <| Boise |>   ,   --   [BOISE]  {ajhlaw.com}    Occurrence: 6
+COMPANY:    <| A & J Programming |>   |   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 6
+STATE: ,   <| OH |>   45414   --   [OH]  {ajmechanical.com}    Occurrence: 4
+COMPANY:    <| Benet , Inc. |>   embraces   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+CONTACT: son   <| J. Marshall Hunter |>   .   --   [J Marshall Hunter]  {ajaxconstructioninc.com}    Occurrence: 1
+COMPANY: visiting   <| Ajax Auto |>   ,   --   [AJAX AUTO WRECKING INCORPORATION]  {ajaxauto.com}    Occurrence: 1
+STATE: ,   <| IL |>   60139   --   [IL]  {ajrintl.com}    Occurrence: 8
+COMPANY: Not   <| A & J Sales |>   .   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+ADDRESS:    <| 430 Center Ave |>      --   [430 CENTER AVENUE # 2]  {ajbenet.com}    Occurrence: 1
+STATE: Seattle   <| WA |>   98101   --   [WA]  {ajillus.com}    Occurrence: 1
+COMPANY:    <| Ajax Paving |>   –   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 2
+COMPANY:    <| Ajillus  , Inc. |>   is   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 1
+CITY: in   <| New York |>   —   --   [NEW YORK]  {ajg.com}    Occurrence: 1
+CITY: ~   <| Pasadena |>      --   [PASADENA]  {ajlongo.com}    Occurrence: 7
+CITY: of   <| North Las Vegas |>   Rotary   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+ZIP: Arizona   <| 85321 |>      --   [85321 2250]  {ajorealty.com}    Occurrence: 1
+CITY: ,   <| Mamaroneck |>   ,   --   [MAMARONECK]  {ajbenet.com}    Occurrence: 4
+CITY:    <| Pasadena |>   Insurance   --   [PASADENA]  {ajlongo.com}    Occurrence: 7
+CITY: |   <| Boise |>   Trampolines   --   [BOISE]  {ajlandmark.com}    Occurrence: 2
+CONTACT:    <| Andrew Friedman |>   ,   --   [Andrew Friedman]  {ajffinancial.com}    Occurrence: 3
+COMPANY:    <| A & J Refrigeration |>   ,   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 4
+CITY: |   <| Denver |>   ,   --   [DENVER]  {ajrobbins.com}    Occurrence: 5
+COMPANY:    <| AJR International , Inc |>      --   [AJR INTL INCORPORATION]  {ajrintl.com}    Occurrence: 4
+CITY:    <| Las Vegas |>   –   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY: in   <| Chicago |>   and   --   [CHICAGO]  {ajilon.com}    Occurrence: 2
+CITY: lifetime   <| Santa Rosa |>   resident   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 2
+ADDRESS: at   <| 253 North Lake Avenue |>   |   --   [253 N LAKE AVENUE]  {ajlongo.com}    Occurrence: 1
+COMPANY: 2015   <| AJO AL ’ S MEXICAN CAFE |>   .   --   [AJO AL 'S MEXICAN CAFE]  {ajoals.com}    Occurrence: 1
+COMPANY: to   <| shrink wrapping or laminating |>   ?   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+CITY: our   <| Santa Rosa |>   office   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 30
+ADDRESS:    <| 253 North Lake Avenue |>   |   --   [253 N LAKE AVENUE]  {ajlongo.com}    Occurrence: 7
+CONTACT:    <| Robert A. Anderson |>   ,   --   [Robert A Anderson]  {ajhlaw.com}    Occurrence: 1
+ZIP: NJ   <| 08817 |>      --   [08817 3163]  {ajel.com}    Occurrence: 6
+COMPANY: Joint   <| Electrical Apprenticeship |>   and   --   [ELECTRICAL APPRENTICESHIP SCHL]  {ajeatt.org}    Occurrence: 1
+COMPANY:    <| American Jewish Committee |>   ,   --   [AMERICAN JEWISH COMMITTEE]  {ajc.org}    Occurrence: 5
+ADDRESS: '   <| s St. |>   Louis   --   [1300 S MAIN ST]  {ajg.com}    Occurrence: 1
+CITY:    <| Anchorage |>   (   --   [ANCHORAGE]  {ajeatt.org}    Occurrence: 1
+COMPANY: Armbrecht   <| Jackson LLP |>   is   --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 2
+COMPANY:    <| American Jewish Congress |>   National   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+COMPANY: of   <| Arthur J. Gallagher & Co. |>   partner   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY: but   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 2
+COMPANY:    <| AJF FINANCIAL |>   SERVICES   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 6
+COMPANY: Neither   <| Arthur J. Gallagher & Co. |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY: 2016   <| AJAX PAVING INDUSTRIES INC. |>   |   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 2
+ADDRESS: at   <| 1301 East Ajo Way Ste 117 |>      --   [1301 E AJO WAY # 117]  {ajobikes.com}    Occurrence: 1
+STATE: ,   <| CA |>   branch   --   [CA]  {ajilon.com}    Occurrence: 1
+STATE: ,   <| CA |>   91001   --   [CA]  {ajlongo.com}    Occurrence: 1
+STATE: ,   <| AK |>   99901   --   [AK]  {ajeatt.org}    Occurrence: 1
+ADDRESS:    <| 102 E. Mayflower Ave |>   .   --   [102 E MAYFLOWER AVENUE]  {ajbuilders.com}    Occurrence: 1
+CITY: of   <| Las Vegas |>   …   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 2
+COMPANY:    <| aJile Systems |>   provides   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 1
+ZIP: Florida   <| 34275 |>      --   [34275 3624]  {ajaxpaving.com}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>   -   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 8
+COMPANY:    <| Johns Inc. |>   -   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 12
+COMPANY:    <| Ajax Construction , Inc |>      --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 1
+STATE: ,   <| NY |>   .   --   [NY]  {ajbenet.com}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>   :   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY: in   <| Mamaroneck |>   ,   --   [MAMARONECK]  {ajbenet.com}    Occurrence: 5
+COMPANY:    <| Anderson-Johnson Associates Inc. |>   Landscape   --   [ANDERSON-JOHNSON ASSOC INCORPORATION]  {ajainc.net}    Occurrence: 3
+COMPANY: 2015   <| A & J Cake |>   and   --   [A AND J CAKE DECORATING]  {ajcake.com}    Occurrence: 3
+ADDRESS:    <| 3108 West Valhalla |>   Drive   --   [3108 W VALHALLA DR]  {ajlevin.com}    Occurrence: 4
+CITY:    <| North Las Vegas |>   City   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY:    <| Anchorage |>   Apprenticeship   --   [ANCHORAGE]  {ajeatt.org}    Occurrence: 2
+COMPANY:    <| A & J Cake |>   and   --   [A AND J CAKE DECORATING]  {ajcake.com}    Occurrence: 1
+COMPANY: 2010   <| AJF Engineering |>   .   --   [AJF ENGINEERING]  {ajfengineering.com}    Occurrence: 5
+CITY:    <| Glendora |>   ,   --   [GLENDORA]  {ajcake.com}    Occurrence: 1
+CITY: ,   <| Seattle |>   WA   --   [SEATTLE]  {ajillus.com}    Occurrence: 1
+CITY: ,   <| Mobile |>   ,   --   [MOBILE]  {ajlaw.com}    Occurrence: 1
+COMPANY:    <| WRAP & LAMINATING |>      --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 1
+CITY:    <| Pasadena |>   California   --   [PASADENA]  {ajlongo.com}    Occurrence: 1
+COMPANY: AJ   <| Printing and Graphic |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 2
+STATE: Dayton   <| OH |>   45414-3438   --   [OH]  {ajmechanical.com}    Occurrence: 1
+COMPANY:    <| Arthur J. Gallagher |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+CONTACT:    <| Tisha Danehl |>   ,   --   [Tisha Danehl]  {ajilonfinance.com}    Occurrence: 1
+STATE: ,   <| CA |>   .   --   [CA]  {ajprinting.com}    Occurrence: 13
+COMPANY:    <| Ajo Realty |>   ,   --   [AJO REALTY]  {ajorealty.com}    Occurrence: 1
+COMPANY: with   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 4
+COMPANY:    <| Ajax Construction |>   was   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 1
+CITY: ,   <| Scottsdale |>   and   --   [SCOTTSDALE]  {ajfengineering.com}    Occurrence: 15
+STATE: ,   <| AK |>   99518   --   [AK]  {ajeatt.org}    Occurrence: 1
+CITY: in   <| New York |>   ,   --   [NEW YORK]  {ajg.com}    Occurrence: 1
+COMPANY:    <| Ajel Technologies |>   ,   --   [AJEL TECHNOLOGIES]  {ajel.com}    Occurrence: 6
+CONTACT: of   <| Alan Benet |>   ,   --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+COMPANY: Founder   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 3
+COMPANY: The   <| American Jewish Congress |>   is   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+CONTACT:    <| Alan J. Benet |>      --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+CITY: Sales   <| Coachella |>   |   --   [COACHELLA]  {ajaxauto.com}    Occurrence: 1
+COMPANY:    <| AJAY Equipment |>   will   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 1
+CITY: in   <| San Jose |>   enables   --   [SAN JOSE]  {ajprogram.com}    Occurrence: 1
+COMPANY:    <| Ajo Al 's |>   |   --   [AJO AL 'S MEXICAN CAFE]  {ajoals.com}    Occurrence: 1
+COMPANY:    <| anderson , julian , hull |>   ,   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 3
+COMPANY: AJ   <| Fasteners , Inc. |>   -   --   [A J FASTENERS INCORPORATION]  {ajfasteners.com}    Occurrence: 1
+CITY: in   <| Seattle |>   ,   --   [SEATTLE]  {ajillus.com}    Occurrence: 4
+ADDRESS:    <| 1411 Fourth Avenue , Suite 303 |>      --   [1411 4TH AVENUE # 303]  {ajillus.com}    Occurrence: 1
+CITY: inspection   <| scottsdale |>   az   --   [SCOTTSDALE]  {ajfengineering.com}    Occurrence: 5
+ADDRESS:    <| 2 Madison Avenue |>      --   [2 MADISON AVENUE]  {ajfusa.com}    Occurrence: 2
+CITY:    <| Pasadena |>      --   [PASADENA]  {ajlongo.com}    Occurrence: 7
+CITY: downtown   <| Mobile |>   ,   --   [MOBILE]  {ajlaw.com}    Occurrence: 4
+CONTACT: to   <| Alan Benet |>   .   --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+COMPANY: :   <| Arthur J. Gallagher & Co |>   .   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 18
+COMPANY: 2007   <| AJAY Equipment |>   Corporation   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 2
+COMPANY: AJ   <| Printing & Graphics |>   offers   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+CONTACT: by   <| Richard Pesot |>   ,   --   [Richard Pesot]  {ajlewiscorp.com}    Occurrence: 1
+STATE:    <| AZ |>   BTR   --   [AZ]  {ajfengineering.com}    Occurrence: 17
+COMPANY: ,   <| A & J Refrigeration |>   is   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+COMPANY: to   <| shrink packaging or laminating |>   .   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 1
+COMPANY: ,   <| Ajax Paving Industries |>   has   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 1
+COMPANY:    <| Johns , Inc. |>   is   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 3
+COMPANY:    <| Alan Jeskey |>   and   --   [ALAN JESKEY BUILDERS INCORPORATION]  {ajbuilders.com}    Occurrence: 1
+CITY:    <| Tucson |>   ,   --   [TUCSON]  {ajobikes.com}    Occurrence: 1
+COMPANY: for   <| shrink wrapping and laminating |>   supplies   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+ADDRESS:    <| 2800 E. Miraloma Ave |>   .   --   [2800 E MIRALOMA AVENUE]  {ajfasteners.com}    Occurrence: 1
+CITY: ,   <| boise |>   ,   --   [BOISE]  {ajhlaw.com}    Occurrence: 3
+CONTACT: -   <| Andrew Friedman |>   ,   --   [Andrew Friedman]  {ajffinancial.com}    Occurrence: 3
+COMPANY: The   <| American Jewish Congress |>   Over   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+STATE: ,   <| IL |>   ,   --   [IL]  {ajrintl.com}    Occurrence: 1
+COMPANY: 2009   <| A & J Programming |>   .   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 3
+CITY:    <| Mobile |>   ,   --   [MOBILE]  {ajlaw.com}    Occurrence: 7
+COMPANY: Armbrecht   <| Jackson LLP |>   ,   --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 4
+STATE: ,   <| IA |>   51108   --   [IA]  {ajsalesent.com}    Occurrence: 1
+COMPANY: s   <| finance and office |>   brands   --   [AJILOS FINANCE AND OFFICE]  {ajilon.com}    Occurrence: 1
+CITY: of   <| North Las Vegas |>   (   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 2
+COMPANY: :   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 8
+COMPANY:    <| Ajax Paving Industries |>   of   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 1
+COMPANY: managing   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 1
+COMPANY: 1999-2011   <| aJile Systems |>   ,   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 11
+STATE: ,   <| CA |>   95138   --   [CA]  {ajprogram.com}    Occurrence: 1
+ADDRESS:    <| 1411 Fourth Avenue , Suite 303 |>   ,   --   [1411 4TH AVENUE # 303]  {ajillus.com}    Occurrence: 1
+STATE: ,   <| NY |>      --   [NY]  {ajbenet.com}    Occurrence: 2
+CITY:    <| Washington |>   ,   --   [WASHINGTON]  {ajas.org}    Occurrence: 1
+COMPANY: construction   <| project management |>   construction   --   [AJS PROJECT MANAGEMENT]  {ajsconstruction.com}    Occurrence: 1
+COMPANY:    <| Alan Jeskey |>   –   --   [ALAN JESKEY BUILDERS INCORPORATION]  {ajbuilders.com}    Occurrence: 1
+COMPANY: Armbrecht   <| Jackson LLP |>   .   --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 14
+STATE: ,   <| AZ |>   BTR   --   [AZ]  {ajfengineering.com}    Occurrence: 1
+STATE: ,   <| CA |>   95401   --   [CA]  {ajprinting.com}    Occurrence: 16
+CITY: the   <| East |>   region   --   [EAST HANOVER]  {ajilon.com}    Occurrence: 1
+STATE: ,   <| AZ |>   85248   --   [AZ]  {ajsfinefoods.com}    Occurrence: 2
+ADDRESS:    <| 63 South Royal |>   Street   --   [63 S ROYAL ST # 1300]  {ajlaw.com}    Occurrence: 7
+ADDRESS:    <| 1888 Solano Ave |>   .   --   [1888 SOLANO AVENUE]  {ajantarestaurant.com}    Occurrence: 1
+COMPANY: :   <| AJM Shrink Wrap & Laminating |>   Supplies   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+COMPANY:    <| A & J |>   has   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY: in   <| Denver |>   ,   --   [DENVER]  {ajrobbins.com}    Occurrence: 1
+STATE: ,   <| ID |>   83707-7426   --   [ID]  {ajhlaw.com}    Occurrence: 1
+COMPANY:    <| Ajax Paving Industries , Inc |>   .   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 2
+CITY: ,   <| Pasadena |>   Insurance   --   [PASADENA]  {ajlongo.com}    Occurrence: 1
+CITY: the   <| Jacksonville |>   business   --   [JACKSONVILLE]  {ajjohns.com}    Occurrence: 1
+COMPANY: to   <| A. J. Longo |>   Insurance   --   [A J LONGO AND ASSOC]  {ajlongo.com}    Occurrence: 1
+COMPANY: of   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 3
+COMPANY: called   <| A & J Sales |>   to   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+CITY: |   <| Jacksonville |>   ,   --   [JACKSONVILLE]  {ajjohns.com}    Occurrence: 4
+ZIP: California   <| 92806 |>      --   [92806 1803]  {ajfasteners.com}    Occurrence: 1
+COMPANY:    <| aJile Systems |>   Home   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 11
+COMPANY:    <| Benet Inc |>   .   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+ZIP: California   <| 91505 |>      --   [91505 1299]  {ajlevin.com}    Occurrence: 4
+COMPANY:    <| AJF Engineering |>      --   [AJF ENGINEERING]  {ajfengineering.com}    Occurrence: 1
+COMPANY:    <| Benet , Inc. |>   in   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+CITY: the   <| Santa Rosa |>   Downtown   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 2
+COMPANY: that   <| Ajax Paving Industries |>   of   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 1
+CITY: a   <| Santa Rosa |>   native   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 2
+CITY:    <| Berkeley |>   ,   --   [BERKELEY]  {ajantarestaurant.com}    Occurrence: 1
+CONTACT: with   <| Alan Benet |>   and   --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+COMPANY:    <| A J Landmark |>   Trampolines   --   [A J LANDMARK CO]  {ajlandmark.com}    Occurrence: 1
+ADDRESS:    <| 2254 E Route 66 |>   ,   --   [2254 E ROUTE 66]  {ajcake.com}    Occurrence: 1
+STATE: ,   <| CA |>   91101   --   [CA]  {ajlongo.com}    Occurrence: 8
+COMPANY: the   <| American Jewish Congress |>   is   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+CONTACT:    <| Greg Johnston |>   ,   --   [Greg Johnston]  {ajprinting.com}    Occurrence: 2
+CITY:    <| Anchorage |>   Journeyman   --   [ANCHORAGE]  {ajeatt.org}    Occurrence: 2
+COMPANY: The   <| American Jewish Congress |>      --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+ZIP: Nevada   <| 89030 |>      --   [89030 3963]  {ajbuilders.com}    Occurrence: 1
+CITY:    <| Sioux City |>   ,   --   [SIOUX CITY]  {ajsalesent.com}    Occurrence: 1
+COMPANY: 2007   <| AJAY Equipment |>   will   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 1
+CITY:    <| Anaheim |>   ,   --   [ANAHEIM]  {ajfasteners.com}    Occurrence: 1
+COMPANY: ,   <| a j programming |>   ,   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 3
+CITY: N.   <| Las Vegas |>   ,   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY: 2016   <| A. J. Longo |>   &   --   [A J LONGO AND ASSOC]  {ajlongo.com}    Occurrence: 7
+ADDRESS:    <| 4096 Horizon |>   Lane   --   [4096 HORIZON LN]  {ajrefrigeration.net}    Occurrence: 1
+CITY: ,   <| scottsdale |>   home   --   [SCOTTSDALE]  {ajfengineering.com}    Occurrence: 5
+COMPANY: All   <| A & J |>   equipment   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY: the   <| Arthur J. Gallagher & Co. |>   Board   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+STATE: ,   <| AK |>   99709   --   [AK]  {ajeatt.org}    Occurrence: 1
+COMPANY: to   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 11
+STATE: ,   <| WA |>      --   [WA]  {ajillus.com}    Occurrence: 1
+STATE: ,   <| NJ |>   08817   --   [NJ]  {ajel.com}    Occurrence: 6
+CITY: St.   <| Dayton |>   ,   --   [DAYTON]  {ajmechanical.com}    Occurrence: 4
+COMPANY:    <| aJile Systems |>   also   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 1
+CITY:    <| Boise |>   ,   --   [BOISE]  {ajhlaw.com}    Occurrence: 1
+CITY: |   <| Pasadena |>   ,   --   [PASADENA]  {ajlongo.com}    Occurrence: 8
+COMPANY:    <| Ajo Realty |>   serves   --   [AJO REALTY]  {ajorealty.com}    Occurrence: 1
+ZIP: CA   <| 91101 |>      --   [91101 1828]  {ajlongo.com}    Occurrence: 8
+ADDRESS: |   <| 1888 Solano Ave |>   in   --   [1888 SOLANO AVENUE]  {ajantarestaurant.com}    Occurrence: 1
+CITY: in   <| Santa Rosa |>   .   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 30
+COMPANY: AJ   <| Benet , Inc. |>   Insurance   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 4
+COMPANY: AJ   <| Printing & Graphics |>   is   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 60
+CITY:    <| Scottsdale |>      --   [SCOTTSDALE]  {ajfengineering.com}    Occurrence: 6
+CITY:    <| North Las Vegas |>   Chamber   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 2
+COMPANY:    <| Ajax Construction , Inc |>   .   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 3
+CITY: in   <| Santa Rosa |>   ,   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 13
+CITY:    <| Burbank |>   ,   --   [BURBANK]  {ajlevin.com}    Occurrence: 4
+CITY: a   <| Jacksonville |>   ,   --   [JACKSONVILLE]  {ajjohns.com}    Occurrence: 6
+COMPANY: at   <| A & J Sales |>   pride   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 1
+COMPANY: with   <| A & J Sales |>   .   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+CITY: the   <| Burbank |>   ,   --   [BURBANK]  {ajilon.com}    Occurrence: 1
+STATE: ,   <| NY |>   10017   --   [NY]  {ajffinancial.com}    Occurrence: 1
+STATE: :   <| PA |>   :   --   [PA]  {ajlewiscorp.com}    Occurrence: 4
+ADDRESS:    <| 253 North Lake Avenue |>      --   [253 N LAKE AVENUE]  {ajlongo.com}    Occurrence: 1
+COMPANY: to   <| Ajo Bikes |>   !   --   [AJO BIKES]  {ajobikes.com}    Occurrence: 1
+STATE: ,   <| VA |>   22003   --   [VA]  {ajengineers.com}    Occurrence: 6
+CITY: ,   <| Boise |>   ,   --   [BOISE]  {ajlandmark.com}    Occurrence: 3
+CONTACT: ,   <| Richard Pesot |>   ,   --   [Richard Pesot]  {ajlewiscorp.com}    Occurrence: 1
+COMPANY: The   <| American Jewish Congress |>   serves   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+STATE: ,   <| CA |>   .   --   [CA]  {ajcake.com}    Occurrence: 2
+STATE: ,   <| CA |>   94707   --   [CA]  {ajantarestaurant.com}    Occurrence: 1
+CONTACT:    <| Greg Johnston |>      --   [Greg Johnston]  {ajprinting.com}    Occurrence: 5
+ADDRESS:    <| 6250 Webster St. |>   Dayton   --   [6250 WEBSTER ST]  {ajmechanical.com}    Occurrence: 5
+COMPANY:    <| A J Landmark |>   ,   --   [A J LANDMARK CO]  {ajlandmark.com}    Occurrence: 2
+ZIP: AZ   <| 85260 |>      --   [85260 6730]  {ajfengineering.com}    Occurrence: 5
+COMPANY: The   <| Allen J |>   .   --   [ALLEN J FLOOD CO]  {ajfusa.com}    Occurrence: 14
+COMPANY: Got   <| a question about printing |>   or   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+CITY:    <| New York |>   ,   --   [NEW YORK]  {ajffinancial.com}    Occurrence: 7
+CITY:    <| Tucson |>   Bike   --   [TUCSON]  {ajobikes.com}    Occurrence: 1
+COMPANY:    <| Ajax Paving Industries |>   Wins   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 1
+CONTACT: :   <| Ambrish Rastogi |>   ,   --   [Ambrish Rastogi]  {ajengineers.com}    Occurrence: 1
+COMPANY: ,   <| AJAY Equipment |>   Corporation   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 2
+CITY:    <| Santa Rosa |>   ,   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 16
+COMPANY:    <| Alan Jeskey Builders , Inc. |>   will   --   [ALAN JESKEY BUILDERS INCORPORATION]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Ajo Bikes |>      --   [AJO BIKES]  {ajobikes.com}    Occurrence: 2
+COMPANY: ,   <| a j |>   program   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 3
+COMPANY: ,   <| AJAY Equipment |>   ,   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 2
+COMPANY:    <| aJile Systems |>   is   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 1
+COMPANY: by   <| Alan Jeskey |>   .   --   [ALAN JESKEY BUILDERS INCORPORATION]  {ajbuilders.com}    Occurrence: 1
+CITY: Leadership   <| North Las Vegas |>   –   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY: In   <| Las Vegas |>   about   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Arthur J. Gallagher & Co |>   .   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 21
+ADDRESS: |   <| 3225 Anniston Rd |>   .   --   [3225 ANNISTON ROAD]  {ajjohns.com}    Occurrence: 4
+COMPANY:    <| A. J. Longo |>   Insurance   --   [A J LONGO AND ASSOC]  {ajlongo.com}    Occurrence: 3
+COMPANY:    <| Ajax Auto |>   |   --   [AJAX AUTO WRECKING INCORPORATION]  {ajaxauto.com}    Occurrence: 1
+COMPANY:    <| A & J Programming |>      --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY:    <| aJile Systems |>   develops   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 3
+CITY: ,   <| Cedar Rapids |>   ,   --   [CEDAR RAPIDS]  {ajile.com}    Occurrence: 3
+COMPANY:    <| AJAY Equipment |>   Corporation   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 6
+COMPANY: ,   <| Ajax Construction Inc. |>   has   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 1
+COMPANY: AJ   <| Printing & Graphics |>   !   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 13
+STATE: ,   <| CA |>   91710   --   [CA]  {ajaystoragelifts.com}    Occurrence: 1
+COMPANY: 2001   <| Ajillus , Inc. |>   All   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 4
+STATE: ,   <| AZ |>   ,   --   [AZ]  {ajobikes.com}    Occurrence: 1
+COMPANY:    <| Benet , Inc. |>   Insurance   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 13
+STATE: ,   <| AK |>   99801   --   [AK]  {ajeatt.org}    Occurrence: 1
+ZIP: IA   <| 52402 |>      --   [52402 1255]  {ajile.com}    Occurrence: 3
+COMPANY:    <| Arthur J. Gallagher & Co. |>   Business   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 9
+ZIP:    <| 91740 |>      --   [91740 4673]  {ajcake.com}    Occurrence: 2
+COMPANY: is   <| a full-service printing |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+ZIP: AK   <| 99518 |>      --   [99518 1686]  {ajeatt.org}    Occurrence: 1
+ZIP: CA   <| 95401 |>      --   [95401 4779]  {ajprinting.com}    Occurrence: 16
+COMPANY: |   <| American Jewish Congress |>      --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 4
+CITY:    <| Mamaroneck |>      --   [MAMARONECK]  {ajbenet.com}    Occurrence: 1
+STATE: ,   <| NY |>   10538   --   [NY]  {ajfusa.com}    Occurrence: 2
+CITY:    <| Seattle |>   ,   --   [SEATTLE]  {ajillus.com}    Occurrence: 1
+COMPANY:    <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 21
+COMPANY: ,   <| Ajo Realty |>      --   [AJO REALTY]  {ajorealty.com}    Occurrence: 1
+COMPANY: 2016   <| Ajel Technologies |>   Inc   --   [AJEL TECHNOLOGIES]  {ajel.com}    Occurrence: 10
+COMPANY: AJ   <| Printing & Graphics |>   ,   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 82
+COMPANY:    <| A & J Programming |>   is   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 5
+CITY:    <| Edison |>   ,   --   [EDISON]  {ajel.com}    Occurrence: 6
+COMPANY:    <| A & J |>   '   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY: including   <| Mobile |>   ,   --   [MOBILE]  {ajlaw.com}    Occurrence: 4
+COMPANY:    <| Johns , Inc. |>   to   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 1
+CITY: to   <| Fort Myers |>   ,   --   [FORT MYERS]  {ajaxpaving.com}    Occurrence: 1
+COMPANY:    <| Ajax Construction Inc. |>   has   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 1
+ADDRESS:    <| 2254 East Route 66 |>      --   [2254 E ROUTE 66]  {ajcake.com}    Occurrence: 1
+CONTACT:    <| Alan J. Benet |>   received   --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+COMPANY: for   <| a variety of printing |>   needs   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 2
+ZIP: ,   <| 85713 |>      --   [85713 5064]  {ajobikes.com}    Occurrence: 1
+CITY: the   <| Santa Rosa |>   business   --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 30
+COMPANY: |   <| Anderson , Julian and Hull |>   LLP   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 6
+CONTACT: ,   <| Robert A |>   .   --   [Robert A Anderson]  {ajhlaw.com}    Occurrence: 1
+CITY: (   <| Mamaroneck |>   )   --   [MAMARONECK]  {ajbenet.com}    Occurrence: 1
+CITY: to   <| Santa Rosa |>      --   [SANTA ROSA]  {ajprinting.com}    Occurrence: 30
+STATE: ,   <| AL |>   ;   --   [AL]  {ajlaw.com}    Occurrence: 4
+COMPANY:    <| Benet Inc. |>   in   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+CONTACT:    <| Andrew Friedman |>   President   --   [Andrew Friedman]  {ajffinancial.com}    Occurrence: 1
+COMPANY: 2007   <| Anderson , Julian and Hull |>   LLP   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 3
+CITY:    <| Larchmont |>   ,   --   [LARCHMONT]  {ajfusa.com}    Occurrence: 2
+COMPANY:    <| Benet Inc |>   in   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+STATE: |   <| CA |>   Insurance   --   [CA]  {ajlongo.com}    Occurrence: 7
+COMPANY: recommend   <| A & J Sales |>   to   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+COMPANY: ,   <| A & J Refrigeration |>   can   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY:    <| San Luis Obispo |>   ,   --   [SAN LUIS OBISPO]  {ajrefrigeration.net}    Occurrence: 1
+COMPANY:    <| AJF Engineering |>   &   --   [AJF ENGINEERING]  {ajfengineering.com}    Occurrence: 13
+CITY: ,   <| Glendora |>   ,   --   [GLENDORA]  {ajcake.com}    Occurrence: 1
+COMPANY: At   <| A. J. Benet |>   ,   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+STATE: ,   <| AZ |>   ,   --   [AZ]  {ajorealty.com}    Occurrence: 1
+CITY: of   <| Pasadena |>      --   [PASADENA]  {ajlongo.com}    Occurrence: 21
+CITY: to   <| Mamaroneck |>   and   --   [MAMARONECK]  {ajbenet.com}    Occurrence: 3
+CONTACT:    <| Richard Pesot |>      --   [Richard Pesot]  {ajlewiscorp.com}    Occurrence: 1
+COMPANY:    <| Ajo Bikes |>   |   --   [AJO BIKES]  {ajobikes.com}    Occurrence: 2
+COMPANY: ,   <| A & J Programming |>   is   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY:    <| Ajax Auto |>   also   --   [AJAX AUTO WRECKING INCORPORATION]  {ajaxauto.com}    Occurrence: 1
+CONTACT:    <| Mari C Zimmermann |>      --   [Mari Zimmermann]  {ajorealty.com}    Occurrence: 1
+COMPANY:    <| aJile Systems |>   has   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 1
+CITY: Olympics   <| Pasadena |>      --   [PASADENA]  {ajlongo.com}    Occurrence: 21
+COMPANY:    <| AJAY Equipment |>   takes   --   [AJAY EQUIPMENT CORP]  {ajaystoragelifts.com}    Occurrence: 1
+CITY: the   <| Las Vegas |>   Valley   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 2
+COMPANY: AJ   <| Printing & Graphics |>   we   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+ADDRESS:    <| 900 Solana |>      --   [900 W SOLANA AVENUE]  {ajorealty.com}    Occurrence: 1
+COMPANY: s   <| finance , office |>   ,   --   [AJILOS FINANCE AND OFFICE]  {ajilon.com}    Occurrence: 1
+CONTACT:    <| Mike Horan |>      --   [Mike Horan]  {ajaxpaving.com}    Occurrence: 1
+COMPANY:    <| AJM Shrink Wrap & Laminating |>   Supplies   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+COMPANY: President   <| Finance , Office |>   ,   --   [AJILOS FINANCE AND OFFICE]  {ajilon.com}    Occurrence: 1
+COMPANY:    <| AJR Intl |>   -   --   [AJR INTL INCORPORATION]  {ajrintl.com}    Occurrence: 8
+COMPANY: Armbrecht   <| Jackson LLP |>      --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 3
+COMPANY:    <| Jewish Association on Aging |>      --   [ASSN OF JEWISH AGING SVC]  {ajas.org}    Occurrence: 1
+COMPANY:    <| Arthur J. Gallagher & Co. |>   -   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 2
+COMPANY: Have   <| AJF Engineering |>   &   --   [AJF ENGINEERING]  {ajfengineering.com}    Occurrence: 1
+CITY: to   <| Scottsdale |>   ,   --   [SCOTTSDALE]  {ajfengineering.com}    Occurrence: 1
+COMPANY: at   <| Arthur J. Gallagher & Co. |>   :   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 4
+STATE: ,   <| PA |>      --   [PA]  {ajlewiscorp.com}    Occurrence: 9
+CITY: include   <| Mobile |>   ,   --   [MOBILE]  {ajlaw.com}    Occurrence: 4
+COMPANY: The   <| American Jewish Congress |>   has   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+CONTACT:    <| Richard Levin |>      --   [Richard Levin]  {ajlevin.com}    Occurrence: 1
+CITY:    <| Scottsdale |>   ,   --   [SCOTTSDALE]  {ajfengineering.com}    Occurrence: 5
+COMPANY: -   <| Ajanta Enterprises |>      --   [AJANTA ENTERPRISES INDIA]  {ajantaenterprises.com}    Occurrence: 2
+ZIP: NY   <| 10543 |>      --   [10543 2254]  {ajbenet.com}    Occurrence: 11
+ZIP:    <| 10543 |>   ‎   --   [10543 2254]  {ajbenet.com}    Occurrence: 1
+CITY: ,   <| Las Vegas |>   ,   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY: of   <| Las Vegas |>   2008   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY: of   <| Las Vegas |>   projects   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY: |   <| Ajel Technologies |>   Inc   --   [AJEL TECHNOLOGIES]  {ajel.com}    Occurrence: 8
+ZIP: VA   <| 22003 |>      --   [22003 3216]  {ajengineers.com}    Occurrence: 6
+CITY: St.   <| Dayton |>   OH   --   [DAYTON]  {ajmechanical.com}    Occurrence: 1
+COMPANY: Joint   <| Electrical Apprenticeship |>   &   --   [ELECTRICAL APPRENTICESHIP SCHL]  {ajeatt.org}    Occurrence: 2
+COMPANY: AJ   <| Printing & Graphics |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 32
+COMPANY:    <| Benet Inc. |>   as   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+STATE: ,   <| ID |>   83709   --   [ID]  {ajlandmark.com}    Occurrence: 3
+COMPANY: The   <| American Jewish Congress |>   makes   --   [AMERICAN JEWISH CONGRESS]  {ajcongress.org}    Occurrence: 1
+COMPANY:    <| aJile Systems |>   ,   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 4
+CITY: from   <| New York |>   University   --   [NEW YORK]  {ajffinancial.com}    Occurrence: 1
+CITY: ,   <| Mamaroneck |>   and   --   [MAMARONECK]  {ajbenet.com}    Occurrence: 1
+COMPANY: ~   <| A. J. Longo |>   Insurance   --   [A J LONGO AND ASSOC]  {ajlongo.com}    Occurrence: 12
+COMPANY:    <| aJile Systems |>   offers   --   [AJILE SYSTEMS]  {ajile.com}    Occurrence: 1
+COMPANY:    <| Arthur J. Gallagher |>   offers   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 2
+STATE: ,   <| NY |>   ,   --   [NY]  {ajbenet.com}    Occurrence: 4
+COMPANY: joined   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 3
+ZIP: CA   <| 94707 |>      --   [94707 2309]  {ajantarestaurant.com}    Occurrence: 1
+COMPANY: AJ   <| Printing and Graphics |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 11
+COMPANY: AJ   <| Johns , Inc. |>   |   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 4
+CITY: in   <| New York |>   State   --   [NEW YORK]  {ajffinancial.com}    Occurrence: 1
+COMPANY:    <| Ajax Construction , Inc. |>   --   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 3
+COMPANY: Contact   <| A. J. Longo |>   Insurance   --   [A J LONGO AND ASSOC]  {ajlongo.com}    Occurrence: 1
+STATE: ,   <| AZ |>   85260   --   [AZ]  {ajfengineering.com}    Occurrence: 5
+CONTACT:    <| Mike Horan |>   recently   --   [Mike Horan]  {ajaxpaving.com}    Occurrence: 1
+CITY:    <| Pasadena |>   ,   --   [PASADENA]  {ajlongo.com}    Occurrence: 1
+STATE: ,   <| NY |>   with   --   [NY]  {ajbenet.com}    Occurrence: 2
+CONTACT:    <| Andrew Friedman |>      --   [Andrew Friedman]  {ajffinancial.com}    Occurrence: 1
+ZIP: NY   <| 10538 |>      --   [10538 1950]  {ajfusa.com}    Occurrence: 2
+CITY: ,   <| Jacksonville |>   ,   --   [JACKSONVILLE]  {ajjohns.com}    Occurrence: 1
+ZIP: OH   <| 45414 |>      --   [45414 3438]  {ajmechanical.com}    Occurrence: 4
+STATE: ,   <| AZ |>   85244   --   [AZ]  {ajsfinefoods.com}    Occurrence: 2
+COMPANY:    <| Ajo Realty |>      --   [AJO REALTY]  {ajorealty.com}    Occurrence: 1
+STATE: in   <| PA |>   ,   --   [PA]  {ajlewiscorp.com}    Occurrence: 1
+STATE: ,   <| FL |>   |   --   [FL]  {ajjohns.com}    Occurrence: 4
+CITY:    <| Annandale |>   ,   --   [ANNANDALE]  {ajengineers.com}    Occurrence: 6
+STATE: ,   <| CA |>   94544   --   [CA]  {ajminc.com}    Occurrence: 3
+COMPANY:    <| Anderson-Johnson Associates Inc. |>   is   --   [ANDERSON-JOHNSON ASSOC INCORPORATION]  {ajainc.net}    Occurrence: 1
+COMPANY: at   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 4
+COMPANY:    <| Ajel Technologies |>   Inc   --   [AJEL TECHNOLOGIES]  {ajel.com}    Occurrence: 18
+COMPANY:    <| J. Patrick Gallagher |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+STATE: ,   <| CA |>      --   [CA]  {ajrefrigeration.net}    Occurrence: 1
+CITY: ,   <| seattle |>   ,   --   [SEATTLE]  {ajillus.com}    Occurrence: 4
+COMPANY: Let   <| AJF Financial |>   Services   --   [AJF FINANCIAL SVC]  {ajffinancial.com}    Occurrence: 2
+CITY: ,   <| Boise |>   Trampolines   --   [BOISE]  {ajlandmark.com}    Occurrence: 1
+STATE: ,   <| DC |>   20008   --   [DC]  {ajas.org}    Occurrence: 1
+COMPANY:    <| Ajanta Restaurant |>      --   [AJANTA RESTAURANT]  {ajantarestaurant.com}    Occurrence: 4
+CONTACT:    <| Nick Mykris |>   (   --   [Nick Mykris]  {ajile.com}    Occurrence: 1
+CITY:    <| San Jose |>   ,   --   [SAN JOSE]  {ajprogram.com}    Occurrence: 1
+ADDRESS:    <| 5800 B |>   .   --   [5800 B ST]  {ajeatt.org}    Occurrence: 1
+CITY: Road   <| Chandler |>   ,   --   [CHANDLER]  {ajsfinefoods.com}    Occurrence: 2
+COMPANY: at   <| A. J. Benet |>   Insurance   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+STATE: :   <| PA |>   |   --   [PA]  {ajlewiscorp.com}    Occurrence: 2
+STATE: ,   <| IA |>   52402   --   [IA]  {ajile.com}    Occurrence: 3
+COMPANY:    <| A & J Refrigeration |>      --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY: the   <| Las Vegas |>   community   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Ajillus , Inc |>   .   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 1
+COMPANY: With   <| Arthur J. Gallagher & Co. |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>   sells   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1

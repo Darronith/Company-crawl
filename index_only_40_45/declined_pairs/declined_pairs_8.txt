@@ -1,0 +1,921 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: retail   <| logistics |>   solution   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Foxcroft   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: :   <| St. |>   John   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: Day   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 9
+COMPANY: indoor   <| air |>   quality   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+COMPANY: and   <| logistics |>   company   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+ADDRESS: ’   <| s |>      --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY:    <| AIT |>   Lens   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 9
+COMPANY: at   <| AIT |>   .   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 2
+COMPANY:    <| AJA |>   Plug-in   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY:    <| Services |>   Offered   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 9
+COMPANY: or   <| Heating |>   Repair   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY:    <| Air Temp |>   Utica   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 2
+COMPANY: transportation   <| logistics |>   solutions   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: Send   <| a |>   Request   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 3
+COMPANY:    <| School |>   Calendars   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: |   <| water |>   filters   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+COMPANY: &   <| Heating |>   Repair   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 6
+COMPANY: ,   <| air |>   recon   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+COMPANY: Slump   <| Block |>   ,   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: at   <| Airwise |>   are   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Acres   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: River   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: The   <| Aviation |>   industry   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: the   <| video |>   source   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: Madeira   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Connelly   <| School |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: by   <| Air Temp |>   ?   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY:    <| Air Temp |>   Has   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: available   <| worldwide |>   .   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: for   <| AJA |>   product   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: business   <| solutions |>   with   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   AHRI   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: of   <| Airways |>   Sales   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+COMPANY: Center   <| Solutions |>   &   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: Every   <| transmission |>   problem   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   getting   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: any   <| transmission |>   problem   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: disparate   <| video |>   and   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: SD   <| video |>      --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: purchases   <| AIT |>   from   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: in   <| air |>   conditioning   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY: of   <| AIT |>   equipment   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: UsAirways   <| Freight |>   Corporation   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: limos   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   license   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Episcopal   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Ask   <| Air Temp |>      --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 4
+COMPANY: their   <| products |>   can   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: Many   <| Solutions |>      --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: by   <| Artemis |>   to   --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 1
+COMPANY: of   <| insurance |>   specifications   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Input   <| Video |>   Format   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+ADDRESS:    <| St. |>   John   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: Albans   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Lab   <| School |>   will   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Split-face   <| Block |>   ,   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: High   <| School |>   .   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: REQUEST   <| A |>   QUOTE   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 15
+COMPANY: Ridge   <| School |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: high   <| school |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Limousines   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY: the   <| air |>   ,   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| Air-Wave |>   carries   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY:    <| AIT |>   can   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: global   <| logistics |>   strategies   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: destination   <| in |>   ultimate   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+CONTACT: Robert   <| Helbing |>   ,   --   [Bob Helbing]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| Heating |>   ,   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: Beauvoir   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: and   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: member   <| schools |>   serve   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: ,   <| AIT |>   is   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: ,   <| air |>   filters   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+ADDRESS: Jefferson   <| St |>   ,   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: of   <| Airways |>   will   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: Glass   <| Block |>      --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: efficient   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Let   <| AIT |>   help   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 2
+COMPANY:    <| Artemis |>   |   --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 2
+COMPANY:    <| Airtite |>   Window   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 2
+COMPANY: ,   <| Inc. |>   All   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: VOL   <| BLOCK |>   ,   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 2
+COMPANY: Vol   <| Block |>   aerial   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY:    <| Services |>      --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 5
+CONTACT:    <| A |>   commodity   --   [Ronald A Hill]  {aisins.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>   knows   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: spots   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY:    <| AJA |>   rack   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: that   <| A |>   &   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 1
+COMPANY:    <| AIT |>   Careers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: your   <| AJA |>   product   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: “   <| Airways |>   provides   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: ,   <| Inc. |>   is   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: UHD   <| video |>   ,   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: Holton-Arms   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY:    <| School |>   officials   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: year   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: outside   <| air |>   to   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   right   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Congressional   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Airtek |>   ©   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 5
+COMPANY: Sheet   <| Metal |>   Fabrication   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 12
+COMPANY: million   <| air |>   conditioners   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: to   <| a |>   large   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY: ,   <| Airworks |>   Studio   --   [AIRWORKS INCORPORATION]  {airworks-studio.com}    Occurrence: 1
+COMPANY: than   <| Airways |>   —   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   contracting   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   important   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Acres   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: opened   <| in |>   1999   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY:    <| AIT |>   provides   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: your   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 6
+COMPANY: (   <| Heating |>   ,   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: ...   <| Air Temp |>   can   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY:    <| School |>   Rankings   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: to   <| air |>   conditioners   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Montessori   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: chain   <| logistics |>   careers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   Temperature   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+CONTACT: Yordan   <| Vulich |>   hired   --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+COMPANY: in   <| a |>   lower   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   your   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: of   <| aviation |>   safety   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+CONTACT: ``   <| Patel |>   Brothers   --   [Mafat Patel]  {airtoursinc.com}    Occurrence: 1
+COMPANY: ,   <| Heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY:    <| AIT |>   Air   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CONTACT: by   <| Menz |>   Group   --   [John Menz]  {airwater.com}    Occurrence: 2
+COMPANY: compliant   <| logistics |>   plans   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: Vol   <| Block |>      --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 9
+COMPANY: Output   <| Video |>   Format   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY:    <| School |>   Admission   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: International   <| Insurance |>   Foundation   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: member   <| school |>   (   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: cool   <| air |>   from   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   Be   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+COMPANY: multinational   <| insurance |>   ;   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY: Retail   <| Logistics |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+ADDRESS: Stillwell   <| Avenue |>      --   [2421 JEROME AVENUE]  {airwaveac.com}    Occurrence: 6
+COMPANY: Burnished   <| Block |>   ,   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: Foxcroft   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Effective   <| School |>   Leadership   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>      --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: Outdoor   <| Air |>   Quality   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 6
+COMPANY: Potomac   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Warm   <| air |>   coming   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: by   <| AIT |>   when   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: automatic   <| transmissions |>   along   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: your   <| heating |>   ,   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Field   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: the   <| insurance |>   .   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: 5pm   <| MT |>      --   [AIRY MT BED AND BREAKFAST]  {airymount.com}    Occurrence: 7
+COMPANY: change   <| in |>   your   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY: the   <| water |>   you   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: his   <| art |>   ,   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+CONTACT:    <| Robert |>   @   --   [Robert Hoemke]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: your   <| air |>   conditioner   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   oldest   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+COMPANY: contact   <| AIT |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY:    <| Water |>   Purification   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY:    <| AIT |>   News   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 8
+COMPANY: private   <| schools |>   represent   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: an   <| AIT |>   air   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: private   <| schools |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: growing   <| logistics |>   industry   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: you   <| arrive |>   to   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: River   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: ’   <| s |>   Important   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+COMPANY:    <| Air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: at   <| Airways |>   for   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: 10pm   <| MT |>      --   [AIRY MT BED AND BREAKFAST]  {airymount.com}    Occurrence: 1
+COMPANY: high-static   <| air |>   handlers   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: German   <| School |>   Washington   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Preparatory   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: with   <| Airways |>   =   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: Guaranty   <| Insurance |>   Company   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Day   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 9
+COMPANY: Style   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: experience   <| Airtek |>   is   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: destination   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY: ON-SITE   <| PACKING |>      --   [AIRWAY PACKING AND SHIPPING]  {airwaypack.com}    Occurrence: 1
+COMPANY: management   <| solutions |>   by   --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 1
+COMPANY: of   <| AIT |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: door   <| products |>   include   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: Elementary   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air |>   Assurance   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: or   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Your   <| Air |>      --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: and   <| Air |>   Cleaning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: Service   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: maintenance   <| services |>   to   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: ,   <| a |>   first   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+CONTACT: B.   <| Hill |>      --   [Marvin Hill]  {airys.com}    Occurrence: 1
+COMPANY: Lower   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Comprehensive   <| insurance |>   specifications   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| Air-Vent |>   is   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 7
+COMPANY: your   <| AJA |>   Control   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   supply   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: with   <| Air-Wave |>   you   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: your   <| freight |>   ’   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: &   <| Cleaning |>      --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 9
+COMPANY: Day   <| School |>   (   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: the   <| school |>   substantially   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: AirRite   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   specializes   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: the   <| air |>   while   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: the   <| art |>   and   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY:    <| AIT |>   team   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: select   <| Air Temp |>   to   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: our   <| worldwide |>   network   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   Heating   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   a   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+ADDRESS: Mount   <| St. |>   Alban   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: package   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: global   <| logistics |>   network   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 7
+COMPANY: how   <| Artemis |>   is   --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 1
+CONTACT: Joe   <| Vulich |>      --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+COMPANY: Travelers   <| Insurance |>   Company   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Search   <| AIT |>   Careers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: a   <| freight |>   forwarding   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 3
+COMPANY:    <| Air Temp |>   is   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 4
+COMPANY: Westminster   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Connolly   <| School |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: door   <| products |>   for   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY:    <| Air-Wave |>   offers   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   take   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: improved   <| air |>   quality   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| AIT |>   launches   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: commercial   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: numerous   <| product |>   enhancements   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: equipment   <| cleaning |>   and   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| Air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: private   <| insurance |>   companies   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: to   <| AIT |>   gateway   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: A   <| SCHOOL |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: residential   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Potomac   <| School |>   Science   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Air-tro   <| Inc |>   '   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: scottsdale   <| air |>   charter   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+COMPANY: Management   <| Solutions |>      --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 2
+COMPANY: Day   <| School |>   Admission   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: traditional   <| insurance |>   marketplace   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: at   <| AIT |>   represents   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: ,   <| Air-Wave |>   will   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY:    <| AIT |>   becomes   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 3
+COMPANY: ,   <| school |>   head   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: 1000   <| St. |>   Stephen   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: and   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 20
+COMPANY: leaves   <| AIT |>   to   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+ADDRESS: '   <| s |>   Jewelers   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: of   <| tours |>   and   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY: :   <| AIT |>   Marketing   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY:    <| air |>   conditioner   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3
+COMPANY: High   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: &   <| Heating |>   Services   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 8
+COMPANY: Langley   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>   at   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: member   <| schools |>   provide   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: with   <| insurance |>   for   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+ADDRESS: #   <| 1 |>   source   --   [1 E WACKER DR # 3100]  {aisc.org}    Occurrence: 1
+CONTACT:    <| A |>   Tailored   --   [Ronald A Hill]  {aisins.com}    Occurrence: 3
+COMPANY: of   <| metal |>   fabrication   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY:    <| Aviation |>      --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 23
+COMPANY: Industry   <| Freight |>      --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+COMPANY: broadcast   <| video |>   formats   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+CONTACT: Tim   <| Bray |>      --   [Terry Bray]  {airventductcleaning.com}    Occurrence: 1
+CITY: 140   <| San |>   Pedro   --   [SAN JOSE]  {airtronics.com}    Occurrence: 1
+COMPANY: started   <| in |>   1999   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+CONTACT: John   <| Vulich |>   is   --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+COMPANY: partners   <| in |>   good   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY:    <| AIT |>   established   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: of   <| AIT |>   Patternless   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+ADDRESS: '   <| s |>   HVAC   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Abbey   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: the   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 3
+COMPANY: kitchen   <| cleaning |>   and   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: Cold   <| Air |>   ?   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: transportation   <| logistics |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Barrie   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: The   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: while   <| in |>   our   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: Oakwood   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Other   <| Products |>      --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY:    <| Airy |>   '   --   [AIRY 'S INCORPORATION]  {airys.com}    Occurrence: 10
+COMPANY: to   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: sheet   <| metal |>   part   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: Gallagher   <| Aviation |>   Risk   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Agnes   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: best   <| transmission |>   shop   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+ADDRESS: to   <| 1 |>   :   --   [1 SUBURBAN ROAD]  {airvolblock.com}    Occurrence: 5
+COMPANY: +   <| schools |>   educate   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Preparatory   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: the   <| air |>   ,   --   [AIR TRANSPORT INTL LLC]  {airtransport.cc}    Occurrence: 1
+COMPANY: and   <| air |>   circulators   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Blade   <| System |>      --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+COMPANY:    <| Air |>   Purification   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: Lab   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: Hood   <| Cleaning |>      --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 9
+COMPANY: an   <| AJA |>   product   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY:    <| AIT |>   offers   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 4
+COMPANY: from   <| Airtek |>   .   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+ADDRESS: of   <| St. |>   John   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+ADDRESS: ’   <| s |>   years   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   left   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: 76   <| schools |>   educating   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Madeira   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: offices   <| worldwide |>   .   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 7
+COMPANY: ,   <| Air Temp |>   will   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: and   <| logistics |>   solutions   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: with   <| AIT |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: from   <| AIT |>   President   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: your   <| AJA |>   software   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+CITY:    <| New |>   Systems   --   [NEW PORT RICHEY]  {airxpressonline.com}    Occurrence: 6
+COMPANY: your   <| freight |>   through   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: Conditioned   <| Air |>   Corp   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: provides   <| Air Temp |>   with   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 2
+COMPANY: ,   <| artemis |>      --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 1
+COMPANY: With   <| Airways |>   ,   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: at   <| Airways |>   was   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>   '   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: About   <| AIT |>   International   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: Agnes   <| School |>   (   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Montessori   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: uploading   <| a |>   filled-in   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY: McLean   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: and   <| Air |>   in   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: at   <| Airwise |>   can   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Common   <| Air |>   Handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| water |>   quality   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   Choice   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: global   <| logistics |>   by   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Burke   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Party   <| Logistics |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: the   <| AIT |>   Edging   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: that   <| schools |>   will   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| AIT |>   believes   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: ,   <| AIT |>   utilizes   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: a   <| school |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: Abbey   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air |>   Conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY:    <| Logistics |>   Management   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CONTACT: Tom   <| Bray |>      --   [Terry Bray]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: Nursery   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Cheapest   <| Air |>   Tickets   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY:    <| AIT |>   has   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 8
+COMPANY: Agnes   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: the   <| American |>   Association   --   [AMERICAN INSTITUTE-STEEL CNSTR]  {aisc.org}    Occurrence: 1
+COMPANY: Services   <| solution |>   ,   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: assisting   <| school |>   heads   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Lab   <| School |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: ,   <| AIT |>   contact   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: Air-Tro   <| Inc |>   Commercial   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: return   <| air |>   and   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: member   <| schools |>   .   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 4
+COMPANY: package   <| tours |>   to   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY: the   <| air |>   conditioning   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY: ,   <| Heating |>   ,   --   [AIROTRON HEATING AND AIR COND]  {airtrontech.com}    Occurrence: 1
+COMPANY: other   <| metal |>   treatments   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 5
+COMPANY:    <| Airway |>   -   --   [AIRWAY PACKING AND SHIPPING]  {airwaypack.com}    Occurrence: 2
+COMPANY: Field   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: indoor   <| air |>   equipment   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: ,   <| Airways |>   services   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: s   <| heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: an   <| AIT |>   Customer   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: combine   <| insurance |>   ,   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Trap   <| Cleaning |>   &   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: international   <| insurance |>   in   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| Airways |>   provides   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: Member   <| Schools |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 6
+COMPANY: by   <| AIT |>   '   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY:    <| Art |>   Grant   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 4
+COMPANY:    <| Airways |>   Portal   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+COMPANY: Sheridan   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Coil   <| Cleaning |>   &   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 8
+COMPANY: AISGW   <| schools |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: German   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: independent   <| schools |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 5
+COMPANY: FOAM   <| PACKING |>      --   [AIRWAY PACKING AND SHIPPING]  {airwaypack.com}    Occurrence: 1
+COMPANY: Data   <| System |>      --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   |   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 6
+COMPANY: about   <| AIT |>   and   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   broken   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Walker   <| School |>   for   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: with   <| Airways |>   ’   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: finished   <| products |>   as   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: Episcopal   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air-Wave |>   is   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: Westminster   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: how   <| AIT |>   has   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Flo   <| Trac |>      --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+ADDRESS: Sharon   <| S. |>   ,   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: nursery   <| school |>   through   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: my   <| freight |>   or   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: 2016-2017   <| school |>   year   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: Our   <| schools |>   are   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| AIT |>   helps   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: of   <| AIT |>   since   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+CONTACT: Carol   <| Ivie |>   .   --   [Jimmie Ivie]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: room   <| air |>   conditioners   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 2
+COMPANY:    <| Insurance |>   coverage   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>   .   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 3
+COMPANY: Between   <| Air |>   Filtration   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY:    <| AIT |>   Cares   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 3
+COMPANY: restaurant   <| cleaning |>   ,   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: join   <| AIT |>   in   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Intermediate   <| School |>   academic   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+CONTACT: Matt   <| Vulich |>   is   --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+COMPANY: Member   <| schools |>   are   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Search   <| Schools |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: process   <| water |>   systems   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: commercial   <| air |>   conditioning   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY: Middle   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: Online   <| Air |>   Tickets   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 2
+COMPANY: clogged   <| air |>   filter   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: CorpAirways   <| Freight |>   Corporation   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+COMPANY: &   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 4
+ADDRESS: Sixth   <| Avenue |>      --   [2323 ELLIOTT AVENUE]  {ais.edu}    Occurrence: 4
+COMPANY: of   <| school |>   operations   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: go   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY: for   <| AIT |>   ’   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY:    <| AIT |>   Marketing   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Cathedral   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Waldorf   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY:    <| Air |>   Quality   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 20
+COMPANY: All   <| Air-Vent |>   technicians   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: Lower   <| School |>   Educators   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Vol   <| Block |>   to   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   also   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 6
+COMPANY: Oakwood   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: and   <| Insurance |>   Management   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: specialty   <| insurance |>   needs   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: member   <| schools |>   and   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: new   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: of   <| services |>   that   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 6
+COMPANY: Oversize   <| Shipping |>   ,   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 2
+COMPANY: sheet   <| metal |>   painting   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 5
+COMPANY: Allan   <| Block |>      --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 4
+ADDRESS: Rhinelander   <| Ave |>   .   --   [2421 JEROME AVENUE]  {airwaveac.com}    Occurrence: 6
+COMPANY: of   <| insurance |>   throughout   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY: contact   <| AIT |>   :   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: manufactured   <| products |>   based   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: water   <| services |>   across   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: The   <| School |>   Head   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Global   <| Aviation |>   expertise   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: quality   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Bullis   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Barrie   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: At   <| Airtek |>   we   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: VoIP   <| Solutions |>   to   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: ,   <| Texas |>   78711   --   [AIR TEXAS MECHANICAL]  {airtexasmechanical.com}    Occurrence: 1
+ADDRESS:    <| St. |>   Albans   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   Wins   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: to   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+CONTACT: John   <| Helbing |>   —   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+ADDRESS:    <| 1801 |>   Southeast   --   [1801 SE PARKWAY ST # D]  {airwiseair.com}    Occurrence: 7
+COMPANY: sheet   <| metal |>   San   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 12
+CITY: 408   <| San |>   Francisco   --   [SAN JOSE]  {airtronics.com}    Occurrence: 5
+COMPANY: on   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: high-quality   <| heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: central   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY:    <| Air Temp |>   has   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 3
+COMPANY:    <| Products |>   &   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: independent   <| schools |>   for   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: Columbia   <| Airport |>      --   [351 AIRPORT ROAD]  {airward.com}    Occurrence: 15
+COMPANY: Lowell   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 7
+COMPANY: Document   <| Solutions |>   ,   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY:    <| American |>   Institute   --   [AMERICAN INSTITUTE-STEEL CNSTR]  {aisc.org}    Occurrence: 11
+COMPANY: &   <| Heating |>   Company   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 4
+COMPANY: Add   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: at   <| AIT |>   ?   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>   ’   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| Air Temp |>   Inc   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 4
+COMPANY: in   <| heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY:    <| Air Temp |>   -   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 7
+COMPANY: any   <| transmission |>   concern   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+ADDRESS: '   <| s |>   work   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: at   <| AIT |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Pasadena   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: Catholic   <| schools |>   for   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| AIT |>   is   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Vintage   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 11
+ADDRESS: 114th   <| st |>   .   --   [1634 19TH ST]  {aiviestransmission.com}    Occurrence: 1
+CONTACT: Daryl   <| Bray |>      --   [Terry Bray]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: for   <| AIT |>   .   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: help   <| A-Ivie |>   '   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: s   <| insurance |>   market   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: for   <| schools |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: custom   <| products |>   and   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: Telecommunications   <| Solutions |>   .   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: )   <| in |>   Santa   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+ADDRESS: :   <| St. |>   Anselm   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: Captive   <| Insurance |>   Companies   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: ,   <| aviation |>   Risk   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Global   <| Aviation |>   ,   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   understand   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+ADDRESS: the   <| box |>   .   --   [PO BOX 1888]  {airwaysfreight.com}    Occurrence: 1
+ADDRESS:    <| St. |>   Stephen   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 2
+COMPANY: makes   <| AIT |>   special   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: common   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Congressional   <| Schools |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: and   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: Data   <| Systems |>      --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 2
+COMPANY: with   <| AIT |>   News   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: from   <| a |>   small   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY: Hill   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 6
+COMPANY: dba   <| Air |>   Wave   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 6
+ADDRESS: ’   <| s |>   not   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: TeamAirways   <| Freight |>   Corporation   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: named   <| Insurance |>   Broking   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   -   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+ADDRESS: '   <| s |>   time   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: cold   <| air |>   is   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: trust   <| Air Temp |>   to   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: the   <| aviation |>   sector   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Conditioning   <| Services |>   from   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 3
+COMPANY: independent   <| schools |>   to   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: World   <| Tours |>   Packages   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY:    <| Air Temp |>   Commercial   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 2
+COMPANY: austin   <| air |>   systems   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+COMPANY: or   <| heating |>   services   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: Waldorf   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: service   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 3
+COMPANY: of   <| School |>   )   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: transport   <| logistic |>   services   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Hedges   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: an   <| Air |>   Handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+CONTACT: Matthew   <| Vulich |>      --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+COMPANY: Most   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: our   <| Aviation |>   team   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Door   <| Products |>      --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 2
+ADDRESS: Columbia   <| Airport |>   1000   --   [351 AIRPORT ROAD]  {airward.com}    Occurrence: 1
+COMPANY: the   <| insurance |>   and   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY: member   <| schools |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: non-chemical   <| water |>   treatment   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: skilled   <| freight |>   associates   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: AIS   <| Advanced |>   Print   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: Primary   <| School |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Holiday   <| Tour |>   Packages   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY: venue   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   offer   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 8
+COMPANY:    <| Airtek |>   can   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 3
+COMPANY: nearby   <| schools |>   by   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: about   <| Airways |>   .   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+ADDRESS: :   <| St. |>   Columba   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: About   <| AIT |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 21
+COMPANY: to   <| A |>   &   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 1
+COMPANY: the   <| AJA |>   Web   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: Transportation   <| Logistics- |>   Industries   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   technicians   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: production   <| art |>   ,   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY: Today   <| AIT |>   has   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY:    <| AIT |>   '   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: and   <| insurance |>   ,   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: as   <| Insurance |>   Practice   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: sets   <| Air Temp |>   apart   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+CONTACT:    <| Bob |>   and   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+COMPANY: Print   <| Solutions |>      --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 9
+COMPANY: how   <| Airtek |>   can   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: CA   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: Acres   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: joins   <| AIT |>   as   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: ,   <| water |>   contaminant   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: closet   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: At   <| AIT |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 9
+ADDRESS: Townhurst   <| Dr. |>   Houston   --   [15819 ARCHDUKE DR]  {airtexasmechanical.com}    Occurrence: 2
+COMPANY: your   <| air |>   filter   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Preparatory   <| School |>   and   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Independent   <| Schools |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: Nursery   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Air-tro   <| Inc |>   's   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| AJA |>   Driver   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: The   <| Texas |>   Department   --   [AIR TEXAS MECHANICAL]  {airtexasmechanical.com}    Occurrence: 1
+CONTACT: of   <| Menz |>   Group   --   [John Menz]  {airwater.com}    Occurrence: 2
+COMPANY: about   <| AIT |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY:    <| Airtek |>      --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: comprehensive   <| Service |>   and   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 6
+ADDRESS: ’   <| s |>   decreased   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: high   <| school |>   using   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: or   <| heating |>   repair   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: from   <| Airtek |>   -   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: your   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   top   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   air   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: member   <| schools |>   ’   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Insurance |>   Bidding   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| Heating |>      --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 10
+COMPANY: of   <| AIT |>   ’   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Game   <| Art |>   &   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 5
+COMPANY: reliable   <| logistics |>   plans   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: purchases   <| AIT |>   Yordan   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Evaluated   <| air |>   flow   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   father   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+COMPANY: Presbyterian   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: new   <| heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 5
+COMPANY: Pasadena   <| Air |>   Handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 3
+COMPANY:    <| AIT |>   air   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc |>   's   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+CONTACT:    <| John |>   Cross   --   [John Devantier]  {aisc.org}    Occurrence: 2
+COMPANY: AISGW   <| school |>   leaders   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: the   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 3
+COMPANY:    <| Aviation |>   protection   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: sheet   <| metal |>   design   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 5
+COMPANY: Liability   <| insurance |>      --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Design   <| Services |>      --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 8
+COMPANY: ,   <| air |>   quality   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: IP   <| Video |>   /   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: refrigeration   <| services |>   cater   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: Independent   <| School |>   ?   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: retail   <| logistics |>   and   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: McLean   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: ,   <| AIT |>   ensures   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+ADDRESS: :   <| St. |>   Albans   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: the   <| air |>   and   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| air |>   quality   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: ,   <| logistics |>   transportation   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: maintenances   <| service |>   .   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: sheet   <| metal |>   cabinets   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 5
+COMPANY: Potomac   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: '   <| s |>   Commercial   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Heights   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: system   <| cleaning |>   ,   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| anderson |>   ,   --   [ANDERSON INTERNATIONAL TRADING]  {aitwood.com}    Occurrence: 1
+COMPANY:    <| AJA |>   is   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: ,   <| Airtek |>   are   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY:    <| AJA |>   '   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: ourselves   <| in |>   offering   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: Vol   <| Block |>   Sales   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: been   <| cleaning |>   and   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: and   <| logistics |>   .   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: the   <| Insurance |>   sector   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| AIT |>   Signs   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: than   <| Airways |>   .   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: ,   <| Inc |>   .   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 5
+COMPANY: Hill   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: |   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 32
+COMPANY: High   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: ,   <| Airworks |>   ,   --   [AIRWORKS INCORPORATION]  {airworks-studio.com}    Occurrence: 1
+COMPANY: Indoor   <| Air |>   Quality   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 6
+COMPANY: the   <| AirWard |>   Chart   --   [AIRWARD INCORPORATION]  {airward.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   we   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 4
+COMPANY:    <| Aviation |>   industry   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: ,   <| Air Temp |>   has   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: sheet   <| metal |>   ,   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 5
+COMPANY: Offering   <| Solutions |>   &   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: Episcopal   <| School |>   5600   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: ,   <| Air-Wave |>   '   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY:    <| Air Temp |>   pledges   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: AISGW   <| School |>   ?   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY: trust   <| AIT |>   with   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: sheet   <| metal |>   manufacturing   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 17
+COMPANY: glass   <| block |>   .   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: helping   <| Airways |>   ’   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: an   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   easy   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Rotorbore   <| System |>      --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+CONTACT: Bill   <| Bray |>   Jr   --   [Terry Bray]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| Water |>   Links   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+CONTACT: John   <| Helbing |>   and   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+COMPANY: commercial   <| cleaning |>   and   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: on   <| AJA |>   products   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: chain   <| logistics |>   ?   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Vol   <| Block |>   is   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 6
+ADDRESS: ,   <| Airport |>   Terminal   --   [351 AIRPORT ROAD]  {airward.com}    Occurrence: 3
+COMPANY: Global   <| Aviation |>   team   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY:    <| industries |>   ,   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Supply   <| Air |>      --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+COMPANY: an   <| AIT |>   Sales   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY:    <| School |>   and   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: :   <| St. |>   Stephen   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 2
+COMPANY:    <| Imaging |>   &   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 9
+COMPANY: to   <| AIT |>   for   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: limousines   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY:    <| Airwise |>   offers   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Maret   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: Roger   <| E. |>   Ferch   --   [1 E WACKER DR # 3100]  {aisc.org}    Occurrence: 1
+COMPANY: UV   <| Air |>   Sanitizers   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY: Allan   <| Block |>   mortarless   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: about   <| AIT |>   or   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: ,   <| a |>   checklist   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY:    <| In |>   addition   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY:    <| Advanced |>   Print   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 9
+COMPANY: Water   <| Heating |>      --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: leading   <| insurance |>   ,   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: unique   <| Imaging |>   Care   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: Vol   <| Block |>   .   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 4
+COMPANY: structured   <| insurance |>   programs   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+ADDRESS: for   <| St. |>   Albans   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: high   <| school |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: best   <| schools |>   for   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: '   <| s |>   interior   --   [4008 S TREADAWAY BLVD]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: of   <| AIT |>   returns   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Grade   <| A |>   Qualified   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 15
+COMPANY: the   <| air |>   you   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: for   <| aviation |>   and   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY:    <| Airtek |>   are   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 10
+COMPANY: FROM   <| AIT |>      --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+ADDRESS:    <| 6820 Ellicott |>   DriveEast   --   [6820 ELLICOTT DR # 1]  {airtemphvac.com}    Occurrence: 1
+COMPANY: offers   <| aviation |>   and   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Lower   <| School |>   faculty   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: At   <| AIT |>   ,   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 2
+ADDRESS:    <| 7 |>   February   --   [7 WEYMOUTH ROAD]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: the   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| Airtek |>   is   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 1
+COMPANY: conditioned   <| air |>   into   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| AIT |>   provides   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: the   <| American |>   Institute   --   [AMERICAN INSTITUTE-STEEL CNSTR]  {aisc.org}    Occurrence: 1
+COMPANY: ,   <| air |>   cargo   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+COMPANY: Services   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 4
+COMPANY: &   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 15
+COMPANY:    <| AIT |>   Milestones   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+CONTACT:    <| A |>   copy   --   [Ronald A Hill]  {aisins.com}    Occurrence: 1
+COMPANY: with   <| AIT |>   and   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: From   <| Airtite |>   Windows   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: ,   <| Inc |>   .   --   [AIRY 'S INCORPORATION]  {airys.com}    Occurrence: 9
+ADDRESS: &   <| St. |>   Agnes   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 4
+COMPANY:    <| Rental |>   Equipment   --   [AITKIN RENTAL CTR]  {aitkinrental.com}    Occurrence: 1
+COMPANY: AC   <| Air |>   Cooling   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 6
+COMPANY: Design   <| Services |>   -   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: because   <| Air-Wave |>   has   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+ADDRESS: :   <| St. |>   Patrick   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 2
+COMPANY: ,   <| air |>   freight   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+COMPANY: Air-Tro   <| Inc. |>   Pasadena   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 4
+COMPANY: Vol   <| Block |>   ,   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 5
+ADDRESS:    <| St. |>   Patrick   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 2
+COMPANY: member   <| schools |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   in   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+CONTACT: Estelene   <| Hill |>      --   [Marvin Hill]  {airys.com}    Occurrence: 1
+COMPANY: Langley   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: independent   <| school |>   boards   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: failing   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| Airways |>   has   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 3
+ADDRESS: ’   <| s |>   time   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Commercial   <| Insurance |>   &   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 22
+COMPANY: ordinary   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: member   <| schools |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: ,   <| air |>   filtration   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+CONTACT: Joe   <| Vulich |>   graduated   --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+COMPANY: your   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 3
+COMPANY: Vol   <| Block |>   has   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: independent   <| schools |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: moving   <| air |>   systems   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 1
+COMPANY: an   <| AIT |>   Office   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: Field   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: been   <| Airways |>   agents   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: ,   <| air |>   attack   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+COMPANY: cool   <| air |>   .   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Albans   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Heights   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: ’   <| s |>   Thermostat   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+COMPANY: or   <| insurance |>   structures   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Structured   <| Insurance |>   Programs   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+ADDRESS: figure   <| 1 |>   )   --   [1 E WACKER DR # 3100]  {aisc.org}    Occurrence: 1
+COMPANY: chain   <| logistics |>   in   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: sheet   <| metal |>   fabrication   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 7
+COMPANY: ASK   <| AIR-WAVE |>      --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3
+COMPANY: ,   <| Air |>   Track   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+ADDRESS: '   <| s |>   newest   --   [807 S LEMON AVENUE]  {airtreatment.com}    Occurrence: 1
+COMPANY: been   <| in |>   business   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+ADDRESS: Jody   <| S. |>   ,   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY:    <| Airtek |>   have   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: Burke   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Cloud-Based   <| Solutions |>   ,   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY: an   <| air |>   conditioner   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY:    <| Video |>   Format   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: of   <| a |>   new   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY:    <| Air |>   Handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 15
+CITY: a   <| new |>   installation   --   [NEW PORT RICHEY]  {airxpressonline.com}    Occurrence: 1
+CONTACT:    <| A |>   credit   --   [Ronald A Hill]  {aisins.com}    Occurrence: 1
+COMPANY: in   <| heating |>   ,   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Global   <| Aviation |>   places   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   Time   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Lowell   <| School |>   Tour   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 7
+ADDRESS:    <| St. |>   Columba   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air-Wave |>   '   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: Indoor   <| Air |>   Quality   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 30
+COMPANY: central   <| air |>   unit   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: are   <| in |>   the   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   Commercial   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 3
+ADDRESS: ’   <| s |>   no   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| AIT |>   has   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 3
+ADDRESS: to   <| airport |>   )   --   [574 AIRPORT SOUTH PKWY]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: on   <| Airways |>   ,   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: with   <| AIT |>   .   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Bullis   <| School |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: outdoor   <| air |>   conditioner   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| AJA |>   Support   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY:    <| AIT |>   Engineering   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Slump   <| Blocks |>      --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 4
+COMPANY: About   <| Air Temp |>      --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 4
+COMPANY: equipment   <| AIT |>   has   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 2
+COMPANY: Independent   <| Schools |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 7
+COMPANY:    <| AIT |>   is   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Day   <| School |>   Announces   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: your   <| insurance |>   program   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY: the   <| heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Private   <| Aviation |>   (   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Day   <| School |>   Lower   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: in   <| logistics |>   .   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: With   <| Air-Wave |>   ,   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: ,   <| Airwise |>   serving   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Sheridan   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: in   <| insurance |>   marketing   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: Day   <| School |>      --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY:    <| Airways |>   is   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: perform   <| heating |>   and   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: with   <| AIT |>   '   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: recognizes   <| AIT |>   '   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Advanced   <| School |>   Search   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: ’   <| s. |>   Tony   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Contact   <| Airtek |>   -   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 2
+COMPANY: an   <| air |>   conditioning   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY: our   <| schools |>   .   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: Structured   <| Insurance |>   Products   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+ADDRESS: 114th   <| st. |>   At   --   [1634 19TH ST]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: SEED   <| School |>   in   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: warm   <| air |>   below   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Hedges   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: standard   <| insurance |>   policies   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: in   <| Automated |>   Ultrasonic   --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+COMPANY:    <| air |>   contaminant   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+ADDRESS: October   <| 2nd |>   at   --   [1788 2ND ST # 202]  {aitzhayim.org}    Occurrence: 1
+COMPANY:    <| A-Ivie |>   '   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: Personal   <| Insurance |>      --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 21
+CONTACT:    <| A |>   common   --   [Ronald A Hill]  {aisins.com}    Occurrence: 1
+COMPANY: |   <| air |>   purifiers   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   work   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+CONTACT: Tony   <| Helbing |>      --   [Bob Helbing]  {airtro.com}    Occurrence: 1
+COMPANY: chain   <| logistics |>   !   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Congressional   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: River   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: ’   <| s |>   List   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+ADDRESS:    <| St. |>   Anselm   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+COMPANY: to   <| industrial |>   and   --   [ALABAMA INDUSTRIAL SVC CO]  {aisalabama.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   energy   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: ,   <| heating |>   contractor   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: At   <| Air Temp |>   ,   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: captive   <| insurance |>   companies   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+ADDRESS: (   <| airport |>   to   --   [574 AIRPORT SOUTH PKWY]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: ,   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: and   <| logistics |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   Let   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: Hedges   <| School |>   Celebrates   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: your   <| heating |>   or   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: warm   <| air |>   over   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: arrange   <| freight |>   .   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: -   <| Airtek |>      --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 4
+COMPANY:    <| Products |>      --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 12
+COMPANY: two   <| transmission |>   rebuilders   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: transport   <| logistics |>   contact   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+CONTACT: John   <| Vulich |>      --   [Anne Vulich]  {aitindustries.com}    Occurrence: 1
+ADDRESS: ,   <| Airport |>   Facility   --   [351 AIRPORT ROAD]  {airward.com}    Occurrence: 1
+COMPANY: dedicated   <| logistics |>   professionals   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: and   <| Air |>   Conditioning   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: home   <| heating |>   Tarrant   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: ,   <| Inc. |>   provides   --   [AIRY 'S INCORPORATION]  {airys.com}    Occurrence: 1
+COMPANY: the   <| cleaning |>   and   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| AIT |>   co-workers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Coil   <| Cleaning |>   and   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: for   <| air |>   handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Presbyterian   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY:    <| Air-Wave |>   Sales   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: finish   <| products |>   as   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: Maintenance   <| service |>   to   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 6
+ADDRESS: ’   <| s |>   Degree   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: with   <| AIT |>   since   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 2
+COMPANY: ServicesAirways   <| Freight |>   Corporation   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+COMPANY: Montessori   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+COMPANY:    <| Insurance |>   &   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 6
+COMPANY: 12am   <| MT |>      --   [AIRY MT BED AND BREAKFAST]  {airymount.com}    Occurrence: 1
+COMPANY: Precision   <| Block |>   ,   --   [AIR-VOL BLOCK]  {airvolblock.com}    Occurrence: 1
+COMPANY: LBA   <| Air |>   Conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: independent   <| schools |>   .   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+ADDRESS: ’   <| s |>   expertise   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: Personal   <| Insurance |>   :   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY: Shipping   <| Logistics |>   Leadership   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+CONTACT: the   <| Helbing |>   family   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+COMPANY: Middle   <| School |>   Campus   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 3
+CONTACT:    <| A |>   I   --   [George A Peters]  {airworks-studio.com}    Occurrence: 3
+COMPANY: the   <| air |>   to   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: McLean   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: the   <| air |>   quality   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY:    <| Air |>   Links   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+COMPANY: Chain   <| Logistics |>   Careers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY:    <| Air Temp |>   Syracuse   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 2
+COMPANY: Holton-Arms   <| School |>   Open   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: AISGW   <| schools |>   ;   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Service |>   and   --   [AIRTEK SERVICES INCORPORATION]  {airtekservices.com}    Occurrence: 15
+ADDRESS: '   <| s |>   the   --   [4008 S TREADAWAY BLVD]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: transport   <| logistics |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: ,   <| Inc. |>   is   --   [AIRY 'S INCORPORATION]  {airys.com}    Occurrence: 1
+COMPANY: the   <| AJA |>   Installation   --   [AJA VIDEO]  {aja.com}    Occurrence: 1
+COMPANY: independent   <| aviation |>   brokering   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| ait |>   ,   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   We   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+COMPANY: High   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 2
+COMPANY: the   <| insurance |>   ,   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   letter   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: >   <| Air |>   Handler   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: Air-Tro   <| Inc. |>   has   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: ’   <| insurance |>   needs   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+COMPANY: Day   <| School |>   of   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air Temp |>   Binghamton   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 2
+COMPANY: at   <| AIT |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 9
+COMPANY: &   <| Imaging |>   Systems   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY:    <| AIT |>   '   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: Bullis   <| School |>   ,   --   [ASSOCIATION-INDEPENDENT SCHOOL]  {aisgw.org}    Occurrence: 1
+COMPANY: HVAC   <| air |>   handling   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: of   <| aviation |>   experts   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY: serviced   <| air |>   conditioner   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   performance   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 5
+COMPANY: Many   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+COMPANY: ”   <| in |>   Orange   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: ,   <| Airy |>   '   --   [AIRY 'S INCORPORATION]  {airys.com}    Occurrence: 1
+COMPANY: the   <| air |>   conditioning   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 7
+COMPANY: On-Premise   <| Solutions |>   ,   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   why   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 5
+COMPANY: of   <| air |>   conditioners   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3

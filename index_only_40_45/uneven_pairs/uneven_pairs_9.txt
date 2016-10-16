@@ -1,0 +1,119 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: ©   <| Arthur J. Gallagher & Co. |>   1999   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 9
+COMPANY: AJ   <| Benet , Inc. |>   Insurance   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 4
+COMPANY: recommend   <| A & J Sales |>   to   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+COMPANY: ,   <| A & J Refrigeration |>   can   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+COMPANY:    <| anderson , julian , hull |>   ,   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 3
+COMPANY:    <| Arthur J. Gallagher & Co |>   .   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 21
+COMPANY: AJ   <| Fasteners , Inc. |>   -   --   [A J FASTENERS INCORPORATION]  {ajfasteners.com}    Occurrence: 1
+COMPANY: to   <| shrink packaging or laminating |>   .   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 1
+CITY: ,   <| Las Vegas |>   ,   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Anderson , Julian & Hull |>   LLP   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 3
+COMPANY:    <| Ajax Construction , Inc. |>   --   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 3
+COMPANY:    <| Ajillus , Inc. |>   :   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 8
+COMPANY: President   <| Finance , Office |>   ,   --   [AJILOS FINANCE AND OFFICE]  {ajilon.com}    Occurrence: 1
+ADDRESS:    <| 1411 Fourth Avenue , Suite 303 |>      --   [1411 4TH AVENUE # 303]  {ajillus.com}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>   sells   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY: Vaqueros   <| Las Vegas |>   are   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Ajax Construction , Inc |>   .   --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 3
+COMPANY:    <| J. Patrick Gallagher |>   Jr   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY: ,   <| A & J Programming |>   is   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY: with   <| A & J Sales |>   .   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+COMPANY: :   <| Arthur J. Gallagher & Co |>   .   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 18
+CONTACT:    <| Mari C Zimmermann |>      --   [Mari Zimmermann]  {ajorealty.com}    Occurrence: 1
+COMPANY: About   <| A & J Programming |>      --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+CITY: the   <| Las Vegas |>   Valley   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 2
+COMPANY:    <| A & J Refrigeration |>   -   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 8
+COMPANY: ,   <| A & J Refrigeration |>   is   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+ADDRESS:    <| 253 North Lake Avenue |>      --   [253 N LAKE AVENUE]  {ajlongo.com}    Occurrence: 1
+COMPANY: 2009   <| A & J Programming |>   .   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 3
+COMPANY:    <| Johns , Inc. |>   is   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 3
+COMPANY: for   <| shrink wrapping and laminating |>   supplies   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+COMPANY: AJ   <| Printing & Graphics |>   we   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+COMPANY:    <| Benet , Inc. |>   embraces   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+ADDRESS:    <| 900 Solana |>      --   [900 W SOLANA AVENUE]  {ajorealty.com}    Occurrence: 1
+COMPANY: s   <| finance , office |>   ,   --   [AJILOS FINANCE AND OFFICE]  {ajilon.com}    Occurrence: 1
+COMPANY: Not   <| A & J Sales |>   .   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+COMPANY:    <| AJM Shrink Wrap & Laminating |>   Supplies   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+COMPANY:    <| Anderson-Johnson Associates Inc. |>   is   --   [ANDERSON-JOHNSON ASSOC INCORPORATION]  {ajainc.net}    Occurrence: 1
+CITY: N.   <| Las Vegas |>   ,   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY: Armbrecht   <| Jackson LLP |>   is   --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 2
+COMPANY:    <| Ajillus  , Inc. |>   is   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 1
+COMPANY: Armbrecht   <| Jackson LLP |>      --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 3
+ADDRESS:    <| 1411 Fourth Avenue , Suite 303 |>   ,   --   [1411 4TH AVENUE # 303]  {ajillus.com}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>   ,   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 4
+COMPANY:    <| Jewish Association on Aging |>      --   [ASSN OF JEWISH AGING SVC]  {ajas.org}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>   :   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+COMPANY: construction   <| project management |>   construction   --   [AJS PROJECT MANAGEMENT]  {ajsconstruction.com}    Occurrence: 1
+COMPANY: called   <| A & J Sales |>   to   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 2
+COMPANY: Got   <| a question about printing |>   or   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+COMPANY: Armbrecht   <| Jackson LLP |>   .   --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 14
+COMPANY:    <| Arthur J. Gallagher & Co. |>   -   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 2
+COMPANY:    <| AJR International , Inc |>      --   [AJR INTL INCORPORATION]  {ajrintl.com}    Occurrence: 4
+COMPANY: at   <| Arthur J. Gallagher & Co. |>   :   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 4
+COMPANY:    <| A & J |>   has   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+COMPANY:    <| A & J Refrigeration |>      --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+CITY:    <| Las Vegas |>   –   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+ADDRESS:    <| 63 South Royal |>   Street   --   [63 S ROYAL ST # 1300]  {ajlaw.com}    Occurrence: 7
+COMPANY:    <| Alan Jeskey Builders , Inc. |>   will   --   [ALAN JESKEY BUILDERS INCORPORATION]  {ajbuilders.com}    Occurrence: 1
+COMPANY: ,   <| a j |>   program   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 3
+COMPANY: :   <| AJM Shrink Wrap & Laminating |>   Supplies   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+COMPANY: 2015   <| AJO AL ’ S MEXICAN CAFE |>   .   --   [AJO AL 'S MEXICAN CAFE]  {ajoals.com}    Occurrence: 1
+COMPANY: to   <| shrink wrapping or laminating |>   ?   --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 2
+CITY: of   <| Las Vegas |>   2008   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY: of   <| Las Vegas |>   projects   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+CITY: In   <| Las Vegas |>   about   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Ajax Paving Industries , Inc |>   .   --   [AJAX PAVING INDUSTRIES INCORPORATION]  {ajaxpaving.com}    Occurrence: 2
+COMPANY: AJ   <| Printing & Graphics |>   offers   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+ADDRESS: '   <| s St. |>   Louis   --   [1300 S MAIN ST]  {ajg.com}    Occurrence: 1
+COMPANY: AJ   <| Printing & Graphics |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 32
+COMPANY:    <| Benet Inc. |>   as   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+COMPANY: of   <| Arthur J. Gallagher & Co. |>   partner   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY: AJ   <| Printing & Graphics |>   !   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 13
+COMPANY: 2001   <| Ajillus , Inc. |>   All   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 4
+COMPANY: Neither   <| Arthur J. Gallagher & Co. |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+ADDRESS: at   <| 1301 East Ajo Way Ste 117 |>      --   [1301 E AJO WAY # 117]  {ajobikes.com}    Occurrence: 1
+COMPANY: AJ   <| Printing and Graphics |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 11
+COMPANY:    <| Benet Inc |>   .   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+CITY: of   <| Las Vegas |>   …   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 2
+COMPANY:    <| Benet , Inc. |>   in   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+COMPANY: All   <| A & J |>   equipment   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY:    <| A & J |>   '   --   [A AND J REFRIGERATION]  {ajrefrigeration.net}    Occurrence: 1
+COMPANY:    <| Johns Inc. |>   -   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 12
+COMPANY:    <| Ajax Construction , Inc |>      --   [AJAX CONSTRUCTION INCORPORATION]  {ajaxconstructioninc.com}    Occurrence: 1
+COMPANY:    <| Johns , Inc. |>   to   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 1
+COMPANY:    <| A & J Programming |>   |   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 6
+COMPANY:    <| Arthur J. Gallagher & Co. |>   Business   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 9
+COMPANY:    <| Anderson-Johnson Associates Inc. |>   Landscape   --   [ANDERSON-JOHNSON ASSOC INCORPORATION]  {ajainc.net}    Occurrence: 3
+COMPANY: 2015   <| A & J Cake |>   and   --   [A AND J CAKE DECORATING]  {ajcake.com}    Occurrence: 3
+COMPANY: AJ   <| Printing & Graphics |>   is   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 60
+COMPANY: AJ   <| Printing & Graphics |>   ,   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 82
+COMPANY:    <| A & J Programming |>   is   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 5
+ADDRESS:    <| 3108 West Valhalla |>   Drive   --   [3108 W VALHALLA DR]  {ajlevin.com}    Occurrence: 4
+ADDRESS:    <| 253 North Lake Avenue |>   |   --   [253 N LAKE AVENUE]  {ajlongo.com}    Occurrence: 7
+COMPANY:    <| A & J Cake |>   and   --   [A AND J CAKE DECORATING]  {ajcake.com}    Occurrence: 1
+COMPANY: Armbrecht   <| Jackson LLP |>   ,   --   [AMBRECHT JACKSON LLP]  {ajlaw.com}    Occurrence: 4
+COMPANY: is   <| a full-service printing |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 30
+COMPANY: at   <| A & J Sales |>   pride   --   [A AND J SALES]  {ajsalesent.com}    Occurrence: 1
+COMPANY:    <| WRAP & LAMINATING |>      --   [AJM SHRINK WRAP AND LAMINATING]  {ajminc.com}    Occurrence: 1
+COMPANY: AJ   <| Printing and Graphic |>   and   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 2
+ADDRESS: at   <| 253 North Lake Avenue |>   |   --   [253 N LAKE AVENUE]  {ajlongo.com}    Occurrence: 1
+COMPANY:    <| J. Patrick Gallagher |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY: ,   <| a j programming |>   ,   --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 3
+ADDRESS:    <| 2254 East Route 66 |>      --   [2254 E ROUTE 66]  {ajcake.com}    Occurrence: 1
+CONTACT:    <| Alan J. Benet |>   received   --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+COMPANY: for   <| a variety of printing |>   needs   --   [A J PRINTING AND GRAPHICS]  {ajprinting.com}    Occurrence: 2
+COMPANY: the   <| Arthur J. Gallagher & Co. |>   Board   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+COMPANY:    <| A & J Programming |>      --   [A AND J PROGRAMMING]  {ajprogram.com}    Occurrence: 1
+COMPANY: AJ   <| Johns , Inc. |>   |   --   [A J JOHNS INCORPORATION]  {ajjohns.com}    Occurrence: 4
+COMPANY: s   <| finance and office |>   brands   --   [AJILOS FINANCE AND OFFICE]  {ajilon.com}    Occurrence: 1
+COMPANY: |   <| Anderson , Julian and Hull |>   LLP   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 6
+COMPANY:    <| Benet , Inc. |>   Insurance   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 13
+COMPANY:    <| Benet Inc. |>   in   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1
+CITY: the   <| Las Vegas |>   community   --   [NORTH LAS VEGAS]  {ajbuilders.com}    Occurrence: 1
+COMPANY:    <| Ajillus , Inc |>   .   --   [AJILLUS INCORPORATION]  {ajillus.com}    Occurrence: 1
+COMPANY: 2007   <| Anderson , Julian and Hull |>   LLP   --   [ANDERSON JULIAN AND HULL]  {ajhlaw.com}    Occurrence: 3
+COMPANY: With   <| Arthur J. Gallagher & Co. |>   ,   --   [ARTHUR J GALLAGHER AND CO]  {ajg.com}    Occurrence: 1
+CONTACT:    <| Alan J. Benet |>      --   [Alan Benet]  {ajbenet.com}    Occurrence: 1
+COMPANY:    <| Benet Inc |>   in   --   [A J BENET INCORPORATION]  {ajbenet.com}    Occurrence: 1

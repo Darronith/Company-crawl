@@ -1,0 +1,75 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY:    <| Pest Control |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: your   <| Pest Control |>   needs   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+CITY: North   <| Little Rock |>      --   [N LITTLE ROCK]  {aimcompanies.com}    Occurrence: 4
+COMPANY: ,   <| advanced , information |>   ,   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com}    Occurrence: 7
+COMPANY:    <| Public Works |>      --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net}    Occurrence: 2
+COMPANY: jersey   <| pest control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 3
+COMPANY: green   <| pest control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 3
+COMPANY: our   <| pest control |>   procedures   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: The   <| Aikido School of Central Ohio |>   is   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 2
+COMPANY: the   <| pest control |>   industry   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: The   <| Aikido School Ohio |>   is   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 1
+COMPANY: The   <| Aiken Department of Public |>   Safety   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net}    Occurrence: 3
+ADDRESS: Underwriters   <| 14 Wall Street Suite 820 |>   ,   --   [14 WALL ST # 820]  {aimu.org}    Occurrence: 3
+COMPANY: ,   <| pest control |>   coupons   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 3
+COMPANY: ,   <| Public Services Director |>   The   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net}    Occurrence: 1
+COMPANY: and   <| aviation products liability insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com}    Occurrence: 1
+COMPANY: the   <| Aikido School of Central Ohio |>   is   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 1
+ADDRESS:    <| 801 Second Avenue |>   ,   --   [801 2ND AVENUE # 1200]  {aiken.com}    Occurrence: 2
+COMPANY:    <| Aikido School of Central Ohio |>   |   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 2
+COMPANY:    <| Pest Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 5
+ADDRESS:    <| 7725 South 6th |>   Street   --   [7725 S 6TH ST]  {aim-inc.com}    Occurrence: 1
+COMPANY: Aerospace   <| Insurance Managers |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com}    Occurrence: 1
+COMPANY: ,   <| AIM or a NationaLease |>   affiliate   --   [AIM NATIONALEASE]  {aimnationalease.com}    Occurrence: 1
+COMPANY: with   <| aviation and aircraft insurance |>   solutions   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com}    Occurrence: 1
+COMPANY: Phoenix   <| Aviation Managers |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com}    Occurrence: 1
+COMPANY: The   <| Aikido School of Central Ohio |>      --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 2
+COMPANY: of   <| pest control |>   services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+ADDRESS: 1615   <| Nixon Road |>      --   [1611 NIXON ROAD]  {aimovers.com}    Occurrence: 2
+COMPANY:    <| aiken , st. louis , siljeg |>   ,   --   [AIKEN ST LOUIS AND SILJEG]  {aiken.com}    Occurrence: 3
+COMPANY: |   <| AIKEN , ST. LOUIS & SILJEG |>   ,   --   [AIKEN ST LOUIS AND SILJEG]  {aiken.com}    Occurrence: 6
+COMPANY:    <| American International – Movers |>   Incorporated   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com}    Occurrence: 2
+COMPANY: superior   <| pest control |>   services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 3
+ADDRESS: •   <| 7725 South 6th |>   Street   --   [7725 S 6TH ST]  {aim-inc.com}    Occurrence: 4
+COMPANY: became   <| Aiken , St. Louis & Siljeg |>   ,   --   [AIKEN ST LOUIS AND SILJEG]  {aiken.com}    Occurrence: 1
+COMPANY: ,   <| AIM or a NationaLease |>   affiliate   --   [AIM NATIONALEASE]  {aimntls.com}    Occurrence: 1
+COMPANY: ,   <| Aikido Cincinnati |>   ,   --   [AIKIDO OF CINCINNATI]  {aikidocincy.com}    Occurrence: 1
+COMPANY:    <| Aikler Paving |>   Company   --   [AIKLER ASPHALT PAVING CO]  {aikler.com}    Occurrence: 3
+COMPANY:    <| AIM Office Relocation |>   Services   --   [AIM RELOCATION GROUP]  {aimrelo.com}    Occurrence: 1
+COMPANY: Complete   <| Pest Control |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: Cooking   <| for Your Health |>      --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com}    Occurrence: 1
+COMPANY: ,   <| blending technologies |>      --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com}    Occurrence: 1
+COMPANY: Our   <| pest control |>   procedures   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+CONTACT: Agents   <| David Cohen |>   and   --   [David M Cohen]  {ailla.com}    Occurrence: 2
+COMPANY:    <| pest control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: |   <| Aikido School of Central Ohio |>   |   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 2
+COMPANY: ,   <| atlantis , international |>   ,   --   [ATLANTIS INTERNATIONAL LTD]  {ailtravel.com}    Occurrence: 1
+COMPANY: to   <| Aikler Paving |>   Company   --   [AIKLER ASPHALT PAVING CO]  {aikler.com}    Occurrence: 1
+COMPANY: the   <| pest control |>   business   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: reading   <| pest control |>   periodicals   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+CITY: North   <| Little Rock |>   ,   --   [N LITTLE ROCK]  {aimcompanies.com}    Occurrence: 23
+COMPANY:    <| Aikido School of Central Ohio |>      --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 2
+COMPANY: green   <| pest control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY:    <| American Institute of Marine |>   Underwriters   --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org}    Occurrence: 10
+COMPANY: a   <| pest control |>   company   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY:    <| Aikido Of Cincinnati |>      --   [AIKIDO OF CINCINNATI]  {aikidocincy.com}    Occurrence: 2
+COMPANY: ,   <| pest control |>   techniques   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 4
+CONTACT: ,   <| Murray Sawyer |>   ,   --   [H Murray Sawyer Jr]  {ailcorp.com}    Occurrence: 1
+ADDRESS:    <| 3804 N. Nona |>   Street   --   [3804 NONA ST]  {aimcompanies.com}    Occurrence: 7
+COMPANY: understanding   <| pest control |>   services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+CONTACT: President   <| Steven Van Neeley |>   ,   --   [Steven Neeley]  {aimofohio.com}    Occurrence: 1
+CONTACT:    <| David Cohen |>   has   --   [David M Cohen]  {ailla.com}    Occurrence: 2
+COMPANY: of   <| asphalt paving |>      --   [AIKLER ASPHALT PAVING CO]  {aikler.com}    Occurrence: 1
+COMPANY:    <| Aiken , St. Louis & Siljeg |>   ,   --   [AIKEN ST LOUIS AND SILJEG]  {aiken.com}    Occurrence: 1
+COMPANY: the   <| Pest Control |>   Industry   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY: a   <| pest control |>   specialist   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com}    Occurrence: 1
+COMPANY:    <| Aiken Department of Public |>   Safety   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net}    Occurrence: 2
+ADDRESS:    <| 3804 North Nona |>   Street   --   [3804 NONA ST]  {aimcompanies.com}    Occurrence: 1
+COMPANY: The   <| Aikido School Ohio |>   has   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org}    Occurrence: 1
+COMPANY:    <| AIM ReAssure ( for Prostate Health |>   )   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com}    Occurrence: 1
+COMPANY: ,   <| American Institute of Marine |>   Underwriters   --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org}    Occurrence: 1
+CONTACT:    <| Gloria and Jay Smith |>      --   [Gloria A Smith]  {aim4health.com}    Occurrence: 1
+COMPANY: The   <| American Institute of Marine |>   Underwriters   --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org}    Occurrence: 1
+COMPANY: ©   <| AIKEN , ST. LOUIS & SILJEG |>   ,   --   [AIKEN ST LOUIS AND SILJEG]  {aiken.com}    Occurrence: 3

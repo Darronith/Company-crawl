@@ -1,0 +1,472 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+STATE: ,   <| CA |>   94553   --   [CA]  {ais4ndt.com}    Occurrence: 1
+COMPANY: To   <| Airtite Products |>      --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: About   <| Air Transport |>   International   --   [AIR TRANSPORT INTL LLC]  {airtransport.cc}    Occurrence: 1
+STATE: ,   <| CA |>   92593   --   [CA]  {aislimos.com}    Occurrence: 1
+COMPANY:    <| Alabama Industrial |>   Service   --   [ALABAMA INDUSTRIAL SVC CO]  {aisalabama.com}    Occurrence: 1
+COMPANY: ,   <| Air , Temp |>   ,   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 1
+COMPANY: allows   <| A & J |>   to   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 1
+COMPANY:    <| Airtite Products |>   '   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 2
+STATE: York   <| PA |>      --   [PA]  {ais-york.com}    Occurrence: 1
+CITY: in   <| Lubbock |>   Tx   --   [LUBBOCK]  {aiviestransmission.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   Offices   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CITY:    <| Hammonton |>   ,   --   [HAMMONTON]  {airventductcleaning.com}    Occurrence: 1
+STATE: ,   <| TX |>   Air   --   [TX]  {airwiseair.com}    Occurrence: 1
+ZIP: NY   <| 13905 |>      --   [13905 1117]  {airtemphvac.com}    Occurrence: 1
+STATE: ,   <| CA |>   HVAC   --   [CA]  {airtro.com}    Occurrence: 4
+COMPANY:    <| A & J |>   to   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 3
+CITY:    <| Seattle |>   Culinary   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+CONTACT:    <| Marvin Hill |>   -   --   [Marvin Hill]  {airys.com}    Occurrence: 1
+CITY: in   <| Azle |>   in   --   [AZLE]  {airwiseair.com}    Occurrence: 1
+CITY: DriveEast   <| Syracuse |>   ,   --   [EAST SYRACUSE]  {airtemphvac.com}    Occurrence: 1
+COMPANY: Global   <| Aviation Insurance |>   and   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 2
+ZIP: CA   <| 91016 |>      --   [91016 4634]  {airtro.com}    Occurrence: 3
+COMPANY: -   <| American Industrial |>   Transmission   --   [AMERICAN INDUSTRIAL TRANS CO]  {aittransmission.com}    Occurrence: 2
+COMPANY: ©   <| Air Trac Corp. |>   All   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+ZIP:    <| 79401 |>      --   [79401 4832]  {aiviestransmission.com}    Occurrence: 1
+COMPANY:    <| A & J |>   '   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 3
+STATE: ,   <| DC |>   20007   --   [DC]  {aisgw.org}    Occurrence: 3
+COMPANY:    <| A & J Manufacturing Co |>   .   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 7
+CITY: ,   <| Paterson |>   ,   --   [PATERSON]  {airtrontech.com}    Occurrence: 1
+COMPANY:    <| Airways Freight |>   is   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 4
+STATE: ,   <| CA |>      --   [CA]  {aitslimo.com}    Occurrence: 7
+ADDRESS:    <| 7 Weymouth Road |>      --   [7 WEYMOUTH ROAD]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| ait industries |>   ,   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+ADDRESS:    <| 14831 Franklin Ave |>   .   --   [14831 FRANKLIN AVENUE]  {aj-racks.com}    Occurrence: 1
+COMPANY:    <| AIT Industries |>   at   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: that   <| A & J |>   Manufacturing   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 1
+COMPANY:    <| A-Ivie ' s Transmission |>   Service   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+CITY: School   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Air Transport |>   Services   --   [AIR TRANSPORT INTL LLC]  {airtransport.cc}    Occurrence: 2
+CITY: the   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 2
+COMPANY: indoor   <| air and water |>   contamination   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY:    <| A & J |>   News   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 3
+ADDRESS:    <| 40 Shuman Blvd |>   .   --   [40 SHUMAN BLVD # 345]  {aishipping.com}    Occurrence: 3
+COMPANY: At   <| Airways Freight |>   ,   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+COMPANY: at   <| AIT , logistics |>   careers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   solves   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: including   <| Heating , Air |>   Conditioning   --   [AIROTRON HEATING AND AIR COND]  {airtrontech.com}    Occurrence: 1
+COMPANY:    <| Air-Vent Duct Cleaning , Inc. |>   is   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: Welcome   <| American Independent |>   Line   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 2
+COMPANY:    <| A & J |>   Engineering   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 1
+STATE: ,   <| WI |>   53562   --   [WI]  {airwater.com}    Occurrence: 3
+COMPANY: of   <| American Independent |>   Lines   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 1
+COMPANY:    <| Air Trac |>   is   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 1
+COMPANY: from   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY:    <| Arrive In Style Limousines , Inc. |>   are   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+ADDRESS:    <| 5133 East Roadrunner |>   Drive   --   [5133 E ROADRUNNER DR]  {airwestinc.com}    Occurrence: 1
+COMPANY: Call   <| Air Xpress |>   .   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY:    <| American Industrial |>   Transmission   --   [AMERICAN INDUSTRIAL TRANS CO]  {aittransmission.com}    Occurrence: 5
+COMPANY:    <| Air Texas |>   focuses   --   [AIR TEXAS MECHANICAL]  {airtexasmechanical.com}    Occurrence: 1
+CITY: North   <| Las Vegas |>   ,   --   [LAS VEGAS]  {ais-now.com}    Occurrence: 9
+CITY: /   <| Monterey |>   Office   --   [MONTEREY]  {aitslimo.com}    Occurrence: 2
+CITY: to   <| Seattle |>   .   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+CITY:    <| Syracuse |>      --   [EAST SYRACUSE]  {airtemphvac.com}    Occurrence: 1
+CITY: Greater   <| Washington |>      --   [WASHINGTON]  {aisgw.org}    Occurrence: 3
+STATE: Glendale   <| CA |>      --   [CA]  {airtro.com}    Occurrence: 14
+STATE: ,   <| CA |>   heat   --   [CA]  {airtro.com}    Occurrence: 2
+STATE: ,   <| CA |>   Air-Tro   --   [CA]  {airtro.com}    Occurrence: 4
+STATE: ,   <| NY |>   14120-2019   --   [NY]  {airtraccorp.com}    Occurrence: 2
+STATE: ,   <| NY |>   13057   --   [NY]  {airtemphvac.com}    Occurrence: 1
+CITY:    <| Tustin |>   ,   --   [TUSTIN]  {aj-racks.com}    Occurrence: 8
+COMPANY: s   <| heating and air |>   conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: in   <| Air Texas |>   .   --   [AIR TEXAS MECHANICAL]  {airtexasmechanical.com}    Occurrence: 1
+COMPANY:    <| Airwise Heating and Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 7
+CITY: (   <| Binghamton |>   ,   --   [BINGHAMTON]  {airtemphvac.com}    Occurrence: 1
+COMPANY: ,   <| Air-Wave Air Conditioning |>   ,   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+COMPANY: with   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+CITY:    <| Monrovia |>      --   [MONROVIA]  {airtro.com}    Occurrence: 16
+COMPANY: about   <| AIT Worldwide Logistics |>   ?   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CITY: |   <| Las Vegas |>   |   --   [LAS VEGAS]  {ais-now.com}    Occurrence: 10
+CITY: Systems   <| Las Vegas |>      --   [LAS VEGAS]  {ais-now.com}    Occurrence: 8
+CONTACT:    <| John C. Menz |>   ,   --   [John Menz]  {airwater.com}    Occurrence: 1
+CITY:    <| San Luis Obispo |>   ,   --   [SAN LUIS OBISPO]  {airvolblock.com}    Occurrence: 1
+CITY:    <| Seattle |>   ,   --   [SEATTLE]  {ais.edu}    Occurrence: 4
+COMPANY: specialty   <| aviation and aerospace insurance |>   brokerage   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+STATE: ,   <| CA |>   92780-7217   --   [CA]  {aj-racks.com}    Occurrence: 7
+COMPANY:    <| AIT Industries |>   is   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: 2016   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 7
+COMPANY:    <| American Independent Shipping |>   Co.   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 1
+STATE: ,   <| IL |>   60601-6219   --   [IL]  {aisc.org}    Occurrence: 1
+COMPANY: |   <| AIT Worldwide |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: The   <| Art Institute of Seattle |>   and   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 2
+CITY: of   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+COMPANY: chiller   <| Air Xpress |>   has   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+STATE: ,   <| TX |>   ,   --   [TX]  {airwiseair.com}    Occurrence: 3
+CITY:    <| Tinley Park |>   ,   --   [TINLEY PARK]  {airys.com}    Occurrence: 4
+ZIP: CALIFORNIA   <| 92626 |>      --   [92626 6001]  {airwaypack.com}    Occurrence: 1
+STATE: ,   <| DC |>      --   [DC]  {aisgw.org}    Occurrence: 31
+COMPANY: The   <| Art Institutes |>      --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 4
+CITY: Our   <| Seattle |>   Campus   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+CITY: to   <| Seattle. |>   ``   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+CITY: :   <| Washington |>   Episcopal   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Airways Freight Corp |>   Join   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: -   <| Air Treatment |>   Corporation   --   [AIR TREATMENT CORP]  {airtreatment.com}    Occurrence: 1
+COMPANY: 1   <| Air Conditioning |>   Specialist   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 6
+COMPANY:    <| Airy 's , Inc |>   .   --   [AIRY 'S INCORPORATION]  {airys.com}    Occurrence: 4
+COMPANY: Will   <| Airtite Products |>   windows   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY:    <| Airways Freight Corp |>   General   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+CITY:    <| Bronx |>   ,   --   [BRONX]  {airwaveac.com}    Occurrence: 6
+CITY: metal   <| San Jose |>   California   --   [SAN JOSE]  {airtronics.com}    Occurrence: 12
+COMPANY: indoor   <| air and water |>   contaminants   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+CITY: Our   <| Abilene |>   location   --   [ABILENE]  {airtiteproducts.com}    Occurrence: 1
+CITY: ,   <| Middleton |>   ,   --   [MIDDLETON]  {airwater.com}    Occurrence: 2
+STATE: ,   <| CA |>   area   --   [CA]  {airtro.com}    Occurrence: 1
+ADDRESS:    <| 1524 35th Street , NW |>   ,   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 3
+CITY: of   <| Seattle |>   ,   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+STATE: Pasadena   <| CA |>      --   [CA]  {airtro.com}    Occurrence: 4
+CITY: Greater   <| Washington |>   .   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| A-Ivie ' s Transmission |>      --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 2
+CITY:    <| Houston |>   ’   --   [HOUSTON]  {airtexasmechanical.com}    Occurrence: 1
+ADDRESS:    <| 4825 Highland Road |>      --   [4825 HIGHLAND ROAD]  {airwaylanes.com}    Occurrence: 1
+STATE: ,   <| CA |>   91016   --   [CA]  {airtro.com}    Occurrence: 3
+COMPANY: Call   <| Air Xpress |>      --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY: give   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+ADDRESS:    <| 2767 Chestnut St. |>   Montgomery   --   [2767 CHESTNUT ST]  {aisalabama.com}    Occurrence: 1
+ZIP: ,   <| 72702 |>      --   [72702 1888]  {airwaysfreight.com}    Occurrence: 6
+CITY:    <| Seattle |>      --   [SEATTLE]  {ais.edu}    Occurrence: 4
+COMPANY: of   <| Air Transport |>   International   --   [AIR TRANSPORT INTL LLC]  {airtransport.cc}    Occurrence: 1
+COMPANY: The   <| Art Institute of Seattle |>   participated   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY: with   <| Arrive In Style Limousines |>   and   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: to   <| A & J |>   ’   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY: 2016   <| AJA Video |>   Systems   --   [AJA VIDEO]  {aja.com}    Occurrence: 6
+COMPANY:    <| AIT Worldwide Logistics |>   enables   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY:    <| Air-Vent Duct Cleaning |>   has   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 3
+COMPANY: top-of-the-line   <| heating , air |>   conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY:    <| Air Treatment |>   Corporation   --   [AIR TREATMENT CORP]  {airtreatment.com}    Occurrence: 2
+COMPANY: ,   <| ait industries |>   conact   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: proven   <| air and water |>   purification   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: at   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY:    <| Automated Inspection Systems |>   comprises   --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+STATE: ,   <| CA |>   air   --   [CA]  {airtro.com}    Occurrence: 2
+CITY:    <| Syracuse |>   -   --   [EAST SYRACUSE]  {airtemphvac.com}    Occurrence: 4
+STATE: ,   <| CA |>   professional   --   [CA]  {airtro.com}    Occurrence: 1
+STATE: ,   <| WA |>      --   [WA]  {ais.edu}    Occurrence: 4
+STATE: ,   <| TX |>      --   [TX]  {airwiseair.com}    Occurrence: 24
+CITY: Ai   <| Seattle |>   campus   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+ZIP: WI   <| 53562 |>      --   [53562 2835]  {airwater.com}    Occurrence: 1
+CITY: in   <| san jose |>   silicon   --   [SAN JOSE]  {airtronics.com}    Occurrence: 5
+STATE: ,   <| CA |>   92591   --   [CA]  {aislimos.com}    Occurrence: 10
+COMPANY: |   <| Air-Vent Duct Cleaning , Inc |>   .   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 12
+CITY: ,   <| Monrovia |>   ,   --   [MONROVIA]  {airtro.com}    Occurrence: 3
+ADDRESS:    <| 1165 Upper Front |>   St.Binghamton   --   [1165 UPPER FRONT ST]  {airtemphvac.com}    Occurrence: 1
+COMPANY:    <| Airways Freight Corp |>   About   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY: ©   <| Air Tours Inc. |>   2012-2013   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY:    <| Airways Freight |>   Corporation   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+CITY: 908   <| Niagara Falls |>   Blvd   --   [NIAGARA FALLS]  {airtraccorp.com}    Occurrence: 3
+COMPANY: |   <| Airway Lanes |>      --   [AIRWAY LANES]  {airwaylanes.com}    Occurrence: 4
+ZIP: Ar   <| 72704 |>      --   [72704 5734]  {airwaysfreight.com}    Occurrence: 6
+CITY:    <| Abilene |>   Texas   --   [ABILENE]  {airtiteproducts.com}    Occurrence: 1
+CITY: of   <| Middleton |>   ,   --   [MIDDLETON]  {airwater.com}    Occurrence: 2
+COMPANY: at   <| Aitz Hayim |>   .   --   [AITZ HAYIM CTR-JEWISH LIVING]  {aitzhayim.org}    Occurrence: 1
+COMPANY:    <| Arrive In Style Limousines , Inc. |>   is   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY: Indoor   <| Air Quality and Water |>   Purification   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY:    <| Air Trac |>   designs   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 3
+COMPANY: exceptional   <| worldwide logistics |>   solutions   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 8
+COMPANY:    <| Air Tours |>   Inc-Travel   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 2
+CITY: North   <| Las Vegas |>   NV   --   [LAS VEGAS]  {ais-now.com}    Occurrence: 1
+STATE: ,   <| NY |>   13323   --   [NY]  {airtemphvac.com}    Occurrence: 1
+COMPANY: Quality   <| Air Conditioning |>   Built   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3
+COMPANY: Carrier   <| Heating and Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: The   <| Art Institutes |>   —   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY: 2016   <| AIT Worldwide Logistics |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 8
+CONTACT: ,   <| George Peters |>   ,   --   [George A Peters]  {airworks-studio.com}    Occurrence: 1
+CITY: the   <| Washington |>   Home   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+COMPANY:    <| Airwise Heating & Air |>   has   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY:    <| American Independent |>   Line   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 13
+CITY: of   <| Washington |>   (   --   [WASHINGTON]  {aisgw.org}    Occurrence: 2
+STATE: ,   <| NY |>   13905   --   [NY]  {airtemphvac.com}    Occurrence: 1
+STATE: ,   <| NV |>   89032   --   [NV]  {ais-now.com}    Occurrence: 9
+CITY:    <| Middleton |>   ,   --   [MIDDLETON]  {airwater.com}    Occurrence: 1
+COMPANY: ,   <| AIT Worldwide Logistics |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+STATE: ,   <| CA |>      --   [CA]  {airtro.com}    Occurrence: 20
+STATE: ,   <| TX |>   –   --   [TX]  {airwiseair.com}    Occurrence: 2
+COMPANY: At   <| AIT Worldwide Logistics |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+STATE: ,   <| CA |>   95945   --   [CA]  {aja.com}    Occurrence: 8
+COMPANY:    <| Air Trac |>   :   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 4
+CITY:    <| Washington |>   Waldorf   --   [WASHINGTON]  {aisgw.org}    Occurrence: 3
+CITY: ,   <| niagara |>   ,   --   [NIAGARA FALLS]  {airtraccorp.com}    Occurrence: 2
+COMPANY: The   <| Art Institute of Seattle |>   ,   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 5
+COMPANY:    <| Anderson International Trading |>   ,   --   [ANDERSON INTERNATIONAL TRADING]  {aitwood.com}    Occurrence: 1
+COMPANY:    <| Air Tours Inc |>   ``   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+COMPANY: ,   <| aviation Insurance |>   ,   --   [AVIATION INSURANCE SVC-NV INCORPORATION]  {aisins.com}    Occurrence: 1
+CITY: Greater   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 2
+CITY:    <| Abilene |>   ,   --   [ABILENE]  {airtiteproducts.com}    Occurrence: 1
+COMPANY: The   <| Art Institute of Seattle |>   student   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY:    <| Advanced Industrial |>   Services   --   [ADVANCED INDUSTRIAL SVC]  {ais-york.com}    Occurrence: 2
+COMPANY: about   <| AIT Worldwide Logistics |>   '   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+STATE: ,   <| CA |>   and   --   [CA]  {airtro.com}    Occurrence: 2
+CONTACT:    <| Terry Bray |>      --   [Terry Bray]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| Aitz Hayim |>   Center   --   [AITZ HAYIM CTR-JEWISH LIVING]  {aitzhayim.org}    Occurrence: 4
+STATE: ,   <| NJ |>   08037   --   [NJ]  {airventductcleaning.com}    Occurrence: 1
+ZIP: CA   <| 95945 |>   USA   --   [95945 9089]  {aja.com}    Occurrence: 3
+COMPANY:    <| AIT Worldwide Logistics |>   Renews   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CITY: Serving   <| Monterey |>   ,   --   [MONTEREY]  {aitslimo.com}    Occurrence: 1
+COMPANY:    <| Automated Inspection Systems |>   ,   --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+CITY:    <| Mesa |>   ,   --   [MESA]  {airwestinc.com}    Occurrence: 1
+ZIP: WI   <| 53562 |>   for   --   [53562 2835]  {airwater.com}    Occurrence: 2
+COMPANY: ‹   <| Aitz Hayim |>   Center   --   [AITZ HAYIM CTR-JEWISH LIVING]  {aitzhayim.org}    Occurrence: 4
+STATE: ,   <| TX |>   or   --   [TX]  {airwiseair.com}    Occurrence: 1
+CITY: St.   <| Montgomery |>   ,   --   [MONTGOMERY]  {aisalabama.com}    Occurrence: 1
+COMPANY: to   <| Arrive In Style |>   ?   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+CITY: ,   <| Grass Valley |>   ,   --   [GRASS VALLEY]  {aja.com}    Occurrence: 1
+COMPANY:    <| AJA Video |>   Systems   --   [AJA VIDEO]  {aja.com}    Occurrence: 10
+STATE: ,   <| CA |>   92592   --   [CA]  {aislimos.com}    Occurrence: 15
+STATE: ,   <| IL |>   60563   --   [IL]  {aishipping.com}    Occurrence: 3
+COMPANY: 2016   <| Airtite Products |>   ,   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 2
+CITY: the   <| Highland Park |>   Community   --   [HIGHLAND PARK]  {aitzhayim.org}    Occurrence: 1
+COMPANY: The   <| Art Institute of Seattle |>   (   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+STATE: ,   <| CA |>   .   --   [CA]  {airtro.com}    Occurrence: 3
+COMPANY:    <| A-Ivies Transmission |>   Service   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 2
+ADDRESS:    <| 7455 W. Duvan |>   Drive   --   [7455 DUVAN DR]  {airys.com}    Occurrence: 4
+ADDRESS:    <| 4008 S Treadaway |>      --   [4008 S TREADAWAY BLVD]  {airtiteproducts.com}    Occurrence: 1
+CITY: Repair   <| Las Vegas |>      --   [LAS VEGAS]  {ais-now.com}    Occurrence: 8
+ADDRESS: ,   <| 1524 35th Street , NW |>   ,   --   [1524 35TH ST NW]  {aisgw.org}    Occurrence: 1
+ADDRESS:    <| 1630 S. Myrtle Ave. |>   ,   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 1
+COMPANY: an   <| Art Institutes |>   school   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY:    <| Air Xpress |>   is   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+STATE: ,   <| DC |>   ,   --   [DC]  {aisgw.org}    Occurrence: 1
+COMPANY: The   <| Art Institute |>   ”   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY: Central   <| Heating and Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 3
+COMPANY:    <| Air West Inc. |>   |   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+CITY:    <| San Luis Obispo |>   Builders   --   [SAN LUIS OBISPO]  {airvolblock.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   submitted   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CITY: ,   <| Syracuse |>   ,   --   [EAST SYRACUSE]  {airtemphvac.com}    Occurrence: 1
+COMPANY: Airtronics   <| Metal Products , Inc. |>   |   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 6
+COMPANY: fresh   <| air and clean water |>   .   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: At   <| Airwise Heating and Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: with   <| Airways Freight |>   possess   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY:    <| Arrive in Style Limousines , Inc |>   ©   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 5
+COMPANY: but   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Airtronics   <| Metal Products , Inc |>   .   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+COMPANY: The   <| Advanced Imaging |>   Care   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+COMPANY:    <| Airways Freight Corp |>   »   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 8
+CITY: :   <| Washington |>   Waldorf   --   [WASHINGTON]  {aisgw.org}    Occurrence: 3
+ADDRESS:    <| 1 Suburban Rd |>   .   --   [1 SUBURBAN ROAD]  {airvolblock.com}    Occurrence: 1
+COMPANY: Warship   <| A & J |>   Manufacturing   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 3
+CITY: 7300   <| Lubbock |>   ,   --   [LUBBOCK]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: Copyright   <| Air Texas Mechanical |>   ,   --   [AIR TEXAS MECHANICAL]  {airtexasmechanical.com}    Occurrence: 2
+COMPANY:    <| Airway Lanes |>      --   [AIRWAY LANES]  {airwaylanes.com}    Occurrence: 3
+CITY:    <| Chicago |>   ,   --   [CHICAGO]  {aisc.org}    Occurrence: 2
+CITY:    <| Waterford |>   ,   --   [WATERFORD]  {airwaylanes.com}    Occurrence: 1
+COMPANY: is   <| air conditioning |>   .   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3
+STATE: ,   <| WI |>   USA   --   [WI]  {airwater.com}    Occurrence: 2
+COMPANY: When   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+ZIP: CA   <| 94553 |>   ,   --   [94553 8602]  {ais4ndt.com}    Occurrence: 1
+ZIP: IL   <| 60563 |>      --   [60563 7974]  {aishipping.com}    Occurrence: 3
+CITY: ,   <| Bronx |>   ,   --   [BRONX]  {airwaveac.com}    Occurrence: 3
+COMPANY:    <| Air Tours Inc |>   is   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+STATE: ,   <| MI |>   48328   --   [MI]  {airwaylanes.com}    Occurrence: 1
+CITY: Our   <| Monrovia |>   warehouse   --   [MONROVIA]  {airtro.com}    Occurrence: 1
+COMPANY: About   <| AIT Worldwide Logistics |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   |   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+CITY: 89032   <| LAS VEGAS |>   I   --   [LAS VEGAS]  {ais-now.com}    Occurrence: 8
+CITY:    <| Fayetteville |>   Ar   --   [FAYETTEVILLE]  {airwaysfreight.com}    Occurrence: 6
+COMPANY: &   <| Air Conditioning , Inc |>   .   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 1
+STATE: ,   <| IL |>   60022   --   [IL]  {aitzhayim.org}    Occurrence: 2
+COMPANY: with   <| Airways Freight |>   for   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+STATE: ,   <| TX |>   area   --   [TX]  {airwiseair.com}    Occurrence: 2
+STATE: ,   <| TX |>   .   --   [TX]  {airwiseair.com}    Occurrence: 4
+CITY: the   <| Monrovia |>   Chamber   --   [MONROVIA]  {airtro.com}    Occurrence: 2
+COMPANY: ROOM   <| AIR CONDITIONING |>   SALES   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+CITY: the   <| Bronx |>   ,   --   [BRONX]  {airwaveac.com}    Occurrence: 3
+COMPANY:    <| Airways Freight |>   CorpAirways   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 2
+STATE: ,   <| TX |>   77043   --   [TX]  {airtexasmechanical.com}    Occurrence: 2
+CITY: Management   <| Las Vegas |>      --   [LAS VEGAS]  {ais-now.com}    Occurrence: 8
+COMPANY: -   <| AJA Video |>   Systems   --   [AJA VIDEO]  {aja.com}    Occurrence: 10
+COMPANY: Let   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: by   <| Air & Water Technology |>   ,   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+CITY: '   <| Atlanta |>   offices   --   [ATLANTA]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: The   <| Art Institutes |>   ,   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+STATE: Worth   <| TX |>      --   [TX]  {airwiseair.com}    Occurrence: 5
+COMPANY: at   <| Air & Water Technology |>   ,   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 2
+COMPANY: ,   <| Heating , Air |>   Conditioning   --   [AIROTRON HEATING AND AIR COND]  {airtrontech.com}    Occurrence: 2
+CITY: for   <| Las Vegas |>   &   --   [LAS VEGAS]  {ais-now.com}    Occurrence: 1
+CITY: of   <| Seattle |>   ”   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+ZIP:    <| 91016 |>      --   [91016 4634]  {airtro.com}    Occurrence: 14
+ZIP:    <| 95945 |>   USA   --   [95945 9089]  {aja.com}    Occurrence: 1
+ADDRESS:    <| 2960 AIRWAY AVENUE |>   ,   --   [2960 AIRWAY AVENUE # B104]  {airwaypack.com}    Occurrence: 1
+ZIP: MI   <| 48328 |>      --   [48328 1138]  {airwaylanes.com}    Occurrence: 1
+CITY: ,   <| Binghamton |>   ,   --   [BINGHAMTON]  {airtemphvac.com}    Occurrence: 1
+COMPANY: hire   <| Air-Vent Duct Cleaning |>   ,   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY:    <| Airways Freight Corp |>      --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 4
+CONTACT:    <| Marvin Hill |>      --   [Marvin Hill]  {airys.com}    Occurrence: 1
+COMPANY: 2013   <| A-Ivie ' s Transmission |>   Service   --   [A-IVIE 'S TRANSMISSION]  {aiviestransmission.com}    Occurrence: 1
+COMPANY: Contact   <| Air Texas Mechanical |>   ,   --   [AIR TEXAS MECHANICAL]  {airtexasmechanical.com}    Occurrence: 3
+STATE: ,   <| CA |>      --   [CA]  {airvolblock.com}    Occurrence: 4
+COMPANY: ,   <| American , Industrial |>   ,   --   [AMERICAN INDUSTRIAL TRANS CO]  {aittransmission.com}    Occurrence: 1
+COMPANY: HVAC   <| Duct Cleaning |>      --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 9
+COMPANY: 2016   <| Artemis International Solutions |>   Corporation   --   [ARTEMIS INTERNATIONAL SOLUTION]  {aisc.com}    Occurrence: 1
+STATE: Vegas   <| NV |>   89032   --   [NV]  {ais-now.com}    Occurrence: 1
+ZIP: NJ   <| 08037 |>      --   [08037 1009]  {airventductcleaning.com}    Occurrence: 1
+CONTACT: and   <| Bob Helbing |>   ,   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+CITY: St.   <| Bensenville |>   ,   --   [BENSENVILLE]  {aitindustries.com}    Occurrence: 1
+CITY: the   <| Washington |>   monument   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+CITY:    <| COSTA MESA |>   ,   --   [COSTA MESA]  {airwaypack.com}    Occurrence: 1
+COMPANY: 2014   <| American Independent |>   Line   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 2
+COMPANY: Contact   <| AIT Industries |>      --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+ADDRESS:    <| 2434 Del Monte Avenue |>      --   [2434 DEL MONTE AVENUE]  {aitslimo.com}    Occurrence: 1
+COMPANY: superior   <| air or water |>   quality   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: ,   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+CITY: to   <| Grass Valley |>   (   --   [GRASS VALLEY]  {aja.com}    Occurrence: 1
+COMPANY:    <| Advanced Imaging Solutions |>   -   --   [ADVANCED IMAGING SOLUTIONS]  {ais-now.com}    Occurrence: 1
+CITY: greater   <| Washington |>   one   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+CITY: in   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 3
+CITY: To   <| Abilene |>   :   --   [ABILENE]  {airtiteproducts.com}    Occurrence: 1
+STATE: Middleton   <| WI |>      --   [WI]  {airwater.com}    Occurrence: 2
+CITY: ,   <| mesa |>   ,   --   [MESA]  {airwestinc.com}    Occurrence: 2
+ZIP: DC   <| 20007 |>   Phone   --   [20007 2700]  {aisgw.org}    Occurrence: 3
+CITY: same   <| Monrovia |>   address   --   [MONROVIA]  {airtro.com}    Occurrence: 2
+COMPANY:    <| AIT Worldwide Logistics |>   Honored   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: 5777   <| AITZ HAYIM |>   STYLE   --   [AITZ HAYIM CTR-JEWISH LIVING]  {aitzhayim.org}    Occurrence: 1
+STATE: ,   <| NY |>      --   [NY]  {airtraccorp.com}    Occurrence: 1
+COMPANY: their   <| air conditioning |>   investment   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 1
+CITY: Greater   <| Washington |>   and   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+CITY:    <| Washington |>   Episcopal   --   [WASHINGTON]  {aisgw.org}    Occurrence: 2
+CITY:    <| Naperville |>   ,   --   [NAPERVILLE]  {aishipping.com}    Occurrence: 3
+COMPANY: The   <| Art Institute of Seattle |>   has   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+STATE: ,   <| CA |>   92590   --   [CA]  {aislimos.com}    Occurrence: 1
+ZIP: CA   <| 95945 |>      --   [95945 9089]  {aja.com}    Occurrence: 5
+COMPANY:    <| Air-Wave Air Conditioning |>   Co.   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3
+COMPANY:    <| in a limousine |>   with   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+STATE: Upstate   <| NY |>      --   [NY]  {airtemphvac.com}    Occurrence: 1
+COMPANY: of   <| AIT ' s logistics |>   solutions   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+COMPANY: 2009   <| AIR-VENT DUCT CLEANING , INC |>   .   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 6
+STATE: Temecula   <| CA |>   92591   --   [CA]  {aislimos.com}    Occurrence: 8
+COMPANY:    <| Airways Freight Corp |>   Tradeshow   --   [AIRWAYS FREIGHT CORP]  {airwaysfreight.com}    Occurrence: 1
+COMPANY:    <| Arrive In Style |>   in   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+ADDRESS:    <| 14831 Franklin Avenue |>      --   [14831 FRANKLIN AVENUE]  {aj-racks.com}    Occurrence: 7
+CITY: and   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 2
+ADDRESS:    <| 1 Suburban Rd |>   •   --   [1 SUBURBAN ROAD]  {airvolblock.com}    Occurrence: 4
+ADDRESS:    <| 3849 West Wedington |>   Drive   --   [3849 W WEDINGTON DR]  {airwaysfreight.com}    Occurrence: 6
+COMPANY:    <| AirWard , Inc |>   .   --   [AIRWARD INCORPORATION]  {airward.com}    Occurrence: 15
+COMPANY: an   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: Vent   <| Duct Cleaning |>   2016   --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 1
+COMPANY: //   <| AIRTITE PRODUCTS |>   LLC   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 4
+ZIP: CA   <| 93940 |>      --   [93940 3832]  {aitslimo.com}    Occurrence: 1
+COMPANY: The   <| Art Institute of Seattle |>   .   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+STATE: ,   <| TX |>   and   --   [TX]  {airwiseair.com}    Occurrence: 2
+COMPANY: |   <| AIT Worldwide Logistics |>      --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 12
+ZIP: NY   <| 13057 |>      --   [13057 1046]  {airtemphvac.com}    Occurrence: 1
+CITY: Dr.   <| Houston |>   ,   --   [HOUSTON]  {airtexasmechanical.com}    Occurrence: 2
+COMPANY:    <| Automated Inspection Systems |>      --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 4
+CONTACT: by   <| James T. Senn |>   in   --   [James Senn]  {aisalabama.com}    Occurrence: 1
+COMPANY: The   <| Art Institute of Seattle |>   painted   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY: of   <| American Independent |>   Line   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 1
+COMPANY: Wave   <| Air Conditioning |>      --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 6
+CITY: in   <| Santa Ana |>   and   --   [SANTA ANA]  {aislimos.com}    Occurrence: 1
+COMPANY: entrust   <| American Independent |>   Line   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 1
+COMPANY: The   <| A & J |>   Engineering   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 2
+COMPANY:    <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 14
+COMPANY:    <| Air , Temp |>   ,   --   [AIR TEMP HEATING AND AIR COND]  {airtemphvac.com}    Occurrence: 2
+COMPANY: Vent   <| Duct Cleaning |>      --   [AIR-VENT DUCT CLEANING INCORPORATION]  {airventductcleaning.com}    Occurrence: 2
+COMPANY: in   <| Air Xpress |>   .   --   [AIR XPRESS]  {airxpressonline.com}    Occurrence: 1
+COMPANY: find   <| Arrive In Style Limousines , Inc. |>   to   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+CITY: •   <| San Luis Obispo |>   ,   --   [SAN LUIS OBISPO]  {airvolblock.com}    Occurrence: 4
+COMPANY: At   <| Aitz Hayim |>   ,   --   [AITZ HAYIM CTR-JEWISH LIVING]  {aitzhayim.org}    Occurrence: 1
+COMPANY: ,   <| air west |>   ,   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 2
+COMPANY:    <| Air Tro |>   |   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 14
+COMPANY:    <| AIT Worldwide Logistics |>   '   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+CITY: ,   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 34
+COMPANY: to   <| Aitz Hayim |>   Email   --   [AITZ HAYIM CTR-JEWISH LIVING]  {aitzhayim.org}    Occurrence: 1
+COMPANY:    <| American International |>   Transportation   --   [AMERICAN INTERNATIONAL LIMO]  {aitslimo.com}    Occurrence: 2
+COMPANY: |   <| A & J |>   Manufacturing   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 4
+STATE: ,   <| NY |>   10461   --   [NY]  {airwaveac.com}    Occurrence: 6
+COMPANY: Will   <| Airtite Products |>   replacement   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   has   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: contact   <| ait industries |>   ,   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY:    <| A & J |>   Manufacturing   --   [A AND J MFG CO]  {aj-racks.com}    Occurrence: 22
+ZIP: Suite   <| 2000 |>      --   [60601 2000]  {aisc.org}    Occurrence: 1
+STATE: ,   <| CA |>   93406   --   [CA]  {airvolblock.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   ,   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 2
+CITY: ,   <| rock |>   bands   --   [LITTLE ROCK]  {airtransport.cc}    Occurrence: 1
+COMPANY: -   <| Air Tro |>   |   --   [AIR TRO INCORPORATION]  {airtro.com}    Occurrence: 2
+STATE: ,   <| CA |>   92780   --   [CA]  {aj-racks.com}    Occurrence: 1
+COMPANY:    <| Air Trac Corp |>   ·   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+STATE: ,   <| CA |>   93940   --   [CA]  {aitslimo.com}    Occurrence: 1
+COMPANY:    <| Air Transport |>   International   --   [AIR TRANSPORT INTL LLC]  {airtransport.cc}    Occurrence: 7
+STATE: ,   <| DC |>   area   --   [DC]  {aisgw.org}    Occurrence: 1
+ZIP:    <| 76020 |>      --   [76020 0000]  {airwiseair.com}    Occurrence: 7
+CITY:    <| Binghamton |>      --   [BINGHAMTON]  {airtemphvac.com}    Occurrence: 1
+COMPANY: The   <| Art Institutes |>   system   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 4
+STATE: Temecula   <| CA |>   92592   --   [CA]  {aislimos.com}    Occurrence: 2
+CITY:    <| Seattle |>   Students   --   [SEATTLE]  {ais.edu}    Occurrence: 1
+CONTACT:    <| Bob Helbing |>   has   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+CITY: George   <| Washington |>   University   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+CITY:    <| Binghamton |>   -   --   [BINGHAMTON]  {airtemphvac.com}    Occurrence: 4
+COMPANY: at   <| Arrive In Style Limousines , Inc. |>   pride   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: home   <| heating and air |>   conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+CITY: the   <| Monrovia |>   Rotary   --   [MONROVIA]  {airtro.com}    Occurrence: 2
+CITY: |   <| Middleton |>   WI   --   [MIDDLETON]  {airwater.com}    Occurrence: 2
+ADDRESS: at   <| 224 W. James St. |>   Bensenville   --   [224 JAMES ST]  {aitindustries.com}    Occurrence: 1
+COMPANY: an   <| Art Institutes |>   transfer   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+COMPANY:    <| Air Tours Inc |>   ,   --   [AIR TOURS INCORPORATION]  {airtoursinc.com}    Occurrence: 1
+CITY:    <| Grass Valley |>   ,   --   [GRASS VALLEY]  {aja.com}    Occurrence: 8
+COMPANY: At   <| AirWise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+COMPANY: Contact   <| American Independent |>   Line   --   [AMERICAN INDEPENDENT SHIPPING]  {aishipping.com}    Occurrence: 2
+COMPANY:    <| Automated Inspection Systems |>   is   --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 2
+COMPANY: “   <| Arrive in Style |>   ”   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 1
+COMPANY: superior   <| air and water |>   quality   --   [AIR AND WATER TECHNOLOGY SALES]  {airwater.com}    Occurrence: 1
+COMPANY: The   <| Art Institute of Seattle |>   '   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 1
+CITY: ,   <| Boulder |>   Colorado   --   [BOULDER]  {airworks-studio.com}    Occurrence: 1
+COMPANY:    <| AIT Industries |>   debuts   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 1
+COMPANY: At   <| Arrive In Style Limousines , Inc. |>   ,   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+ZIP: AL   <| 36107 |>   334-264-4800   --   [36107 3005]  {aisalabama.com}    Occurrence: 1
+CONTACT: Owners   <| Bob and Tony Helbing |>   are   --   [Bob Helbing]  {airtro.com}    Occurrence: 2
+CITY: printing   <| Las Vegas |>      --   [LAS VEGAS]  {ais-now.com}    Occurrence: 8
+ZIP: Arizona   <| 85215 |>      --   [85215 2539]  {airwestinc.com}    Occurrence: 1
+COMPANY: ,   <| AIT Industries |>   |   --   [AIT INDUSTRIES]  {aitindustries.com}    Occurrence: 8
+CITY: ,   <| Syracuse |>   &   --   [EAST SYRACUSE]  {airtemphvac.com}    Occurrence: 1
+CITY: of   <| San Luis Obispo |>   ,   --   [SAN LUIS OBISPO]  {airvolblock.com}    Occurrence: 1
+CITY:    <| Fayetteville |>   ,   --   [FAYETTEVILLE]  {airwaysfreight.com}    Occurrence: 6
+CITY: Support   <| Las Vegas |>      --   [LAS VEGAS]  {ais-now.com}    Occurrence: 8
+COMPANY:    <| Airtite Products |>   build   --   [AIRTITE PRODUCTS]  {airtiteproducts.com}    Occurrence: 1
+ZIP: Illinois   <| 60477 |>      --   [60477 4441]  {airys.com}    Occurrence: 4
+STATE: ,   <| AL |>   36107   --   [AL]  {aisalabama.com}    Occurrence: 1
+COMPANY: At   <| Airwise Heating & Air |>   Conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 6
+ADDRESS:    <| 1171 N. Tustin Avenue |>   ,   --   [1171 N TUSTIN AVENUE]  {aitwood.com}    Occurrence: 1
+ZIP: TX   <| 79602 |>      --   [79602 6941]  {airtiteproducts.com}    Occurrence: 1
+COMPANY:    <| Aitkin Rental |>   Center   --   [AITKIN RENTAL CTR]  {aitkinrental.com}    Occurrence: 5
+COMPANY: Visit   <| Arrive in Style Limousines |>   online   --   [ARRIVE IN STYLE LIMOUSINES INCORPORATION]  {aislimos.com}    Occurrence: 2
+COMPANY: of   <| heating and air |>   conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 2
+COMPANY: The   <| Art Institutes |>   is   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 4
+STATE: ,   <| CA |>   heating   --   [CA]  {airtro.com}    Occurrence: 4
+STATE: ,   <| CA |>   .   --   [CA]  {aja.com}    Occurrence: 1
+COMPANY: 2004   <| Anderson International |>   and   --   [ANDERSON INTERNATIONAL TRADING]  {aitwood.com}    Occurrence: 1
+COMPANY: ,   <| air conditioning |>   ,   --   [AIR-WAVE AIR CONDITIONING]  {airwaveac.com}    Occurrence: 3
+STATE: ,   <| CA |>   95310   --   [CA]  {airward.com}    Occurrence: 16
+STATE: the   <| DC |>   line   --   [DC]  {aisgw.org}    Occurrence: 1
+STATE: ,   <| CA |>   technician   --   [CA]  {airtro.com}    Occurrence: 1
+STATE: ,   <| IL |>   60106   --   [IL]  {aitindustries.com}    Occurrence: 1
+CITY:    <| Monrovia |>   :   --   [MONROVIA]  {airtro.com}    Occurrence: 14
+COMPANY: sheet   <| metal products |>   serving   --   [AIRTONICS METAL PRODUCTS INCORPORATION]  {airtronics.com}    Occurrence: 1
+ADDRESS: -   <| 1630 S. Myrtle Avenue |>   ,   --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 2
+ZIP: ,   <| 2700 |>   27th   --   [20007 2700]  {aisgw.org}    Occurrence: 2
+ZIP: CA   <| 92780 |>      --   [92780 7217]  {aj-racks.com}    Occurrence: 1
+COMPANY: The   <| Art Institutes |>   .   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 4
+COMPANY:    <| Automated Inspection Systems |>   -   --   [AUTOMATED INSPECTION SYSTEMS]  {ais4ndt.com}    Occurrence: 1
+CITY:    <| Monterey |>   ,   --   [MONTEREY]  {aitslimo.com}    Occurrence: 2
+COMPANY: your   <| heating and air |>   conditioning   --   [AIRWISE HEATING AND AIR COND]  {airwiseair.com}    Occurrence: 1
+CITY: in   <| Atlanta |>   Merge   --   [ATLANTA]  {aitworldwidelogistics.com}    Occurrence: 1
+STATE: ,   <| CA |>   95037   --   [CA]  {airtronics.com}    Occurrence: 1
+CONTACT:    <| Dale Caudle |>      --   [Dale Caudle]  {airwaysfreight.com}    Occurrence: 1
+ADDRESS: ,   <| 4861 Sunrise Dr Ste 101 |>   ,   --   [4861 SUNRISE DR # 101]  {ais4ndt.com}    Occurrence: 1
+COMPANY:    <| Air Trac |>      --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+CITY: greater   <| Washington |>   ,   --   [WASHINGTON]  {aisgw.org}    Occurrence: 1
+ADDRESS:    <| PO Box 1888 |>      --   [PO BOX 1888]  {airwaysfreight.com}    Occurrence: 6
+CITY: ,   <| Martinez |>   ,   --   [MARTINEZ]  {ais4ndt.com}    Occurrence: 1
+CONTACT: by   <| George Peters |>   &   --   [George A Peters]  {airworks-studio.com}    Occurrence: 1
+COMPANY:    <| Air West Inc |>   .   --   [AIR WEST INCORPORATION]  {airwestinc.com}    Occurrence: 3
+ADDRESS:    <| 1630 S Myrtle Ave |>      --   [1630 S MYRTLE AVENUE]  {airtro.com}    Occurrence: 14
+ZIP: IL   <| 60106 |>      --   [60106 3319]  {aitindustries.com}    Occurrence: 1
+CITY: ,   <| York |>   PA   --   [YORK]  {ais-york.com}    Occurrence: 1
+COMPANY:    <| AIT Worldwide Logistics |>   offers   --   [AIT WORLDWIDE LOGISTICS]  {aitworldwidelogistics.com}    Occurrence: 1
+COMPANY: ,   <| Air Trac |>   ,   --   [AIR TRAC CORP]  {airtraccorp.com}    Occurrence: 2
+COMPANY: The   <| Art Institute of Seattle |>      --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 14
+COMPANY: The   <| Art Institute of Seattle |>   ]   --   [ART INSTITUTE OF SEATTLE]  {ais.edu}    Occurrence: 2
+CITY: ,   <| Anaheim |>   ,   --   [ANAHEIM]  {aitwood.com}    Occurrence: 1
+STATE: Sacramento   <| CA |>   )   --   [CA]  {aja.com}    Occurrence: 1
+STATE: ,   <| TX |>   79602   --   [TX]  {airtiteproducts.com}    Occurrence: 1
+ADDRESS:    <| 2323 Elliott Avenue |>      --   [2323 ELLIOTT AVENUE]  {ais.edu}    Occurrence: 4

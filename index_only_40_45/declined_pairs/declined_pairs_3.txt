@@ -1,0 +1,606 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: the   <| container |>   from   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+ADDRESS: /   <| Texas |>   is   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 1
+COMPANY: certified   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY: AS-IS   <| containers |>   are   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: SupportAIQ   <| Systems |>      --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: and   <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 6
+COMPANY: estate   <| appraisal |>   topics   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY: Ad   <| Promotions |>   Blog   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 2
+CONTACT: Dr.   <| Woolf |>   opened   --   [Walter Woolf]  {airanimal.com}    Occurrence: 1
+COMPANY:    <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+ADDRESS: Care   <| Texas |>   -   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 3
+COMPANY: aluminum   <| container |>   through   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: at   <| World |>   Airways   --   [AIRCHARTER WORLD]  {aircharterworld.com}    Occurrence: 1
+COMPANY: repair   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: mini-splits   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Florida   <| Airboat |>   tours   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: increased   <| air |>   circulation   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: for   <| Americans |>   ages   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: a   <| container |>   suited   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: ,   <| transport |>   ,   --   [AIR-LAND TRANSPORT SVC INCORPORATION]  {air-land.com}    Occurrence: 2
+COMPANY: ,   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: your   <| promotions |>   ,   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 2
+COMPANY: linear   <| air |>   slides   --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 1
+COMPANY: compressed   <| air |>   and   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: Nationwide   <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 3
+COMPANY: their   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Health   <| America |>   (   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: separates   <| AirBorn |>   from   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: and   <| heating |>   needs   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 2
+COMPANY: an   <| animal |>   and   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: About   <| Airbound |>   Inc   --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: proper   <| system |>   design   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: Contact   <| AIQ |>      --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   Flex   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY:    <| AirBorn |>   power   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Boat   <| Ride |>   Virtual   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: leading   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+ADDRESS: Jefferson   <| St. NW |>      --   [1990 K ST NW # 500]  {air.org}    Occurrence: 1
+COMPANY: Blast   <| Air |>   Knife   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+COMPANY: American-headquartered   <| industrial |>   companies   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY:    <| Partner |>   –   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 2
+COMPANY: Garage   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: Business   <| Insurance |>   Agency   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 2
+COMPANY:    <| AIRBORN |>   POLICIES   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: at   <| AirBorn |>      --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Janitorial   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY:    <| Airbound |>   |   --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: Minute   <| Airboat |>   Tour   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: the   <| world |>   .   --   [AIRCHARTER WORLD]  {aircharterworld.com}    Occurrence: 1
+COMPANY: ,   <| air |>   slides   --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 1
+COMPANY: Join   <| Airbound |>   and   --   [AIRBOUND]  {airbound.com}    Occurrence: 1
+COMPANY: ,   <| air |>   supply   --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 1
+COMPANY:    <| Sleep |>   and   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 2
+COMPANY: a   <| insurance |>   broker   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+ADDRESS: North   <| Texas |>   .   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 1
+COMPANY:    <| Stuart Ainsley |>   is   --   [STUART M AINSLEY LAW OFFICES]  {ainsleylaw.com}    Occurrence: 2
+COMPANY:    <| Air |>   Knives   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 3
+COMPANY: Restaurant   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: American-headquartered   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: membership-supported   <| air |>   medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: Inflight   <| Gourmet |>   Catering   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 12
+COMPANY:    <| Air-Care |>   /   --   [AIR-CARE]  {aircaretexas.com}    Occurrence: 7
+COMPANY: the   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 3
+COMPANY: Life   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY:    <| AirBorn |>   M-Series   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: Specialty   <| Sleep |>   Manufacturers   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY:    <| AIR |>   CONDITIONER   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: Ad   <| Promotions |>      --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 10
+COMPANY: commercial   <| insurance |>   policy   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 2
+COMPANY: of   <| animals |>   we   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 3
+COMPANY: Uber   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: Schedule   <| Air |>   Conditoining   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Contact   <| Airbound |>   |   --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+CONTACT: Inc.   <| Allen |>   leads   --   [Allen Krupar]  {air-tempmech.com}    Occurrence: 1
+COMPANY: ,   <| Aircraft |>   Maintenace   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 3
+COMPANY: your   <| insurance |>   for   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: Complex   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: Trading   <| systems |>   ,   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: Air-Stream   <| Air |>   Condition   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 2
+COMPANY: Contact   <| AirBorn |>   -   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: of   <| containers |>   ,   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 2
+ADDRESS: 4330   <| S. |>   Valley   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: |   <| American |>   Institutes   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 16
+COMPANY: Airbearing   <| Technology |>      --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 2
+COMPANY: your   <| Airbound |>   hosts   --   [AIRBOUND]  {airbound.com}    Occurrence: 1
+COMPANY: emergency   <| air |>   medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY:    <| Air-Flo |>   :   --   [AIR-FLO MFG CO]  {air-flo.com}    Occurrence: 6
+ADDRESS: Contact   <| Us |>      --   [6945 N US HIGHWAY 45]  {air-evac.com}    Occurrence: 2
+COMPANY: of   <| air |>   ambulance   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: operate   <| Air-Care |>   /   --   [AIR-CARE]  {aircaretexas.com}    Occurrence: 1
+COMPANY: Aluminum   <| containers |>   usually   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   responsibilities   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: or   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 2
+ADDRESS: Moffett   <| Rd |>   ,   --   [4440 MCCRARY ROAD]  {air-specialty.com}    Occurrence: 2
+COMPANY: industrial   <| process |>   air   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+COMPANY: Hour   <| Air |>   Conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 2
+COMPANY: Suppression   <| System |>   ?   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: Tucson   <| Sun Shades |>   |   --   [AIR AND SUN SHADE PRODUCTS INCORPORATION]  {airandsun.com}    Occurrence: 2
+COMPANY: Guide   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: high-tech   <| industrial |>   manufacturing   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   '   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 4
+COMPANY:    <| American |>   Institutes   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 21
+COMPANY: air   <| sleep |>   mattresses   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: industrial-oriented   <| partners |>   ,   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: of   <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 1
+ADDRESS: in   <| Aviation |>   .   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+COMPANY:    <| PARTNER |>   &   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 4
+COMPANY: used   <| containers |>   available   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: Medical   <| Air |>   Transportation   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 2
+COMPANY: management   <| systems |>   ,   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+COMPANY: by   <| Air |>   New   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 3
+COMPANY: Business   <| Insurance |>   helps   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: The   <| AirBorn |>   Advantage   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 4
+COMPANY: an   <| Air |>   Duct   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 5
+COMPANY: Florida   <| Airboat |>   Captain   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: ,   <| Pasta |>   American   --   [AMERICAN ITALIAN PASTA CO]  {aipc.com}    Occurrence: 1
+COMPANY:    <| Airbound |>   is   --   [AIRBOUND]  {airbound.com}    Occurrence: 4
+CONTACT: —   <| Barry |>   motivates   --   [Barry Saven]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   products   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: With   <| AirBorn |>   ,   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: Classic   <| Sleep |>   Products   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 29
+COMPANY: your   <| promotion |>   or   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: Property   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: Design   <| Aircraft |>   .   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 1
+COMPANY: many   <| insurance |>   carriers   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+ADDRESS:    <| Coors |>   Office   --   [10701 COORS BLVD NW # 10]  {aip-inc.com}    Occurrence: 5
+CITY: a   <| San |>   Francisco-based   --   [SAN FRANCISCO]  {airbound.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   Catering   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: ,   <| air |>   force   --   [AIR CAV DESIGN]  {aircav.org}    Occurrence: 1
+COMPANY: your   <| pasta |>   brand   --   [AMERICAN ITALIAN PASTA CO]  {aipc.com}    Occurrence: 1
+COMPANY: the   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Commercial   <| Insurance |>   Payments   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 2
+COMPANY: estate   <| appraisal |>   and   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY: your   <| air |>   cleaner   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 6
+COMPANY: Systems   <| system |>   superior   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: Ad   <| Promotions |>   takes   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 2
+COMPANY:    <| Mechanical |>   Systems   --   [AIR-TEMP MECHANICAL INCORPORATION]  {air-tempmech.com}    Occurrence: 1
+COMPANY: Wedding   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY:    <| Insurance |>   Blog   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 8
+COMPANY: ,   <| aircraft |>   parts   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 3
+COMPANY: need   <| heating |>   system   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: the   <| appraisal |>   profession   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY: the   <| air |>   grows   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY: about   <| Heating |>   System   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: of   <| air |>   circulation   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: years   <| aircraft |>   owners   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 1
+COMPANY: ,   <| systems |>   consisting   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: with   <| AirBorn |>   can   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: multiple   <| insurance |>   companies   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: Used   <| Containers |>      --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY:    <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 6
+COMPANY: and   <| Air |>   Conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 4
+ADDRESS: ’   <| s |>   most   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 5
+COMPANY: of   <| Air |>   Medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: of   <| animals |>   with   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: boat   <| ride |>   with   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: At   <| AirBorn |>   Flexible   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: of   <| air |>   medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: mid-sized   <| industrial |>   companies   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 2
+COMPANY: Velocity   <| Air |>   knives   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+COMPANY: high-efficiency   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   Quality   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 24
+COMPANY: Suppression   <| System |>   Superior   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: to   <| AirBorn |>   Customers   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: American-based   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 2
+COMPANY:    <| Air |>   handling   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+ADDRESS: ,   <| Dr. |>   Cox   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+COMPANY: limited   <| partners |>   .   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: healthier   <| sleep |>   environment   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: the   <| air |>   .   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 1
+COMPANY: Canadian-based   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 9
+COMPANY: 2016   <| Airbound |>   Inc.   --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: the   <| air |>   .   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY: The   <| Air-Art |>   team   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 2
+COMPANY: Contact   <| Airbound |>   today   --   [AIRBOUND]  {airbound.com}    Occurrence: 1
+COMPANY:    <| Heating |>   System   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 29
+COMPANY: 3500   <| AirBorn |>   Circle   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: the   <| American |>   Institutes   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 2
+COMPANY: by   <| air |>   ?   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 3
+COMPANY: Ad   <| Promotions |>   is   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 6
+COMPANY: The   <| Appraisal |>   Institute   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY: your   <| AirBorn |>   product   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: The   <| Airboat |>   has   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY:    <| Appraisal |>   Institute   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY:    <| air |>   knife   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+COMPANY: The   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY:    <| Airbound |>   ,   --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: you   <| insurance |>   coverages   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY:    <| Air-Ad |>   is   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: -   <| AirBorn |>   Inc   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 20
+COMPANY: at   <| Air-Care |>   /   --   [AIR-CARE]  {aircaretexas.com}    Occurrence: 2
+COMPANY:    <| World |>   MD11   --   [AIRCHARTER WORLD]  {aircharterworld.com}    Occurrence: 1
+COMPANY: RV   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: the   <| partners |>   at   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: top-level   <| mechanical |>   systems   --   [AIR-TEMP MECHANICAL INCORPORATION]  {air-tempmech.com}    Occurrence: 1
+COMPANY: North   <| American |>      --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: Personal   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 8
+ADDRESS: ’   <| s |>   finest   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 3
+ADDRESS: '   <| s |>   most   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   Inc.   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: THE   <| RIDE |>   OF   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 4
+COMPANY: Auto   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 8
+COMPANY: –   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 3
+COMPANY: of   <| property |>   economics   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY: Ad   <| Promotions |>   over   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+ADDRESS: ’   <| s |>      --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 2
+COMPANY: Business   <| Insurance |>   clients   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: buying   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: Indoor   <| Air |>   Quality   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: total   <| sleep |>   environment   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: in   <| AirBorn |>      --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: outdoor   <| promotions |>   and   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: traveling   <| animals |>   .   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: and   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 2
+COMPANY: Pot-Sized   <| Pasta |>   .   --   [AMERICAN ITALIAN PASTA CO]  {aipc.com}    Occurrence: 1
+COMPANY: indoor   <| air |>   in   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   true   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   able   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: supporting   <| air |>   medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY:    <| Air |>   Conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 29
+COMPANY: his   <| air |>   medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: Quality   <| containers |>   in   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: with   <| Airbound |>      --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: UpperSky   <| Gourmet |>      --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   is   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 6
+ADDRESS: /   <| Texas |>   -   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 3
+COMPANY: Home   <| Insurance |>   ,   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 2
+COMPANY: MANAGING   <| PARTNER |>      --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 6
+COMPANY: Mr.   <| Ainsley |>   is   --   [STUART M AINSLEY LAW OFFICES]  {ainsleylaw.com}    Occurrence: 1
+CONTACT:    <| Allen |>   started   --   [Allen Krupar]  {air-tempmech.com}    Occurrence: 1
+COMPANY: of   <| animals |>   die   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: dry   <| air |>   all   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Temp   <| Mechanical |>   provides   --   [AIR-TEMP MECHANICAL INCORPORATION]  {air-tempmech.com}    Occurrence: 1
+COMPANY: indoor   <| air |>   quality   --   [AIR DYNAMICS]  {air-dynamics.com}    Occurrence: 1
+ADDRESS: Air-Care   <| Texas |>   is   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 3
+COMPANY: of   <| air |>   temperature   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 3
+CONTACT: Dr.   <| Woolf |>   continues   --   [Walter Woolf]  {airanimal.com}    Occurrence: 1
+COMPANY: ,   <| Gourmet |>   Celebrations   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| Containers |>   for   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 2
+ADDRESS:    <| N |>   /   --   [21636 N 14TH AVENUE # A2]  {airborn.com}    Occurrence: 2
+COMPANY: Travel   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: At   <| Air-Care |>   /   --   [AIR-CARE]  {aircaretexas.com}    Occurrence: 4
+COMPANY: fixed-wing   <| air |>   medical   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: and   <| Air |>   Conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: Live   <| Animals |>      --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: your   <| cargo |>   in   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY: ,   <| air |>   ,   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+COMPANY: ,   <| industrial |>   private   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: for   <| air |>   conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: free   <| insurance |>   quote   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY:    <| Air |>   Knife   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 3
+ADDRESS: ’   <| s |>   work   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| American |>   Association   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+CONTACT: Dr.   <| Woolf |>   ...   --   [Walter Woolf]  {airanimal.com}    Occurrence: 3
+COMPANY:    <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 15
+COMPANY: devastating   <| system |>      --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: like   <| airboats |>   can   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: Commercial   <| Insurance |>   Center   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: Center   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: business   <| insurance |>   to   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: best   <| insurance |>   coverage   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY:    <| Air |>   New   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 6
+ADDRESS: /   <| TEXAS |>      --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 1
+ADDRESS: ,   <| N |>   ,   --   [21636 N 14TH AVENUE # A2]  {airborn.com}    Occurrence: 3
+COMPANY: on   <| AirBorn |>   '   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: choose   <| AirBorn |>   as   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Garage   <| Insurance |>   ,   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: residential   <| air |>   cleaning   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 6
+COMPANY: At   <| AirBorn |>   ,   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 5
+COMPANY:    <| AirBorn |>   will   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY: of   <| heating |>   system   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: of   <| heating |>   and   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 2
+COMPANY:    <| Air |>   purifiers   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+COMPANY: Ad   <| Promotions |>   for   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 2
+COMPANY: the   <| air |>   ,   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY:    <| AirBorn |>   Engineering   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: your   <| container |>   exactly   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY:    <| American |>   Cancer   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: Air-Process   <| Systems |>      --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+COMPANY: boat   <| ride |>   in   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: Linear   <| Air |>   Slides   --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 2
+COMPANY: Ad   <| Promotions |>   ,   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 10
+COMPANY: house   <| air |>   filtration   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: the   <| air |>   again   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 1
+ADDRESS:    <| Aviation |>      --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 4
+COMPANY: snub-nosed   <| animals |>   such   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 3
+COMPANY: to   <| AIQ |>   clients   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: Your   <| Air |>   Conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Business   <| Insurance |>   policies   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: control   <| systems |>   are   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 3
+COMPANY: great   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: auto   <| insurance |>   and   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: good   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   Inflight   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 2
+COMPANY: know   <| Gourmet |>   Celebrations   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| Sleep |>   Accessories   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 2
+COMPANY: cold   <| air |>   return   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 1
+COMPANY: Leaky   <| air |>   ducts   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   praises   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+ADDRESS:    <| N |>   Series   --   [21636 N 14TH AVENUE # A2]  {airborn.com}    Occurrence: 48
+COMPANY: new   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY:    <| AIQ |>   announces   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: personal   <| insurance |>   as   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: Liability   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: Serving   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY: ,   <| air |>   purification   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: Virtual   <| Ride |>      --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+ADDRESS: and   <| Cypress |>   Street   --   [4120 W CYPRESS ST]  {airanimal.com}    Occurrence: 2
+COMPANY: designing   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: ,   <| gourmet |>   cuisine   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY: nozzle   <| systems |>   .   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: Refrigerated   <| container |>   through   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: off   <| air |>   duct   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 1
+COMPANY: their   <| heating |>   ,   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: of   <| air |>   lines   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+COMPANY:    <| Stuart |>   has   --   [STUART M AINSLEY LAW OFFICES]  {ainsleylaw.com}    Occurrence: 3
+ADDRESS: ’   <| s |>   passion   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 2
+COMPANY: the   <| air |>   that   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY: an   <| airboat tour |>   during   --   [EAGLE EYE AIRBOAT TOURS INCORPORATION]  {airboattours.com}    Occurrence: 1
+COMPANY:    <| Air |>   Conditioning   --   [AIR CARE OF NJ]  {aircareofnj.com}    Occurrence: 1
+ADDRESS: /   <| Texas |>      --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 1
+COMPANY: in   <| industrial |>   companies   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 2
+COMPANY: our   <| containers |>   and   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY: positioned   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: :   <| AirBorn |>   ’   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Contact   <| Airbound |>      --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: Distance   <| Ambulance |>      --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 3
+COMPANY: and   <| Air |>   Knives   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 2
+COMPANY: Business   <| Insurance |>   ,   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 3
+COMPANY: ,   <| Partner |>   at   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 4
+COMPANY: Classic   <| Sleep |>   Memory   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: the   <| air |>   in   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+ADDRESS: Skywest   <| Dr |>      --   [670 AIRPORT DR]  {air-west.com}    Occurrence: 3
+COMPANY: wild   <| animals |>   and   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+ADDRESS: the   <| aviation |>   industry   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+COMPANY: Mobile   <| Air |>   Conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 2
+COMPANY: indoor   <| air |>   quality   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 3
+COMPANY: Repairs   <| Air-Care |>   Texas   --   [AIR-CARE]  {aircaretexas.com}    Occurrence: 3
+COMPANY: ,   <| AirBorn |>   Electronics   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: your   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 2
+COMPANY: Center   <| Air |>   Ambulance   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: live   <| animal |>   regulations   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 3
+COMPANY: for   <| Air |>   freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY: Scale   <| Integration |>   Projects   --   [ADVANCED INTEGRATION TECH]  {aint.com}    Occurrence: 5
+COMPANY: chosen   <| AIRBOUND |>   as   --   [AIRBOUND]  {airbound.com}    Occurrence: 1
+COMPANY: and   <| cargo |>      --   [AIR CARGO ASSOC INCORPORATION]  {aircargoassociates.com}    Occurrence: 1
+COMPANY: efficient   <| air |>   at   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+COMPANY: to   <| Airbound |>      --   [AIRBOUND]  {airbound.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   “   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: of   <| America |>      --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: our   <| associates |>   of   --   [AIR ASSOCIATES OF KANSAS]  {airassociatesinc.com}    Occurrence: 1
+COMPANY:    <| Air |>   conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY:    <| CONTAINER |>   INFORMATION   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+CONTACT: Dr.   <| Woolf |>   our   --   [Walter Woolf]  {airanimal.com}    Occurrence: 1
+COMPANY: One   <| Promotion |>   at   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: Air-Stream   <| Air |>   Conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 6
+COMPANY: IATA   <| air |>   cargo   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: in   <| heating |>   system   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+ADDRESS: /   <| Texas |>   can   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 1
+COMPANY: Complete   <| system |>   design   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: of   <| Animal |>   Travel   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+ADDRESS: 98th   <| Avenue |>   .   --   [370 8TH AVENUE]  {air-seacontainers.com}    Occurrence: 2
+COMPANY: improving   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: Our   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY: ,   <| air |>   knives   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+COMPANY: For   <| air |>   quality   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: your   <| air |>   conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 3
+COMPANY: Executive   <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 9
+COMPANY: business   <| insurance |>   rates   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+ADDRESS: /   <| Texas |>   .   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 3
+COMPANY: Classic   <| Sleep |>   is   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: ,   <| Inc. |>   Company   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 2
+COMPANY: Ad   <| Promotions |>   may   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY:    <| American |>   Council   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: class   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: North   <| America |>   and   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: market   <| industrial |>   companies   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: to   <| AirBorn |>   !   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY:    <| Air |>   Gouremt   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 2
+ADDRESS: $   <| 1 |>   billion   --   [1 MARITIME PLZ # 2525]  {aipartners.com}    Occurrence: 12
+COMPANY: chosen   <| Air |>   Critical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 1
+CONTACT:    <| Woolf |>   Animal   --   [Walter Woolf]  {airanimal.com}    Occurrence: 1
+COMPANY: Building   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: farm   <| animals |>   near   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY:    <| Air |>   intakes   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 1
+COMPANY: indoor   <| air |>   cool   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY:    <| Aircenter |>   offers   --   [AIRCENTER INCORPORATION]  {aircenterinc.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   good   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: largest   <| air |>   ambulance   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: ``   <| air |>   knives   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+COMPANY: service   <| associates |>   are   --   [AIR ASSOCIATES OF KANSAS]  {airassociatesinc.com}    Occurrence: 2
+COMPANY: Risk   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY:    <| Air |>   ducts   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 1
+COMPANY: About   <| AIrboat Tours |>   by   --   [EAGLE EYE AIRBOAT TOURS INCORPORATION]  {airboattours.com}    Occurrence: 3
+COMPANY: wherever   <| process |>   air   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 3
+COMPANY: our   <| containers |>   ,   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   offers   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 11
+COMPANY: American-based   <| industrial |>      --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: in   <| animals |>   anywhere   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: on   <| airboat |>   tours   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY:    <| Animals |>   accepted   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 3
+CONTACT: in   <| Jerry |>   ’   --   [Jerry Anderson]  {air-specialty.com}    Occurrence: 1
+COMPANY: Malpractice   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+ADDRESS: ’   <| s |>   a   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| AIR-FLO |>   ®   --   [AIR-FLO MFG CO]  {air-flo.com}    Occurrence: 4
+COMPANY: indoor   <| air |>   can   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: any   <| air |>   quality   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: your   <| mechanical |>   systems   --   [AIR-TEMP MECHANICAL INCORPORATION]  {air-tempmech.com}    Occurrence: 1
+COMPANY: Ad   <| Promotions |>   !   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   also   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: boat   <| ride |>   .   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 4
+COMPANY:    <| AIR-CARE |>   /   --   [AIR-CARE]  {aircaretexas.com}    Occurrence: 1
+COMPANY: for   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY: the   <| containers |>   before   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 2
+COMPANY: professional   <| appraisal |>   practice   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY: :   <| Air-Flo |>   :   --   [AIR-FLO MFG CO]  {air-flo.com}    Occurrence: 2
+COMPANY: specialty   <| sleep |>   boom   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: need   <| promotions |>   for   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 2
+COMPANY: Homeowners   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: your   <| system |>   at   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+COMPANY: Florida   <| Airboat |>   Tours   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+COMPANY: of   <| appraisal |>   practice   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY:    <| AirBorn |>   verSI   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+CONTACT: ,   <| Barry |>   has   --   [Barry Saven]  {air-gourmet.com}    Occurrence: 1
+COMPANY: about   <| Heating |>   Service   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: in   <| Air |>   Freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 5
+COMPANY: your   <| airboat |>   with   --   [A-AWESOME AIRBOAT RIDE]  {airboatride.com}    Occurrence: 2
+CONTACT: The   <| William |>   and   --   [Paul Williams]  {air.org}    Occurrence: 1
+COMPANY: ``   <| Air |>   ducts   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 3
+COMPANY: Chapter   <| Appraisal |>   Institute   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 6
+COMPANY: Bar   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: ,   <| Inc. |>   ,   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 2
+ADDRESS: Old   <| Coors |>   Rd   --   [10701 COORS BLVD NW # 10]  {aip-inc.com}    Occurrence: 1
+COMPANY: 2016   <| American |>   Institutes   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 9
+COMPANY: Olejo   <| Inc. |>   Company   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 4
+COMPANY: design   <| mechanical |>   systems   --   [AIR-TEMP MECHANICAL INCORPORATION]  {air-tempmech.com}    Occurrence: 1
+COMPANY:    <| Air |>   Duct   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: other   <| container |>   companies   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+ADDRESS: /   <| Texas |>   we   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 4
+ADDRESS: /   <| Texas |>   has   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   marquis   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: At   <| Air-Art Heating |>   &   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: Join   <| Airbound |>   ’   --   [AIRBOUND]  {airbound.com}    Occurrence: 1
+ADDRESS: ,   <| Texas |>   76266   --   [3900 TEXAS AVENUE S # 108]  {aircaretexas.com}    Occurrence: 1
+ADDRESS: his   <| aviation |>   career   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+ADDRESS: Systems   <| Aviation |>   Group   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+COMPANY: Commercial   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 2
+ADDRESS: Carlisle   <| Blvd |>   NE   --   [10701 COORS BLVD NW # 10]  {aip-inc.com}    Occurrence: 1
+COMPANY: Landscaping   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: cleanable   <| sleep |>   system   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: AIP   <| partners |>   invest   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: The   <| system |>   is   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   Representatives   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+ADDRESS: '   <| s |>   polite   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 5
+COMPANY:    <| Containers |>   are   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 2
+COMPANY: Woolf   <| Animal |>   Hospital   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: Uppersky   <| Gourmet |>      --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| Stuart |>   is   --   [STUART M AINSLEY LAW OFFICES]  {ainsleylaw.com}    Occurrence: 1
+COMPANY: Indoor   <| Air |>   Quality   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 13
+COMPANY: their   <| industrial |>   ,   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: the   <| industrial |>   economy   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 12
+COMPANY: restful   <| sleep |>   possible   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: Airbearing   <| Technology |>   |   --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 2
+COMPANY: growing   <| animal |>   relocation   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: recommend   <| AirBorn |>   to   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY:    <| Cargo |>   Charter   --   [AIR CARGO ASSOC INCORPORATION]  {aircargoassociates.com}    Occurrence: 5
+ADDRESS: ’   <| s |>   flight   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: compressed   <| air |>   for   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 3
+COMPANY: on   <| Air |>   freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 2
+COMPANY: our   <| Associates |>   doing   --   [AIR ASSOCIATES OF KANSAS]  {airassociatesinc.com}    Occurrence: 1
+COMPANY: York   <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 1
+COMPANY: the   <| air |>   duct   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 1
+COMPANY: of   <| American |>   Medical   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: indoor   <| air |>   quality   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 2
+COMPANY: and   <| heating |>   system   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 2
+COMPANY:    <| Airboat Tours |>   by   --   [EAGLE EYE AIRBOAT TOURS INCORPORATION]  {airboattours.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   busy   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY:    <| AirBorn |>   ’   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 4
+COMPANY: of   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: the   <| air |>   quality   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: process   <| air |>   and   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+ADDRESS:    <| Avenue |>   .   --   [370 8TH AVENUE]  {air-seacontainers.com}    Occurrence: 2
+COMPANY: much   <| Americans |>   pay   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: Used   <| Avionics |>      --   [MILE HIGH AVIONICS]  {air-craftsman.com}    Occurrence: 1
+COMPANY: Air-Process-   <| Systems |>   website   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 1
+COMPANY: ,   <| Airbound |>   has   --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY: The   <| Partners |>   of   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: And   <| Heating |>   Needs   --   [AIR-ART HEATING AND AIR COND]  {airartco.com}    Occurrence: 1
+COMPANY: The   <| container |>   sides   --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+COMPANY:    <| AIQ |>   Data   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: engine   <| aircraft |>   maintenance   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 1
+ADDRESS: in   <| aviation |>   while   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+COMPANY: at   <| AirBorn |>   ’   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+CONTACT: Dr.   <| Woolf |>   '   --   [Walter Woolf]  {airanimal.com}    Occurrence: 2
+COMPANY:    <| Aircenter |>   is   --   [AIRCENTER INCORPORATION]  {aircenterinc.com}    Occurrence: 3
+COMPANY:    <| AirBorn |>   has   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 2
+COMPANY:    <| Sleep |>   EZZ   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 2
+COMPANY: of   <| air |>   medicine   --   [AIR EVAC LIFETEAM]  {air-evac.com}    Occurrence: 1
+COMPANY: process   <| air |>   is   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 3
+COMPANY: for   <| airboat |>   …   --   [EAGLE EYE AIRBOAT TOURS INCORPORATION]  {airboattours.com}    Occurrence: 1
+COMPANY:    <| Avionics |>      --   [MILE HIGH AVIONICS]  {air-craftsman.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   leading   --   [12333 S VAN NESS AVENUE]  {aircargoinc.com}    Occurrence: 1
+COMPANY: domestic   <| animals |>   can   --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: Daycare   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: big   <| air |>   .   --   [AIR CHAIR]  {airchair.com}    Occurrence: 1
+COMPANY: indoor   <| air |>   pollution   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 2
+ADDRESS: ’   <| s |>   ,   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   career   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+CITY: ,   <| San |>   Marcos   --   [SAN ANTONIO]  {air-streamservices.com}    Occurrence: 2
+COMPANY: with   <| AirBorn |>   Flexible   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: the   <| world |>   tours   --   [AIRCHARTER WORLD]  {aircharterworld.com}    Occurrence: 1
+COMPANY: |   <| Airbound |>      --   [AIRBOUND]  {airbound.com}    Occurrence: 2
+COMPANY:    <| Insurance |>   Shopping   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY: other   <| aircraft |>   maintenance   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 1
+COMPANY: Contact   <| AirBorn |>      --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Leading   <| American |>   Manufacturing   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 2
+COMPANY: aerospace   <| engineering |>   ,   --   [AIR CABIN ENGINEERING]  {aircabin.com}    Occurrence: 1
+COMPANY:    <| Air |>   /   --   [AIR WEST AIRCRAFT ENGINES]  {air-west.com}    Occurrence: 1
+COMPANY: compressed   <| air |>   impacting   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY:    <| AIQ |>   '   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: regular   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: of   <| industrial |>   businesses   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 3
+COMPANY: Our   <| network |>   extends   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 1
+COMPANY: the   <| air |>   .   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+ADDRESS: A   <| w |>   /   --   [12901 W 151ST ST]  {airassociatesinc.com}    Occurrence: 6
+COMPANY: Contact   <| Stuart |>   today   --   [STUART M AINSLEY LAW OFFICES]  {ainsleylaw.com}    Occurrence: 1
+COMPANY: indoor   <| air |>   environment   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY:    <| American |>   Psychological   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: ,   <| American |>   Institutes   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 2
+COMPANY: medical   <| air |>   transport   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 3
+COMPANY: Antonio   <| Air |>   Conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 2
+COMPANY: Ad   <| Promotions |>   :   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 4
+COMPANY: of   <| air |>   freight   --   [AIR CARGO INTL INCORPORATION]  {aircargoinc.com}    Occurrence: 1
+COMPANY:    <| PARTNER |>      --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 34
+COMPANY: The   <| American |>   Re-EDucation   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 1
+COMPANY: Truck   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 8
+COMPANY: Event   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: /   <| Integration |>      --   [ADVANCED INTEGRATION TECH]  {aint.com}    Occurrence: 1
+COMPANY: relocating   <| animals |>      --   [AIR ANIMAL INCORPORATION]  {airanimal.com}    Occurrence: 1
+COMPANY: Stream   <| Air |>   Conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 2
+COMPANY: the   <| air |>   outside   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 1
+COMPANY: the   <| AIQ |>   store   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: and   <| Gourmet |>   Celebrations   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 2
+COMPANY:    <| system |>   design   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+COMPANY: On   <| Air |>   Dining   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 3
+COMPANY: with   <| Air-Ad |>      --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: The   <| air |>   medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 1
+COMPANY: Nationwide   <| Air |>   Services   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 6
+COMPANY: Hotel   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: or   <| industrial |>   service   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: Air-Sea   <| Containers |>      --   [AIR SEA CONTAINERS INCORPORATION]  {air-seacontainers.com}    Occurrence: 1
+CONTACT: Richard   <| Lee |>   ,   --   [Ricahrd Lee]  {aircharterworld.com}    Occurrence: 1
+COMPANY: and   <| promotions |>   industry   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: 2015   <| AirBorn |>   ,   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 11
+COMPANY: Alabama   <| Air |>   Conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 3
+COMPANY:    <| Gourmet |>   Celebrations   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 2
+COMPANY:    <| Airboat Tours |>   By   --   [EAGLE EYE AIRBOAT TOURS INCORPORATION]  {airboattours.com}    Occurrence: 1
+COMPANY: clean   <| air |>   ducts   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+COMPANY: removal   <| systems |>   ,   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 3
+COMPANY: an   <| insurance |>   agent   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
+COMPANY:    <| Air |>   Quality   --   [AIR EX AIR CONDITIONING]  {air-ex.com}    Occurrence: 1
+COMPANY: the   <| Appraisal |>   Institute   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 7
+ADDRESS:    <| Dr. |>   Cox   --   [300 AVIATION DR]  {air-evac.com}    Occurrence: 1
+COMPANY:    <| Industrials |>   (   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: and   <| Air |>   Handling   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 1
+COMPANY: rejuvenating   <| sleep |>   .   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: an   <| Aircenter |>   modified   --   [AIRCENTER INCORPORATION]  {aircenterinc.com}    Occurrence: 1
+CONTACT:    <| Allen |>   is   --   [Allen Krupar]  {air-tempmech.com}    Occurrence: 1
+COMPANY: an   <| appraisal |>   career   --   [PROPERTY APPRAISAL CORP]  {aiohio.org}    Occurrence: 1
+COMPANY:    <| Air |>   Conditioning   --   [AIR STREAM SVC]  {air-streamservices.com}    Occurrence: 2
+COMPANY: at   <| American |>   Institutes   --   [AMERICAN INSTITUTES-RESEARCH]  {air.org}    Occurrence: 2
+COMPANY: Business   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 8
+COMPANY: Motorcycle   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 4
+COMPANY: •   <| Air |>   Knives   --   [AIR BLAST INCORPORATION]  {airblastinc.com}    Occurrence: 1
+ADDRESS:    <| 115 Nowlin |>   Lane   --   [115 NOWLIN LN # 2000]  {aircenterinc.com}    Occurrence: 1
+COMPANY: trust   <| AirBorn |>   products   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: ,   <| industrial |>   sector-focused   --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 1
+COMPANY: other   <| systems |>   .   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY: an   <| air |>   conditioning   --   [AIR SPECIALTY INCORPORATION]  {air-specialty.com}    Occurrence: 1
+COMPANY: About   <| AirBorn |>      --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+ADDRESS: ’   <| s |>   clients   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+CONTACT: Andrea   <| Woolf |>   Parker   --   [Walter Woolf]  {airanimal.com}    Occurrence: 1
+COMPANY: ,   <| Partner |>      --   [AMERICAN INDUSTRIAL PARTNERS]  {aipartners.com}    Occurrence: 6
+COMPANY: ,   <| operating |>   temperatures   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY:    <| Airborn |>   ,   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 11
+COMPANY: ,   <| Inc. |>   a   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 1
+CONTACT: Dr.   <| Woolf |>   discusses   --   [Walter Woolf]  {airanimal.com}    Occurrence: 3
+COMPANY: of   <| air |>   )   --   [AIR PROCESS SYSTEMS]  {air-process.com}    Occurrence: 2
+COMPANY:    <| Air |>   conditioning   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+COMPANY: either   <| air |>   washed   --   [AIR CARE SVC INCORPORATION]  {aircareservicesinc.com}    Occurrence: 2
+COMPANY: ,   <| Air |>   Medical   --   [AIR AMBULANCE NETWORK]  {airambulancenetwork.com}    Occurrence: 3
+COMPANY: provides   <| gourmet |>   meals   --   [AIR GOURMET INCORPORATION]  {air-gourmet.com}    Occurrence: 1
+COMPANY: Auto   <| Insurance |>   ,   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 3
+COMPANY: of   <| AirBorn |>   Flexible   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: An   <| AirBorn |>   “   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Trading   <| System |>   Design   --   [AIQ SYSTEMS INCORPORATION]  {aiqsystems.com}    Occurrence: 3
+COMPANY: at   <| AirBorn |>   embraces   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Marine   <| Insurance |>      --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 8
+ADDRESS: ’   <| s |>   up   --   [3310 S ROBERTSON BLVD]  {air-gourmet.com}    Occurrence: 1
+COMPANY: Airbearing   <| Technology |>   Updates   --   [AIR BEARING TECHNOLOGY INCORPORATION]  {airbearingtechnology.com}    Occurrence: 2
+COMPANY: specialty   <| sleep |>   systems   --   [SLEEP ZONE INCORPORATION]  {airbed-mattress.com}    Occurrence: 1
+COMPANY: ,   <| AirBorn |>   Flexible   --   [AIRBORN OPERATING LP]  {airborn.com}    Occurrence: 1
+COMPANY: Ad   <| Promotions |>   .   --   [AIR-AD PROMOTIONS]  {airadpromotions.com}    Occurrence: 1
+COMPANY: Homeowners   <| Insurance |>   ,   --   [ASSOCIATED INSURANCE PROS INCORPORATION]  {aip-inc.com}    Occurrence: 1
