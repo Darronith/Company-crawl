@@ -1,0 +1,73 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+ADDRESS:    <| 813 West Northern Lights Blvd |>   .   --   [813 W NORTHERN LIGHTS BLVD]  {aidea.org}    Occurrence: 1
+COMPANY: 2016   <| Association of Illinois Electric |>   Cooperatives   --   [ASSOCIATION OF IL ELECTRIC]  {aiec.coop}    Occurrence: 7
+ADDRESS:    <| 2801 South University Avenue |>      --   [2801 S UNIVERSITY AVENUE]  {aiea.ualr.edu}    Occurrence: 9
+COMPANY:    <| Alabama Institute for Deaf and Blind |>      --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY: –   <| Analytical Industries , Inc |>   .   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 10
+COMPANY: to   <| Legal Council |>   for   --   [AIDS LEGAL COUNCIL]  {aidslegal.com}    Occurrence: 1
+COMPANY:    <| Alabama Industries for the Blind |>      --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 12
+COMPANY: the   <| Alabama Institute for Deaf and Blind |>   is   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY: of   <| Aidan Montessori School |>   !   --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 1
+COMPANY: and   <| Alabama Industries for the Blind |>   (   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY: Custom   <| Embroidery & Printing |>   in   --   [AIDA EMBROIDERY AND PRINTING]  {aidae.com}    Occurrence: 1
+COMPANY: Is   <| Aidan Montessori School |>   the   --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 1
+COMPANY: ,   <| Aidan Montessori School |>      --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 4
+COMPANY: The   <| Alabama Institute for Deaf and Blind |>   Office   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+ADDRESS:    <| 264 East Beaver Street |>      --   [264 E BEAVER STREET]  {aicpittsburgh.com}    Occurrence: 1
+CITY: in   <| Hollywood |>   and   --   [WEST HOLLYWOOD]  {aidinc.com}    Occurrence: 1
+COMPANY:    <| Aidan Montessori School |>   has   --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 1
+COMPANY:    <| Auto Home Cycle Insurance |>   Oklahoma   --   [AUTO INSURANCE CENTER]  {aicok.net}    Occurrence: 2
+COMPANY: CounselingAid   <| for Women |>   |   --   [AID FOR WOMEN]  {aidforwomen.org}    Occurrence: 4
+COMPANY: 2000-2016   <| Legal Council |>   for   --   [AIDS LEGAL COUNCIL]  {aidslegal.com}    Occurrence: 4
+COMPANY: -   <| Analytical Industries , Inc. |>   Linkedin   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 10
+COMPANY: -   <| Analytical Industries , Inc. |>   Facebook   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 10
+COMPANY: -   <| Association of Illinois Electric |>   CooperativesAssociation   --   [ASSOCIATION OF IL ELECTRIC]  {aiec.coop}    Occurrence: 14
+COMPANY: Clinics   <| for Women |>   ,   --   [AID FOR WOMEN]  {aidforwomen.org}    Occurrence: 2
+ADDRESS:    <| 205 East South Street |>      --   [205 SOUTH STREET E]  {aidb.org}    Occurrence: 1
+COMPANY:    <| Aidan Montessori School |>   is   --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 1
+COMPANY: of   <| Alabama at Birmingham School |>   of   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY: The   <| Association of Illinois Electric |>   Cooperatives   --   [ASSOCIATION OF IL ELECTRIC]  {aiec.coop}    Occurrence: 1
+COMPANY:    <| American Internation Energy |>   Corp.   --   [AMERICAN INTERNATIONAL ENERGY]  {aienergy.com}    Occurrence: 2
+COMPANY: /   <| AIDS in Delaware |>   and   --   [AIDS DELAWARE]  {aidsdelaware.org}    Occurrence: 1
+COMPANY: the   <| Association of Illinois Electric |>   Cooperative   --   [ASSOCIATION OF IL ELECTRIC]  {aiec.coop}    Occurrence: 2
+COMPANY: -   <| Aidan Montessori School |>      --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 12
+ADDRESS: 1424   <| K Street NW , Suite 200 |>   |   --   [1600 K STREET NW # 200]  {aids-alliance.org}    Occurrence: 3
+CITY: North   <| Little Rock |>   ,   --   [N LITTLE ROCK]  {aicomputing.com}    Occurrence: 1
+COMPANY: |   <| Legal Council |>   for   --   [AIDS LEGAL COUNCIL]  {aidslegal.com}    Occurrence: 6
+COMPANY:    <| Legal Council |>   for   --   [AIDS LEGAL COUNCIL]  {aidslegal.com}    Occurrence: 9
+CITY: in   <| Hollywood |>   for   --   [WEST HOLLYWOOD]  {aidinc.com}    Occurrence: 2
+ADDRESS:    <| Box 698 |>   (   --   [PO BOX 698]  {aidb.org}    Occurrence: 1
+ADDRESS:    <| 4600 N Fairfax Dr |>   Ste   --   [4600 FAIRFAX DR]  {aici-ho.com}    Occurrence: 1
+COMPANY:    <| Aidan Montessori School |>      --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 2
+COMPANY:    <| Southern NH HIV/AIDS Task |>   Force   --   [SOUTHERN NHHIV-AIDS TASK]  {aidstaskforcenh.org}    Occurrence: 1
+ADDRESS: 3529   <| 7th Avenue S |>      --   [3521 7TH AVENUE S]  {aidsalabama.org}    Occurrence: 2
+ADDRESS:    <| Box 1754 |>      --   [PO BOX 1754]  {aihtravel.com}    Occurrence: 8
+ADDRESS: ,   <| 6100 Getty Dr , STE N |>   ,   --   [6100 GETTY DR # N]  {aicomputing.com}    Occurrence: 1
+COMPANY: at   <| Alabama Industries for the Blind |>   .   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY:    <| Aidan Montessori School |>   ,   --   [STREET AIDAN MONTESSORI SCHOOL]  {aidanschool.org}    Occurrence: 1
+ADDRESS:    <| 100 West 10th Street , Suite 315 |>      --   [100 W 10TH STREET # 315]  {aidsdelaware.org}    Occurrence: 1
+COMPANY: the   <| Association of Illinois Electric |>   Cooperatives   --   [ASSOCIATION OF IL ELECTRIC]  {aiec.coop}    Occurrence: 8
+COMPANY: and   <| Analytical Instruments Inc. |>   ,   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 1
+COMPANY: -   <| Analytical Industries , Inc |>   .   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 10
+CITY: oklahoma   <| city |>   ,   --   [OKLAHOMA CITY]  {aicok.net}    Occurrence: 3
+COMPANY: at   <| Alabama Insurance Exchange , Inc. |>   we   --   [ALABAMA INSURANCE EXCHANGE INCORPORATION]  {aieins.com}    Occurrence: 1
+COMPANY:    <| Aiello ' s Italian Restaurant |>   |   --   [AIELLO 'S ITALIAN RESTAURANT]  {aiellosrestaurant.com}    Occurrence: 1
+CITY: oklahoma   <| city |>   .   --   [OKLAHOMA CITY]  {aicok.net}    Occurrence: 1
+ADDRESS:    <| 1759 R Street , NW |>   ,   --   [1759 R STREET NW]  {aicr.org}    Occurrence: 10
+COMPANY: the   <| Legal Council |>   will   --   [AIDS LEGAL COUNCIL]  {aidslegal.com}    Occurrence: 1
+COMPANY: -   <| Analytical Industries , Inc. |>   Twitter   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 10
+ADDRESS:    <| 6460 S 6th St Frontage Rd |>   E   --   [6460 S 6TH STREET ROAD]  {aiec.coop}    Occurrence: 8
+COMPANY: –   <| Aids Alliance for Adults , Children |>   ,   --   [AIDS ALLIANCE FOR CHILDREN]  {aids-alliance.org}    Occurrence: 2
+COMPANY: -   <| Legal Council |>   for   --   [AIDS LEGAL COUNCIL]  {aidslegal.com}    Occurrence: 9
+COMPANY: DS   <| Memorial Grove |>   initiative   --   [AIDS MEMORIAL GROVE]  {aidsmemorial.org}    Occurrence: 1
+COMPANY:    <| Embroidery , Printing |>   &   --   [AIDA EMBROIDERY AND PRINTING]  {aidae.com}    Occurrence: 1
+COMPANY: ,   <| AIDP , Inc. |>   is   --   [AIDP INCORPORATION]  {aidp.com}    Occurrence: 1
+COMPANY: Advanced   <| Industries Inc. |>   ,   --   [ANALYTICAL INDUSTRIES INCORPORATION]  {aii1.com}    Occurrence: 1
+COMPANY: the   <| Alabama Institute for Deaf and Blind |>   (   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 2
+COMPANY: the   <| Association of Illinois Electric |>      --   [ASSOCIATION OF IL ELECTRIC]  {aiec.coop}    Occurrence: 1
+COMPANY:    <| Alabama Institute for Deaf and Blind |>   is   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+CONTACT: ,   <| Ray Mulch , Sr. |>   ,   --   [Ray Mulch Sr]  {aidantfire.com}    Occurrence: 1
+COMPANY:    <| Alabama Initiatives for |>   Children   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY: the   <| Alabama Institute for Deaf and Blind |>      --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 1
+COMPANY: the   <| Alabama Institute for Deaf and Blind |>   .   --   [ALABAMA SCHOOL FOR THE BLIND]  {aidb.org}    Occurrence: 2

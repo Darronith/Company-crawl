@@ -14,7 +14,7 @@ os.environ['JAVAHOME'] = java_path
 
 input_dir = '..\\..\\data_set\\data\\crawl\\'
 output_dir = '..\\..\\data_set\\data\\silver_labels\\'
-report_dir = '..\\..\\data_set\\data\\reports\\'
+report_dir = '..\\..\\data_set\\data\\local_reports\\'
 global_report_dir = '..\\..\\data_set\\data\\global_reports\\'
 
 # controls whether we want to process only the index page or all four pages (for statistics only)
@@ -26,13 +26,15 @@ num_of_target_skip = 2  # default: 2
 num_of_word_skip = 2  # default: 2
 # controls the ratio of word chain length to target length to decide if the matching is accepted
 accept_ratio = 2.0  # default: 2.0
+# number of lower case words allowed in a matching
+allowed_lowercase_words = 1  # default: 1
 
 # position of first file in list.txt that needs to be processed
-from_num = 3590
+from_num = 4000
 # position of last file
-to_num = 3591
+to_num = 4100
 # number of files per global report
-global_report_interval = 1
+global_report_interval = 50
 
 ##########################################################################
 
@@ -53,7 +55,9 @@ os.makedirs(global_report_dir+'uneven_pairs')
 '''
 useless_pages = open(global_report_dir+'useless.txt', 'w', encoding='utf-8')
 almost_useless_pages = open(global_report_dir+'almost_useless.txt', 'w', encoding='utf-8')
-
+aborted_word_chains = open(global_report_dir+'aborted_matchings.txt', 'w', encoding='utf-8')
+# collects aborted matchings due to repetition of a previously matched word
+aborted_matchings = set()
 # collects matched pairs with holes
 uneven_dict = defaultdict(int)
 # collects valid matches that were declined later by various rules
@@ -89,10 +93,15 @@ case_sensitive = ['STATE', 'CONTACT']
 
 # interchangeable words
 switchable_words = {'&': 'and',
-                  'inc': 'incorporation',
-                  'ave': 'avenue',
-                   'rd': 'road',
-                  '1st': 'first'}
+                    'inc': 'incorporation',
+                    'ave': 'avenue',
+                    'rd': 'road',
+                    '1st': 'first',
+                    'ctr': 'center',
+                    'st': 'street',
+                    'E': 'east',
+                    'N': 'north',
+                    'co': 'company'}
 
 # matching with these words won't count because it's too easy to fit on these due to their commonness
 # this change probably won't ruin many valid matches, but it'll surely prevent many invalid ones (be careful, IN can be a state for example)
@@ -106,6 +115,9 @@ else:
 interval_index = 0
 progress_count = 0
 periodic_report_progress = 0
+#############################
+# CREATING TARGETS FROM JSON
+#############################
 for file_name in list_of_file_names:
     progress_count += 1
     if from_num < progress_count <= to_num:
@@ -171,7 +183,9 @@ for file_name in list_of_file_names:
         list_of_dicts_of_labelled_chains = []
         for t in target_list:
             list_of_dicts_of_labelled_chains.append(defaultdict(int))
-
+        ################################################
+        # MATCHING TARGETS WITH WORDS FROM THE DOCUMENT
+        ################################################
         for dictionary_element in keys_to_pages:
             if dictionary_element in company_data['content']:
                 num_of_words += 1
@@ -215,11 +229,18 @@ for file_name in list_of_file_names:
                                     # the same word twice, that means overlapping named entities being merged, which is
                                     # undesired, so we set this target to skip mode
                                     if position+target[3] > 0:
-                                        if current_word in target[0][:position+target[3]] and current_word not in too_common_words:
+                                        if current_word in target[0][:position+target[3]] and current_word.lower() not in too_common_words:
                                             target[8] = 1  # if you find the same word that has already been matched, that probably means, that the matching should start from the second occurrence of said word
+                                            if i < len(word_list):
+                                                next_word = word_list[i]
+                                            else:
+                                                next_word = ''
+                                            aborted_matchings.add('Word chain: '+' '.join(word_chain)+'  Next word: '+next_word+'  Target: '+' '.join(target[0]))
                                             continue
                                     # if a word matches from the document with a word from the target, matched == True
                                     matched = False
+                                    # helps tracking uneven pairs when a too common word would make otherwise 'even' pairs to be marked as uneven (target[6])
+                                    too_common_found = False
                                     for j in range(0, num_of_target_skip+1):
                                         # we only search for matching until we find the first one
                                         if not matched:
@@ -252,6 +273,7 @@ for file_name in list_of_file_names:
                                                     if mod_position != 0:  # allow names to start with 'The'
                                                         if too_common_words.__contains__(target_word.lower()) or too_common_words.__contains__(current_word.lower()):
                                                             matched = False
+                                                            too_common_found = True
                                             # out of range indexing could happen, but it's necessary to allow word skipping (regardless of stretching out of the length of the target)
                                             if matched:
                                                 in_chain = True
@@ -273,7 +295,7 @@ for file_name in list_of_file_names:
                                                     # we are still building a chain, because we allow some stretching in the matching (holes)
                                                     # as long as there is at least one target, that is not on skip state (skipped words < 3 by default),
                                                     # we build the chain waiting for matching pairs
-                                            if target[3] != 0 and target[6] == 0:
+                                            if target[3] != 0 and target[6] == 0 and target_word.lower() not in too_common_words and not too_common_found:
                                                 target[6] = -1  # this means that the offset was used, but we don't know if this will allow further matchings
                                             if target[6] == -1 and matched:
                                                 target[6] = 1  # now we are certain, that the offset was used and the matching has holes in it
@@ -293,6 +315,9 @@ for file_name in list_of_file_names:
                                 position += 1  # marks the progress of the matching
                                 word_chain.append(word_list[i])
 
+                            ##############################
+                            # PRINTING THE LABELLED WORDS
+                            ##############################
                             # in_chain == False if every target is on Skip mode and the chain is built,
                             # or all target failed immediately (j==2, position==0 case), there is no chain
                             # and the current word is getting the 'O' label
@@ -333,12 +358,12 @@ for file_name in list_of_file_names:
                                     # also, a number alone which is not a ZIP code, is also discarded
                                     if len(word_chain[0]) <= 3 and chain_label != 'STATE' and chain_label != 'ZIP' or len(target[0]) > 2 or word_chain[0].isdigit() and chain_label != 'ZIP':
                                         file.write(word_chain[0] + " O" + '\n')
-                                        declined_matches_dict[string_to_write] += 1
+                                        declined_matches_dict[string_to_write+' REASON:TOO_SMALL_OR_TOO_SHORT'] += 1
                                     # we do not allow single words to match with names or company names, because
                                     # these usually wrong (e.g. matching last names generally doesn't mean it's the same person)
-                                    elif chain_label == 'CONTACT' or chain_label == 'COMPANY':
+                                    elif (chain_label == 'CONTACT' or chain_label == 'COMPANY') and len(target[0]) > 1:
                                         file.write(word_chain[0] + " O" + '\n')
-                                        declined_matches_dict[string_to_write] += 1
+                                        declined_matches_dict[string_to_write+' REASON:ONLY_ONE_WORD'] += 1
                                     else:
                                         # unit label is used, because this word chain is only 1 word long
                                         file.write(word_chain[0] + " U-" + chain_label + '\n')
@@ -348,8 +373,13 @@ for file_name in list_of_file_names:
                                         not_outside = True
                                     i -= 1  # chain breaking words may start a new chain, so we check it again (after resetting the local variables)
                                 elif len(word_chain) > 1:
-                                    # chain length must be at least half of the length of the target (by default)
-                                    if len(word_chain) >= len(target[0])/accept_ratio:
+                                    # limit the number of lowercase words for better performance
+                                    capital_letters = 0
+                                    for doc_word in word_chain:
+                                        if doc_word.isdigit() or doc_word[:1].isupper():
+                                            capital_letters += 1
+                                    # chain length must be at least half of the length of the target, plus 1 (by default)
+                                    if len(word_chain) >= (len(target[0])+1)/accept_ratio and capital_letters >= len(word_chain)-allowed_lowercase_words * (1+len(word_chain)/5) and capital_letters >= 1:
                                         file.write(word_chain[0] + " B-" + chain_label + '\n')
                                         for j in range(1, len(word_chain) - 1):
                                             file.write(word_chain[j] + " I-" + chain_label + '\n')
@@ -362,7 +392,7 @@ for file_name in list_of_file_names:
                                     else:
                                         for j in range(0, len(word_chain) - 1):
                                             file.write(word_chain[j] + " O" + '\n')
-                                        declined_matches_dict[string_to_write] += 1
+                                        declined_matches_dict[string_to_write+' REASON:TOO_SHORT_OR_FEW_CAPITALS'] += 1
                                 else:  # word chain is empty
                                     if i != len(word_list):  # out of range indexing prevention
                                         file.write(word_list[i] + " O" + '\n')
@@ -385,7 +415,9 @@ for file_name in list_of_file_names:
         file.close()
         print("Labelling done in: " + file_name + '\n')
         labelling_report.write('Labelling in: ' + file_name + '\n\n')
-
+        ##################################
+        # CREATING REPORTS AND STATISTICS
+        ##################################
         at_least_once = set()  # set of labels that were used at least once in the current document
         nan_set = set()  # set of labels that had NaN in the json field
         useless_page = True
@@ -445,6 +477,10 @@ for file_name in list_of_file_names:
             labelling_report.write('This document was almost useless.\n')
         # extra data to check if every word is written in the labelled file
         labelling_report.write('Number of processed words and empty lines: '+str(num_of_words-2)+'\n')
+        for t in aborted_matchings:
+            aborted_word_chains.write(t+'\n')
+        aborted_matchings.clear()
+        aborted_word_chains.flush()
 
         # global report after a given amount of files or when the processing of files is finished
         if periodic_report_progress == global_report_interval or progress_count == to_num:
@@ -494,4 +530,5 @@ for file_name in list_of_file_names:
 
 useless_pages.close()
 almost_useless_pages.close()
+aborted_word_chains.close()
 

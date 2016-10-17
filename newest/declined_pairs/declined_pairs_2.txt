@@ -1,0 +1,719 @@
+Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: |   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 8
+COMPANY: ,   <| Aiken Mitchell |>   and   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   Leasing   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: County   <| Public |>   schools   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: Aim   <| Realty |>   |   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: The   <| Ainsley |>   team   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Life |>   Insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 39
+COMPANY: of   <| Aikido |>      --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: insurance   <| life |>   ,   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Aiken |>   ,   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: Bug   <| Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: Disability   <| Insurance |>      --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: Casualty   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Water   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: :   <| Public |>   Services   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aiken |>   Report   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY:    <| AIM |>   FloraFood   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+CONTACT: Micah   <| Cohen |>   .   --   [David M Cohen]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: service   <| lease |>   ,   --   [AIM NATIONAL LEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: in   <| Aikido |>   to   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: middle-income   <| Americans |>   through   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| aviation |>   liability   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: related   <| insurance |>   needs   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: provides   <| life |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Beech   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Beacon   <| Insurance |>   Group   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| relocation |>   ,   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Businesses   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: fbo   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: management   <| solutions |>   that   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: commercial   <| blending |>   equipment   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Solutions |>      --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 14
+COMPANY: ,   <| Aikido |>   has   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: unloading   <| all |>   that   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| construction |>   management   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+CONTACT: Andrew   <| Coleman |>      --   [Jerry Coleman]  {aim-inc.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| AIM |>   started   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+ADDRESS: 5700   <| Wilshire Blvd |>   .   --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 5
+COMPANY: within   <| one |>   business   --   [ONE LYTLE PLACE]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: spraying   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| life |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: the   <| pest control |>   industry   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| blending |>   machines   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: storage   <| construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| atlantis , international |>   ,   --   [ATLANTIS INTERNATIONAL LTD]  {ailtravel.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: King   <| Construction |>   is   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| life |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 14
+COMPANY: processing   <| construction |>   and   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: launched   <| AIM |>   Services   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: moving   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+CONTACT: generally   <| able |>   to   --   [Ned Gable]  {aimovers.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: ,   <| AIM or a NationaLease |>   affiliate   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Service   <| Millwork |>   ,   --   [AILES MILLWORK INCORPORATION]  {ailesmillwork.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Ultimate   <| Adventure |>      --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: calling   <| AIM |>   after   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: PA   <| Pest |>   Elimination   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Plant   <| Construction Company |>      --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| Aiken |>   City   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: My   <| Life |>   at   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 32
+ADDRESS: Empire   <| Blvd |>      --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Cardio   <| Health |>   -   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Bakery   <| Equipment |>      --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 12
+COMPANY: C   <| INSURANCE |>   QUOTE   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Currently   <| AIM |>   continues   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: s   <| Public |>   Information   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| Aimer |>   p2   --   [AIMER CORP]  {aimercorp.com} REASON:ONLY_ONE_WORD    Occurrence: 4
+COMPANY: a   <| blending |>   product   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Complete   <| Pest Control |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   Garden   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: in   <| pest |>   detection   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: using   <| storage |>   if   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Aim   <| Realty |>   provides   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| American Insurance |>   Marketing   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 4
+COMPANY: with   <| AIM |>   today   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: of   <| Aiken |>      --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| Aikler |>   ,   --   [AIKLER ASPHALT PAVING COMPANY]  {aikler.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ``   <| I |>   just   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: :   <| Aiken |>   City   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: your   <| blending |>   and   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   containers   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| AIM |>   PrepZymes   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aim Computer |>   -   --   [AIM COMPUTER ASSOC INCORPORATION]  {aimcomputer.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+COMPANY:    <| AIM |>   RediBeets   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| aikido |>   )   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY:    <| pest control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Heart   <| Health |>   Pack   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   YouTube   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: LEED   <| construction |>   consultations   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aviation |>   Links   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: for   <| insurance |>   agents   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: the   <| way |>   we   --   [1520 ENTERPRISE WAY]  {ailesmillwork.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Valley   <| Storage |>   Facility   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: with   <| AIM |>   .   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: reading   <| pest control |>   periodicals   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: of   <| Aiken |>   '   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: location   <| production |>   ,   --   [AIM PRODUCTIONS]  {aimproductions.com} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: clerical   <| work |>   in   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY:    <| Aiken |>   SPCA   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Bear   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Re   <| America |>      --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: include   <| apartment |>   name   --   [SCOTCHOLLOW APARTMENTS]  {aimco.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+ADDRESS: dry   <| van |>   or   --   [16055 VAN DRUNEN ROAD]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: The   <| AIM |>   Association   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| AIM |>   was   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| construction |>   industry   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: traditional   <| insurance |>   agency   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Records   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: business   <| information |>   .   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Pet   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Plant   <| Construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: hangarkeepers   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: The   <| Aiken |>   County   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| blending technologies |>      --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Award-Winning   <| Construction |>   Team   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Starr   <| Aviation |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   space   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: myriad   <| insurance |>   services   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   buildings   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: corrupted   <| AIM |>   ’   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Public |>   Services   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+CONTACT: Richard   <| Coleman |>      --   [Jerry Coleman]  {aim-inc.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: of   <| NationaLease |>   ,   --   [AIM NATIONALEASE]  {aimntls.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: Cleveland   <| Millwork |>   ,   --   [AILES MILLWORK INCORPORATION]  {ailesmillwork.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Preferred   <| Aviation |>   Underwriters   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Pest Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 5
+COMPANY: Aircraft   <| insurance |>   -   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aiken |>   Center   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Life |>   Disability   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Office   <| Relocation |>   &   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: AIM   <| REALTY |>   provides   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Today   <| AIM |>   services   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Self   <| Storage |>   Serving   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Wallace   <| Aiken |>   ,   --   [AIKEN STREET LOUIS AND SILJEG]  {aiken.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: with   <| AIM |>      --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: the   <| Pest Control |>   Industry   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: your   <| AIM |>   consultant   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| aviation products liability insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Industrial   <| Blending |>   Equipment   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: Empire   <| Blvd # |>   120   --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 4
+COMPANY: free   <| insurance |>   quotes   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: sensitive   <| information |>   .   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: upcoming   <| information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: and   <| Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   remains   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Hallmark   <| Insurance |>   )   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: AIL   <| Life |>   Insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Life |>   Claims   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: your   <| life |>   should   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| AIM |>   Business   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Care   <| Insurance |>   options   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: or   <| Pest |>   Problem   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: in   <| Aikido |>   .   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Kitchen   <| Equipment |>   ?   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: found   <| at |>   all   --   [VILLAGE AT VENEZIA]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+CONTACT: Becky   <| Neeley |>   ,   --   [Steven Neeley]  {aimofohio.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: U.S.   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| American Income |>   Partners   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: contacting   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: aircraft   <| insurance |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: professional   <| movers |>   is   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Let   <| AIMCO |>   ’   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Every   <| AIM |>   Services   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: term   <| life |>   ,   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: you   <| solutions |>   that   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Since   <| AIM |>   has   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   '   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 8
+COMPANY: apologize   <| for |>   any   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Public |>   Safety   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 10
+COMPANY: award-winning   <| construction |>   team   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: an   <| AIM |>   representative   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Company |>   :   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: AXA   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+CONTACT: John   <| Tchiang |>      --   [Juliana Tchiang]  {aimercorp.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| AIM |>   Veggie   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: ’   <| s |>   budget   --   [880 S PLEASANTBURG DR]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Residential   <| Pest |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: their   <| insurance |>   needs   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   GinkgoSense   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Arkansas |>      --   [ARKANSAS INDUSTRIAL MACHINERY]  {aimcompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: National   <| Income Life |>   ,   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY: &   <| Blending |>   consulting   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: other   <| storage |>   places   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Storage   <| Construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Herbal   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: professional   <| mover |>   for   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Junior   <| Aikido |>      --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Insurance |>   Applications   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: Riverside   <| Storage |>   Facility   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: The   <| Aiken |>   City   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| storage |>   rental   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: ERP   <| solution |>   .   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+ADDRESS: Indiana   <| Ave |>      --   [10590 MAGNOLIA AVENUE]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: for   <| information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   also   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: hanagarkeepers   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: to   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Aikido |>   Anchorage   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY:    <| Life |>   and   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: the   <| Aiken |>   county   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Public |>   Notices   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: ’   <| s |>   New   --   [7725 S 6TH STREET]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY:    <| nsurance |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| aviation insurance |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| Aim |>   3PL   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: EXISTING   <| INSURANCE |>   COVERAGE   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Relocation |>      --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: order   <| may |>   cause   --   [643 MAY ROYAL DR]  {aikencountysc.gov} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: right   <| international |>   moving   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| NationaLease |>   ,   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| Information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: an   <| insurance |>   ,   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| AIM or a NationaLease |>   affiliate   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Catlin   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aim For |>   HealthTM   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: ``   <| AIM |>   FOR   --   [AIM ADVENTURES]  {aimadventures.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: full-service   <| information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: your   <| adventure |>   will   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: with   <| AIM |>   today   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+ADDRESS: Paramount   <| Blvd |>      --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: major   <| aviation |>   underwriters   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   units   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: RV   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: similar   <| insurance |>   marketing   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Website   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 10
+COMPANY: Specialty   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| Aiken Mitchell |>      --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: and   <| marketing |>   .   --   [ACCURATE IMAGE MARKETING]  {aimmeetings.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: to   <| high |>   intensity   --   [AIM HIGH SPORTS]  {aimhighsports.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Twitter   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: Wilderness   <| Adventures |>      --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: ,   <| Pest |>   Inspections   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| AIM |>   has   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   offers   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: the   <| NationaLease |>   family   --   [AIM NATIONALEASE]  {aimntls.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| Aimer |>   Corporation   --   [AIMER CORP]  {aimercorp.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: valuable   <| information |>   and   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Construction |>   Services   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| Aiken |>   ,   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: in   <| storage |>   .   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: self   <| storage |>   needs   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Animal   <| Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: supplemental   <| life |>   and   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: your   <| information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: of   <| American |>   families   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: London   <| Aviation |>   Underwriters   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Akron   <| Millwork |>   ,   --   [AILES MILLWORK INCORPORATION]  {ailesmillwork.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+CONTACT:    <| John |>   Koury   --   [John D Aiken]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: |   <| Aim |>   Associates   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 10
+COMPANY:    <| at |>   all   --   [VILLAGE AT VENEZIA]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Accessible   <| information |>   for   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Engineering   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: life   <| insurance |>   in   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: kitchen   <| equipment |>   ,   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| AIM |>   have   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Aim |>   ,   --   [AIM COMPUTER ASSOC INCORPORATION]  {aimcomputer.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| International |>   Relocation   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: New   <| Hampshire |>   ,   --   [890 HAMPSHIRE ROAD]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aim |>   Store   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: next   <| Adventure |>   .   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: commercial   <| lease |>   or   --   [AIM NATIONAL LEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| information |>   at   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Victim   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: aircraft   <| insurance |>   brokers   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: mini   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+ADDRESS:    <| 8934 |>   N.Fitzgerald   --   [8934 N FITZGERALD LN]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: Tail   <| Road |>      --   [74 COOPER ROAD]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: View   <| AIM |>   Careers   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: through   <| construction |>   and   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: ’   <| s |>   new   --   [7725 S 6TH STREET]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: upcoming   <| International |>   move   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aiken |>   Business   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: of   <| Aiken |>   its   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Notary   <| Public |>      --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: Right   <| Place |>   to   --   [ONE LYTLE PLACE]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| AIM |>   has   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ULTIMATE   <| ADVENTURE. |>   ``   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| AIM |>   Relo   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: by   <| Aikido |>   Sandai   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: and   <| Construction |>   â   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Concession   <| Equipment |>      --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 12
+COMPANY:    <| american income life insurace company |>   cohen-cohen   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 32
+COMPANY: solution   <| AIM |>   provides   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: the   <| Aiken |>   County   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Commercial   <| Construction |>   Services   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: General   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: commercial   <| construction |>   design-build   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: operates   <| public |>   libraries   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: the   <| solution |>   AIM   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: accounting   <| solution |>   that   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY:    <| AIM |>   Para90   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Termite   <| Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: ,   <| information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: commercial   <| blending |>   and   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: the   <| NationaLease |>   family   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: of   <| Aiken |>   Services   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+CONTACT:    <| A |>   Kinder   --   [Gloria A Smith]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Why   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: offers   <| life |>   and   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   facilities   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: animal   <| control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+ADDRESS: Paramount   <| Blvd # |>   105   --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 4
+COMPANY: the   <| American |>   Arbitration   --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: allows   <| AIM |>   to   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Enviro-Green   <| Control |>   Program   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: '   <| s |>   General   --   [7725 S 6TH STREET]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: worldwide   <| adventure |>   plans   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: Our   <| pest control |>   procedures   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   GlucoChrom   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| pest control |>   coupons   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+COMPANY: self   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+CONTACT:    <| Steve |>   is   --   [Steven Neeley]  {aimofohio.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: your   <| Pest Control |>   needs   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   will   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+ADDRESS: ’   <| s |>      --   [7725 S 6TH STREET]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Residents   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: and   <| Construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: take   <| a |>   moment   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: the   <| aviation insurance |>   business   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Total   <| Construction |>   Services   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: green   <| pest control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: ,   <| Arkansas |>   72118   --   [ARKANSAS INDUSTRIAL MACHINERY]  {aimcompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: for   <| apartments |>   and   --   [SCOTCHOLLOW APARTMENTS]  {aimco.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: your   <| aviation insurance |>   needs   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: of   <| NationaLease |>   â   --   [AIM NATIONALEASE]  {aimntls.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: ranked   <| one |>   of   --   [ONE LYTLE PLACE]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: 2016   <| AIM |>   Association   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: ,   <| international |>   agent   --   [ATLANTIS INTERNATIONAL LTD]  {ailtravel.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: that   <| AIM |>   delivers   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Life   <| Insurance |>   Services   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: ’   <| s |>   an   --   [880 S PLEASANTBURG DR]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Information |>   Management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: the   <| AIM |>      --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Elm   <| Creek |>      --   [SHADOW CREEK APARTMENTS]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Piper   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: business   <| information |>   at   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Commercial   <| Pest |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| insurance |>   needs   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: Bay   <| Ave |>      --   [10590 MAGNOLIA AVENUE]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Aim   <| Realty |>   ,   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Aikido |>   Alaska   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY:    <| Aikido |>   World   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Blending |>   Machines   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| storage |>   unit   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: ,   <| Aiken Mitchell |>   provides   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: records   <| storage |>   unit   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Cellsparc   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: About   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: At   <| AIM |>   service   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: commercial   <| construction design-build company |>   A   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| at |>   Aimco   --   [VILLAGE AT VENEZIA]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   County   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Facebook   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: from   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: started   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: at   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: markets   <| life |>   and   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: video   <| production |>   ,   --   [AIM PRODUCTIONS]  {aimproductions.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: View   <| AIM |>   Careers   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: at   <| all |>   sites   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: what   <| a |>   great   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: sports   <| marketing |>   ,   --   [ACCURATE IMAGE MARKETING]  {aimmeetings.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: airplane   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: s   <| information |>   .   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: personal   <| aviation |>   liability   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Care   <| Insurance |>   and   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: a   <| pest control |>   company   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: ,   <| american income life |>   ,   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 14
+COMPANY: More   <| Information |>   >   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: stop   <| aviation insurance |>   agency   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Request   <| A |>   Quote   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: premises   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Old   <| Aiken |>   Master   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: to   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: commercial   <| construction |>   services   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Services   <| works |>   closely   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: About   <| AIM |>      --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: New   <| Equipment |>   Sales   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 12
+COMPANY: liability   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: of   <| Aikido |>   are   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: |   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 10
+COMPANY: ,   <| Paving |>   ,   --   [AIKLER ASPHALT PAVING COMPANY]  {aikler.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: major   <| aviation insurance |>   markets   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| Aikido |>   classes   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 4
+COMPANY: Contact   <| AIM |>      --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: The   <| public |>   is   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 2
+CONTACT: are   <| able |>   to   --   [Ned Gable]  {aimovers.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: Industrial   <| Construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: Processing   <| Construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Construction |>   Management   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: King   <| Construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Star   <| insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: life   <| insurance |>   has   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storages |>   boxes   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: The   <| Aim |>   Team   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aikido |>   ,   --   [AIKIDO OF CINCINNATI]  {aikidocincy.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: 5x5   <| all |>   the   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| blending |>   machines   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: self   <| storage |>   in   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 12
+COMPANY: plant   <| construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| aiken , st. louis , siljeg |>   ,   --   [AIKEN STREET LOUIS AND SILJEG]  {aiken.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+COMPANY: ,   <| Asphalt |>   ,   --   [AIKLER ASPHALT PAVING COMPANY]  {aikler.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: launched   <| AIM |>   Services   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| AIM |>   is   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 9
+COMPANY: our   <| pest control |>   procedures   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: in-home   <| life insurance sales company |>   for   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY: ,   <| AIM |>   ,   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: the   <| pest control |>   business   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   Proancynol   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Great   <| American |>   Insurance   --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: your   <| apartment |>   home   --   [SCOTCHOLLOW APARTMENTS]  {aimco.com} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY:    <| Aim |>   Associates   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Jersey   <| Pest |>   Management   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| construction |>   .   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: (   <| AIM |>   )   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Just   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| American |>   Studies   --   [AMERICAN INCORPORATORS LTD]  {ailcorp.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   News   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: The   <| public |>   is   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| pest |>   elimination   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: in   <| life |>   .   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| AIM |>   ’   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Public |>   records   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: crews   <| work |>   hard   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ideal   <| blending |>   solution   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| high |>   schools   --   [AIM HIGH SPORTS]  {aimhighsports.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: self   <| storage |>   units   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+CONTACT: ,   <| Murray Sawyer |>   ,   --   [H Murray Sawyer Jr]  {ailcorp.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   Leasing   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ERP   <| solution |>   can   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: household   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: ,   <| aviation |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| public |>   hearing   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: storage   <| construction |>   .   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: About   <| AIM |>      --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: Robert   <| St. Louis |>   also   --   [AIKEN STREET LOUIS AND SILJEG]  {aiken.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: service   <| relocation |>   .   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: '   <| N |>   Fiber   --   [8934 N FITZGERALD LN]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: My   <| Life |>   at   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 11
+COMPANY: an   <| apartment |>   ,   --   [SCOTCHOLLOW APARTMENTS]  {aimco.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: jersey   <| pest control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+COMPANY:    <| Public |>   Education   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: of   <| Aiken |>   Government   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: of   <| Aiken |>   Administration   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Insurance |>   Marketing   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: Augusta   <| Public |>   Transit   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 4
+COMPANY: by   <| AIM |>   at   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| AIM |>   ReassureSP   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Prostate   <| Health |>   )   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Latin   <| America |>   ,   --   [AMERICAN INTERNATIONAL MACH]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: superior   <| pest control |>   services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+COMPANY:    <| All |>   major   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| blending |>   machines   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: area   <| production |>   company   --   [AIM PRODUCTIONS]  {aimproductions.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: of   <| Aiken |>   is   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| AIM |>   is   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| atlantis international |>   ,   --   [ATLANTIS INTERNATIONAL LTD]  {ailtravel.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Cessna   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Secondary   <| Insurance |>      --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY:    <| adventure |>   destination   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: green   <| pest control |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+COMPANY: of   <| Aiken |>   along   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| aim computer |>   ,   --   [AIM COMPUTER ASSOC INCORPORATION]  {aimcomputer.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: a   <| pest control |>   specialist   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: (   <| for |>   info   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   ,   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 24
+COMPANY: in   <| Aikido |>   ,   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: '   <| s |>   New   --   [7725 S 6TH STREET]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: offer   <| life |>   and   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: documentary   <| production |>   ,   --   [AIM PRODUCTIONS]  {aimproductions.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| AIM |>   CranVerry   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Beaumont   <| storage |>   site   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: THAT   <| INSURANCE |>   COVERAGE   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: The   <| Aikido |>   way   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aikido Schools |>   of   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY:    <| AIM |>   Peak   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| aviation insurance |>   requirements   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| anagers |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+ADDRESS: on   <| Wilshire |>   Boulevard   --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 17
+COMPANY: Ai   <| Networks |>   •   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ERP   <| solution |>   is   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY:    <| AIM |>   Renewed   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| aviation |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: supplemental   <| life |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: 2015   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 7
+COMPANY: rental   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: software   <| AIM |>   Services   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: life   <| insurance |>   coverage   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: at   <| AIM |>   .   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: general   <| aviation |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| storage |>   unit   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Storage   <| Construction |>      --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: unforgettable   <| adventure |>   .   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: financial   <| solutions |>   to   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 9
+COMPANY: REQUEST   <| A |>   QUOTE   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aiken |>   Thoroughbred   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Storage |>   Units   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: United   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Aimer |>   has   --   [AIMER CORP]  {aimercorp.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| Aikido |>   is   --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: arts   <| schools |>      --   [AIKIDO SCHOOL OF CENTRAL OHIO]  {aikidoschool.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: mobile   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+ADDRESS: Ulster   <| St |>   .   --   [1012 FREDERICK STREET]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aikido |>   “   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: feel   <| at |>   home   --   [VILLAGE AT VENEZIA]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: '   <| s |>   a   --   [212 S HENRY STREET]  {aimmeetings.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: won   <| AIM |>   ?   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Composure   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: first   <| storage |>   facility   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: extraordinary   <| adventure |>   packages   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: of   <| Aiken |>   .   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| pest control |>   techniques   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 4
+COMPANY: of   <| asphalt paving |>      --   [AIKLER ASPHALT PAVING COMPANY]  {aikler.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| Aiken |>   This   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY:    <| Sports |>      --   [AIM HIGH SPORTS]  {aimhighsports.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 14
+COMPANY: car   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+CONTACT: David   <| Coleman |>      --   [Jerry Coleman]  {aim-inc.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: storage   <| construction |>   and   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Call   <| AIM |>   for   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: audio   <| production |>   ,   --   [AIM PRODUCTIONS]  {aimproductions.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: of   <| Aiken |>   Newsletter   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: '   <| s |>   USA   --   [7725 S 6TH STREET]  {aim-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Gluten   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: the   <| Wilshire |>   and   --   [6500 WILSHIRE BLVD # 400]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| NationaLease |>   â   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| AIM |>   consultants   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Equipment |>   Sales   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 18
+ADDRESS: King   <| Avenue |>   East   --   [1615 YEAGER AVENUE]  {aimotion.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: aircraft   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: in-home   <| life insurance sales company |>   serving   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+CONTACT: Jim   <| Lopresto |>      --   [James Lopresto]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| Life |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: more   <| information |>   ,   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Aiken |>   County   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 11
+COMPANY:    <| Public |>   Assistance   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: on   <| Health |>   the   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Health |>   Maintenance   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: bit   <| high |>   tech   --   [AIM HIGH SPORTS]  {aimhighsports.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Beaumont   <| Storage |>   Facility   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Aiken |>   Municipal   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Aikido |>   was   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: ,   <| storage |>   quotes   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: Independent   <| AIM |>   distributor   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: aircraft   <| insurance |>   company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   has   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: independent   <| aviation insurance |>   brokers   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY: Boat   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: National   <| Pest |>   Management   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Steam   <| Equipment |>      --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 30
+COMPANY:    <| Life |>   Insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 23
+COMPANY: At   <| AIM |>   service   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aikido |>   is   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 6
+COMPANY: ,   <| Relocation |>   ,   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Mr.   <| Aiken |>   left   --   [AIKEN STREET LOUIS AND SILJEG]  {aiken.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   quote   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+CITY: ,   <| los angeles |>      --   [LOS ANGELES]  {ailla.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: with   <| aviation and aircraft insurance |>   solutions   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: Cooking   <| Equipment |>   .   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Every   <| AIM |>   Services   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: At   <| AIM |>   we   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Ainsley |>   ensures   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: the   <| solution |>   that   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 9
+COMPANY:    <| American Income |>   Partners   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY: wine   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: national   <| insurance |>   marketing   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| I |>   was   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| production |>   company   --   [AIM PRODUCTIONS]  {aimproductions.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: opportunities   <| at |>   Aimco   --   [VILLAGE AT VENEZIA]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: secure   <| place |>   to   --   [ONE LYTLE PLACE]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: to   <| Aikido |>   and   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: for   <| blending |>   and   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| adventures |>   .   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: (   <| for |>   women   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aikido |>   ,   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: visiting   <| Aimer |>   '   --   [AIMER CORP]  {aimercorp.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| Insurance |>   Links   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: SW   <| Aiken |>   ,   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: facility   <| construction |>   ,   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Because   <| international |>   moving   --   [AMERICAN INTERNATIONAL MOVERS]  {aimovers.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Baking   <| Equipment |>      --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 12
+COMPANY: contact   <| AIM |>   Relo   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Rodent   <| Control |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: YOU   <| for |>   Dinner   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| blending |>   machine   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Variable   <| Blending |>   Speeds   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Republic   <| Insurance |>   Company   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: much   <| information |>   is   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: s   <| Health |>      --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Fit   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: for   <| AIM |>   Relo   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: by   <| AIM |>   eliminating   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Commercial   <| Paving |>      --   [AIKLER ASPHALT PAVING COMPANY]  {aikler.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: supplemental   <| life |>   ,   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY:    <| AIM |>   is   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Windsor   <| Park |>      --   [HERITAGE PARK SENIOR APTS]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| American Insurance |>   Marketers   --   [AMERICAN INSURANCE MKTNG SVC]  {aimsltc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: PA   <| Pest |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: (   <| Aviation |>   Division   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Public Works |>      --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY: an   <| AIM |>   support   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: a   <| sport |>   .   --   [AIM HIGH SPORTS]  {aimhighsports.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: CANCELLED   <| Public |>   Notice   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: the   <| AIM |>   Companies   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+CONTACT: the   <| Cohen |>   family   --   [David M Cohen]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+CONTACT: Micah   <| Cohen |>   also   --   [David M Cohen]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: of   <| Aiken |>   Animal   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: account   <| information |>   and   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Refrigeration   <| Equipment |>   .   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: The   <| AIM |>   Team   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: furniture   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| AIM |>   BarleyLife   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| pest control |>   services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: County   <| Public |>   Library   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 2
+COMPANY: The   <| Healthy |>   Cell   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: for   <| equipment |>   ,   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: your   <| information |>   .   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Call   <| AIM |>   -   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Cafeteria   <| Equipment |>   and   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY:    <| AIM |>   is   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: Mr.   <| Aiken |>   and   --   [AIKEN STREET LOUIS AND SILJEG]  {aiken.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Apartments |>      --   [SCOTCHOLLOW APARTMENTS]  {aimco.com} REASON:ONLY_ONE_WORD    Occurrence: 3
+COMPANY: Including   <| Construction |>   Management   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Operations   <| Aiken Mitchell |>      --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: with   <| AIM |>   .   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+COMPANY: 2016   <| Aiken Mitchell |>   .   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 4
+COMPANY: at   <| AIM |>   ,   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: Contact   <| AIM |>      --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: keep   <| Aiken |>   ...   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aiken Mitchell |>   is   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY: general   <| aviation insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+CITY: 4th   <| St |>   N   --   [STREET PETERSBURG]  {ailtravel.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Aim   <| Realty |>   management   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Equipment |>   schedule   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| life |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 9
+COMPANY: and   <| construction |>   needs   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: AIM   <| REALTY |>   is   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| Arkansas |>   which   --   [ARKANSAS INDUSTRIAL MACHINERY]  {aimcompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Luchs   <| Insurance |>   Agency   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Used   <| Equipment |>   Sales   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 12
+COMPANY: ,   <| AIM |>   was   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: (   <| For |>   Men   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: SC   <| Works |>   Center   --   [PUBLIC WORKS]  {aikencountysc.gov} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: and   <| Construction |>   â   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aiken |>   Dog   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: of   <| Aiken |>   now   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Aim |>   3PL   --   [AIM NATIONALEASE]  {aimnationalease.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| AIM |>   Association   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: to   <| Ailes |>   Law   --   [CHARLES M AILES PLC]  {aileslaw.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ``   <| I |>   want   --   [A I NETWORKS]  {ainetworks.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| advanced information |>   management   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 7
+COMPANY: Work   <| at |>   Aimco   --   [VILLAGE AT VENEZIA]  {aimco.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: business   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: tailored   <| solution |>   that   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   offers   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY:    <| AIM |>   ProPeas   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Mega   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+CONTACT: A.   <| Cohen |>   ,   --   [David M Cohen]  {ailla.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 16
+COMPANY: Specialty   <| Aviation |>   Underwriters   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: of   <| Aiken |>   Finance   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| aviation |>   and   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Cell   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   Website   --   [AIM NATIONALEASE]  {aimntls.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 10
+COMPANY: outdoor   <| adventures |>   ,   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY:    <| AIM |>   RevitaFem   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| storage |>   in   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 9
+COMPANY:    <| AIM |>   HumiKleanse   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| adventure |>   ,   --   [AIM ADVENTURES]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: California   <| Aikido |>   Association   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 6
+COMPANY:    <| Aim |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: ,   <| advanced , information |>   ,   --   [ADVANCED INFORMATION MGMT]  {aimrecords.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 7
+COMPANY: of   <| Aikido |>   is   --   [AIKIDO NORTH]  {aikidonorth.org} REASON:ONLY_ONE_WORD    Occurrence: 4
+COMPANY: The   <| solutions |>   we   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+ADDRESS: Tail   <| Road |>   ,   --   [74 COOPER ROAD]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY: his   <| son |>   in   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: and   <| blending |>   needs   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+ADDRESS: the   <| sun |>   worshiper   --   [5901 SUN BLVD # 201]  {ailtravel.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Ohio   <| Millwork |>   ,   --   [AILES MILLWORK INCORPORATION]  {ailesmillwork.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY:    <| Aim |>   Green   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: Aggressive   <| Insurance |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: helicopter   <| insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: and   <| construction |>   professionals   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| Blending |>   Equipment   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: industrial   <| construction |>   including   --   [AIKEN MITCHELL CONSTRUCTION COMPANY]  {aikenmitchell.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: garage   <| storage |>   ,   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: Marine   <| America |>      --   [AMERICAN INSTITUTE OF MARINE]  {aimu.org} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: and   <| marketing |>   needs   --   [ACCURATE IMAGE MARKETING]  {aimmeetings.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| blending |>   machine   --   [AIM BLENDING TECHNOLOGIES]  {aimblending.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: Terrorism   <| Insurance |>   Act   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY: understanding   <| pest control |>   services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| Public |>   Notice   --   [AIKEN PUBLIC WORKS DIRECTOR]  {aiken.net} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 5
+COMPANY: Your   <| Pest |>      --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 4
+COMPANY:    <| Ainsley |>   Heating   --   [AINSLEY AND SON HTG AND COOLING]  {ainsleyhtg.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 14
+COMPANY: to   <| AIM |>   '   --   [AIM RELOCATION GROUP]  {aimrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: a   <| Home |>      --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| viation |>      --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: self   <| storage |>   facilities   --   [AIM ALL STORAGE MANAGEMENT COMPANY]  {aimallstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 3
+COMPANY:    <| Pest Control |>   Services   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 1
+COMPANY:    <| AIM |>   Products   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: as   <| AIM |>   grows   --   [AIM NEVADA]  {aimassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: ,   <| aim pest |>   ,   --   [AIM PEST CONTROL INCORPORATION]  {aimpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 3
+CONTACT:    <| Brian |>   ’   --   [Brian Essex]  {aimassoc.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: ,   <| American |>   insurance   --   [AMERICAN INCOME LIFE INS COMPANY]  {ailife.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: &   <| Aiken |>   ,   --   [AIKEN STREET LOUIS AND SILJEG]  {aiken.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: your   <| aviation |>   related   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+CONTACT: Jim   <| Lopresto |>   &   --   [James Lopresto]  {aimadventures.com} REASON:ONLY_ONE_WORD    Occurrence: 1
+COMPANY: ,   <| aviation insurance |>   ,   --   [AVIATION INSURANCE MANAGERS]  {aimofohio.com} REASON:TOO_SHORT_OR_FEW_CAPITALS    Occurrence: 2
+COMPANY: AIM   <| Realty |>   Management   --   [AFFORDABLE HOMES REALTY]  {aimrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 2
+COMPANY: ,   <| AIM |>   continues   --   [AIM SVC]  {aiminet.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIMCO |>   Catalogs   --   [AIMCO EQUIPMENT COMPANY]  {aimcoequipment.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 6
+ADDRESS: during   <| May |>   draw   --   [643 MAY ROYAL DR]  {aikencountysc.gov} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY:    <| AIM |>   also   --   [AIM SOLUTIONS INCORPORATION]  {aimsolutionsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
+COMPANY: The   <| AIM |>   Business   --   [AIM FOR HEALTH INCORPORATION]  {aim4health.com} REASON:TOO_SMALL_OR_TOO_SHORT    Occurrence: 1
