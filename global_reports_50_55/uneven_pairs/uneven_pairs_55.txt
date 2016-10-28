@@ -1,0 +1,260 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY:  <| Wings of Hope Hospice |> helps -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY: Verde <| Law Offices |> - -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}  Occurrence: 2
+
+COMPANY: Verde <| Law Offices |>  -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}  Occurrence: 1
+
+COMPANY: Contact <| Allbrite Electrical Service Contractor |> serving -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net}  Occurrence: 1
+
+ADDRESS:  <| Box 9894 |> San -- [PO BOX 9894]  {alldogyardcleanup.com}  Occurrence: 1
+
+COMPANY:  <| Allan Garnaas Associates |> - -- [ALLAN D GARNAAS & ASSOC]  {allangarnaas.com}  Occurrence: 2
+
+ADDRESS:  <| 20 South Quaker Lane , Suite 300 |>  -- [20 S QUAKER LN # 300]  {allangarnaas.com}  Occurrence: 1
+
+COMPANY:  <| Allcounty Plumbing & Heating Corp |> . -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com}  Occurrence: 1
+
+COMPANY: at <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}  Occurrence: 23
+
+COMPANY:  <| ALL Crane & Equipment Rental |> Corp -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+COMPANY:  <| All American Poly |> is -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com}  Occurrence: 6
+
+COMPANY: largest <| Crane Rental |> Company -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 1
+
+COMPANY:  <| Allan ' s Jewelry & Loan , Inc |> | -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 1
+
+CONTACT: , <| Peter & Cyd Marcus |> , -- [PETER MARCUS]  {allegra-arizona.com}  Occurrence: 1
+
+ADDRESS: 26 <| Haozous Rd |>  -- [22 HAOZOUS RD]  {allanhouser.com}  Occurrence: 4
+
+COMPANY: - <| All California Brokerage , Inc |> . -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}  Occurrence: 2
+
+COMPANY:  <| Allan Peace and Associates |> specializes -- [ALLAN PEACE & ASSOC INC INS]  {allanpeace.com}  Occurrence: 1
+
+COMPANY: , <| Allan Industries , Inc. |> provides -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY: & <| Crane Rental |> , -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 13
+
+ADDRESS: 4033 <| W. Chinden Blvd |>  -- [4195 W CHINDEN BLVD]  {allanmarsh.com}  Occurrence: 12
+
+COMPANY:  <| Wings of Hope Hospice |> provides -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 2
+
+COMPANY:  <| All American Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}  Occurrence: 1
+
+ADDRESS:  <| 301 Eubank SE |>  -- [301 EUBANK BLVD SE]  {allamericansupply.com}  Occurrence: 4
+
+COMPANY: considering <| All American Trucking & Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}  Occurrence: 1
+
+COMPANY: | <| All American Trucking & Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}  Occurrence: 2
+
+ADDRESS: and <| Allandale Road |> . -- [259 ALLANDALE RD]  {allandalefarm.com}  Occurrence: 1
+
+COMPANY:  <| All Shook Up |>  -- [ALL DRESSED UP]  {alldressedupcostumes.com}  Occurrence: 1
+
+ADDRESS: is <| Allandale Road |> . -- [259 ALLANDALE RD]  {allandalefarm.com}  Occurrence: 1
+
+COMPANY: At <| Allan industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY:  <| All American Turf Beauty , Inc |> . -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}  Occurrence: 10
+
+COMPANY: | <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}  Occurrence: 10
+
+COMPANY: the <| Allegra Marketing & Print |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}  Occurrence: 1
+
+COMPANY: from <| Allan Industries , Inc |> . -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY:  <| Allan Industries , Inc. |> has -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 2
+
+COMPANY:  <| Allegra Marketing & Print |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}  Occurrence: 2
+
+CONTACT:  <| Michael and Karolyn Akins |> , -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com}  Occurrence: 1
+
+COMPANY: , <| Allan Greenberg : Classical Architect |> . -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com}  Occurrence: 1
+
+ADDRESS: 4033 <| W. Chinden Blvd |> Boise -- [4195 W CHINDEN BLVD]  {allanmarsh.com}  Occurrence: 6
+
+COMPANY:  <| Wings of Hope Hospice |>  -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY:  <| All Brite Floors , Inc |>  -- [ALL BRITE FLOORS INC]  {allbritefloors.com}  Occurrence: 1
+
+COMPANY:  <| Allan ' s Jewelry & Loan |>  -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 1
+
+COMPANY:  <| All American Rentals , Inc. |> 2011 -- [ALL AMERICAN RENTALS INC]  {allamericanrentals.com}  Occurrence: 1
+
+COMPANY:  <| All American Trucking & Transport |>  -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}  Occurrence: 5
+
+COMPANY:  <| Allegra Marketing & Print |> - -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}  Occurrence: 2
+
+COMPANY: Verde <| Law Offices |> , -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}  Occurrence: 4
+
+COMPANY:  <| All American Tent and Awning |> - -- [ALL AMERICAN TENT & AWNING INC]  {allamericantentandawning.com}  Occurrence: 3
+
+COMPANY:  <| All Bay Contractors , Inc. |> is -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}  Occurrence: 1
+
+COMPANY:  <| All Claims Repairs |> is -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}  Occurrence: 2
+
+COMPANY: watch <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}  Occurrence: 6
+
+COMPANY:  <| ALL Sunshine Crane Rental |> Corporation -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+COMPANY: : <| All California Brokerage , Inc. |> is -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}  Occurrence: 1
+
+COMPANY:  <| All Bay Contractors , Inc |> - -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}  Occurrence: 4
+
+COMPANY:  <| Allan ' s Jewelry & Loan |> is -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 5
+
+CONTACT: Big <| Mike `` Liptak |> proudly -- [MIKE LIPTAK]  {allcrane.com}  Occurrence: 1
+
+COMPANY:  <| Crane Rental |> All -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 1
+
+COMPANY:  <| All California Brokerage , Inc. |> is -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}  Occurrence: 1
+
+COMPANY: ​ <| ALL Claims Repairs |> at -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}  Occurrence: 1
+
+COMPANY:  <| All American Turf Beauty , Inc. |> | -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}  Occurrence: 6
+
+COMPANY:  <| All Bay Contractors , Inc |> . -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}  Occurrence: 3
+
+COMPANY: 2015 <| All California Brokerage , Inc. |> and -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}  Occurrence: 1
+
+COMPANY:  <| All American turf Beauty |> ’ -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}  Occurrence: 1
+
+COMPANY: of <| Allegiant Business Finance , LLC |> . -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}  Occurrence: 1
+
+COMPANY:  <| Crane Service |> Lift -- [JEFFERS CRANE SVC]  {allcrane.com}  Occurrence: 4
+
+COMPANY:  <| All American Trucking & Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}  Occurrence: 8
+
+COMPANY: Verde <| Law Offices |> is -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}  Occurrence: 1
+
+COMPANY:  <| All Brite Floors , Inc |> . -- [ALL BRITE FLOORS INC]  {allbritefloors.com}  Occurrence: 7
+
+COMPANY:  <| ALLAN INDUSTRIES , Inc. |> is -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY: , <| All Claims Repairs |> can -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}  Occurrence: 2
+
+COMPANY: | <| Wings of Hope Hospice |>  -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 8
+
+COMPANY: at <| Allan Industries , Inc. |> gets -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+CONTACT:  <| Gail Tamases Fisher |>  -- [GAIL FISHER]  {alldogsgym.com}  Occurrence: 1
+
+COMPANY: - <| All American Turf Beauty , Inc |> . -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}  Occurrence: 5
+
+ADDRESS: 1590 <| Rollins Road |>  -- [1512 ROLLINS RD]  {allamericantransport.com}  Occurrence: 5
+
+COMPANY:  <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 2
+
+COMPANY:  <| ALL Tower Crane |> , -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 2
+
+COMPANY:  <| Allcounty Plumbing & Heating Corp. |> has -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com}  Occurrence: 1
+
+ADDRESS: onto <| Allandale Road |> . -- [259 ALLANDALE RD]  {allandalefarm.com}  Occurrence: 1
+
+COMPANY:  <| Crane Service |> Crane -- [JEFFERS CRANE SVC]  {allcrane.com}  Occurrence: 4
+
+COMPANY:  <| ALL Carolina Crane Rental |> , -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+CONTACT: Big <| Mike `` Liptak |> and -- [MIKE LIPTAK]  {allcrane.com}  Occurrence: 1
+
+CONTACT: Dr. <| David Imbach |> . -- [DAVID G IMBACH]  {allcreaturespetcare.com}  Occurrence: 1
+
+COMPANY: - <| Allegra Marketing & Print |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}  Occurrence: 8
+
+COMPANY:  <| Allegra - Print |> Marketing -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com}  Occurrence: 6
+
+COMPANY: Contact <| Wings of Hope Hospice |> Care -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY: © <| All Claims Repairs |> . -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}  Occurrence: 3
+
+COMPANY: | <| All American Poly |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com}  Occurrence: 8
+
+COMPANY: | <| All Claims Repairs |>  -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}  Occurrence: 2
+
+COMPANY:  <| Allan Industries , Inc. |> can -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY:  <| Allan 's Jewelry & Loan , Inc |> | -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 1
+
+COMPANY: 2016 <| Wings of Hope Hospice |> | -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 5
+
+COMPANY:  <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}  Occurrence: 52
+
+COMPANY:  <| ALLAN GARNAAS ASSOCIATES |>  -- [ALLAN D GARNAAS & ASSOC]  {allangarnaas.com}  Occurrence: 1
+
+COMPANY: so <| Wings of Hope Hospice |> offers -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY: a <| Wings of Hope Hospice |> program -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY:  <| All Bay Contractors , Inc. |> — -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}  Occurrence: 3
+
+COMPANY: Premier <| Electrical Service Contractor |> serving -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net}  Occurrence: 1
+
+COMPANY:  <| ALL Carolina Crane Rental |> of -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+COMPANY: additional <| Wings of Hope Hospice |> grief -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY: , <| Allan Peace Associates |> ) -- [ALLAN PEACE & ASSOC INC INS]  {allanpeace.com}  Occurrence: 2
+
+COMPANY:  <| ALL Carolina Crane |> & -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+COMPANY:  <| Allan Industries , Inc. |> offers -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 2
+
+COMPANY: with <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY: At <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY:  <| Crane Rental |> Cranes -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+COMPANY:  <| Allan Industries , Inc. |> Professional -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 11
+
+COMPANY:  <| All city Limo |> was -- [ALL CITY LIMO]  {allcitylimo.com}  Occurrence: 1
+
+COMPANY: at <| Allan Industries , Inc |> . -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+ADDRESS:  <| 31815 Camino Capistrano Suite 21 |>  -- [31815 CAMINO CAPISTRANO # 21]  {allco.net}  Occurrence: 1
+
+COMPANY:  <| Allan Marsh Boat |> RV -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}  Occurrence: 1
+
+COMPANY: bt <| Allbrite Electrical Service Contractor |> serving -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net}  Occurrence: 1
+
+COMPANY:  <| ALL Tower Crane |> LLC -- [ALL CRANE RENTAL]  {allcrane.com}  Occurrence: 3
+
+COMPANY: best <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY: 1999 <| All Diameter Grinding , Inc. |> All -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com}  Occurrence: 1
+
+COMPANY: Contact <| Allan Industries , Inc |> . -- [ALLAN INDUSTRIES INC]  {allanindustries.com}  Occurrence: 1
+
+COMPANY:  <| All American Poly |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com}  Occurrence: 2
+
+COMPANY:  <| ALLEGRA MARKETING & PRINT |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}  Occurrence: 1
+
+COMPANY:  <| All California Brokerage , Inc |> . -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}  Occurrence: 1
+
+ADDRESS: down <| Allandale Road |> on -- [259 ALLANDALE RD]  {allandalefarm.com}  Occurrence: 1
+
+COMPANY:  <| Allegany Town Highway |> Photos -- [ALLEGANY HIGHWAY DEPT]  {allegany.org}  Occurrence: 7
+
+COMPANY:  <| All Bay Contractors , Inc |>  -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}  Occurrence: 4
+
+COMPANY: About <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}  Occurrence: 1
+
+COMPANY:  <| All Bay Contractors , Inc |> has -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}  Occurrence: 2
+
+COMPANY: 2014 <| Allan ' s Jewelry & Loan |> . -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 4
+
+COMPANY: call <| Wings of Hope Hospice |> . -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 1
+
+COMPANY: – <| All American Tent and Awning |>  -- [ALL AMERICAN TENT & AWNING INC]  {allamericantentandawning.com}  Occurrence: 6
+
+COMPANY:  <| Allan ' s Jewelry & Loan , Inc. |> 130 -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 1
+
+COMPANY: - <| Wings of Hope Hospice |>  -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}  Occurrence: 2
+
+COMPANY:  <| All California Brokerage , Inc |> CABRE -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}  Occurrence: 2
+
+COMPANY: contacting <| Allan ' s Jewelry & Loan |> . -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}  Occurrence: 1
+

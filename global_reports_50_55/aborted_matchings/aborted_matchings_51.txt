@@ -1,0 +1,106 @@
+Format: Word chain: Actual words in document  Next word: This word caused the abort  Target: target
+
+Word chain: Medical Examiners and  Next word: Medical  Target: MEDICAL EXAMINERS BOARD
+
+Word chain: Plumbing | Alcyone  Next word: Plumbing  Target: PAT DOLAN PLUMBING CO INC
+
+Word chain: Aldec Seminars ,  Next word: Aldec  Target: ALDEC INC
+
+Word chain: Electrical -  Next word: Alcan  Target: ALCAN ELECTRICAL & ENGINEERING
+
+Word chain: Concrete Products |  Next word: Alabama  Target: ALABAMA CONCRETE INDUSTRIES
+
+Word chain: 208 Saint Onge  Next word: Street  Target: 208 SAINT ONGE ST
+
+Word chain: Albion Community Foundation -  Next word: Albion  Target: ALBION COMMUNITY FOUNDATION
+
+Word chain: Alcoa or  Next word: Alcoa  Target: ALCOA HOME EXTERIORS
+
+Word chain: Hotels -  Next word: Hyatt  Target: HYATT HOTELS & RESORTS
+
+Word chain: ALCON Systems , Inc. ,  Next word: ALCON  Target: ALCON SYSTEMS INC
+
+Word chain: Aldec resources ,  Next word: Aldec  Target: ALDEC INC
+
+Word chain: Albion ,  Next word: Albion  Target: ALBION
+
+Word chain: Refrigeration , Industrial  Next word: Refrigeration  Target: AL CORNELLA REFRIGERATION SVC
+
+Word chain: Alcoa 951 is  Next word: Alcoa  Target: ALCOA FASTENING SYSTEMS
+
+Word chain: Rocky Point Properties ,  Next word: Rocky  Target: ROCKY POINT
+
+Word chain: Alcoa or  Next word: Alcoa  Target: ALCOA FASTENING SYSTEMS
+
+Word chain: Albion -  Next word: Albion  Target: ALBION
+
+Word chain: Rocky Point Houses ,  Next word: Rocky  Target: ROCKY POINT
+
+Word chain: Alcoa 951 is  Next word: Alcoa  Target: ALCOA COMMUNITY FEDERAL CU
+
+Word chain: Alchemy –  Next word: Alchemy  Target: ALCHEMY STUDIO 'S LTD
+
+Word chain: Alcoholics for Christ : About  Next word: Alcoholics  Target: ALCOHOLICS FOR CHRIST
+
+Word chain: Alco Target ,  Next word: Alco  Target: ALCO TARGET
+
+Word chain: Albion Channel ,  Next word: Albion  Target: ALBION
+
+Word chain: Aldec documentation ,  Next word: Aldec  Target: ALDEC INC
+
+Word chain: Albion -  Next word: Albion  Target: ALBION SENIOR HIGH
+
+Word chain: Real Estate Agents ,  Next word: Real  Target: LINDA ALBO REAL ESTATE
+
+Word chain: Copeland Investments |  Next word: Copeland  Target: COPELAND 'S OF NEW ORLEANS
+
+Word chain: Aldec Webinars ,  Next word: Aldec  Target: ALDEC INC
+
+Word chain: Realty by  Next word: Alcamo  Target: ALCAMO REALTY ASSOC INC
+
+Word chain: Alcala Pet Care is now  Next word: Alcala  Target: ALCALA PET CARE
+
+Word chain: Aldec Workshops ,  Next word: Aldec  Target: ALDEC INC
+
+Word chain: Alcoa 951 is  Next word: Alcoa  Target: ALCOA HOME EXTERIORS
+
+Word chain: Tucson ,  Next word: Tucson  Target: TUCSON
+
+Word chain: San Clemente ,  Next word: San  Target: SAN CLEMENTE
+
+Word chain: Alden State Bank |  Next word: Alden  Target: ALDEN STATE BANK
+
+Word chain: Rocky Point Homes ,  Next word: Rocky  Target: ROCKY POINT
+
+Word chain: Board of  Next word: Medical  Target: MEDICAL EXAMINERS BOARD
+
+Word chain: 1733 W. Chicago Ave.  Next word: Chicago  Target: 1733 W CHICAGO AVE
+
+Word chain: Albuquerque Museum : :  Next word: Albuquerque  Target: ALBUQUERQUE MUSEUM GIFT SHOP
+
+Word chain: Alchemist Pool Service -  Next word: Pool  Target: ALCHEMIST POOL SVC
+
+Word chain: Aldec tutorials ,  Next word: Aldec  Target: ALDEC INC
+
+Word chain: GOLF Magazine named  Next word: Aldeen  Target: ALDEEN GOLF CLUB
+
+Word chain: Alcoa or  Next word: Alcoa  Target: ALCOA COMMUNITY FEDERAL CU
+
+Word chain: ALCUIN MONTESSORI SCHOOL -  Next word: Alcuin  Target: ALCUIN MONTESSORI SCHOOL
+
+Word chain: Alden Pools & Play and Rainbow  Next word: Play  Target: ALDEN POOLS & PLAY
+
+Word chain: Refrigeration , Commercial  Next word: Refrigeration  Target: AL CORNELLA REFRIGERATION SVC
+
+Word chain: School & Middle  Next word: School  Target: ALDEN HEBRON SCHOOL DIST 19
+
+Word chain: Albright Machinery -  Next word: Albright  Target: RUSS ALBRIGHT
+
+Word chain: Awning |  Next word: Albuquerque  Target: ALBUQUERQUE AWNING
+
+Word chain: Albright Machinery -  Next word: Albright  Target: R E ALBRIGHT WOODWORKING INC
+
+Word chain: Tucson , Plumbing  Next word: Tucson  Target: TUCSON
+
+Word chain: Albitz joined  Next word: Albitz  Target: PHIL ALBITZ
+

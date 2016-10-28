@@ -1,0 +1,1946 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: – <| Alger Park |>  -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: , <| Alicat |> will -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Writing <| Instruments |>  -- [ALFA INSTRUMENTS]  {alfaline.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS: Contact <| Us |> | -- [411 US HIGHWAY 206]  {alfonsos.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: The <| Farmers |> Rewards -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Algorithm |> has -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alfa |> Cares -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: the <| Advanced |> Unified -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: does <| Alfa |> offer -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: City <| City |> Council -- [ALEXANDER CITY]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Farmers |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| Peachtree |> Corners -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alexian Brothers |> Senior -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: with <| Alicia Air |> an -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Chuck <| Felder |> started -- [STEVEN FELDER]  {alexdisplays.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Older -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: for <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ' <| s |> outerwear -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: through <| Farmers |> Financial -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: About <| Alicia Air |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT:  <| Greg |> , -- [GREG ALFORD]  {alfordhomes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alfa |> Insurance -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: joining <| Algorithm |> , -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Insurance |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+ADDRESS: ' <| s |> unique -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Park |> MGM -- [7652 ASHLEY PARK CT]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: The <| Alexian Brothers |> carry -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: chose <| Alicat |> because -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alfa |> gives -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Treated <| Lumber |>  -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: your <| Alicat |> is -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> Emotional -- [4700 S SYRACUSE ST # 1050]  {alice1059.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Ali Baba |> Pizza -- [ALI BABA RESTAURANT & GAME CTR]  {alibabapizza.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Water <| Bill |> Payment -- [BILL GANECK]  {algonquin.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: : <| City |> needs -- [ALEXANDER CITY]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> Ministry -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Company |> Name -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: suggested <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Alfa |> agent -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Indoor <| Air |> Quality -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Algorithm |> 's -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Fire |> Prevention -- [ALGONQUIN FIRE DEPT]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: of <| Alexza |> Pharmaceuticals -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alicat |> Regional -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Alexian Brothers |> Parish -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: About <| Alfa |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 43
+
+COMPANY: your <| Alicat |> products -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Algorithm |> , -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: them <| Alexza |> Pharmaceuticals -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alice Bell |> Survivors -- [ALICE BELL BAPTIST CHURCH]  {alicebellbaptist.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: About <| Us |>  -- [411 US HIGHWAY 206]  {alfonsos.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: John <| Alexander |>  -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Drug <| Clinic |> Pharmacy -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: The <| Figliolia |> Family -- [ALEX FIGLIOLIA]  {alexfigliolia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: About <| Algorithm |> ' -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: | <| Algorithm |>  -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: by <| Algona Marine |> today -- [ALGONA MARINE & SPORT INC]  {algonamarine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Alabama |> 36590 -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Home <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: The <| street |> address -- [125 MASCOMA ST]  {alicepeckday.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Minneapolis <| Clinic |> of -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALFA |> 12 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alicat |> ' -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| New |> Jersey -- [NEW YORK]  {algren.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: If <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alicat |> ’ -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alexian Brothers |> , -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: from <| Alfa |> ™ -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alexander |> , -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Residential <| Air Conditioning |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS: our <| South |> Florida -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexza |> is -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Albert <| Knabe |> started -- [TOM KNABE]  {algator.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexza |> Pharmaceuticals -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY:  <| Toyota |> Parts -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: once <| Alice |> and -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: carried <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Machine <| Company |> . -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Alfa <| Transformer |> provides -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Seamer <| Oil |> ( -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: satisfied <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Women <| Apparel |>  -- [ALICE-RAE INTIMATE APPAREL]  {alicerae.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alextamping |> is -- [ALEXTAMPING RUBBER STAMP ART]  {alextamping.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: o <| Leadership |> Greater -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: The <| Wood |> family -- [TONY L WOOD SR]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Boutique <| Hotel |>  -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Industrial <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Mercury <| Marine |> to -- [ALGONA MARINE & SPORT INC]  {algonamarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contact <| Algorithm |>  -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: s <| Alfa |> ! -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian |> Dining -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| 1000 |> + -- [1000 CONNECTICUT AVE NW # 603]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: to <| Alicat |> ’ -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: - <| Bryan |> & -- [BRYAN ALEXANDER]  {alexfarm.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Alfred <| Angelo |>  -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+ADDRESS: multi-office <| doctor |> group -- [119 DILLMONT DR # 110]  {algorithminc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALFA |> is -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Site <| Doctor |> service -- [3501 TAYLOR DR]  {alexrthomas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Team <| Alger |>  -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Nagle <| Lumber |> in -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: and <| Joe |> Hixon -- [JOE STUBLER]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: see <| Alicat |> , -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Just <| Alice |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Algorithm |> ' -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Toyota |> service -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: , <| Kevin |> designed -- [KEVIN BOYLE]  {alfwear.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: 22nd <| St. |> Decatur -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Have <| Ava |> help -- [AVA DERING]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: and <| Bill |> started -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: BY <| ALFRED |> ANGELO -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 19 <| Toyota |> Parts -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Church |> Calendar -- [FIRST BAPTIST CHURCH]  {alexfbc.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| Farmers |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Whole <| Bridal |> Party -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Ohio <| Algorithm |> ' -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: 2016 <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Grading Contractors |>  -- [A L GRADING CONTRACTORS]  {algc.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 7
+
+COMPANY: recommend <| Toyota |> of -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Insurance |> coverage -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alabama |> Location -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Now <| Bill |> is -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Alfa <| Transformer |> offers -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: jointing <| Algorithm |> , -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Wilson <| Inn |> and -- [ALEXIS INN & SUITES]  {alexisinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Tea |> Services -- [ALICE 'S TEA CUP]  {alicesteacup.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: / <| Air |> Conditioner -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: their <| Farmers |> agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Alice |> Cooperstown -- [ALICE COOPER 'S TOWN]  {alicecooperstown.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Alexia Admor |> Dresses -- [ALEXIA ADMOR FRENCH DESIGNER]  {alexiaadmor.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: for <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: John <| Figliolia |> recognizes -- [ALEX FIGLIOLIA]  {alexfigliolia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Industrial <| Roofing |> , -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| 411 Route 206 |> North -- [411 US HIGHWAY 206]  {alfonsos.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CONTACT: Call <| Ava |> at -- [AVA DERING]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: local <| Farmers |> agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Browning <| Mazda |> , -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Bridal |> Gowns -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: joined <| Algorithm |> in -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Gear <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: seen <| John |> Buckingham -- [JOHN BUCKINHAM]  {alfrank.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: My <| Alfa |>  -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: ALG <| Labels & Graphics |>  -- [ALABAMA LABELS & GRAPHICS CORP]  {alggraphics.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Farmers |> Agents -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: that <| Algorithm |> not -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Company |> : -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Custom <| Homes |> in -- [ALFORD HOMES LLP]  {alfordhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Leadership |> Awards -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS: 7641 <| N. |> Business -- [2045 N FORBES BLVD # 103]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Millside <| Elementary |>  -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT:  <| Alex |> has -- [ALEX SAMUELS]  {alexav.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: from <| Alfa |> ™ -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: from <| Boone |> Newspapers -- [KENNETH BOONE]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alicia Air |> - -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: from <| Brides |> Like -- [BRIDES MART]  {alfredangelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: an <| Algorithm |> team -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: so <| Bill |> decided -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALFA |> instrumentsm -- [ALFA INSTRUMENTS]  {alfaline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Alfred <| Angelo |> was -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Transformer |> Dictionary -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: in <| Alabama |> , -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Each <| Alford |> Home -- [ALFORD HOMES LLP]  {alfordhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Cheney <| St. |> Taylorville -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Residential <| Roofing |>  -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Mental <| Health |> - -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+ADDRESS:  <| Trabuco |> Canyon -- [25422 TRABUCO RD # 105]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT:  <| John |> has -- [JOHN BUCKINHAM]  {alfrank.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Bridal |> , -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Farmers |> Mobile -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Residential <| Air Conditioning |> Service -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: Men <| Apparel |>  -- [ALICE-RAE INTIMATE APPAREL]  {alicerae.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: At <| Alexian Brothers |> Women -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: makes <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: * <| NEW |> PRODUCTS -- [NEW YORK]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Farmers |> also -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Foundation -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY: Alfred <| Angelo |> Blog -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Farmers |> inner -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: custom <| Alford |> Home -- [ALFORD HOMES LLP]  {alfordhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: in <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Clinic |> History -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+CONTACT: Anthony <| L. Wood |> , -- [TONY L WOOD SR]  {algc.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Mazda |> CX-9 -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Living |> Options -- [ALEXIAN INN-ASSISTED LIVING]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Call <| Alfa |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Insurance <| Alfa |> Commercial -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alice |> worked -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| ALFA |> ’ -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: John <| Alexander |> Jr -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Toyota |> Service -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ’ <| s |> purchased -- [4575 S PALO VERDE RD]  {alfrescolandscaping.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |> was -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: John <| Figliolia |> Member -- [ALEX FIGLIOLIA]  {alexfigliolia.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: , <| Algorithm |>  -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alextamping |> has -- [ALEXTAMPING RUBBER STAMP ART]  {alextamping.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Compressor <| Oil |> ( -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Algorithm |> is -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: ( <| ALEX |> ) -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: , <| Leadership |> Memphis -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Woodlawn <| Drive |> Lincoln -- [515 REDWOOD DR]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Gilbert <| St. |> Iowa -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> Financial -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Main <| Street |> , -- [215 PANAMA ST]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 24
+
+COMPANY: Professional <| Roofing |> , -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 000 <| Alicat |> mass -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Main <| St. |> Twin -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Anderson <| St. |> for -- [1832 WRIGHT ST]  {alfalight.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: the <| Fellowship |> Hall -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Algona Marine |> Service -- [ALGONA MARINE & SPORT INC]  {algonamarine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: an <| Alicat |> for -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> Consumer -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Alfred <| Angelo |> customers -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alex <| Products , Inc. |> is -- [A LEX PRODUCTS INC]  {alexproducts.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: the <| West |> Coast -- [240 W GROVE AVE]  {alexproducts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| Farmers |> Partner -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Anderson <| St |> . -- [1832 WRIGHT ST]  {alfalight.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: The <| Alexian Brothers |> Foundation -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alicat |> Mumbai -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| ALFA |> VS-12DH -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2016 <| Alfa |> Corporation -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY:  <| Alfa |> ® -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: and <| Bridal |> Gowns -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Algonquin <| Elementary |> ( -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Center -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 11
+
+ADDRESS: ' <| s |> going -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Help <| Alfa |> in -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Algorithm |> Brochures -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+COMPANY: , <| Audio , Video |> , -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| ALFA |> GS-12 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alfa |> Cares -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: into <| Algorithm |> . -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALFA |> VS-12KDS -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| TRANSFORMER |> CALCULATOR -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> Collection -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+CONTACT: , <| Greg |> will -- [GREG ALFORD]  {alfordhomes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Gold <| Street |>  -- [420 CARROLL ST]  {alexfigliolia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfa |> has -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Holiday <| Inn |> chain -- [ALEXIS INN & SUITES]  {alexisinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: like <| Alfred |> ’ -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Farmers |> sent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| Farmers |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: your <| Farmers |> Friendly -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Algorithm |> team -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: ALFRED <| ANGELO |> SINCE -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfred Music Co |> . -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Tea |> Sandwiches -- [ALICE 'S TEA CUP]  {alicesteacup.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Algorithm |> Jonathan -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alger |> Precision -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: with <| Alfa |> Insurance -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Toyota |> Camry -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Madison <| Avenue |> - -- [1000 CONNECTICUT AVE NW # 603]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: J <| Street |> , -- [215 PANAMA ST]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Garage |> door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: with <| Alfred |> Video -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Angelo |> , -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| 1605 Pacific Rim |> Court -- [1605 PACIFIC RIM CT # F]  {alfatek.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: 3rd <| Avenue |> East -- [610 30TH AVE W]  {alexclinic.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alger |> Heights -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Algorithm |> is -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alice |> ' -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Walk-in <| Clinic |> , -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Genuine <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: from <| Alfa |> today -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Independent <| Living |>  -- [ALEXIAN INN-ASSISTED LIVING]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Turnbull |> Family -- [MATTHEW W TURNBULL]  {alexandriatutorials.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: : <| Farmers |> Financial -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Available <| Homes |>  -- [ALFORD HOMES LLP]  {alfordhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: could <| drive |> his -- [515 REDWOOD DR]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Sleep <| Health |> Center -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| Algorithm |> team -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: helping <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> mission -- [2108 E SOUTH BLVD]  {alfacompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Built-Up <| Roofing |> ( -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| John |> Buckingham -- [JOHN BUCKINHAM]  {alfrank.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+CITY:  <| City |> Manager -- [ALEXANDER CITY]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: AMITA <| Health |> Elk -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2016 <| Alfa |> Corporation -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS: 1635 <| South 5070 West |>  -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: the <| Alexian Brothers |> Foundation -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: ’ <| s |> business -- [4575 S PALO VERDE RD]  {alfrescolandscaping.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Als <| Tire Mart |> has -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: the <| Alexis |> . -- [ALEXIS INN & SUITES]  {alexisinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: like <| Algorithm |> can -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Bill <| S. |> – -- [724 S BON VIEW AVE]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Taft <| Rd |> . -- [8361 BROADBRIDGE RD]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> ecosystem -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Fire |> District -- [ALGONQUIN FIRE DEPT]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Turbine <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alexia Admor |> is -- [ALEXIA ADMOR FRENCH DESIGNER]  {alexiaadmor.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| ALFA |> 335SQ -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: On <| Insurance |> | -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Seattle <| Hotel |>  -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: THE <| ALFRED |> ANGEL -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alicia Air |> for -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+CONTACT:  <| Walter |> held -- [WALTER F ALEXANDER]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Mazda |> , -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS: ' <| s |> Airspeed -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alexian Brothers |> Hospice -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: Middle <| East |> and -- [1001 E MEADOW CIR]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: About <| Alexza |>  -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: County <| Air Conditioning |> / -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ' <| s |> are -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Industrial |> / -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ELEMENTARY |> Breakfast -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Elementary |> BREAKFAST -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |> ' -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: s <| Toyota |> . -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| STACEY |> FITTED -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| Algorithm |> , -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Hotel |> : -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: ' <| s |> Guide -- [2108 E SOUTH BLVD]  {alfacompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alexandria |>  -- [ALEXANDRIA TUTORIALS]  {alexandriatutorials.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: how <| Farmers |> can -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Harvest Hill |> , -- [HARVEST HILL RETIREMENT COMM]  {alicepeckday.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: BEHAVIORAL <| HEALTH |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Mark <| Knabe |> , -- [TOM KNABE]  {algator.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alexza |> is -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfa |> wants -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: John <| Alexander |> was -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Engine <| Oil |> Additives -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Umbrella <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Christian |>  -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Bridal |> Style -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Kimpton <| Alexis |> , -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Ken |> crammed -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: – <| Alger |> since -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY: Life <| Insurance |> Company -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: view <| Algorithm |> as -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: AlfaBox <| Corp |> | -- [ALFA BOX CORP]  {alfabox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: New <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ' <| s |> My -- [417 S WILLARD ST]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfa |> ™ -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Business <| Insurance |> and -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfa <| Transformer |> for -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> Claim -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> history -- [2108 E SOUTH BLVD]  {alfacompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Alhi <| Hotels |> & -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Alex <| Clinic |> patient -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: George <| Figliolia |> . -- [ALEX FIGLIOLIA]  {alexfigliolia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: what <| Karen |> is -- [KAREN CANTO]  {alextamping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: allows <| Algorithm |> ' -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Farmers |> understands -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Al |> ’ -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 18 <| Toyota |> Service -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| A |> LITTLE -- [A L GRADING CONTRACTORS]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> videos -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Alexus |> Steakhouse -- [ALEXUS STEAK HOUSE & TAVERN]  {alexussteakhouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY:  <| Elementary |> Ala -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Barney <| Drive |> Joliet -- [515 REDWOOD DR]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> , -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alexza |> Human -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alice |> Cooper'stown -- [ALICE COOPER 'S TOWN]  {alicecooperstown.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALFA |> VS-12 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> New -- [417 S WILLARD ST]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: New <| Mazda |> Lineup -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Elementary |> Schools -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Health Care |>  -- [ALGART HEALTH CARE INC]  {algart.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: 1979 <| Bill |> contacted -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY:  <| New |> Arrivals -- [NEW YORK]  {aliceandolivia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: at <| Algorithm |> in -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: Sign <| In |>  -- [LAKE IN THE HLS]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: to <| Alexian |> Village -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Farmers |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfa |> is -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alfa |> ' -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Mazda |> Recall -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Algart |> has -- [ALGART HEALTH CARE INC]  {algart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Vista <| Terrace |> , -- [26684 VISTA TERRACE]  {aliciaair.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Kimpton <| Alexis |> a -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: required <| Toyota |> Camry -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alfredo ' s Wife |> | -- [ALFREDO 'S WIFE FACTORY OUTLET]  {alfredoswife.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: My <| Farmers |> . -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: demonstrate <| Alicat |> ’ -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Chuck <| Felder |> give -- [STEVEN FELDER]  {alexdisplays.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| STACEY |> SLIM -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALEXIAN BROTHERS |> MEDICAL -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: CA <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: next <| Toyota |> dealer -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Common <| Roofing |> Types -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALFA |> SW6000 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: AMITA <| Health |> Hoffman -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: new <| Toyota |> ’ -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: a <| Hotel |>  -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: D <| E |> A -- [3 E 69TH ST # 11B]  {alexrosenbergfineart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: But <| John |> is -- [JOHN BUCKINHAM]  {alfrank.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> will -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: that <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> greatest -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> courteous -- [S SAN FRANCISCO]  {alibaba1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> Inner -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alfa |> will -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Residential <| Air Conditioning |> Maintenance -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY:  <| Advanced |> Security -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Brides |> , -- [BRIDES MART]  {alfredangelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Farmers |> . -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: and <| Alabama |> . -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: that <| Algorithm |> is -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Motorcycle <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Advanced |> Unified -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Kimpton <| Hotel |> & -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Delmonico <| Steak |> ! -- [ALEXUS STEAK HOUSE & TAVERN]  {alexussteakhouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfa |> ' -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: by <| Ali Baba |> Pizza -- [ALI BABA RESTAURANT & GAME CTR]  {alibabapizza.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+CITY:  <| New |> Product -- [NEW YORK]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Alfa |> | -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Behavioral <| Health |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: Motorcycle <| Insurance |> FAQ -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> is -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: AMITA <| Health |> Hospitals -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: ALHI <| LUXURY |> GROUP -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: My <| Alfa |> : -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Choose <| Alicia Air |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Cheap <| Apparel |> Sale -- [ALICE-RAE INTIMATE APPAREL]  {alicerae.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: by <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Cherry <| St |> . -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: four <| Toyota |> dealers -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alice |> and -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |> continues -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Black <| Box |>  -- [ALFA BOX CORP]  {alfabox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| ALFA |> MC5 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: about <| Grace |> ] -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Extended <| Care |> - -- [ALGART HEALTH CARE INC]  {algart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Clinical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alger |> is -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Israel <| Embassy |> Bogota -- [EMBASSY OF ALGERIA]  {algeria-us.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Gerry <| A |> . -- [RICHARD A KRAUSE]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfa |> Insurance -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: is <| Karen |> - -- [KAREN CANTO]  {alextamping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: an <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY:  <| Alexian |> Library -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Osakis <| Clinic |> > -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+CONTACT: VISIT <| AVA |> IN -- [AVA DERING]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: existing <| Farmers |> policy -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Demma <| Drive |> Le -- [515 REDWOOD DR]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |> Network -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+CONTACT: about <| Ken |> ] -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> . -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alfa |> will -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| Connecticut |>  -- [1000 CONNECTICUT AVE NW # 603]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: at <| Grace |> . -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alicia Air |> is -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: “ <| Alf |> ” -- [ALF WEAR]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: – <| Alger |> Precision -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: With <| Alfa |> ’ -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| Farmers |> Exchanges -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian |> Wound -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alfa |> Insurance -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: South <| Main Street |>  -- [44 N MAIN ST]  {alfredrental.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+ADDRESS: ' <| s |> work -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landscaping |> Designs -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: of <| Alfred |> ’ -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+CONTACT:  <| Greg |> has -- [GREG ALFORD]  {alfordhomes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexia Admor |> is -- [ALEXIA ADMOR FRENCH DESIGNER]  {alexiaadmor.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Tire |> Brands -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: County <| Air |> Conditioning/Heating -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contact <| Alicia Air |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: : <| Transformer |> Repair -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| Alicia Air |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: with <| Alicat |> staff -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Jay <| Boyle |> moved -- [KEVIN BOYLE]  {alfwear.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALFA |> 98 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Toyota |> Express -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 13
+
+COMPANY:  <| Farmers |> Car -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Roofing |> Estimate -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Grading |>  -- [A L GRADING CONTRACTORS]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfa <| Company |> which -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |>  -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: new <| Alicat |> instruments -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Alger |> Precision -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Alexza |> ' -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |> is -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: Heart <| Health |> Program -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: 1429 <| San |> Mateo -- [S SAN FRANCISCO]  {alibaba1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Farmers |> Exchanges -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: on <| ALFA |> for -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian |> Grove -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Farmers |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: a <| Farmers |> customer -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfa |> ' -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Weight -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+ADDRESS: ’ <| s |> First -- [2108 E SOUTH BLVD]  {alfacompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Seamer <| Oil |> . -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: for <| Ken |> ' -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Air Conditioning |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: The <| Alexian Brothers |> have -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Algart |>  -- [ALGART HEALTH CARE INC]  {algart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> Online -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Advanced |> Wireless -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Laurel <| Street |> , -- [215 PANAMA ST]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Village |> of -- [ALGONQUIN VILLAGE HALL]  {algonquin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: at <| Alicia Air |> , -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Fire <| Insurance |> Exchange -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Century <| Insurance |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Anthony <| Drive |> Champaign -- [515 REDWOOD DR]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Tire |> Catalog -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfaa <| Box |> Corporation -- [ALFA BOX CORP]  {alfabox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Audio |> and -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Show <| Displays |>  -- [ALEX DISPLAYS]  {alexdisplays.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: John <| Alexander |> , -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: about <| Alfa |> ' -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Mazda |> CX-5 -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alexian |> Research -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> locational -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> helps -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Algorithm |> has -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Al |> ' -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Hotel |>  -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+ADDRESS:  <| South |> Florida -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Health <| Insurance |> ? -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: shop <| Alex |> soon -- [ALEX SAMUELS]  {alexav.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Anderson <| Street |> for -- [1832 WRIGHT ST]  {alfalight.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Hall |> . -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Bill |> has -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Contact <| Ali Baba |> at -- [ALI BABA RESTAURANT & GAME CTR]  {alibabapizza.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: – <| Alexia Admor |> Dresses -- [ALEXIA ADMOR FRENCH DESIGNER]  {alexiaadmor.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: at <| Alexander |> ' -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| St. |> Michael -- [215 PANAMA ST]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian |> Village -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alfred Music Co |> ( -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Alexza |> believes -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 212 <| West 35th Street |>  -- [225 W 34TH ST # 1615]  {algren.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| ALFA |> MC-12 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Mental <| Health |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Renters <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| Toyota |> ) -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alicat |> has -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alex <| Products , Inc. |> All -- [A LEX PRODUCTS INC]  {alexproducts.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: Purchasing <| Alfred |> Materials -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Clinic |> Hours -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: local <| Alfa |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Locust <| Street |>  -- [1238 SUTTER ST]  {alfalighting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Chase <| Park |> Plaza -- [7652 ASHLEY PARK CT]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: with <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: does <| Alfa |> offer -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Michigan <| Ave. |> - -- [1000 CONNECTICUT AVE NW # 603]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfa |> wants -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Farmers |> helps -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algeria |> US -- [EMBASSY OF ALGERIA]  {algeria-us.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Algorithm |> and -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Neurosciences -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: STRIPES <| OLIVIA |> BAG -- [ALICE & OLIVIA INC]  {aliceandolivia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 23
+
+COMPANY:  <| Angelo |> Express -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: At <| Alexander |> , -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Motor <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: to <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: to <| Alexus |> Steakhouse -- [ALEXUS STEAK HOUSE & TAVERN]  {alexussteakhouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Mental <| Health |> Services -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Luxury |> Brand -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+ADDRESS: ' <| s |> Going -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alfredo |> ' -- [ALFREDO 'S WIFE FACTORY OUTLET]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alicia Air |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: a <| Farmers |> Friendly -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Transformer |> Calculator -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Comes <| First |>  -- [1007 1ST AVE]  {alexishotel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: Alex <| City |> man -- [ALEXANDER CITY]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: choose <| Alicat |> because -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: by <| Mazda |> , -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Algorithm |> business -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: for <| Alice |> . -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+CONTACT: BLACK <| STACEY |> BELL -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: the <| Village |> of -- [ALGONQUIN VILLAGE HALL]  {algonquin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> Paisley -- [4700 S SYRACUSE ST # 1050]  {alice1059.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> clothing -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Browning <| Mazda |> of -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 23
+
+COMPANY: Comprehensive <| Garage |> System -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Insurance |> Products -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: LEANNA <| NEW |> BALLERINA -- [NEW YORK]  {aliceandolivia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: chosen <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Talla-Coosa |> Advertiser -- [TALLA-COOSA ADVERTISER/TV]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: at <| Algorithm |>  -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 18
+
+COMPANY:  <| Toyota |> cars -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Inc. |> As -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Algorithm |> Carl -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Mazda |> Tire -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CITY: Happy <| New |> Year -- [NEW HOPE]  {alexav.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alexza |> ' -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Algorithm |> . -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Grading Contractors |> ( -- [A L GRADING CONTRACTORS]  {algc.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Search <| Alfa |> New -- [ALFA REALTY INC]  {alfarealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Al Hill |> , -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| Alexia Admor |> : -- [ALEXIA ADMOR FRENCH DESIGNER]  {alexiaadmor.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Existing <| Algorithm |> clients -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Ken |> @ -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> 3 -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfred |> ’ -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: both <| Alexian Brothers |> Women -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: NATURAL <| STACEY |> BELL -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Ms. <| Adam |> as -- [ALICE ADAM]  {aliceadamltd.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: The <| Farmers |> Car -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: Cresent <| St. |> Gilman -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: tho <| Alfred |> Mathews -- [ALFRED MATTHEWS INC]  {alfredmatthews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: John <| Alexander |> died -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Alexander |> immigrants -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alex |> ' -- [ALEX 'S CATERING]  {alexscatering.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Ken |> loves -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Advanced Logic |> acquired -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: from <| Alexian |> Village -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: John <| Figliolia |> , -- [ALEX FIGLIOLIA]  {alexfigliolia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: , <| Walter |> was -- [WALTER F ALEXANDER]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alexza |> , -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Life <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Travel |>  -- [KING TUT TRAVEL & TOURS INC]  {alhodahajjgroup.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: John <| Figliolia |> President -- [ALEX FIGLIOLIA]  {alexfigliolia.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: | <| Insurance |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alexian Brothers |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 54
+
+COMPANY: html <| PUBLIC |> `` -- [ALGONQUIN VILLAGE PUBLIC WORKS]  {algonquin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY:  <| Lake |> in -- [LAKE IN THE HLS]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alice |> soon -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All <| Alicia Air |> technicians -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Why <| Alicat |>  -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| ALFA |> Monthly -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Umrah <| Travel |> Specialist -- [KING TUT TRAVEL & TOURS INC]  {alhodahajjgroup.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Farmers |> Story -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: with <| Bill |> . -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Milwaukee <| Restaurant |> Alfama -- [ALFAMA RESTAURANT INC]  {alfamarestaurant.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: is <| Alexza |> ' -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Viewing <| Box |>  -- [ALFA BOX CORP]  {alfabox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: COMMUNITY <| HEALTH |> NEEDS -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: is <| Alex |> ’ -- [ALEX 'S CATERING]  {alexscatering.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> offers -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: joined <| Bill |> full-time -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Alf |> Engwall -- [ALF WEAR]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Lumber |> Supply -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: is <| Ken |> and -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: , <| WA |> 99016 -- [WASHINGTON]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: John <| Alexander |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: , <| CT |> 06716 -- [1000 CONNECTICUT AVE NW # 603]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: from <| Alfa |> gives -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: L <| E |> R -- [3 E 69TH ST # 11B]  {alexrosenbergfineart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> first -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: AMITA <| Health |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY:  <| New |> Arrivals -- [NEW YORK]  {alexiaadmor.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS:  <| 3 EAST 69 STREET |> , -- [3 E 69TH ST # 11B]  {alexrosenbergfineart.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: of <| Farmers |> . -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 3rd <| St. |> Watseka -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian |> Center -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Grace |> for -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> agents -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: | <| Alfa |> Insurance -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: with <| Alicat |>  -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Team <| Alger |> – -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alexian |> Village -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ABOUT <| ALGORITHM |>  -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Insurance |> Quotes -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Grace |> knew -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfa <| Transformer |>  -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CITY: The <| City |> of -- [ALEXANDER CITY]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alfa |> ' -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: , <| Audio |> Repair -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: Alfa <| Transformer |> began -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Pioneer <| Audio |>  -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Business <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Jay <| Boyle |> studied -- [KEVIN BOYLE]  {alfwear.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> friendly -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: NAVY <| STACEY |> BELL -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Alfonso |> ’ -- [ALFONSO 'S PIZZERIA & RSTRNT]  {alfonsos.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALICE |> DROP -- [ALICE & OLIVIA INC]  {aliceandolivia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| ALFA |> ! -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> store -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: , <| New |> Roofs -- [NEW CASTLE]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: required <| Toyota |> Oct. -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: a <| Farmers |> insurance -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Christian Reformed |> Church -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: to <| Alicia Air |> , -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| ALGORITHM |> IN -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: of <| Luxury Hotels |> across -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: At <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Respite <| Care |>  -- [ALGART HEALTH CARE INC]  {algart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfred |> , -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Algorithm |> brand -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Fine <| Catering |> . -- [ALEX 'S CATERING]  {alexscatering.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: While <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Lumber |> , -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Israeli <| Embassy |> in -- [EMBASSY OF ALGERIA]  {algeria-us.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| ALGER PARK |> CRC -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: from <| Grace |> out -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> Store -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Lee <| Leadership |> Institute -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Fellowship |> with -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfatek |> was -- [ALFATEK INC]  {alfatek.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: S <| E |> R -- [3 E 69TH ST # 11B]  {alexrosenbergfineart.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALEXIAN BROTHERS |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 10
+
+COMPANY: the <| Toyota |> RAV4 -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> clothing -- [417 S WILLARD ST]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Farmers |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: , <| Mike |> Wattis -- [MIKE MCGEE]  {alfrescolandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: afford <| ALFA |> the -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: MINI <| OLIVIA |> BAG -- [ALICE & OLIVIA INC]  {aliceandolivia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Alex |> took -- [ALEX SAMUELS]  {alexav.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: and <| Dester |> for -- [DESTER CUMMINS]  {alfellowship.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS:  <| 17480 Dallas |> Parkway -- [17480 DALLAS PKWY # 213]  {alfordhomes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: Residential <| Air Conditioning |> Sales -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: from <| Alfa |> today -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Farmers |> insurance -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: My <| Farmers |> account -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: the <| Farmers |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Alfred <| Angelo |> had -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Recreational <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: A <| Farmers |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: multiple <| Alicat |> instruments -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: = <| 3750 |> % -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Waste <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Help <| Alfa |> in -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Air Conditioning |> Service -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: that <| Algorithm |> and -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> DOCTOR -- [4700 S SYRACUSE ST # 1050]  {alice1059.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Medical |> care -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY:  <| Algorithm |> Hosted -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: Fifth <| Avenue |>  -- [1000 CONNECTICUT AVE NW # 603]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Alfa <| Transformer |> has -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfa |> and -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: and <| Alice |> is -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> for -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Millside <| Elementary |> ( -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: o <| Leadership |> Memphis -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alex |> ' -- [ALEX 'S CATERING]  {alexscatering.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Pastor <| Ken |> and -- [KEN WORLEY]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alice |> fulfilled -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Transformer |> Rewind -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Health <| Alexian Brothers |> Health -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Alger Park |>  -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: , <| Alfa |> has -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alfa |> ® -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 20-point <| Air |> Conditioner -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> ' -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: general <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: My <| Farmers |> Redesign -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: ' <| s |> vision -- [2108 E SOUTH BLVD]  {alfacompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: 7641 <| N |> Business -- [2045 N FORBES BLVD # 103]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Alicat |> Instruments -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Insurance |> Agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alicat |> Shanghai -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: antique <| street |> lamps -- [1238 SUTTER ST]  {alfalighting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: using <| Alicat |> Flow -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Farmers |> Mobile -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: About <| Alfa |>  -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 43
+
+COMPANY:  <| Alexian Brothers |> Child -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT:  <| STACEY |> FACE -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Alfa <| Transformer |> rewinds -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: » <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: of <| Alfa |> Insurance -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS:  <| 219 |> Gilder -- [219 GLIDER CIR]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| ALFA |> PM-1 -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Ali Baba |> Menu -- [ALI BABA RESTAURANT & GAME CTR]  {alibabapizza.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: call <| Alicat |> at -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alfa |> Insurance -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: at <| Alex |> ’ -- [ALEX 'S CATERING]  {alexscatering.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Hydraulic <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: , <| Mugetti |> , -- [ALICIA MUGETTI]  {aliciamugetti.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Delmonico <| Steak |> Only -- [ALEXUS STEAK HOUSE & TAVERN]  {alexussteakhouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2013 <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Transformer |> Components -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Insurance |> Agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: ' <| s |> Word.Â -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contact <| Alfa |> Insurance -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Benjamin <| Wood |>  -- [TONY L WOOD SR]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| ALFA |> 625A -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: at <| ALI |> we -- [YUSUF ALI]  {ali-service.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Insurance |> Discounts -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Health <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Village |> Offices -- [ALGONQUIN VILLAGE HALL]  {algonquin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> not -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| STACEY |> ANKLE -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: County <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Ring <| Box |>  -- [ALFA BOX CORP]  {alfabox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alicia Air |> ' -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: general <| Alexian |> information -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: local <| Alfa |>  -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Ali Baba |> Pizza -- [ALI BABA RESTAURANT & GAME CTR]  {alibabapizza.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY:  <| Harvest Hill |>  -- [HARVEST HILL RETIREMENT COMM]  {alicepeckday.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 12
+
+COMPANY: the <| Alexza |> website -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Roofing |> , -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alicat |> that -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Oak <| St. |> Fairbury -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: chose <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Church |> History -- [FIRST BAPTIST CHURCH]  {alexfbc.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: About <| Alfa |> | -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: by <| Algorithm |> . -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: - <| Alexza |> Pharmaceuticals -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alexza |>  -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: At <| Algorithm |> , -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Alfred <| Angelo |> ! -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Farmers |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: Custom <| Homes |> Dallas -- [ALFORD HOMES LLP]  {alfordhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CITY:  <| NEW |> LOWER -- [NEW YORK]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Grease <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: AMITA <| Health |> St. -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: local <| Farmers |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: to <| Frank |> , -- [FRANK BULLARD]  {aliciagaragedoors.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alicat |> mass -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> trusted -- [2108 E SOUTH BLVD]  {alfacompanies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: One <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: > <| Alexian Brothers |> Women -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Algonquin <| Elementary |>  -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: on <| ALFA |> ’ -- [ALFA INTERNATIONAL CORP]  {alfaco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Roofing |> Services -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: joined <| Algorithm |> as -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Browning <| Mazda |> Of -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Home <| Insurance |> FAQ -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: AMITA <| Health |> Alexian -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Mike <| Knabe |> now -- [TOM KNABE]  {algator.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: from <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: quality <| Toyota |> vehicles -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: is <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Life <| Insurance |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: to <| Alicia Air |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Farmers |> Friendly -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+CONTACT:  <| Bryan |> & -- [BRYAN ALEXANDER]  {alexfarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: your <| Alford |> Home -- [ALFORD HOMES LLP]  {alfordhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: , <| Bill |> started -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Alfa <| Transformer |> contact -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alice |> has -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALEXZA |> PHARMACEUTICALS -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Kimpton <| Alexis |> is -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> $ -- [4700 S SYRACUSE ST # 1050]  {alice1059.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Medical <| Clinic |>  -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: ARMY <| STACEY |> BELL -- [STACEY DENDET]  {aliceandolivia.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: 1991 <| Alex |> opened -- [ALEX SAMUELS]  {alexav.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexza |> has -- [ALEXZA MOLECULAR DELIVERY CORP]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Middle <| East |> , -- [1001 E MEADOW CIR]  {alexza.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> dress -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alexian Brothers |> mission -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT:  <| Karen |>  -- [KAREN CANTO]  {alextamping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Call <| Alfa |> ® -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Advanced Logic |> because -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: John <| Alexander |> ’ -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: of <| Alicat |> ’ -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Auto <| Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Insurance |> FAQ -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Bill |> had -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alger |> gives -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Midwest <| Health |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alfred |> Music -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 40
+
+COMPANY: Hills <| Fire |> Protection -- [ALGONQUIN FIRE DEPT]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: from <| St. |> Lawrence -- [1832 WRIGHT ST]  {alfalight.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alice |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alfred |> ' -- [ALFRED PUBLISHING CO INC]  {alfredpub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: services <| Mazda |> vehicles -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: coveted <| Toyota |> President -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: Doug <| S. |> – -- [724 S BON VIEW AVE]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Insurance |> Agency -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: of <| Fire |> Commission -- [ALGONQUIN FIRE DEPT]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Seattle <| Hotel |> Deals -- [ALEXIS HOTEL]  {alexishotel.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Auto <| Insurance |> Quotes -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: Clinton <| St. |> Rushville -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> - -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Mazda |> CX-3 -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: About <| Alex |> ' -- [ALEX 'S CATERING]  {alexscatering.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: With <| Alfa |> ’ -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: throughout <| South |> Florida -- [830 S FLAMINGO RD]  {alexfarm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: your <| Alicat |> flow -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Other <| Insurance |>  -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: Call <| Alfa |> ® -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: with <| Algorithm |> ’ -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: at <| Farmers |> , -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| Alicia Air |> we -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Audio |> , -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Delmonico <| Steak |> for -- [ALEXUS STEAK HOUSE & TAVERN]  {alexussteakhouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Toyota |> Service -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Algorithm |> becomes -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: South <| Alabama |>  -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Women -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 7
+
+CONTACT:  <| Alex |> , -- [ALEX SAMUELS]  {alexav.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Failure <| Clinic |>  -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: your <| Bridal |> Party -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> Wife.. -- [417 S WILLARD ST]  {alfredoswife.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alexian |> Village -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> located -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Clinic |> , -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: and <| Alabama |> , -- [AL HILL 'S BOILER SALES]  {alhillboiler.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: by <| Farmers |> New -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT:  <| Boone |> Photo -- [KENNETH BOONE]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Global <| Luxury |> Alliance -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Garage |> doors -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfa <| Transformer |> : -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: an <| Alfa |> agent -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: Exchange <| St. |> Geneseo -- [909 FRONT ST]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Altorfer <| Dr. |> Peoria -- [515 REDWOOD DR]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Alexian Brothers |> Foundation -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY:  <| Alicat |> makes -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Auto <| Insurance |> FAQ -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alexian Brothers |> Medical -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+CONTACT: Following <| Walter |> ' -- [WALTER F ALEXANDER]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Mazda |> MX-5 -- [ALHAMBRA MAZDA]  {alhambramazda.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Boone |> Newspapers -- [KENNETH BOONE]  {alexcityoutlook.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Algorithm |> , -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Rehabilitation -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| Alexian Brothers |>  -- [ALEXIAN BROTHERS MEDICAL CTR]  {alexianfoundation.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: , <| Walter |> came -- [WALTER F ALEXANDER]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: AMITA <| Health |> Accountable -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Restaurant <| Alfama |>  -- [ALFAMA RESTAURANT INC]  {alfamarestaurant.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Truck <| Insurance |> Exchange -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Time <| Clinic |>  -- [ALEXANDRIA CLINIC]  {alexclinic.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+COMPANY: ™ <| Insurance |> , -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Roofing |> , -- [ALEX ROOFING INC]  {alexroofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: & <| Industrial |>  -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Contact <| Us |>  -- [411 US HIGHWAY 206]  {alfonsos.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Occupational <| Health |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: new <| Toyota |> vehicles -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: where <| Farmers |> Personal -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Tony Wood |> Obituary -- [TONY L WOOD SR]  {algc.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY:  <| Grace |> is -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alicat |> . -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Bryan |> Tozzie -- [BRYAN ALEXANDER]  {alexfarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| Algorithm |> where -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Plumbing |>  -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alexian Brothers |> Foundation -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alfa |> and -- [ALFA INSURANCE CORP]  {alfains.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alexian Brothers |> Hospital -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: site <| doctor |>  -- [3501 TAYLOR DR]  {alexrthomas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: and <| Bill |> made -- [BILL HALL]  {algonamarine.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> LS -- [4884 S 300 W]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alfa |> ™ -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Algorithm |> for -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Fire |> Commissioners -- [ALGONQUIN FIRE DEPT]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfa <| Transformer |> All -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: The <| Outlook |>  -- [ALEXANDER CITY OUTLOOK]  {alexcityoutlook.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Engine <| Oil |>  -- [ALEXIS OIL CO]  {alexisoil.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALGORITHM |> SERVICES -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Transformer |> components -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Luxury |> on -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: Corporate <| Drive |> , -- [3501 TAYLOR DR]  {alexrthomas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Algorithm |>  -- [ALGORITHM INC]  {algorithminc.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: , <| Alexian |> Village -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: on <| Alger |> to -- [ALGER MANUFACTURING CO INC]  {alger1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| Grace |> , -- [GRACE BRETHREN CHURCH]  {alexgbc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alexander |> with -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Smart <| Insurance |> Discounts -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Transformer |> Repair -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Alexander |> family -- [ALEXANDER LUMBER CO]  {alexlbr.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Alfa <| Transformer |> 6107 -- [ALLEN TRANSFORMER CO]  {alfatransformer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alfred <| Angelo |> ’ -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Farmers |> Mobile -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: a <| Farmers |> agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: popular <| Toyota |> models -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Farmers |> HelpPoint -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: your <| Farmers |> agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Visit <| Alexia Admor |> for -- [ALEXIA ADMOR FRENCH DESIGNER]  {alexiaadmor.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: 212 <| West 35th St. |> 5th -- [225 W 34TH ST # 1615]  {algren.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ' <| s |> have -- [5917 S THOMPSON AVE]  {alfellowship.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Elementary |> LUNCH -- [FAIR HAVEN ELEMENTARY SCHOOL]  {algonac.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Advanced |> Certification -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Alf |> hat -- [ALF WEAR]  {alfwear.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Millennium <| Park |>  -- [7652 ASHLEY PARK CT]  {alhi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alfred |> Angelo -- [ANGELO ALFRED BRIDAL]  {alfredangelostores.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Village |> Board -- [ALGONQUIN VILLAGE HALL]  {algonquin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ½s <| Inn |> serves -- [ALFIE 'S INN INC]  {alfiesinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Unique <| Garage |> Door -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Foreign <| Fire |> Insurance -- [ALGONQUIN FIRE DEPT]  {alfpd.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Call <| Alfa |>  -- [ALFA CORP]  {alfacompanies.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+

@@ -1,0 +1,84 @@
+Format: Word chain: Actual words in document  Next word: This word caused the abort  Target: target
+
+Word chain: Orange ,  Next word: Orange  Target: ORANGE
+
+Word chain: Crane Service  Next word: Crane  Target: JEFFERS CRANE SVC
+
+Word chain: Covington , GMC  Next word: Covington  Target: COVINGTON
+
+Word chain: Metals Supplier |  Next word: Metals  Target: ALLEGHENY RODNEY METALS
+
+Word chain: ID , Hailey  Next word: ID  Target: ID
+
+Word chain: All Diameter Grinding , Inc.  Next word: All  Target: ALL DIAMETER GRINDING INC
+
+Word chain: All Disaster Services |  Next word: All  Target: ALL DISASTER SVC
+
+Word chain: Allegiance Realty |  Next word: Allegiance  Target: ALLEGIANCE REALTY
+
+Word chain: All Creatures Animal Hospital |  Next word: All  Target: ALL CREATURES ANIMAL HOSPITAL
+
+Word chain: Around , Call  Next word: All  Target: ALL AROUND COMPUTERS WE COME
+
+Word chain: Heating &  Next word: Plumbing  Target: ALLBRITTEN PLUMBING HEATING
+
+Word chain: Auto Shippers |  Next word: Auto  Target: ALL AMERICAN AUTO TRANSPORT
+
+Word chain: All Dog Yard Cleanup is a  Next word: Dog  Target: ALL DOG YARD CLEANUP
+
+Word chain: 1107 Lake Ave ,  Next word: Lake  Target: 1107 LAKE AVE
+
+Word chain: Plumbing Contractors ,  Next word: Plumbing  Target: ALLCOUNTY PLUMBING & HTG CORP
+
+Word chain: Costa Mesa | Veterinarian  Next word: Costa  Target: COSTA MESA
+
+Word chain: RV inventory at  Next word: Allan  Target: ALLAN MARSH RV & BOAT SALES
+
+Word chain: All City Limo ,  Next word: All  Target: ALL CITY LIMO
+
+Word chain: All Bright Electric  Next word: All  Target: ALL BRIGHT ELECTRIC CO
+
+Word chain: Crane Service Lift  Next word: Service  Target: JEFFERS CRANE SVC
+
+Word chain: Electric and Hammond  Next word: Electric  Target: ALL BRIGHT ELECTRIC CO
+
+Word chain: Akins ,  Next word: Michael  Target: MICHAEL AKINS
+
+Word chain: All Area Roofing  Next word: All  Target: ALL AREA ROOFING
+
+Word chain: Alleghany - About  Next word: Alleghany  Target: ALLEGHANY CORP
+
+Word chain: Floors Houston TX  Next word: All  Target: ALL BRITE FLOORS INC
+
+Word chain: Allan Houser Inc. , The  Next word: Allan  Target: ALLAN HOUSER INC
+
+Word chain: Allandale Farm •  Next word: 259  Target: 259 ALLANDALE RD
+
+Word chain: Allbrite Care  Next word: Care  Target: ALLBRITE CAR CARE PRODUCTS
+
+Word chain: Allan -  Next word: Allan  Target: ALLAN GREENBERG
+
+Word chain: Costa Mesa |  Next word: Costa  Target: COSTA MESA
+
+Word chain: All Covered Procurement and  Next word: All  Target: ALL COVERED
+
+Word chain: Allan -  Next word: Allan  Target: ALLAN GREENBERG ARCHITECT
+
+Word chain: Allandale Farm • 259  Next word: Allandale  Target: ALLANDALE FARM
+
+Word chain: Crane Service  Next word: Crane  Target: ALL CRANE RENTAL
+
+Word chain: Crane Rental  Next word: All  Target: ALL CRANE RENTAL
+
+Word chain: New York ,  Next word: New  Target: NEW YORK
+
+Word chain: Covington ,  Next word: Covington  Target: COVINGTON
+
+Word chain: Mike `` Liptak and Larry  Next word: Liptak  Target: MIKE LIPTAK
+
+Word chain: Covington , Chevrolet  Next word: Covington  Target: COVINGTON
+
+Word chain: Allan Marsh Boat  Next word: RV  Target: ALLAN MARSH RV & BOAT SALES
+
+Word chain: Crane Rental All  Next word: Crane  Target: JEFFERS CRANE SVC
+

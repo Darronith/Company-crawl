@@ -1,0 +1,2242 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+CITY: ' <| s |> Grace -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Distributes <| Aldec |> FPGA -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: other <| Lutheran |> churches -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Inc |> . -- [ALCO PRO INC]  {alcopro.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Church |> History -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: The <| Thomas |> Blog -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Alabama <| Board |> of -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Nursery |>  -- [ALDEN LANE NURSERY]  {aldenlane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: for <| Christ |>  -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Current <| Church |> Policies -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Museum |> staff -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alden |> . -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Microchip <| Pet |> Identification -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Company |> ... -- [ALDEN LEE CO]  {aldenlee.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing |> for -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alden |> Access -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Cheesecake <| Bistro |> , -- [CHEESE CAKE BISTRO]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: CONTACT <| ALBUQUERQUE MUSEUM |>  -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: joining <| ALCO |> as -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| Gulf |> of -- [5900 GULF BLVD]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alchemy |> Systems -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Elementary <| School |>  -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: Safe <| School |> Helpline -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ' <| s |> home -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Plumbing |>  -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: recommended <| Alderbrook |> to -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: by <| Alcamo Realty |>  -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: FREE <| PET |> EXAMINATION -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 13269 <| Broadway |> , -- [11076 BROADWAY ST]  {aldenvet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: the <| Abundant Life |> that -- [ABUNDANT LIFE CHRISTIAN CHURCH]  {alcc1.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| ALBANY |> ENGINEERED -- [ALBANY INTERNATIONAL FABRICS]  {albint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| School |> meals -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Metal <| Target |> Stand -- [ALCO TARGET]  {alcotarget.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldec |> is -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: using <| Albritton |> for -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: • <| Pool |> Repairs -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| CONCRETE |> PAVER -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: new <| Alchemy |> clients -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Products -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: , <| Alcan |> has -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Copeland |> ' -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: About <| Alder |>  -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Alcala |> ' -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: , <| Alcoa |> is -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Museum |> . -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alchemy |> Out -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| Church |> in -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| GOLF COURSE |>  -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS:  <| Church |> News -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Reports -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 19
+
+COMPANY: your <| Alchemy |> Implementation -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Church |>  -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Donated <| Dental |> Services -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alca |> will -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: High <| School |> Information -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Home <| Insurance |> Info -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+CONTACT:  <| Jerry |> ' -- [JERRY JUSTIC]  {alcamo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: A <| Pet |> ' -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderete |> Pool -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Alderbrook |> grounds -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: or <| Alcoa |> Foundation -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> helps -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Aldens <| Kennels |> we -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Riverside <| Meadows |>  -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Embeds <| Aldec |> Simulator -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Dr <| Thorne |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: on <| Bryn Mawr |> ) -- [1203 W BRYN MAWR AVE]  {alchemy-arts.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Our <| Kennels |> : -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| A |> resource -- [PHILLIP A HARRIS]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| SCHOOL DISTRICT 19 |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Aldec |> UART -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: the <| Alcoa |> Technical -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: into <| Albion Ridges |> . -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Point <| Real Estate |> Agents -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Commercial <| Refrigeration |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: Tucson <| Meadows |> telephone -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Montessori |> v. -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: behind <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: , <| Alchemy |> was -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> Fast -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Dr <| Thorne |> & -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> was -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| 629 |> AzuarDrive -- [629 AZUAR DR]  {alcometals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alderbrook |> for -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Innovation -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Refrigeration |> is -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alchemy |> , -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Hyatt |> Gold -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: selects <| Alcoa |> ' -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: New <| Hotels |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: District <| Dental |> Societies -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: editing <| Alchemy |> Observations -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: , <| Albright |> Machinery -- [RUSS ALBRIGHT]  {albrightmachinery.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> practiced -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Museum |> Tours -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Alcan |> performs -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> Inter-Integrated -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Alcyone <| Plumbing |> provides -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: , <| Thorne |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Any <| Service |> Call -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alcoa |> Inc. -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> a -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: and <| American |> , -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Aldec |> products -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: oldest <| Montessori |> schools -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Montessori |> , -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 800 <| Alabama |> dentists -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Margaret <| Aldeen |> , -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| s |> electric -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alchemy |> , -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: from <| Golf |> Digest -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Lee |> for -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Lutheran |> Worship -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: earned <| Albion Ridges |> a -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Interstate <| Medical |> Licensure -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: - <| Hyatt |> Regency -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Service |> & -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Alcoa |> was -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alden |> ’ -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Level <| Golf |> is -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Media <| Group |> works -- [BRIDGESTONE MULTIMEDIA GROUP]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: choose <| Alcoa |> for -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing |> , -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Museum |> has -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Find <| School |> Information -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> , -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alabama Credit |>  -- [ALABAMA CREDIT CORP-INTL TCHRS]  {alcredit.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: with <| ALCO |> , -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Fifth <| Avenue |> , -- [1000 2ND AVE # 3900]  {alcourt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Hyatt |> Ziva -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Aldec |> market -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alchemy |> stays -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Pool |> Tile -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: any <| Alcon |> job -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Lee |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Health <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Copeland |> ' -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: OF <| PLUMBING |> CONTRACTORS -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Boat <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+ADDRESS: Northeast <| Ohio |> , -- [214 OHIO AVE]  {alconmechanical.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALCO |> invests -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alder |> is -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: by <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Plumbing |> Services -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: by <| Golf |> Digest -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Homeowners <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Personalized <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: When <| AMERICAN LEGAL |> first -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| ALCON |> also -- [ALCON SYSTEMS INC]  {alconsys.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alabama |> ' -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY:  <| Alcoa |> Markets -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Construction |> , -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Elementary <| School |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Industrial <| Refrigeration |>  -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Commercial <| Electrical |> Services -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: contact <| Alcoa |> to -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderbrook |> Restaurant -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Aldec |> Cloud -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: of <| Alderbrook |> ' -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> Europe -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Albuquerque Museum |> also -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| MUSEUM |> TODAY -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Al <| Copeland |> Foundation -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Aldec |> support -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: the <| street |> from -- [191 MAIN ST]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Golf |> Shop -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: and <| Alcoa |> collaborator -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: at <| Thomas |> Printworks -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: choose <| Alcoa |> ' -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alden |> has -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: by <| Copeland |> ’ -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alcoa City |> Schools -- [ALCOA CITY SCHOOL SUPT]  {alcoaschools.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Alder |> has -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Museum |> is -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Alchemy |> was -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> Creator -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Medical |> Practice -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Aldec |> has -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: ' <| s |> grace -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 946 <| N. |> Market -- [879 N WRIGHT RD]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Aquatic <| Industries |> and -- [ALCOY INDUSTRIES INC]  {alcoyspaparts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alaska <| Electrical |> - -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: use <| Alchemy |> ’ -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alden and Hebron |> , -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alabama Credit |> has -- [ALABAMA CREDIT CORP-INTL TCHRS]  {alcredit.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| ALCON |> ® -- [ALCON SYSTEMS INC]  {alconsys.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| s |> stronger -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: The <| Gift |> of -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: ELEMENTARY <| SCHOOL |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Dakota <| Refrigeration |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Pool |> Repairs -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Al <| Copeland |> Investments -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CONTACT: joining <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: About <| Alchemy |>  -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: David <| Alcala |>  -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> serves -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcom |> has -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: at <| Alcal |>  -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Releases <| Aldec |> Cloud -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: of <| ALCO |> and -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Museum |> Director -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: What <| Alcala |> can -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldec |> Delivers -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: of <| Alchemy |> and -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| American Legal |> is -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: the <| Museum |> offer -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Albuquerque Meadows |> . -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: Dr. <| Thorne |> since -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: and <| Alcoa |> are -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Brian <| Cook |>  -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Museum |> , -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alcala |> ' -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: Genesee <| Street |> , -- [11076 BROADWAY ST]  {aldenvet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Credit <| Management |> ( -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Profit <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Concrete |> Products -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alcom |> provides -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alcon |> ' -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> gives -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: on <| Thomas |> Printworks -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Christian |> School -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Investments |> in -- [ALBITZ-MILOE ASSOC INVESTMENTS]  {albitzmiloe.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alcoa |> in -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Middle <| School |> ) -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Barrister |> is -- [ALCHEMIST & BARRISTER]  {alchemistandbarrister.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| AMERICAN LEGAL |> can -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Jesus <| Christ |> , -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Museum |> of -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: Cheesecake <| Bistro |> by -- [CHEESE CAKE BISTRO]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Lutheran |> Confessions -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> , -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Aldens <| Kennels |>  -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Electrical |> Design -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Ranked <| Aldec |> no -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcala |> ' -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: the <| Albuquerque Museum |> to -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: of <| Alcamo Realty |> on -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Point <| Real Estate |> , -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alder |> specializes -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Albuquerque Museum |> Foundation -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 9
+
+COMPANY: The <| Aldec |> PCI -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Vance <| Albitz |> began -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CONTACT:  <| Don |> will -- [DON VIVATSON]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Middle <| School |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: City <| Refrigeration |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Dr. <| Thorne. |> `` -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Day <| Care |>  -- [ALCALA PET CARE]  {alcalapetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Commercial <| Plumbing |> Services -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ABOUT <| ALDEN |>  -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: to <| Alcala |> ' -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> . -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: to <| Alcoa |> innovation.Â -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Aldec |> ' -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: , <| Topside |> , -- [2019 TOPSIDE RD]  {alcoagoodtimes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Aldec |> IEEE -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Spa <| Construction |>  -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Albuquerque Museum |> is -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: of <| Concrete |> Products -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Meadows |> amenities -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ' <| s |> Separation -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| School |> CMS -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: ' <| s |> breakthrough -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: 13269 <| Broadway |>  -- [11076 BROADWAY ST]  {aldenvet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Maria <| Montessori |>  -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Cheesecake <| Bistro |> . -- [CHEESE CAKE BISTRO]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Shop <| Alcala |> ' -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS:  <| s |> Largest -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> Seminars -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Velma <| Albitz |>  -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CONTACT: 2016 <| Albright |> Machinery -- [RUSS ALBRIGHT]  {albrightmachinery.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: ABOUT <| HYATT |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ( <| Aldec |> Support -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: About <| Alchemy |> – -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Association <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: the <| Albuquerque Museum |> . -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Aldens <| Kennels |> is -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: you <| Lee |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> PCI -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: The <| Museum |> continues -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Conejos <| County |> Shop -- [12233 COUNTY ROAD 5 S]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ALC <| West |> opens -- [1719 W MAIN ST]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy Market |> Cafe -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: use <| Alchemy |> learning -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldeen |> Celebrates -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: # <| 629 |> , -- [629 AZUAR DR]  {alcometals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Aldec |> CSIX -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: MIDDLE <| SCHOOL |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> Creation -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: traditionally <| Lutheran |> . -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: $ <| 10 |> per -- [10 E ALDERBROOK DR]  {alderbrookresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> YouTube -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcan |> can -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Elias <| Ghafary |> executive -- [ELIE GHAFARY]  {albustanny.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| ALCO |> ’ -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: al <| BUSTAN |> Contact -- [AL BUSTAN RESTAURANT]  {albustanny.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Phil |> works -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Hyatt |> Thrive -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Mark <| Albitz |> has -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS: ' <| s |> Real -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Museum |>  -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Ascension |> was -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alcoa |> on -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> value -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Making <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| HYATT |> house -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: to <| Santa |> Cruz -- [SANTA ROSA]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldec |> Inter-IC -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Jesus <| Christ |> as -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alcoa |> Foundation -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> recorded -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: an <| Alderbrook |> cottage -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alcoa |> Inc -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: 2016 <| Alcoy |> Spa -- [ALCOY INDUSTRIES INC]  {alcoyspaparts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: of <| Albuquerque Museum |> ' -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alchemy |> Advantage -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+COMPANY:  <| Aldec |> Increases -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldeen |> is -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Tomatoes-Alchemy <| Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: created <| Copeland |> ’ -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr <| Thorne |> is -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Commercial <| Refrigeration |>  -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Marketing <| Group |> in -- [BRIDGESTONE MULTIMEDIA GROUP]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Church |> Year -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Hyatt |> Development -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: trust <| Alcal |> to -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Meadows |> atmosphere -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Our <| Church |> Staff -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Elementary |> Students -- [PLAIN CITY ELEMENTARY]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyatt |> Zilara -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: and <| Landscape |> has -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: : <| Albuquerque Museum |> | -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: Clete <| Albitz |> joined -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| ALDEN HEBRON |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: | <| Alderbrook |> Resort -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+ADDRESS: Navy <| Dr. |> , -- [629 AZUAR DR]  {alcometals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Industrial <| Refrigeration |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: | <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Luis <| Alcala |> in -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcamo |> can -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing Company |> is -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alcal |> Specialty -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: guides <| ALCO |> ’ -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Clothing |>  -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: at <| Alcoa |> â -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alcoa City |> Schools -- [ALCOA CITY SCHOOL SUPT]  {alcoaschools.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Swimming <| Pools |>  -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alchemy |> as -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alco |> Targets -- [ALCO TARGET]  {alcotarget.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: local <| Alcoa |> office -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: the <| Thorne |> family -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: All <| School |> Community -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: proprietary <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Why <| Montessori |> ? -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Copying |>  -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Business <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+COMPANY: - <| Roofing |> products -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldeen |> was -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Real <| Target |> Overlays -- [ALCO TARGET]  {alcotarget.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CITY: ' <| s |> creation -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Pool |> Repairs -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| 2 |> & -- [2 DEDRICK PL]  {alcdsi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: to <| AMERICAN LEGAL |> will -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: the <| Museum |> and -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Concrete |> Safe -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Jack <| Williams |> pursued -- [J WILLIAMS]  {aldenlane.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Teresa <| Miller |>  -- [JACK MILLER]  {alcc1.org} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Aldeen |> Voted -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT:  <| A |> professional -- [MICHAEL A WILSON]  {aldenvet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: said <| Dr. |> Ernest -- [185 JOHNSON DR]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> Logo -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 20
+
+CONTACT: Dr <| Thorne |> listens -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: on <| Broadway |> in -- [12890 BROADWAY ST]  {aldenpoolsandplay.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcal |> provides -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| School |> Psychologist -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: of <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Landscape |> Design -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Aldens <| Kennels |> services -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> also -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Medical |> Licensure -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alderbrook |> ! -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Hotel <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Lutheran |> Confessions -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: gives <| Aldec |> customers -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: 2016 <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| ALBION RIDGES |> NEWS -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: & <| Associates |> , -- [ALBITZ-MILOE ASSOC INVESTMENTS]  {albitzmiloe.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 48
+
+COMPANY: service <| Real Estate |> company -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alchemy Market |>  -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: High <| School |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alden |> Suites -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS:  <| s |> assembled -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Industrial <| Refrigeration |> Project -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alcal |> office -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| CONCRETE |> MASONRY -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| School |> Psychologist -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: , <| Walnut |> Creek-CA -- [WALNUT CREEK]  {alderland.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: at <| Alderbrook |> hospital -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Medical |> Licensure -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| ALCO |> has -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alca |> is -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alderbrook |> Spa -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Contact <| Alcoa |>  -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: TILT-UP <| CONCRETE |>  -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Alcoa <| Inc |> . -- [TELE-TECH CO INC]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+COMPANY: : <| Alchemy |> Solutions -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr <| Lee |> ' -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Wyatt <| Concrete |> Cup -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: at <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+ADDRESS: ' <| s |> inception -- [3939 S 500 W]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: : <| Alcoa |> Products -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Dr. <| Thorne |> took -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Velma <| Albitz |> has -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: al <| BUSTAN |> Website -- [AL BUSTAN RESTAURANT]  {albustanny.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: with <| Alcon |> , -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alabama |> . -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS:  <| s |> industrial -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Alchemy |> . -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Level <| Golf |>  -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Hardscape <| Construction |>  -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: our <| Alderbrook |> family -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing |> became -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> Events -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> enhanced -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| ALCO |> in -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Refrigeration |> Project -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alcal |> 's -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Preview <| Alchemy |> ’ -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alderbrook |> Resort -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: , <| Thomas |> Printworks -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: The <| Museum |> courtesy -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> Tensilica -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Annie <| Thorne |> , -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Aldec |> demonstration -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcamo |> is -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: native <| Santa |> Rosan -- [SANTA ROSA]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcoa |> Recycling -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Alcoa |> Awarded -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Hyatt |> ' -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: utilize <| Alchemy |> Manager -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alden |> ' -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcoa |> Announces -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: from <| Alchemy |> , -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Alchemy |> reports -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: if <| Alchemy |> could -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> WISHBONE -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: About <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| CONCRETE |> SPECIAL -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: to <| drive |> longer -- [185 JOHNSON DR]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| s |> actually -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> Simulator -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> Web -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS:  <| Corporate |> Offices -- [2260 CORPORATE CIR # 490]  {aldec.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 28
+
+COMPANY:  <| Alchemy |> has -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alchemy |> Learning -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Onge <| Street |>  -- [208 SAINT ONGE ST]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Alcoronado <| Plumbing |>  -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Hyatt |> Gold -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 29
+
+COMPANY: , <| Alcala |> is -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Alden |> Suites -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: as <| ALCO |> ’ -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: High <| School |> & -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alcoa |> met -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> on -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: The <| Aldec |> Ethernet -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Glass |> Sink -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: did <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Tucson <| Plumbing |> Service -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Museum |> offers -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: The <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: in <| Aldec |> emulator -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Tucson <| Plumbing |> services -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alchemy |> Systems -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Jonathan Alder |> Local -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 7
+
+COMPANY:  <| Aldec |> ’ -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Tucson <| Meadows |>  -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Dr <| Thorne |> was -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> needs -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Philip <| Arcilesi |> . -- [PHILLIP ARCILESI]  {alcamopools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: PERMEABLE <| CONCRETE |>  -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Mastering <| Alchemy |> through -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dave <| Cook |> . -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing |> | -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: joined <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Aldec |> 1-Wire -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Albuquerque Museum |> Foundation -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Gregory <| Albo |>  -- [LINDA ALBO]  {alborealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Aboveground <| Pools |>  -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: “ <| Don |> found -- [DON VIVATSON]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Alden |>  -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Alcoa |> Howmet -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> ' -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: Our <| Kennels |> are -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Museum |> : -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: at <| Alcamo |> Pools -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: for <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Beachfront <| Resort |> , -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: let <| Alden |> handle -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: – <| Alchemy Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS: the <| Church |> across -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> TLM2SCEMI_AXI -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: ' <| s |> energetic -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: to <| Don |> or -- [DON VIVATSON]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> FPGA -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: 2016 <| Thomas |> Reprographics -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Alcoa |> Advantage -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: , <| Aldec |> documentation -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: Doolittle <| Dr |>  -- [629 AZUAR DR]  {alcometals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alden |> ’ -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: ’ <| s |> love -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: More <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Jerry |> has -- [JERRY JUSTIC]  {alcamo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> very -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alden |> can -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Alcoa <| Inc. |> , -- [TELE-TECH CO INC]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Media <| Group |>  -- [BRIDGESTONE MULTIMEDIA GROUP]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Corporate -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: the <| Niagara |> Gazette -- [NIAGARA FALLS]  {alcliff.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Life <| Insurance |> Info -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+ADDRESS: : <| Industrial |> Products -- [5625 FULTON INDUSTRIAL BLVD SW]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alcamo Realty |> , -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS:  <| Gulf |> Boulevard -- [5900 GULF BLVD]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Pasta-Alchemy <| Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Albuquerque Meadows |> . -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT:  <| Michael |> Holland -- [MICHAEL MC GAR]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Pastor <| Jack |> demonstrates -- [JACK MILLER]  {alcc1.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: that <| Alca |> operates -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing |> technicians -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: By <| Alcamo |>  -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Point <| Real Estate |> Office -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> ! -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: the <| Lutheran |> and -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Tour <| Alchemy |> Manager -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: is <| Alcoa |> ' -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Park <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: ALL <| COMPANY |> NEWS -- [TELE-TECH CO INC]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Landscape <| Construction |>  -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Aldec |> Workshops -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: ' <| s |> New -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alchemy |> to -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: representing <| Alabama |> dentists -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: on <| Alchemy |> ’ -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alder |> has -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: 7101 <| E |> State -- [10 E ALDERBROOK DR]  {alderbrookresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Health <| Insurance |> Info -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: of <| Alchemy |> Manager -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcala |> is -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY:  <| Aldec |> drives -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Chicago <| Kennels |> in -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: south-central <| Michigan |> , -- [401 E MICHIGAN AVE]  {albion.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Title <| Company |> records -- [INGLES CO REALTORS]  {albqhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Dental |> Record -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: our <| Hospital |> Administrator -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: National <| School |> Lunch -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| School |> Hours -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: experienced <| Alchemy |> clients -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: earned <| Albion |> ridges -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Coordinated <| School |> Health -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Swimming <| Pools |> , -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Abundant Life |> is -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: 1PM <| School |> Improvement -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Independent <| Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: and <| Legal |> support -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: ASSET <| MANAGEMENT |>  -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dave <| Cook |> as -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> practices -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: W. <| Cornella |> in -- [AL CORNELLA]  {alcornella.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Model <| T. |> We -- [T SCOPEL]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| AMERICAN LEGAL |> is -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: setup <| Alchemy |> Coach -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: – <| Alcamo |> Pools -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Alcoa |> Energy -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: Alden-Hebron <| School District # 19 |> , -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alcal |> Partners -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Home <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: for <| Alabama |> families -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Albion <| Michigan |> Ministerial -- [401 E MICHIGAN AVE]  {albion.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY:  <| Alchemy |> partners -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| 5900 |> gulf -- [5900 GULF BLVD]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: in <| ALCO |> ’ -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Aldec |> support -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: use <| Alcala |> almost -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: 2014 <| Aldente |> Italian -- [ALDENTE PASTA]  {aldente-palmsprings.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: at <| Albuquerque Museum |> Foundation -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Albuquerque <| Hotels |> - -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: co-invented <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Alchemy |> Course -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| Gulf |> , -- [5900 GULF BLVD]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Georgia <| Cook |> as -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Flood <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: The <| Albuquerque Museum |> of -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+CONTACT: Dr. <| Thorne |> for -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> today -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcamo Realty |> sells -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: to <| Albuquerque Meadows |>  -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Aldens <| Kennels |> , -- [ALDEN 'S KENNELS INC]  {aldenskennels.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Services <| Alcamo |> Pools -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Church |> of -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Vacuum <| Plumbing |> System -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Service <| Refrigeration |> Equipment -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: , <| Jerry |> rose -- [JERRY JUSTIC]  {alcamo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldec |> and -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: In <| Alcamo |> Pools -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Cardboard <| Target |>  -- [ALCO TARGET]  {alcotarget.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: favorite <| Alchemy |> reports -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alcuin |> ' -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: by <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: About <| Alchemy Market |> Cafe -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT:  <| Michael |> brings -- [MICHAEL MC GAR]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alcoa |>  -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Contact <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Aldec |> supports -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: - <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY:  <| Alcala |> has -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: The <| Alderbrook |> Resort -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+CITY: , <| San |> Juan -- [SAN CLEMENTE]  {alderetepools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: all <| Alchemy |> products -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Museum |> ' -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2008 <| Golf |> Digest -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: northeast <| St. |> Petersburg -- [ST PETE BEACH]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Annie <| Thorne |> & -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alca |> avionics -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Phil |> was -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS: - <| North |> State -- [879 N WRIGHT RD]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alcala |> in -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Alchemy |> Board -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Albo |> Agency -- [LINDA ALBO]  {alborealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: At <| Alcamo Realty |> , -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: to <| Alchemy |> , -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Museum |> Store -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: HIGH <| SCHOOL |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Employees -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> provides -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Juris <| Doctor |> from -- [638 HICKORYVIEW DR]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Pastor <| Jack |> has -- [JACK MILLER]  {alcc1.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Alchemy |> services -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: In <| Rapid |> CiIy -- [RAPID CITY]  {alcornella.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Weekly <| Service |> for -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Al <| Copeland |> , -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> Specials -- [614 S WHITE HORSE PIKE]  {alcoyspaparts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: visiting <| Alderbrook |> . -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Copeland |> ' -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Home |> & -- [ALCOA HOME EXTERIORS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> product -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS:  <| Industrial |> Products -- [5625 FULTON INDUSTRIAL BLVD SW]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: Level <| Golf |> to -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> Cafe -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Hyatt |> Centric -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: provides <| Alchemy |> customers -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Investments |>  -- [ALBITZ-MILOE ASSOC INVESTMENTS]  {albitzmiloe.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: joined <| Alchemy |> in -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> has -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| Montessori |> program -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcal |> ' -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Plumbing |> Services -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 20
+
+COMPANY: joined <| ALCO |> in -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Bill |> Giordanengo -- [BILL WETJEN]  {alcal.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alderbrook |> Gift -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: July <| 4th |> , -- [1533 4TH ST]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Company <| Management |> Program -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: through <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: the <| Museum |> Store -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyatt |> Place -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: At <| Alcal |> , -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcamo Realty |>  -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+CONTACT: At <| Thomas |> Printworks -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> History -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Today <| Alchemy |> aims -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> & -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Alchemy |> on -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Vacuum <| Plumbing |> Systems -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: | <| Alcal |> Home -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+ADDRESS:  <| s |> leading -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldec |> tutorials -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Aldec |> AMBA -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Shoreham <| Real Estate |> . -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Backyard <| Pools |> to -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alderbrook |> Resort -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: About <| Alderbrook |>  -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Roofing |> , -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| Copeland |> ' -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcamo Realty |> pre-qualifies -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: : <| Alchemy |> Systems -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: by <| Alcoa |> rectified -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa City |> Schools -- [ALCOA CITY SCHOOL SUPT]  {alcoaschools.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 22
+
+COMPANY: and <| Alchemy |> sinks -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Alcoa |> legend -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alchemy |> . -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alchemy |> ’ -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Associated <| Roofing |> Contractors -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: : <| Albuquerque Museum |> : -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 12
+
+COMPANY: Auto <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+COMPANY: Commercial <| Realty |> by -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alchemy |> Manager -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Coast <| Dental |> Conference -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+ADDRESS: Doolittle <| Dr. |> , -- [629 AZUAR DR]  {alcometals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: does <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS:  <| Church |> Info -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Copying |> these -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Dr. <| Thorne |> has -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT:  <| J. |> Jill -- [ROBERT J CAMBELL JR]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Residential <| Electrical |> Services -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: at <| Albuquerque Meadows |> is -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alcoy |> Spa -- [ALCOY INDUSTRIES INC]  {alcoyspaparts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Hyatt |> Residences -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| MUSEUM |> SCHOOL -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Named -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alder |> Web -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: deploys <| Aldec |> DO-254 -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: of <| Alca |> has -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Board |> of -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| School |> Registration -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> aluminum -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Aldec |>  -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 57
+
+COMPANY: around <| Hyatt |> Regency -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Marine |> Weather -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Let <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT:  <| LEE |> , -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| AMERICAN LEGAL |> specializes -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: in <| School |> `` -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: detail <| Keith |> spent -- [KEITH ALBRITTON]  {albrittonelectric.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Alder |> recently -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: by <| Alchemy |> in -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Albuquerque Museum |> Foundation -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS: ’ <| s |> travels -- [3143 S LA CIENEGA BLVD]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcoa |> innovates -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcuin |> Blog -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alcamo |> ' -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Patrick <| Dolan |> founded -- [PAT DOLAN]  {alcyoneplumbing.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: and <| Alder |> ' -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Target |> Printing -- [ALCO TARGET]  {alcotarget.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Hyatt |> Regency -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alchemy |> . -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Avionics |> Repair -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: what <| Alden |> can -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Headquarters946 <| N. |> Market -- [879 N WRIGHT RD]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Auto <| Insurance |> Info -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: into <| Alderbrook |> now -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 26 <| Nassau |> Boulevard -- [364 NASSAU BLVD]  {alcamo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> Universal -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: & <| Landscaping |> Company -- [ALCLIFF LANDSCAPING & NURSERY]  {alcliff.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ( <| 151 |> ) -- [151 SHIPYARD WAY # 4]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alden |> . -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Spectrochemical -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alder |> just -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Associate <| Real Estate |> Broker -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Bamboo <| Beach |> Bar -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Inc -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: dr. <| Thorne |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Alchemy |> Player -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Hospital |> Administrator -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Concrete |> Knowledge -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Church |> Council -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: with <| Alcoa |> , -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Aldeen |> News -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: with <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY:  <| Hyatt |> Regency -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| ALCOA |> INNOVATION -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Housing <| Management |> Association -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> range -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Montessori |> excellence -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Liability <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: [ <| Alcoy |> Spa -- [ALCOY INDUSTRIES INC]  {alcoyspaparts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| s |> been -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alcamo |> Pools -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Marine |> Computing -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Alderbrook |> Resort -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 13
+
+COMPANY: Christina <| Alcala |>  -- [ALCALA CLOTHING]  {alcalas.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS:  <| s |> also -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albany |> , -- [ALBANY INTERNATIONAL FABRICS]  {albint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alcoa |> have -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: growth <| Keith |> moved -- [KEITH ALBRITTON]  {albrittonelectric.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: ' <| s |> wonderful -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: chose <| Alderbrook |> to -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Life <| Insurance |> Quote -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: Cruces <| Awning |> - -- [ALBUQUERQUE AWNING]  {albuquerqueawning.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CONTACT: Philip <| Arcilesi |> , -- [PHILLIP ARCILESI]  {alcamopools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| Alcoa |> Inc -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Refrigeration |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: with <| Lee |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Vance <| Albitz |>  -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: 2016 <| Alcoa |> Inc -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: The <| Alchemy |> Conference -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+COMPANY: from <| Copeland |> ' -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> teams -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> TLM2SCEMI_AHB -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: to <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> Essentials -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 1977-2001 <| Alcoholics |> for -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcon |> has -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Museum |> School -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+CONTACT:  <| Kevin |> Kantor -- [KEVIN CANTOR]  {alcometals.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Fe <| Awning |> ' -- [ALBUQUERQUE AWNING]  {albuquerqueawning.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: with <| Alchemy |> . -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: join <| Hyatt |> Gold -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Pool <| Construction |> Services -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Officite <| Dental |> Websites -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY:  <| Alderbrook |> . -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Pet |> Owner -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: universal <| Church |> that -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: OTHER <| HYATT |> SITES -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: experience <| AMERICAN LEGAL |> can -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Jonathan Alder |> is -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: to <| Christ |> ( -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alcon |> attitude -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: do <| Refrigeration |> `` -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Montessori |> Education -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> China -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+ADDRESS:  <| Corporate |> Headquarters -- [2260 CORPORATE CIR # 490]  {aldec.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: utilize <| Aldec |> EDA -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: today <| Alchemy |> is -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyatt |> House -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: , <| Real Estate |> NY -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: of <| Alderete |> Pool -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Albuquerque Meadows |>  -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Commercial <| Plumbing |> Contractor -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Full-Service <| Realty |> , -- [ALCAMO REALTY ASSOC INC]  {alcamo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: make <| Alcon |> the -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Aldec |> delivers -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: with <| Alderbrook |> . -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alden |> makes -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: in <| Golf |> Advisor -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: the <| Alchemy |> team -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: Dr. <| Thorne |> ' -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+CITY: Smith <| Point |> . -- [ROCKY POINT]  {alborealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Tucson <| Plumbing |> Services -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ' <| s |> staff -- [3939 S 500 W]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Association |> is -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: from <| Alcoa |> or -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| ALBRIGHT |> MACHINERY -- [RUSS ALBRIGHT]  {albrightmachinery.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Plumbing |> , -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: — <| Alcoa |> Solutions -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Real -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyatt |> at -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: contact <| Alcoa |> ' -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Hyatt |> Corporation -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: $ <| 10 |> for -- [10 E ALDERBROOK DR]  {alderbrookresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Realtors |>  -- [INGLES CO REALTORS]  {albqhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: , <| Plumbing |> Tucson -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Refresher <| Alchemy |> Courses -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Medical |> Licensure -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Builder <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Community |> Scott -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing |> is -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| High |> Progress -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Hyatt |> Residence -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: The <| Alcoa City |> Schools -- [ALCOA CITY SCHOOL SUPT]  {alcoaschools.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Alchemy |> Gold -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Mark <| Albitz |>  -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: to <| Alcala |>  -- [ALCALA PET CARE]  {alcalapetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Your <| Pool |> & -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Contact <| Alchemy |> to -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyatt |> Home -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: the <| Aldeen |> Practice -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |> OCP -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: 2014-2016 <| Alcal |> Specialty -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: National <| Roofing |> Contractors -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: `` <| Lee |> has -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Wheel -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Aldec |> ' -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Alderete |> Pools -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: ' <| s |> performance -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Associates |> , -- [ALBITZ-MILOE ASSOC INVESTMENTS]  {albitzmiloe.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS:  <| 2 |> Paragon -- [2 DEDRICK PL]  {alcdsi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: The <| Church |> Mouse -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Hyatt |> Vacation -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: At <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: of <| Alca |> , -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Kendra <| Riccio |> , -- [ROBERT RICCIO]  {aldente-palmsprings.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Dr. <| Thorne |> as -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: ’ <| s |> stages -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: out <| Alderbrook |> Resort -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS:  <| 2260 Corporate |> Circle -- [2260 CORPORATE CIR # 490]  {aldec.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY:  <| Alcamo |> Granite -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY: About <| Alchemy |>  -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Doctor <| Thorne |> is -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: at <| Albuquerque Museum |>  -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Alderbrook |> ’ -- [ALDERBROOK INN]  {alderbrookresort.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcal |> Home -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: : <| Alcoa |> Innovation -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Supermarket <| Refrigeration Installation and Service |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS: ' <| s |> stock -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alden Hebron |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Why <| Alcoa |> ? -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoholics |> or -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: “ <| Thomas |> Printworks -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Robert |> Moreschi -- [ROBERT J CAMBELL JR]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Museum |> members -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> shall -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Construction |> Management -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: about <| Alchemy |> ’ -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: downtown <| St. |> Petersburg -- [ST PETE BEACH]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alden |> takes -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcuin |> Alumni -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Ohio <| Mechanical |> Contractor -- [ALCON MECHANICAL INC]  {alconmechanical.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: National <| School |> Breakfast -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| s |> historic -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Student <| Life |>  -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Alchemy |> board -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Museum |> to -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Allan <| Cook |> as -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> to -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Foundation |> by -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alden |> | -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: landscaping <| Alcamo |> offers -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: This <| Church |> Worships -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alabama Credit |>  -- [ALABAMA CREDIT CORP-INTL TCHRS]  {alcredit.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> paid -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: of <| Christian |> Schools -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: alone <| Alder |> has -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Careers -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Name <| Alchemy |> ? -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Alcala |> specializes -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Alcoa <| Inc |> and -- [TELE-TECH CO INC]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| Alchemy |> we -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Business <| Insurance |> in -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alden |> can -- [ALDEN SYSTEMS]  {aldensys.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: | <| Alden |> Suites -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: managed <| Alchemy |> ’ -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Thomas |> Printworks -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: CONTACT <| HYATT |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Refrigeration |>  -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: , <| Aldec |> Webinars -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcoa |> Supplier -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alden |> . -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Jonathan Alder |> Enrollment -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY: to <| Alcoa |> Email -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alchemy |> report -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Industrial <| Refrigeration |> and -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: at <| Alcamo |> we -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| Alchemy Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: Church <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| ALBUQUERQUE MUSEUM |> Art -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alchemy |> works -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Christian |> Philosophy -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque Museum |> Foundation -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: REAL <| ADVANTAGE |> : -- [ADVANTAGE LEARNING CTR]  {alctutoring.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: grow <| Alcon |> while -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Clete <| Albitz |>  -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CITY: ' <| s |> Retreat -- [SOUTH BURLINGTON]  {alcvt.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Northeast <| Ohio |> Mechanical -- [214 OHIO AVE]  {alconmechanical.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: 2nd <| Avenue |> ) -- [827 3RD AVE]  {albustanny.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Museum |> Rental -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> products -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: , <| Michigan |> , -- [401 E MICHIGAN AVE]  {albion.k12.mi.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> & -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> : -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+ADDRESS: ' <| s |> incredible -- [724 S ROBB ST]  {alco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: After <| School |> Classes -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcoa |> has -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> is -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+ADDRESS: ' <| s |> low -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: joined <| Alchemy |> Systems -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Al |> Bustanâ -- [AL BUSTAN RESTAURANT]  {albustanny.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Albuquerque Museum |> | -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY:  <| Avionics |> Upgrades -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Albuquerque Museum |> , -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ' <| s |> proprietary -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ; <| Alchemy |> Manager -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> and -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: for <| School |> Meals -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Licensed <| Real Estate |> Salesperson -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 10
+
+COMPANY: Asset <| Management |> , -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Albuquerque |> : -- [ALBUQUERQUE AWNING]  {albuquerqueawning.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: High <| School |> Boys -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Fe <| Awning |> | -- [ALBUQUERQUE AWNING]  {albuquerqueawning.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Personal <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Forging -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Hyatt |> hotels -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Global -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: - <| Albright |> Machinery -- [RUSS ALBRIGHT]  {albrightmachinery.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY:  <| CONCRETE |> ANSWERS -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT:  <| Don |> is -- [DON VIVATSON]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alder |> will -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Roofing |> and -- [ALCAL ROOFING & INSULATION]  {alcal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Kannad <| Marine |>  -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: of <| ALCO |> ’ -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Georgia <| Cook |>  -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Albany |> Engineered -- [ALBANY INTERNATIONAL FABRICS]  {albint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Middle <| School |>  -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: No <| School |>  -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Opens -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: with <| J. |> Jill -- [ROBERT J CAMBELL JR]  {alc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> is -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Dental |> Team -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: The <| Alcamo |> Pool -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Alchemy |>  -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: joined <| ALCO |> ’ -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| School District 19 |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Affect <| Us |>  -- [9200 US RT 42]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| ALCO |> portfolio -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: PERVIOUS <| CONCRETE |>  -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: and <| Construction |>  -- [ALDERETE CONSTRUCTION]  {alderetepools.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Silicon <| Valley |> . -- [108 VALLEY VIEW RD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alchemy |> ' -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Alden-Hebron <| School District 19 |> Families -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: does <| Alcoa |> Foundation -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: , <| Albright |> is -- [RUSS ALBRIGHT]  {albrightmachinery.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: `` <| Alderbrook |> is -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldeen |> partners -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CONTACT: using <| Thomas |> primarily -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alcoa |> will -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Aldec |> resources -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Alden-Hebron <| School District # 19 |>  -- [ALDEN HEBRON SCHOOL DIST 19]  {alden-hebron.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 9
+
+COMPANY:  <| Legal |> files -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: your <| Hyatt |> Gold -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alchemy |> feature -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2016 <| Alden |> Suites -- [ALDEN BEACH RESORT]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: At <| Alchemy |> , -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Company |>  -- [TELE-TECH CO INC]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Allan <| Cook |>  -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> are -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr <| Thorne |> leads -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALDEC |> SPI -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: At <| Albion Ridges |>  -- [ALBION RIDGES GOLF COURSE]  {albionridges.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: at <| Alderbrook |> is -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: & <| Associates |> . -- [ALBITZ-MILOE ASSOC INVESTMENTS]  {albitzmiloe.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Moraine <| Lutheran |> High -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: in <| St. |> Petersburg -- [ST PETE BEACH]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Alchemy Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: to <| Alcamo |> Granite -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY:  <| Burlington |> Emergency -- [SOUTH BURLINGTON]  {alcvt.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: — <| Alchemy |> Cafe -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: • <| Pool |> Tile -- [ALCHEMIST POOL SVC]  {alchemistpool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcan |> ' -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: State <| Board |> of -- [MEDICAL EXAMINERS BOARD]  {albme.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Pet |> News -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: joins <| Alchemy |> with -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Company |> ' -- [TELE-TECH CO INC]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Contact <| Us |>  -- [9200 US RT 42]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CITY: from <| St. |> Pete-Clearwater -- [ST PETE BEACH]  {aldenbeachresort.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Museum |>  -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: All <| Pet |> Health -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Thorne |> and -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: , <| Inc |> . -- [ALCON CONSTRUCTION INC]  {alconconst.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: 2016 <| Albuquerque Meadows |> . -- [ALBUQUERQUE MEADOWS MOBILE HM]  {albuquerquemeadows.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+ADDRESS: ’ <| s |> studio -- [3143 S LA CIENEGA BLVD]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alcamo |> Pools -- [ALCAMO SUPPLY CORP]  {alcamopools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Barrister |> . -- [ALCHEMIST & BARRISTER]  {alchemistandbarrister.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| ALCO |> as -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: UAB <| Dental |> Students -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 18
+
+COMPANY: Recent <| Alder |> News -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Lee |> is -- [LEE THORNE]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Jesus <| Christ |> . -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Grand <| Hyatt |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: Dr. <| Thorne |> was -- [LEE THORNE]  {alderbrookpet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Community |>  -- [ALCOA COMMUNITY FEDERAL CU]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| GOLF |> Magazine -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Aldec |> USB -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT:  <| Albright |> Machinery -- [RUSS ALBRIGHT]  {albrightmachinery.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: `` <| Aldec |> has -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT:  <| Albitz |> / -- [PHIL ALBITZ]  {albitzmiloe.com} REASON:ONLY_ONE_WORD  Occurrence: 28
+
+COMPANY:  <| Aldec |> Japan -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS: the <| Church |> is -- [500 CHURCH DR]  {alc-rantoul.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Wins -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Great <| Care |>  -- [ALCALA PET CARE]  {alcalapetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Point <| Real Estate |> . -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Point <| Real Estate |> & -- [LINDA ALBO REAL ESTATE]  {alborealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Private <| School |> in -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: ' <| Alcoa |> 951 -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Hyatt |> Blog -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| Aldec |> multimedia -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alcoa |> is -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: at <| Hyatt |> Regency -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: The <| Cook |> family -- [DAVID COOK]  {alconconst.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: PROPERTY <| MANAGEMENT |>  -- [ALCO MANAGEMENT INC]  {alcomgt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Museum |> . -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Aldec |> Riviera-PRO -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Aldec |> YouTube -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: and <| Market |>  -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: in <| Alcala |> . -- [ALCALA CO]  {alcala.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Alder |> Group -- [ALDER LANDSCAPE CO]  {alderland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Navy <| Dr |>  -- [629 AZUAR DR]  {alcometals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: the <| Thomas |> Blog -- [BRIAN THOMAS]  {albinson.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Food-Alchemy <| Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alcoa |> Worldwide -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| Copeland 's |> , -- [COPELAND 'S OF NEW ORLEANS]  {alcopeland.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alchemy Market |> and -- [ALCHEMY MARKET & WINE BAR]  {alchemymarket.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 10
+
+COMPANY:  <| Avionics |> sales -- [ALCA AVIONICS]  {alcaavionics.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Mold -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Life <| Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: years <| Aldec |> has -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Â <| Alcoa |> Defense -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Museum |> maintains -- [ALBUQUERQUE MUSEUM GIFT SHOP]  {albuquerquemuseum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> focus -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> | -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alder |> Mail -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Alchemy |> Studios -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldec |>  -- [ALDEC INC]  {aldec.com} REASON:ONLY_ONE_WORD  Occurrence: 44
+
+CONTACT: Pastor <| Jack |> and -- [JACK MILLER]  {alcc1.org} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS:  <| s |> team -- [800 S STATE COLLEGE BLVD]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> Foundation -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+COMPANY:  <| Aldeen |> Practice -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alder |> was -- [ALDER CONSTRUCTION CO]  {alderconstruction.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: of <| Alabama |> dentists -- [ALABAMA DENTAL ASSN]  {aldaonline.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: © <| Alchemy |> Systems -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Alchemy |> Survey -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: – <| Alchemy |> Systems -- [ALCHEMY STUDIO 'S LTD]  {alchemystudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY:  <| Alcoa |> and -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Pet |> care -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> has -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alcoa |> , -- [ALCOA FASTENING SYSTEMS]  {alcoa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alcom |> is -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Pastor <| Jack |> completed -- [JACK MILLER]  {alcc1.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Monroe <| Elementary |> School -- [PLAIN CITY ELEMENTARY]  {alder.k12.oh.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: 2016 <| Alcoa City |> Schools -- [ALCOA CITY SCHOOL SUPT]  {alcoaschools.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+

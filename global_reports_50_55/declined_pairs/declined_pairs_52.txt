@@ -1,0 +1,1958 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+CONTACT: Dr. <| Luce |> attended -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALDRIDGE |> specializes -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander / Ryan |> provides -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: About <| Us |> page -- [6764 US HIGHWAY 431]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alerion |> was -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contact <| Alesis |> support -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Electronic <| Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| A-Legal |> is -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: Lavaca <| Street |> , -- [1111 14TH ST NW # 400]  {aldersonreporting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: on <| Equipment |>  -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hospital |> Policies -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Virginia <| Hyundai |> dealership -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: , <| Landmark Florist |> Store -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Cat <| Books |> , -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Court <| Reporting |> Services -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: to <| Alderson |> ' -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+COMPANY: of <| Veterinary |> Medicine -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: Special <| Weather |> Statements -- [ALERT WEATHER SVC]  {alertweather.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Guesthouse |>  -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Medical <| Center |> . -- [ALEPH CENTER]  {alephcenter.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: F. <| Hunsaker |>  -- [DEBBIE HUNSAKER]  {alertolite.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Retirement |> Living -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landmark Florist |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+CONTACT: to <| Alessi |> Keyes -- [JIM ALESSI]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Linda <| Fritsche |> Castner -- [WILLIAM FRITSCHE]  {alexandriafield.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: ' <| s |> website -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Dr. <| Luce |> has -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: from <| Ford |> . -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| veterinary |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: Schedule <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Moving |> Art -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> corporate -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ’ <| s |> disease -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Owner <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: leading <| Hyundai |> dealers -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: include <| veterinary |> dentistry -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Getting <| Hyundai |> service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexanders |> Costumes -- [ALEXANDERS TEXTILES]  {alexanderscostumes.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: ran <| Aldo |> ’ -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: the <| City |> Limits -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alesis |> Taipei -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alderson |> , -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: more <| Aldridge |> services -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: , <| Drive |> systems -- [360 MCLEAN DR]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: with <| Alderson |> in -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander Tent |> Rental -- [ALEXANDER TENT CO INC]  {alexandertent.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS:  <| STREET |> IMPROVEMENT -- [318 CHURCH ST]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Ford |> Offer -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY:  <| W. |> Atlee -- [WEST REDDING]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CITY:  <| City |> Clerk -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: , <| Hyundai |> repair -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: All <| Chrysler |> Vehicles -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: The <| Alexandria Florist |> You -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: like <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALDILA |> STORE -- [ALDILA INC]  {aldila.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| ALENCO |>  -- [ALENCO TOOL SUPPLY CO]  {alencotool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Throughout <| Alderson |> & -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: serving <| Alderson |> ’ -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Luce |> thinks -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Marine Safety |> and -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: The <| Alexander |> sales -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: services <| Ford |> vehicles -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: that <| Aldridge |> provides -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Alexandra |> Inn -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Alexander |> Companies -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 17 <| Hyundai |> Models -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: , <| Hyundai |> Alexandria -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: The <| Alexander ® Oceanfront |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: The <| Alexander | Oceanfront |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Commercial <| Moving |> Services -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: – <| Alexander |> ’ -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alderson |> Online -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: VIEW <| TENT |> IMAGES -- [ALEXANDER TENT CO INC]  {alexandertent.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: on <| Alen Security |> to -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: Arlington <| Hyundai |> Repair -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: these <| veterinary |> services -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Jonathan <| Taylor |>  -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Auto |> Sales -- [ALEMAN AUTO RENTAL INC]  {aleman.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Chantilly <| Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+ADDRESS: 228th <| Street |>  -- [17902 17TH ST E]  {alexanderexhibit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Veterinary |> Endoscopy -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CONTACT: Dr. <| Luce |> established -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Washington <| Hyundai |> shoppers -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: “ <| 6408 |> ” -- [6408 E TANQUE VERDE RD]  {alephcenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldridge |> is -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: trusted <| Hyundai |> dealership -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: the <| Aldrich |>  -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: the <| Library |>  -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: At <| Alexander |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2009 <| ALEPH |> GLOBAL -- [ALEPH INC]  {alephcomputer.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: to <| Aldo |> , -- [ALDO 'S PIZZERIA]  {aldospizza.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldinger |> even -- [ALDINGER CO]  {aldingercompany.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: tree-shaded <| street |> in -- [1118 FLEMING ST]  {alexanderskeywest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| City |> Hall -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: at <| 6 |> ! -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Janitorial <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: At <| Alesis |> , -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: About <| Alexander |> ’ -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Law <| Enforcement |> Readiness -- [ADVANCEDLAW ENFORCEMENT READNG]  {alert10-04.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: What <| Alexander |> ' -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS:  <| 4000 Old Seward |> Highway -- [4000 OLD SEWARD HWY # 300]  {aleutcorp.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: VA <| Hyundai |> | -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> Web -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Renters <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Alexander |> provides -- [ALEXANDER ELECTRIC]  {alexanderelectric.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: : <| Isley |> Architects -- [ALEXANDER ISLEY]  {alexanderisley.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ' <| s |> Weekly -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALEUT |> REAL -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alerion |> means -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: visit <| Alderson |> Auto -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 14
+
+COMPANY: , <| LLC |>  -- [SUMMER ALEXANDER LLC]  {alexandersummer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CONTACT: / <| Taylor |> we -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: at <| Alethea |> ’ -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldo |> Ventures -- [ALDO SHOES INC]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Health <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY: in <| Alerion |> ’ -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: down <| Tasman |> past -- [415 TASMAN DR]  {aldinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> Experienced -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> Adoption -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Main <| Library |>  -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: to <| Aldridge |> can -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: at <| 6 |> : -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CITY: stores <| San |> Mateo -- [SAN FRANCISCO]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: with <| Mauro |> in -- [MAURO OLIVIERI]  {aldos-cruz.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: / <| Press |>  -- [ALEXANDER STREET PRESS]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 20
+
+COMPANY: our <| Ford |> showroom -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Funeral |> , -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: , <| # |> 7370 -- [700 BROADWAY # 1]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> Doctors -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Our |> customers -- [OUR REDEEMER EPISCOPAL CHURCH]  {aldiechurch.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: One <| Capital |> Partners -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Throughout <| Alderson |> ’ -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Mr. <| Unruh |> became -- [JAMES UNRUH]  {alerion.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Boat <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY: Pediatric <| Vision |> Exams -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alderson |> Lexus -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Your <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY:  <| Aleut |> Enterprise -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+CONTACT: Glenn <| Rogers |> , -- [GLEN ROGERS]  {alderlandscapearchitecture.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Hyundai |> Service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Moving |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Landscape |> Architects -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| Ford |> Dealership -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Landscape |> Plan -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Gary <| Alexander |> founded -- [ALEXANDER ELECTRIC]  {alexanderelectric.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| veterinary |> anatomy -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alexander |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> your -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: our <| Hyundai |> auto -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Wash <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: 2017 <| Dodge |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: Main <| Street |> and -- [900 3RD ST]  {aldrichguesthouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Luce |> enjoys -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: National <| Design |> Museum -- [ALEXANDER ISLEY DESIGN]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Hyundai |> Tire -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Aleph |> is -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: About <| Us |>  -- [6764 US HIGHWAY 431]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Custom |> Plans -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Harbor <| Restaurant |> , -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| 4700 N. University |>  -- [4700 N UNIVERSITY ST # 27]  {alexander-travel.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Al <| Alexander |> ( -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Center <| Security |>  -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: ' <| s |> healthy -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Luce |> worked -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: services <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: / <| Aleut |> Oil -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 13
+
+COMPANY: Outsourcing <| Aldridge |> | -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Hal <| Alderson |> , -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: at <| Aldridge |> is -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Margaret <| Alderman Ford |> to -- [JERRY ALDERMAN FORD INC]  {aldermanford.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: 2017 <| Chrysler |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Management <| Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Artisan <| Rugs |> • -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Sonne |>  -- [WILLIAM SONNE]  {alexanderandsterling.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alegria |> offers -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: the <| Beach |>  -- [LONG BEACH]  {alegriacocinalatina.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: von <| Summer |> became -- [SUMMER ALEXANDER LLC]  {alexandersummer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Recovering <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: : <| Security |> Equipment -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Alderson |> opens -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: trust <| Landmark Florist |> for -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Care <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: new <| Hyundai |>  -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+ADDRESS: Irvine <| Avenue # |> 484 -- [177 RIVERSIDE AVE # 922]  {alexanderpublications.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: at <| Landmark Florist |> are -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: International <| Moving |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: , <| Landscape |> Designer -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: ’ <| s |> most -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |> European -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: Puppy <| Vet |> Care -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: to <| Aldridge |> . -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Company |> Leadership -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS:  <| South |>  -- [2000 S DAIRY ASHFORD ST]  {alexanderandsterling.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Inc |> . -- [ALEXANDRIA SURVEYS INC]  {alexandriasurveys.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: that <| Alderson |> strives -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: The <| Alexander |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> Veterinary -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: in <| San |> Marcos -- [SAN DIEGO]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: - <| Karl |>  -- [KARL LEWIS]  {alertplumbing.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Luce |> saw -- [DREW LUCE]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Farm <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: 2016 <| Dodge |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: The <| Alexander |> Miami -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: to <| Alexander |> for -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Duke <| Street |>  -- [ALEXANDER STREET PRESS]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Vernon Ave |> , -- [1707 MOUNT VERNON AVE]  {alexandriahyundai.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: preArranged <| Funeral |> , -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: sons <| Mauro |> and -- [MAURO OLIVIERI]  {aldos-cruz.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Ridge <| Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 18
+
+COMPANY:  <| Alexander |> Publications1048 -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander |> ’ -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Court <| Reporting |> FAQs -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Veterinary |> Surgery -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Aleph |> products -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: in <| Alderson |> ’ -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Umbrella <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+COMPANY: Washington <| Hyundai |> dealer -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Landscape |> Design -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: our <| Alexander |> Family -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Alexandra |> Inn -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+CONTACT: Thomas <| Barnhart |> , -- [JOE BARNHART]  {aldousfuneralhome.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Travel |> agency -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: to <| Aldridge |> ? -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Homeowners <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldersly |> Then -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: October <| 6 |> , -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Certified <| Plumbing |> Contractor -- [ALERT PLUMBING SVC]  {alertplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: selects <| Alderson |> as -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Landmark Florist |> Address -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Dodge |> or -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alderson |> ' -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Security |>  -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: from <| Aldridge |> . -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander |> ' -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Licensed <| Veterinary |> Technicians -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alexanders |> , -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Aldinger |> . -- [ALDINGER CO]  {aldingercompany.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: for <| Fire |> Alarm -- [FIRE MARSHAL]  {aldoi.gov} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: makes <| A-Legal |> the -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> vital -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Aleut |> Corporation -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: Adult <| Vision |> Exams -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alderson |> Cadillac -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Area <| Hyundai |> Dealer -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: About <| Alderson |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: the <| Aldo |> ’ -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: improving <| veterinary |> options -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Aldie |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Company |>  -- [ALEXANDER SUMMER CO]  {alexandersummer.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Barber <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Alexander 's |> Customer -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: , <| Tammy |> and -- [TAMMY BARONE]  {aldospizza.net} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: , <| Tammy |> ' -- [TAMMY BARONE]  {aldospizza.net} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Flood <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY:  <| Landscape |> Designer -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: is <| Aldo |> ? -- [ALDO SHOES INC]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: than <| Landmark Florist |> . -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: new <| Dodge |> Durango -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: the <| City |> . -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alen Security |>  -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY: Property <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+CONTACT: ; <| Helen |> has -- [HELEN YOUNGER]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: ABOUT <| ALEN SECURITY |>  -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Alderson |> Assurance -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: , <| Alderson |> can -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: About <| A-Legal |>  -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Funeral |> Director -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Landscape |> Designers -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Finance <| Center |>  -- [ALEXANDER AUTO CTR INC]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Latest <| Security |> Tips -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: at <| Alexander |> ' -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Bengies <| Rd |> . -- [4000 RUFFIN RD # C]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Kitten <| Vet |> Care -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: the <| Alderwood |> staff -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY:  <| City |> Council -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Harbor <| Restaurant |> : -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alexander |> Price -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landmark Florist |> , -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Laundromat <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Aleph |> continues -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Buffalo <| Chocolates |>  -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Home <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 32
+
+COMPANY: to <| Aldo |> Ventures -- [ALDO SHOES INC]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Aluminum |> | -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Harper <| Design |> International -- [ALEXANDER ISLEY DESIGN]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Annuity <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Choose <| Alderson |> ? -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY:  <| City |> Cemetery -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Personal <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: of <| Alderson |> ' -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: , <| Drive |> Systems -- [360 MCLEAN DR]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Car <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 24
+
+CITY: everything <| San |> Francisco -- [SAN RAFAEL]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Landscape |> Designing -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Our <| Hyundai |> service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: our <| Hyundai |> dealership -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Auto |> Parts -- [ALEMAN AUTO RENTAL INC]  {aleman.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Riding <| Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 18
+
+COMPANY:  <| Hospital |> Forms -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS: Elm <| Street |>  -- [1412 MAIN ST # 800]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alexander |> Contracting -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: and <| Grinding |> Solutions -- [ALDRIDGE GRINDING MACHINE CO]  {aldridgegrinders.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: with <| Aldridge |> so -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Care <| Community |> . -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Alegria |> . -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Aldo |> ' -- [ALDO 'S PIZZERIA]  {aldospizza.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alegre Trucking |> recognizes -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Care <| Community |>  -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: NJ <| 9 |> / -- [9 BROOKSIDE PL # A]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> Name -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexander |> and -- [ALEXANDER & STERLING]  {alexanderandsterling.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Hyundai |>  -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: excellent <| veterinary |> professionals -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: an <| Alderson |> showroom -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Support <| Company |>  -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Auto Rental |>  -- [ALEMAN AUTO RENTAL INC]  {aleman.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: by <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: – <| Alderson |> ’ -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alegria |> hosts -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Your <| Insurance |> Needs -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Veterinary |> Acupuncture -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS:  <| 37515 |> WA-706 -- [37515 STATE ROUTE 706 E]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Of <| Aluminum |> Products -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Street |> & -- [318 CHURCH ST]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ’ <| s |>  -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyundai |> Parts -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+CONTACT: Mr. <| Rogers |> has -- [GLEN ROGERS]  {alderlandscapearchitecture.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Why <| Alderson |>  -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Captive <| Management |> , -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Estate <| Landscaping |>  -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Landscape |> Design -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CITY: : <| San |> Francisco -- [SAN RAFAEL]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Locksmith |> Services -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+ADDRESS: Highway <| 181 |> , -- [US 181 BUSINESS S]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: art <| veterinary |> medicine -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Read <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: watch <| Alderwood |> transform -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Is <| A-Legal |> ? -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: : <| 37515 |> WA-706 -- [37515 STATE ROUTE 706 E]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldila |> : -- [ALDILA INC]  {aldila.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Response <| Center |> ( -- [ALEPH CENTER]  {alephcenter.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander / Ryan |> is -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: About <| Aleph |> USA -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: advantage <| Aldersly |> has -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: L. <| Aldridge |>  -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: saw <| Aldersly |> embark -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: & <| Dodge |> . -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| Alethea |> ’ -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Denman <| Ave |>  -- [1237 FRONT AVE]  {alexanderelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS:  <| 4700 N. University |> , -- [4700 N UNIVERSITY ST # 27]  {alexander-travel.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: to <| Alexander |> ’ -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: European <| Aluminum |> Association -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Condo <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY: Dealers <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| LANDSCAPE |> CONTRACTOR -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: and <| 30 |> , -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Tooling <| Aluminum |> Zhenjiang -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alexander has the Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: at <| Landmark Florist |> take -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Party <| Tent |> Rental -- [ALEXANDER TENT CO INC]  {alexandertent.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Church <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: 2016 <| Chrysler |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Dog <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: hour <| veterinary |> center -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contractor <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| A |> local -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Insurance |> marketplace -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Umbrella <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Taylor <| Insurance |> is -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| Aldersly |> ’ -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Rich <| Alexander |> selects -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: award-winning <| Hyundai |> models -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Aldrich <| Taylor |> Insurance -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 31
+
+COMPANY: Cremation <| Service |> , -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hospital |> Tour -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Aleph |>  -- [ALEPH CENTER]  {alephcenter.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Complete <| Alderwood |>  -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: The <| Alexander |> car -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> nutritional -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Supplements <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Are <| Aleut |>  -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Helen <| Alegre |> , -- [TONY ALEGRE]  {alegretrucking.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aleph |> China -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ' <| s |> important -- [6343 S KINGS HWY]  {alexandriasurveys.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| veterinary |> procedure -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> rights -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Hyundai |> Auto -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| SECURITY |> TIPS -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: Dulles <| South |> area -- [SOUTH RIDING]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Get <| Moving |> - -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Restaurant <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: , <| Landscape |> Ideas -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT:  <| Helen |> founded -- [HELEN YOUNGER]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: California <| Landscape |> Contractors -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Main <| Street |>  -- [900 3RD ST]  {aldrichguesthouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| Airport |> Tours -- [63 AIRPORT RD]  {alexandriafield.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: our <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: when <| A-Legal |> was -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Our <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Library |> cards -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Russell |> Lands -- [ADELIA M RUSSELL LIBRARY]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: attracted <| Aldersly |> ’ -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: Useful <| City |> Maps -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Veterinary |> medicine -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Custom |> Pool -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Tyndall <| Street |>  -- [4500 BISSONNET ST]  {alertlogic.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ’ <| s |> avocational -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Wide <| Travel |> closed -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: few <| veterinary |> hospitals -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Guest |> Rooms -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: about <| Alderson |> , -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Tooling <| Aluminum |> Weldural -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: in <| Alderson |> ' -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: EarMarked <| Travel |> Advisory -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: was <| Alexandra |> Inn -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Design |> Within -- [ALEXANDER ISLEY DESIGN]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Aleut |> region -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Commercial <| Moving |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Security |> Equipment -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Optometric <| Vision Therapy |> : -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: founded <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Cremation <| Service |>  -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexander |> ’ -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: `` <| Alexander |> founded -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: CART <| Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY:  <| San |> Mateo -- [SAN FRANCISCO]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS:  <| Street |> Address -- [1111 14TH ST NW # 400]  {aldersonreporting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleut |> Industrial -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: * <| Aluminum |> Association -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldrich |> Staff -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+COMPANY: make <| Alexandria |> field -- [ALEXANDRIA FIELD INC]  {alexandriafield.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleph |> Holland -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Alexandra <| Hyundai |> phone -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexandra |> Inn -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: DC <| Hyundai |>  -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CITY: window <| San |> Mateo -- [SAN FRANCISCO]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| A-Legal |> has -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landmark Florist |> proudly -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Landscape |> Architect -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CITY: ’ <| s |> creatures -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 90s <| Aldersly |> expanded -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Senior <| Travel |> Consultant -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Security |> Systems -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: of <| St. |> Benedict -- [1111 14TH ST NW # 400]  {aldersonreporting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Nippon <| Aleph |> , -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Best <| Vet |> for -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+ADDRESS: Irvine <| Avenue # |> 484Newport -- [177 RIVERSIDE AVE # 922]  {alexanderpublications.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ' <| s |> webinars -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |> Lease -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+CONTACT: , <| Don |> McLennan -- [DON MC LENNAN]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldersly |> today -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Creighton <| University |> in -- [4700 N UNIVERSITY ST # 27]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Dodge |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Ste <| A |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Christmas <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Aldridge |> offers -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: High <| Drive |> Zero-Threshold -- [415 TASMAN DR]  {aldinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: – <| Alerion |>  -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: Marsten <| Road |> in -- [229 HARBOR RD]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Give <| Us |> A -- [6764 US HIGHWAY 431]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: W. <| Alexander |> , -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: New <| Ford |> dealership -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: particular <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldila |> Club -- [ALDILA INC]  {aldila.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: new <| Hyundai |> in -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alderson |> is -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Catering |> 703.578.2953 -- [ALEXANDRIA CATERING]  {alexandriapastry.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: , <| Mauro |> and -- [MAURO OLIVIERI]  {aldos-cruz.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: - <| Alen Security |>  -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 9
+
+COMPANY: called <| Alexandra |> Inn -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: On <| Custom |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Capital |> and -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: or <| Dodge |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| veterinary |> acupuncture -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Landmark Florist |> ? -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: the <| Olivieri |> family -- [MAURO OLIVIERI]  {aldos-cruz.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: DC <| Hyundai |> Shoppers -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: s <| Chocolates |> are -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| Airport |> Information -- [63 AIRPORT RD]  {alexandriafield.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: trust <| Landmark Florist |> to -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Driver <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Animal <| Hospital |> - -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Vision Therapy |>  -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY:  <| Contract |> Services -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: , <| Landscape |> Architects -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: ABOUT <| ALUMINUM |> * -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> positive -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| A-Legal |> , -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| Alexander |> ® -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Aleph |> America -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: and <| Travel |> Industry -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: distinguishing <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: About <| Aldersly |>  -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alexander / Ryan |> repairs -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: , <| Alderson |> offers -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS:  <| 2587 NW Pine creek ave. |> Arcadia -- [2587 NW PINE CREEK AVE]  {alertplumbing.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| A-Legal |> Videos -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: Mr. <| Unruh |> was -- [JAMES UNRUH]  {alerion.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+CONTACT:  <| Alessi |> Keyes -- [JIM ALESSI]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Benjamin <| Russell |> High -- [ADELIA M RUSSELL LIBRARY]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Class <| Marine Safety |> Products -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Hyundai |> Elantra -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Ford |> Model -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Sports <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+ADDRESS: Arden <| Rd |> . -- [4000 RUFFIN RD # C]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: area <| Hyundai |> shoppers -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: 1302 <| 19th Street |> , -- [1210 19TH ST]  {alderson.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: of <| Hyundai |> Models -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: ' <| s |> resources -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> life -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Household <| Moving |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Aldo |> ’ -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: founding <| Alerion |> , -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Drew <| Marine |> acquired -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Aleph |> Magnetic -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: | <| Alessi |> Keys -- [JIM ALESSI]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CONTACT: with <| Mauro |> just -- [MAURO OLIVIERI]  {aldos-cruz.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| A-Legal |>  -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| ALENCO |> is -- [ALENCO TOOL SUPPLY CO]  {alencotool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Design |>  -- [ALEXANDER ISLEY DESIGN]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: that <| Aldersly |> ’ -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Professional <| Plumbing |> Contractor -- [ALERT PLUMBING SVC]  {alertplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| Redding |> , -- [WEST REDDING]  {alexanderisley.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Funeral |> Home -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: on <| Landmark Florist |> the -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Taylor <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alderson |> has -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CITY: windows <| San |> Mateo -- [SAN FRANCISCO]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Impeccable <| Travel |> Planning -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Aldo |> Barone -- [ALDO 'S PIZZERIA]  {aldospizza.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Washington <| Hyundai |> , -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Court <| Reporting |> and -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Veterinary |> Vaccinations -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| ALENCO |> has -- [ALENCO TOOL SUPPLY CO]  {alencotool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 1120 <| 19th Street |>  -- [1210 19TH ST]  {alderson.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: Jeff <| Alexander |>  -- [ALEXANDER CO]  {alexanderco.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: / <| Taylor |> Insurance -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 22
+
+COMPANY:  <| Russell |> Medical -- [ADELIA M RUSSELL LIBRARY]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleut |> Real -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: , <| Hyundai |> service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Accident <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: s <| Books |> : -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: All <| Dodge |> Vehicles -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: emergency <| veterinary |> services -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Semiconductors <| Drive |> Energy -- [415 TASMAN DR]  {aldinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: and <| Chrysler |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: pre-owned <| Hyundai |> models -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: a <| veterinary |> cardiologist -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Exhibit |>  -- [ALEXANDER EXHIBIT]  {alexanderexhibit.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Dodge |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Vision |>  -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CITY: repair <| San |> Mateo -- [SAN FRANCISCO]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT:  <| Don |> ' -- [DON MC LENNAN]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: an <| Alderson |> Online -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alegre , Trucking |> , -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: and <| Therapy |> Lecture -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldridge |> has -- [ALDRIDGE GRINDING MACHINE CO]  {aldridgegrinders.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexanders |> provides -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: South <| Veterinary |> Center -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+ADDRESS: Soquel <| Ave. |> â -- [97 5TH AVE]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY:  <| Our |> veteran -- [OUR REDEEMER EPISCOPAL CHURCH]  {aldiechurch.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alesis |>  -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: About <| Vision |> | -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alexander |> Industries -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: CNC <| Grinding |> Machines -- [ALDRIDGE GRINDING MACHINE CO]  {aldridgegrinders.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| 30 Queen ' s |> Road -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ' <| s |> Letters -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 9708 <| N. Nevada St |> . -- [14212 N MARKET ST]  {alderwoodlandscaping.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Taylor <| Insurance |> Agency -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 50
+
+ADDRESS:  <| Washington |> County -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: At <| Aldersly |> , -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Plumbing |> in -- [ALECK PLUMBING CO]  {aleckplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALENCO |> is -- [ALENCO TOOL SUPPLY CO]  {alencotool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Portola <| Avenue |> followed -- [616 ATLANTIC AVE]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: used <| Hyundai |> in -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Veterinary |> Diagnostics -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Hyundai |> Tires -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS:  <| Vernon Avenue |> to -- [1707 MOUNT VERNON AVE]  {alexandriahyundai.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: Aldo <| Barone |>  -- [TAMMY BARONE]  {aldospizza.net} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Soft <| Service |> Solutions -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Ford |> , -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: Joseph <| Barnhart |> , -- [JOE BARNHART]  {aldousfuneralhome.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Brooke <| Taylor |>  -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alegria |> Cocina -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: The <| Aleut |> Family -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Keyes <| Construction |>  -- [ALESSI-KEYES CONSTRUCTION]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: an <| Insurance |> ID -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: of <| Travel |> and -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Homes |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alen Security |> over -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CITY: ’ <| s |> syndrome -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aluminum |> is -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Bill <| Fritsche |> , -- [WILLIAM FRITSCHE]  {alexandriafield.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Electricians <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+CITY: ' <| s |> Pet -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Our |> internet -- [OUR REDEEMER EPISCOPAL CHURCH]  {aldiechurch.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Owners <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Alexander |> ’ -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: at <| Alexander |> will -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Dodge Dart , Chrysler |> 300 -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CITY:  <| Long |> Island -- [LONG BEACH]  {alegriacocinalatina.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| TENT |> SIZE -- [ALEXANDER TENT CO INC]  {alexandertent.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldetec |> - -- [ALDETEC INC]  {aldetec.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Business <| Insurance |> | -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: latest <| Hyundai |> cars -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: having <| Alessi |> Keyes -- [JIM ALESSI]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: to <| Alderson |> Auto -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: contacting <| Alesis |> technical -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Top <| Vet |> `` -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Auto <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Arlington <| Hyundai |> Service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: pre-owned <| Hyundai |>  -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| ALEUT |> ENTERPRISE -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldersly |> has -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: College <| Travel |> / -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alerion |> is -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Joel <| Taylor |>  -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aleph |> Global -- [ALEPH INC]  {alephcomputer.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: to <| Aldridge |> Client -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: ’ <| s |> become -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleph |> Magnetic -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Avoid <| Locksmith |> Scams -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Arlington <| Hyundai |> Enthusiasts -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: rejoined <| Alderson |> in -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Earthquake <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY: 2013 <| Alexander |> ' -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: hired <| Alderwood |> Landscape -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: 100 <| Books |> : -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Let <| Landmark Florist |> be -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CITY: ' <| s |> Talking -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS: Mill <| St |> . -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Jim <| Bodei |>  -- [JAMES BODEI]  {alertlocksmiths.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Aldersly |> is -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: RV <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+COMPANY:  <| Aleph |> Intrusion -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Security |> systems -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Advanced Linear |> Device -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 7
+
+COMPANY:  <| Library |> Catalog -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: joining <| Alerion |> , -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| ALEUT |> FIELD -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Auto <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 27
+
+CITY: MARCH <| CITY |> COUNCIL -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY:  <| Lake |> Tapps -- [BONNEY LAKE]  {alexanderexhibit.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Aldinger |> is -- [ALDINGER CO]  {aldingercompany.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Elm <| Street |> , -- [1412 MAIN ST # 800]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: , <| San |> Mateo -- [SAN FRANCISCO]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 18
+
+CITY: 484Newport <| Beach |> , -- [NEWPORT BEACH]  {alexanderpublications.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Hospital |> Information -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contractual <| Risk |> Transfer -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Aletheas <| Chocolates |> | -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: speed <| drive |> systems -- [360 MCLEAN DR]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| LOCKSMITH |> SERVICES -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Moving |> changes -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: repair <| San |> Bruno -- [SAN FRANCISCO]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Paul <| Fritsche |> on -- [WILLIAM FRITSCHE]  {alexandriafield.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Milt <| Hill |> , -- [DONNIE HILL]  {alexanders.net} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alegria |>  -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> food -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleph |>  -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Main <| Street |> , -- [900 3RD ST]  {aldrichguesthouse.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| Aldridge |> Team -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CITY: ' <| s |> Degree -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Aluminum |>  -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+ADDRESS: Contact <| Us |>  -- [6764 US HIGHWAY 431]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: - <| Alexandria , VA Florist |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Aleut |> Management -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: : <| A-Legal |>  -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+CONTACT:  <| John |> , -- [JOHN ALEXANDER]  {alexanderco.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Realtime <| Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: theAlexander <| Homestead |> Log -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Aldrich <| Taylor |> Private -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Alegria |> Cocina -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldersly |> ’ -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Alderson |> Legacy -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Ford |> Dealer -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: joined <| Alderson |> ’ -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: Dulles <| South |> Veterinary -- [SOUTH RIDING]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 12
+
+COMPANY: At <| Aldridge |> IT -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Marsten <| Road |> , -- [229 HARBOR RD]  {alexanderco.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| Library |> Card -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Security |> Video -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Aleph |> USA -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> a -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Vitus <| Vet |>  -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Aldridge |> , -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Mauro |> , -- [MAURO OLIVIERI]  {aldos-cruz.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Arlington <| Hyundai |> Source -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alexander |>  -- [ALEXANDER EXHIBIT]  {alexanderexhibit.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Our <| Hyundai |> dealer -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Sterling |>  -- [ALEXANDER & STERLING]  {alexanderandsterling.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| Street |> Striping -- [318 CHURCH ST]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldo |> still -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| Chocolates |>  -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: `` <| Tent |> Only -- [ALEXANDER TENT CO INC]  {alexandertent.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hospital |> Info -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Animal <| Hospital |>  -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Advanced |>  -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Valuables <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: s <| Travel |> Agency -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| Chocolates |> . -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| ALEUT |> MANAGEMENT -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: We <| Put |> You -- [RONALD PUT]  {aldon.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Park <| Avenue |> exit. -- [97 5TH AVE]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |> sets -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Parts <| Center |>  -- [ALEXANDER AUTO CTR INC]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: About <| Landmark Florist |> - -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Landmark Florist |> on -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: purchased <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Main <| Street |>  -- [318 CHURCH ST]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Dodge |> and -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: to <| Alexander / Ryan |> every -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT:  <| Alessi |> Keys -- [JIM ALESSI]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Certified <| Travel |> Consultant -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |> Auto -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 31
+
+COMPANY: to <| Alderson |> Online -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Field <| Airport |> | -- [63 AIRPORT RD]  {alexandriafield.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Soquel <| Ave. |> and -- [97 5TH AVE]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alexander |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alderwood |> transformed -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALEPH |> PF -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| City |> Holiday -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: to <| # |> 7370 -- [700 BROADWAY # 1]  {aldo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldetec |> also -- [ALDETEC INC]  {aldetec.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Our <| Hyundai |> dealership -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Security |> System -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: JEFF <| UNRUH |> – -- [JAMES UNRUH]  {alerion.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Support <| Company |> - -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Russell |> Field -- [ADELIA M RUSSELL LIBRARY]  {alexandercityonline.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ’ <| s |> professional -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Field <| Airport |>  -- [63 AIRPORT RD]  {alexandriafield.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Alexander |> offers -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: joined <| Alderson |> in -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Artisan <| Rugs |> in -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Vision |> Development -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Chrysler <| Dodge |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: 420 <| Lincoln |> Highway -- [418 LINCOLN HWY]  {aldospizza.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alegria |> Cocina -- [ALEGRIA CAFE & TAPAS BAR]  {alegriacocinalatina.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alderson |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+COMPANY: Motorcycle <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Al <| Alexander |> in -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Risk |> Control -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: a <| Hyundai |> in -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Mr. <| Unruh |> ’ -- [JAMES UNRUH]  {alerion.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Veterinary |> Medical -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Animal <| Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: New <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Aluminum |> Association -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Illustrated <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: THE <| A-LEGAL |> PRINCIPLE -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Order <| Office |> Supplies -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: your <| Hyundai |> serviced -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: s <| Rugs |> in -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Mr. <| Unruh |> has -- [JAMES UNRUH]  {alerion.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: , <| Landmark Florist |> Phone -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Branch <| Library |>  -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+CONTACT: Janice <| Ierulli |>  -- [JAN IERULLI]  {alexander-travel.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: `` <| Insurance |> Book -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Plumbing |> License -- [ALECK PLUMBING CO]  {aleckplumbing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Insurance |> Quotes -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: At <| Alderson |> , -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: s <| Books |> , -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CITY: Dulles <| South |> Animal -- [SOUTH RIDING]  {aldievet.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Entire <| Travel |> Experience -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Flood <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alegre Trucking |> is -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CITY: ' <| s |> Open -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |> strives -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: The <| Alexander |> ' -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Landmark Florist |> in -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Aluminum |> can -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alderson |> , -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: at <| Alexander |> travel -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landscape |> Architect -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Locksmith |>  -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: , <| Landscape |> Contractor -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Used <| Chrysler |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: West <| Capital |> Network -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alerion |> . -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| veterinary |> excellence -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| Rugs |> on -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Health <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: At <| Alexander |> you -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: G. <| Wolf |> ( -- [JOHN WOLF]  {alexanderwolf.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alexander |> Event -- [ALEXANDER TENT CO INC]  {alexandertent.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| San |> Rafael -- [SAN FRANCISCO]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: helping <| Aldersly |> weather -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALENCO |> offers -- [ALENCO TOOL SUPPLY CO]  {alencotool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aluminum |> plate -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Hyundai |> Showroom -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: 2015 <| Ford |> F-150 -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: can <| Taylor |> a -- [DARRELL TAYLOR]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| ALDERMAN FORD |>  -- [JERRY ALDERMAN FORD INC]  {aldermanford.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+ADDRESS: About <| Us |>  -- [US 181 BUSINESS S]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: & <| S |> ? -- [2000 S DAIRY ASHFORD ST]  {alexanderandsterling.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Certified <| Travel |> Counselor -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: cutting-edge <| veterinary |> services -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Alerion |> ’ -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| ALDRIDGE |> | -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 14
+
+COMPANY:  <| SECURITY |> SYSTEMS -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alesis |> is -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: [ <| Alexander |> ' -- [ALEXANDER CO]  {alexanderco.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: ’ <| s |> previously -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ' <| s |> health -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: an <| Alexander |> representative -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Manufacturers <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+ADDRESS: - <| 6 |>  -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Rare <| Books |> Online -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: with <| Aldersly |>  -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Agriculture <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: The <| Alerion |> team -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: is <| Alexandra |> and -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| University |> of -- [4700 N UNIVERSITY ST # 27]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Oriental <| Rugs |> , -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Business <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 25
+
+COMPANY:  <| Alderson |> History -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: At <| Aldridge |> , -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Store <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: & <| Catering |> Company -- [ALEXANDRIA CATERING]  {alexandriapastry.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Business <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: the <| Hyundai |> Board -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: the <| Alderson |> website -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: 2016 <| Aldridge |> . -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: Wide <| Travel |> in -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Dye <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: Arlington <| Hyundai |> fan -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Auto |> Unlocking -- [ALEMAN AUTO RENTAL INC]  {aleman.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: your <| Hyundai |> vehicle -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Landmark Florist |> - -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CITY: ’ <| s |> healthcare -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alexander |> will -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alen Security |> : -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+ADDRESS: ' <| s |> unique -- [6343 S KINGS HWY]  {alexandriasurveys.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> New -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: an <| Alexander |> Representative -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Aletheas <| Chocolates |>  -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| A-Legal |> . -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Aldersly |> ’ -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: , <| Alegre |> offers -- [TONY ALEGRE]  {alegretrucking.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: about <| Alderson |> or -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: on <| Aleph |> products -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| 6 |> : -- [6 WASHINGTON ST]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 28
+
+COMPANY: / <| Aleut |> Field -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Landscape |> Plans -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: , <| Aldie |> VA -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 21
+
+COMPANY: THE <| ALEXANDER |> FAMILY -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: recommend <| Alexander |> and -- [ALEXANDER CO]  {alexanderco.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ’ <| s |> leading -- [30 S QUAKER LN]  {alexanderstreet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Court <| Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Michael <| Alexander |> Cernik -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: M. <| Hill |> Quality -- [DONNIE HILL]  {alexanders.net} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Margaret <| Alderman Ford |> . -- [JERRY ALDERMAN FORD INC]  {aldermanford.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CITY:  <| City |> Links -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: from <| Landmark Florist |> . -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Watercraft <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: Taylor <| Insurance |> has -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: VT <| Library |> Databases -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Omission <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Aluminum |> ’ -- [BARMET ALUMINUM CORP]  {aleris.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Travel |> Certification -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: on <| Tasman |>  -- [415 TASMAN DR]  {aldinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: “ <| Vision |> experience -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Keyes <| Construction |> ! -- [ALESSI-KEYES CONSTRUCTION]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: enjoy <| Aldo |> ’ -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| City |> of -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: our <| Alesis |>  -- [ALESIS STUDIO ELECTRONICS]  {alesis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Buying <| Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT:  <| Alegre |> Truckingâ -- [TONY ALEGRE]  {alegretrucking.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Quality <| Moving |> & -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: A <| Ford |> Dealership -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: in <| Veterinary |> Medicine -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Photographers <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: With <| veterinary |> medicine -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: behind <| A-Legal |> ’ -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Landmark Florist |> , -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: new <| Ford |> F-150 -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Moving |> , -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleph |> Japan -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Albertville <| Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Gary <| Alexander |>  -- [ALEXANDER ELECTRIC]  {alexanderelectric.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alerion |>  -- [ALERION CAPITAL GROUP LLC]  {alerion.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: new <| Dodge |> , -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleph |> has -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Aldridge |> , -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Alexander |> Julian -- [ALEXANDER ISLEY]  {alexanderisley.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY: Medical <| Center |> ' -- [ALEPH CENTER]  {alephcenter.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Contractors <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: the <| Alexander |> Family -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALEUT |> INDUSTRIAL -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: States <| Marine Safety |> Association -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: now <| Alexander |> ’ -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Home <| Moving |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+COMPANY: Museum <| Moving |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: , <| Aldinger |> is -- [ALDINGER CO]  {aldingercompany.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Center |>  -- [ALEXANDER AUTO CTR INC]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: for <| Alethea |> ’ -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: off <| Tanque Verde |> behind -- [6408 E TANQUE VERDE RD]  {alephcenter.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: & <| S |> is -- [2000 S DAIRY ASHFORD ST]  {alexanderandsterling.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landscape |> Contractor -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Free <| Moving |> Quote -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: With <| A-Legal |> ' -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Medical <| Center |> where -- [ALEPH CENTER]  {alephcenter.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: - <| ALDRIDGE |> - -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: from <| Aldridge |> can -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Landscape |> Contractors -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: with <| Aldridge |> and -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Why <| Alderson |>  -- [ALDERSON REPORTING]  {aldersonreporting.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+CITY: Alex <| City |> Schools -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: for <| Drive |> , -- [360 MCLEAN DR]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: the <| Lewis |> family -- [KARL LEWIS]  {alertplumbing.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Referral <| Hospital |>  -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Dark <| Chocolates |> , -- [ALETHEA 'S CHOCOLATES]  {aletheas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Locksmiths |> | -- [ALERT LOCKSMITHS]  {alertlocksmiths.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Aldersly |>  -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Harbor <| Restaurant |> | -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: s <| Veterinary |> Services -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aldo |> ' -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: of <| Alexander |> ’ -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alderwood |> ? -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: ' <| s |> recovery -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alderson |> Specials -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: , <| Alderson |> Auto -- [ALDERSON SUBARU]  {alderson.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: Service <| Center |>  -- [ALEXANDER AUTO CTR INC]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Life <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Why <| A-Legal |> ? -- [A-LEGAL COPY SVC]  {alegal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| ALEPH |> RB -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: 2000 <| Frank |> and -- [FRANK C ALEGRE JR]  {alegretrucking.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Judaica |> , -- [ALEF JUDAICA]  {alefjudaica.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: About <| Alexander |> ' -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Alexandra |>  -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+ADDRESS: Speed <| Drive |> and -- [360 MCLEAN DR]  {alexanderandassoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Chrysler |> Dodge -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Main <| Library |> Floor -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS: , <| North |> Clarendon -- [25 N MAIN ST]  {aldousfuneralhome.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: House <| Restaurant |> where -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Aldridge |> . -- [ALDRIDGE CO]  {aldridge.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: The <| Road |>  -- [916 ORCHARD RD]  {alexandrainn.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: a <| Hyundai |> . -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: our <| Ford |> dealership -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: How <| Alexander |> ' -- [ALEXANDER CONTRACT SVC]  {alexander-co.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Catering |>  -- [ALEXANDRIA CATERING]  {alexandriapastry.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Brambleton <| Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 18
+
+COMPANY:  <| Aldo |> fished -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Fire |> Pump -- [FIRE MARSHAL]  {aldoi.gov} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: TO <| ALEN SECURITY |> ! -- [ALEN SECURITY LOCKSMITH CO]  {alensecurity.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: 2015 <| Aleph |> America -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Aleut |> Corporation -- [ALEUT CORP]  {aleutcorp.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+CITY: the <| City |> of -- [ALEXANDER CITY]  {alexandercityonline.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: JIM <| UNRUH |> – -- [JAMES UNRUH]  {alerion.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Contact <| Us |>  -- [US 181 BUSINESS S]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Home <| Insurance |> , -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Aleph |> : -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Aldetec |> has -- [ALDETEC INC]  {aldetec.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Liability <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY: 2005 <| Alexander |> and -- [ALEXANDER & STERLING]  {alexanderandsterling.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Griffin <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: Loudoun <| Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 18
+
+COMPANY: Texas <| Ford |> dealership -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Life <| Insurance |>  -- [ALDRICH/TAYLOR INSURANCE]  {aldrichtaylor.com} REASON:ONLY_ONE_WORD  Occurrence: 17
+
+COMPANY: at <| Alderwood |> was -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: All <| Aleph |> contacts -- [ALEPH INTERNATIONAL CORP]  {aleph-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Harbor <| Restaurant |>  -- [ALDO 'S RESTAURANT]  {aldos-cruz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: ' <| s |> vaccine -- [SOUTH RIDING]  {aldievet.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Keys <| Construction |>  -- [ALESSI-KEYES CONSTRUCTION]  {alessikeyes.com} REASON:ONLY_ONE_WORD  Occurrence: 6
+
+COMPANY:  <| Chrysler |>  -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: New <| Hyundai |> Elantra -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Federal <| Design |> Achievement -- [ALEXANDER ISLEY DESIGN]  {alexanderisley.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+

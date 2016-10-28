@@ -1,0 +1,326 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: when <| Alexander and Associates |> purchased -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: of <| Alexander and Associates |> includes -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: — <| Alegria ' s Brides |>  -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 2
+
+COMPANY: , <| Advanced Linear Devices , Inc. |> All -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}  Occurrence: 9
+
+COMPANY: and <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY:  <| Alexander ’ s Guesthouse |> is -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}  Occurrence: 1
+
+ADDRESS:  <| 2379 S. `` G `` Street |>  -- [2379 S G ST]  {alertolite.com}  Occurrence: 1
+
+COMPANY: and <| ALEGRIA ’ S BRIDES |> ! -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY: About <| Alexander Homes |> , -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}  Occurrence: 1
+
+COMPANY: cute <| Bed and Breakfast |> place -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com}  Occurrence: 1
+
+COMPANY: Flowers <| Alexandria VA - Landmark Florist |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}  Occurrence: 2
+
+COMPANY:  <| ALEGRIA ’ S BRIDES |> will -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY: | <| Alexander ' s Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}  Occurrence: 1
+
+ADDRESS:  <| 912 N. Hollywood Way Ste D |>  -- [912 N HOLLYWOOD WAY # D]  {aldrichtaylor.com}  Occurrence: 7
+
+COMPANY:  <| Alexander and Associates |> ( -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: Container <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+COMPANY:  <| Alexander Nicholson , Inc |> - -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}  Occurrence: 2
+
+COMPANY: in <| Alexandria VA , Landmark Florist |> in -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Travel , LTD |> was -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}  Occurrence: 1
+
+COMPANY:  <| Alegria ' s Brides |> world -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY: Trust <| Alexander Wolf and Company |>  -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY:  <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 33
+
+COMPANY: to <| Frank C. Alegre Trucking , Inc |> . -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}  Occurrence: 1
+
+COMPANY: The <| Alexander ™ All Suite Oceanfront |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com}  Occurrence: 4
+
+COMPANY:  <| Risk Management |> Consultant -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}  Occurrence: 1
+
+COMPANY: 2016 <| Alexander Nicholson , Inc |> . -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}  Occurrence: 5
+
+COMPANY:  <| Alexander Wolf and Company |>  -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY:  <| Risk Management |> Consulting -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}  Occurrence: 1
+
+CONTACT: by <| Helen & Marc Younger |> . -- [HELEN YOUNGER]  {alephbet.com}  Occurrence: 1
+
+COMPANY: , <| Alexander and Associates |> quickly -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Tent Rentals , Inc. |> is -- [ALEXANDER TENT CO INC]  {alexandertent.com}  Occurrence: 1
+
+COMPANY: in <| Alexandria , Landmark Florist |> offers -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}  Occurrence: 1
+
+COMPANY:  <| Alexander ’ s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY: Hyundai <| Alexandria VA , Hyundai |> Alexandria -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}  Occurrence: 2
+
+COMPANY: , <| Alexander Ryan Marine and Safety |> . -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 12
+
+COMPANY: Local <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+COMPANY: , <| Alexander and Associates |> has -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY:  <| Advanced Linear Devices , Inc. |> ( -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}  Occurrence: 1
+
+COMPANY:  <| Alderson Court Reporting |> ' -- [ALDERSON REPORTING]  {aldersonreporting.com}  Occurrence: 1
+
+COMPANY: About <| Aldo ' s Pizzeria |>  -- [ALDO 'S PIZZERIA]  {aldospizza.net}  Occurrence: 1
+
+COMPANY: service <| Alexander Wolf and Company |> provides -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY: HouseAldrich <| Guest House |> | -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}  Occurrence: 4
+
+COMPANY: Industrial <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+COMPANY: 2016 <| ALEXANDER METALS , INC |> . -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}  Occurrence: 3
+
+COMPANY:  <| Alegria ' s Brides |>  -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 6
+
+COMPANY:  <| Aldie Veterinary , Animal Hospital |> - -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}  Occurrence: 3
+
+COMPANY: to <| Alexander / Ryan Marine & Safety |> Company -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 2
+
+COMPANY:  <| Alegria ' s Brides |> — -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+CONTACT: and <| John Nicholson Stoner |> and -- [JOHN N STONER]  {alexandernicholson.com}  Occurrence: 1
+
+ADDRESS: 44 <| North Main Street |> 187 -- [25 N MAIN ST]  {aldousfuneralhome.com}  Occurrence: 1
+
+CONTACT: Expert <| John F. Ryan |> interviewed -- [JOHN RYAN]  {alexanderryan.com}  Occurrence: 1
+
+COMPANY:  <| Alderson Court Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com}  Occurrence: 1
+
+COMPANY: , <| Aldrich & Cox , Inc |>  -- [ALDRICH & COX INC]  {aldrichandcox.com}  Occurrence: 1
+
+COMPANY: | <| Alexander Nicholson , Inc |> - -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}  Occurrence: 8
+
+COMPANY: of <| Alexander and Associates |> . -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: - <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 6
+
+COMPANY:  <| Alexander / Ryan Marine and Safety |> is -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 2
+
+COMPANY:  <| Alexander ' s Guesthouse |>  -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}  Occurrence: 2
+
+COMPANY: , <| Alexander and Associates |> is -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: , <| Alegria ' s Brides |> carries -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+ADDRESS:  <| 6764 US Hwy 431 |>  -- [6764 US HIGHWAY 431]  {alexanderdodge.com}  Occurrence: 9
+
+COMPANY: 2014 <| Aldo ' s Pizzeria |> and -- [ALDO 'S PIZZERIA]  {aldospizza.net}  Occurrence: 3
+
+COMPANY: , <| Alexander and Bonin |>  -- [ALEXANDER & BONIN]  {alexanderandbonin.com}  Occurrence: 9
+
+COMPANY:  <| Alexander Systems Company |> can -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}  Occurrence: 1
+
+COMPANY:  <| Aldetec , Inc. |> is -- [ALDETEC INC]  {aldetec.com}  Occurrence: 1
+
+CONTACT: by <| Alec T. Estes |> , -- [ALEC ESTES]  {alexandermetalsinc.com}  Occurrence: 1
+
+COMPANY: Hyundai <| Alexandria , Hyundai |> near -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Wolf and Company |> have -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY: like <| ALEGRIA ’ S BRIDES |> are -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY:  <| Alderson Court Reporting |> provides -- [ALDERSON REPORTING]  {aldersonreporting.com}  Occurrence: 2
+
+COMPANY: created <| Alexander and Associates |> Development -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: , <| Alexander Metals , Inc. |> ﻿﻿﻿ -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}  Occurrence: 1
+
+COMPANY:  <| Advanced Linear Devices , Inc |>  -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}  Occurrence: 1
+
+COMPANY: , <| Risk Management |> Audits -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}  Occurrence: 1
+
+COMPANY: Interstate <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+CONTACT:  <| John F. Ryan |> , -- [JOHN RYAN]  {alexanderryan.com}  Occurrence: 2
+
+COMPANY: with <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY: Care <| Retirement Community |>  -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com}  Occurrence: 2
+
+COMPANY: s <| Moving & Storage |> in -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 1
+
+COMPANY: At <| Aldie Veterianry Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}  Occurrence: 1
+
+COMPANY:  <| Aldie Veterinary Animal Hospital |> Team -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}  Occurrence: 4
+
+ADDRESS:  <| 4818 Beauregard St Ste A |> Alexandria -- [4818 BEAUREGARD ST # A]  {alexandrialandmarkflorist.com}  Occurrence: 2
+
+ADDRESS: 444 <| N. Elston Ave. |> Chicago -- [4444 N ELSTON AVE]  {alencotool.com}  Occurrence: 2
+
+ADDRESS:  <| 3690 H King Street |>  -- [3690 KING ST # H]  {alexandriapastry.com}  Occurrence: 1
+
+COMPANY: Hyundai <| Alexandria , Arlington Hyundai |> , -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}  Occurrence: 2
+
+COMPANY: , <| Alexander von Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}  Occurrence: 2
+
+COMPANY: 2016 <| Aldila , Inc. |> All -- [ALDILA INC]  {aldila.com}  Occurrence: 1
+
+COMPANY: , <| ALEGRIA ’ S BRIDES |> can -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY: Container <| Moving & Portable Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+ADDRESS: on <| Tasman Drive |>  -- [415 TASMAN DR]  {aldinc.com}  Occurrence: 2
+
+ADDRESS:  <| 912 N Hollywood Way Ste D |>  -- [912 N HOLLYWOOD WAY # D]  {aldrichtaylor.com}  Occurrence: 1
+
+COMPANY: Contact <| Alexander ' s Mobility |>  -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY: HouseAldrich <| Guest House |>  -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}  Occurrence: 6
+
+COMPANY:  <| Alexander / Ryan Marine & Safety |> is -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 1
+
+COMPANY: , <| Landscape Architecture |> , -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}  Occurrence: 5
+
+COMPANY:  <| Alexander Ryan Marine and Safety |> | -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 12
+
+COMPANY: Trust <| ALEGRIA ’ S BRIDES |> to -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Ryan Marine and Safety |>  -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 2
+
+ADDRESS:  <| 3690 H King Street |> : -- [3690 KING ST # H]  {alexandriapastry.com}  Occurrence: 2
+
+COMPANY: Transferee <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+COMPANY:  <| Alexander / Ryan Marine & Safety |> Co -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 12
+
+COMPANY: Hyundai <| Alexandria , Hyundai |> Alexandria -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}  Occurrence: 4
+
+COMPANY:  <| Alexander Metals , Inc. |> a -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}  Occurrence: 1
+
+ADDRESS: 44 <| North Main Street |> Rutland -- [25 N MAIN ST]  {aldousfuneralhome.com}  Occurrence: 1
+
+COMPANY: acquired <| Alexander / Ryan Marine & Safety |> , -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 2
+
+ADDRESS: 187 <| North Main Street |>  -- [25 N MAIN ST]  {aldousfuneralhome.com}  Occurrence: 1
+
+COMPANY: - <| Alexander Ryan Marine and Safety |> | -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}  Occurrence: 4
+
+COMPANY:  <| Frank C. Alegre Trucking , Inc. |> is -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}  Occurrence: 5
+
+COMPANY: Distance <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 6
+
+COMPANY:  <| Aldo Ventures , Inc |> . -- [ALDO SHOES INC]  {aldo.com}  Occurrence: 3
+
+COMPANY: in <| Alexandria from Landmark Florist |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}  Occurrence: 1
+
+COMPANY: , <| Veterinary Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}  Occurrence: 11
+
+COMPANY: how <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY:  <| Alexander ’ s Country Inn |>  -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com}  Occurrence: 1
+
+COMPANY: At <| Frank C. Alegre Trucking , Inc. |> we -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}  Occurrence: 1
+
+COMPANY:  <| Aldo ' s Pizzeria |> and -- [ALDO 'S PIZZERIA]  {aldospizza.net}  Occurrence: 2
+
+COMPANY:  <| Alexander 's Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}  Occurrence: 1
+
+COMPANY: | <| Alexander 's Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}  Occurrence: 1
+
+COMPANY: the <| Alexander Wolf and Company |> team -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY: of <| Alexander Wolf and Company |> . -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY:  <| Alexander and Bonin |>  -- [ALEXANDER & BONIN]  {alexanderandbonin.com}  Occurrence: 12
+
+COMPANY: as <| Frank C. Alegre Trucking , Inc |> . -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}  Occurrence: 1
+
+CONTACT:  <| John D. Wolf |> , -- [JOHN WOLF]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY:  <| Aldo 's Harbor Restaurant |> | -- [ALDO 'S RESTAURANT]  {aldos-cruz.com}  Occurrence: 1
+
+COMPANY: to <| Aldrich & Cox , Inc. |> - -- [ALDRICH & COX INC]  {aldrichandcox.com}  Occurrence: 2
+
+COMPANY: , <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 2
+
+COMPANY: , <| Funeral Service |> , -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com}  Occurrence: 1
+
+COMPANY: of <| Alexander and Associates |> , -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: - <| Risk Management |> Consultants -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}  Occurrence: 2
+
+COMPANY:  <| Alexander Wolf and Company |> - -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY:  <| Alexander and Associates |> takes -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: by <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY:  <| Alexander Tent Rentals , Inc |> . -- [ALEXANDER TENT CO INC]  {alexandertent.com}  Occurrence: 4
+
+COMPANY:  <| Aldetec , Inc |> . -- [ALDETEC INC]  {aldetec.com}  Occurrence: 1
+
+COMPANY:  <| ALEGRIA ’ S BRIDES |> has -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY: The <| Alexander ® All Suite Oceanfront |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com}  Occurrence: 6
+
+ADDRESS:  <| 4818 Beauregard St Ste A |>  -- [4818 BEAUREGARD ST # A]  {alexandrialandmarkflorist.com}  Occurrence: 2
+
+COMPANY: ​ <| Alexander ’ s Guesthouse |> – -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}  Occurrence: 1
+
+COMPANY: About <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 2
+
+COMPANY: “ <| Alexander Wolf and Company |> has -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+CONTACT: by <| Helen & Marc Younger |> in -- [HELEN YOUNGER]  {alephbet.com}  Occurrence: 1
+
+COMPANY:  <| Decorative Rugs |> : -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com}  Occurrence: 1
+
+COMPANY:  <| Alderson Court Reporting |> has -- [ALDERSON REPORTING]  {aldersonreporting.com}  Occurrence: 1
+
+COMPANY: , <| Alexander and Associates |> had -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY:  <| Aldrich & Cox , Inc. |> is -- [ALDRICH & COX INC]  {aldrichandcox.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Metals , Inc. |> is -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}  Occurrence: 3
+
+CONTACT:  <| David L. Aldridge |>  -- [DAVID ALDRIDGE]  {aldridge.com}  Occurrence: 1
+
+COMPANY: Commercial <| Moving & Storage |> Services -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}  Occurrence: 1
+
+COMPANY:  <| Construction Materials |> Association -- [FTG CONSTRUCTION MATERIALS]  {alegretrucking.com}  Occurrence: 1
+
+CONTACT: Dr. <| Nancy Torgerson |> , -- [NANCY G TORGERSON]  {alderwoodvisiontherapy.com}  Occurrence: 2
+
+COMPANY: of <| Alderson Court Reporting |> drawing -- [ALDERSON REPORTING]  {aldersonreporting.com}  Occurrence: 1
+
+COMPANY:  <| Alexander ' s Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}  Occurrence: 2
+
+COMPANY:  <| Alexander and Bonin |> is -- [ALEXANDER & BONIN]  {alexanderandbonin.com}  Occurrence: 3
+
+COMPANY: to <| Alexander Wolf and Company |> an -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}  Occurrence: 1
+
+COMPANY: Call <| Alderson Court Reporting |> Today -- [ALDERSON REPORTING]  {aldersonreporting.com}  Occurrence: 1
+
+COMPANY: to <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}  Occurrence: 1
+
+COMPANY: | <| Alexander ' s Guesthouse |>  -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}  Occurrence: 2
+
+COMPANY:  <| Alexander Metals , Inc. |> : -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}  Occurrence: 9
+
+COMPANY: , <| Alexander and Associates |> began -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}  Occurrence: 1
+
+COMPANY: let <| ALEGRIA ’ S BRIDES |> show -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+
+COMPANY:  <| CUSTOM HOMES |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}  Occurrence: 3
+
+COMPANY: , <| ALEGRIA ’ S BRIDES |> has -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+

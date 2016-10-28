@@ -1,0 +1,1736 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+CONTACT: Joan <| Fultz |> and -- [BOB FULTZ]  {allamericangifts.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Dallas <| Pest |> Association -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Tennis |> has -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Buy <| Printing |> Locally -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: | <| All Action |> Corporate -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Al |> Hayat -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Coast <| Forest Products |> locations -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: more <| Kidney |> Facts -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CONTACT: Dr. <| Dicou |> enjoys -- [LESLIE DICOU]  {allaboutpetsprovo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: every <| All American |> custom -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: help <| Alabama |> ’ -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Ice Cream |>  -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: ALI'I <| ANTIQUES |>  -- [ALII ANTIQUES OF KAILUA]  {aliiantiques.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Christmas |> Displays -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: View <| All |> Services -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: West <| Africa |> Home -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: the <| American |> public -- [ALL AMERICAN GIFTS]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Business <| Products |> Guarauteed -- [ALL STAR PRODUCTS]  {all-star-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ’ <| s |> end -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Find <| Travel |> Agents -- [ALL-WAYS TRAVEL BUREAU INC]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| About |> Us -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: and <| Dogs |> : -- [ALL ABOUT DOGS]  {allaboutdogsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: quality <| Christmas |> decorations -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: quality <| Christmas |> lights -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-American <| Farms |> allows -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Auto <| Insurance |>  -- [ALL-CITY INSURANCE]  {all-cityinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| About |> Us -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ' <| s |> racket -- [3114 S MCCLINTOCK DR # 4]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: private <| Pilates |> session -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: for <| Align |> Offices -- [ALIGN TECHNOLOGY INC]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Color <| Printing |>  -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 38
+
+COMPANY:  <| Africa |> on -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: General <| Plumbing |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: an <| All-Coast |> supplier -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All American |> , -- [ALL AMERICAN SPORTING GOODS]  {allamericaninc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Virtual <| Book |> Signing -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alion |> provides -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Office |> Products -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Passenger <| Limo |> Bus -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Winning <| Pools |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: serving <| Alabama |> ’ -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Common <| Plumbing |> Mistakes -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Jeff <| Schumacher |> , -- [JIM SCHUMACHER]  {all-safe-pest.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Order <| Printing |>  -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 31
+
+CONTACT: Carl <| Borrelli |> founded -- [STEPHEN BORRELLI]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: All-Brite <| Electric , Inc. |> Is -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: Dr. <| Heller |> hails -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: VIKING <| CRUISES |> 20TH -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Inc |> . -- [ALIGN TECHNOLOGY INC]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| AlixPartners |>  -- [ALIXPARTNERS LLC]  {alixpartners.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: By <| Alkit |>  -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+ADDRESS: ' <| s |> # -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Right -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY:  <| Alien |> ’ -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2017 <| KTM |> 85 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| City |> : -- [OHIO CITY ORTHODAEDICS INC]  {allaboutmydoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> punctual -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alive |> Institute -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: , <| Hospice |> and -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Hunter <| Petcare |>  -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ABOUT <| US |>  -- [23123 US HIGHWAY 441]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Cruises |> to -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Abraham Lincoln |> , -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Appliance |> repairs -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> major -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Irish |> and -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: offer <| All-Coast |> customers -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| All-Mode |> works -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Africa |> , -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alive |> Grief -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: West <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Africa |> ' -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: | <| All Action |> Chicago -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: 2016 <| KTM |> 250 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+COMPANY: Health <| Insurance |>  -- [ALL-CITY INSURANCE]  {all-cityinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Custom <| Pools & Spas |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Wood <| Products |> Association -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 211-19 <| 26th |> avenue -- [21119 26TH AVE]  {aliciasjewelers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: of <| Chicago Ave |> . -- [357 W CHICAGO AVE]  {alincolnbookshop.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All Makes |> will -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| KTM |> Controls -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| ABOUT |> US -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| West |> Chicago -- [9536 W FOSTER AVE]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: | <| All-Safe |>  -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: American <| Pools |>  -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: with <| Adrienne |> Fitzmaurcie -- [ADRIENNE GUZE]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: with <| Alison |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+CONTACT: and <| Bob |> , -- [BOB FULTZ]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Organic <| Lavender |> Gardener -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: From <| Pets |> ’ -- [ALL ABOUT PETS]  {allaboutpetsprovo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: recommend <| Alison |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: with <| Dan |> ’ -- [DAN GURNEY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |>  -- [2334 S BROADWAY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Ed <| Parker |> , -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Limo |> O -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Christmas |> Displays -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| AlixPartners |> is -- [ALIXPARTNERS LLC]  {alixpartners.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Alabama |> Legislature -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Business |> Hours -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Ice |> cream -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2011 <| A List |> Worldwide -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: I <| ANTIQUES |>  -- [ALII ANTIQUES OF KAILUA]  {aliiantiques.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: National <| Pest |> Management -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: found <| Stephen |> to -- [STEPHEN BORRELLI]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| All American |> Pool -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| KTM |> Jerseys -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ' <| s |> , -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| KTM |> Guards -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| All |> dancers -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Rights -- [ALL ABOARD AMERICA]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All Makes |> reserves -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Dr. <| Heller |> is -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: right <| Dance |> Attitude -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: independent <| Pest |> Company -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Featured <| Lavender |> Product -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Ground <| Pools |>  -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Chief <| Technology |> Officer -- [ALLIANCE SCIENCE TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Mortgage |> Refinance -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Inside <| Africa |> ' -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: GE <| Africa |> . -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Mortgage |> Refinancing -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-American <| Farms |> is -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: resistance <| Pilates |> introduced -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: About <| Alita |>  -- [ALITA INDUSTRIES INC]  {alita.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Destination <| Alaska |> ! -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ' <| Africa |> Tired -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alien |> Professional -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 870 <| E. Research DR. |> Suite -- [888 E RESEARCH DR # 109]  {allamericangifts.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY:  <| All-Coast Interior Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> grandfather -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| About |> The -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Inc |> . -- [BMS INC]  {alinium.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ALL-AMERICAN <| COMIC |> SHOPS -- [ALL AMERICAN COMIC SHOP]  {allamericancomicshops.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: unique <| Irish |> gifts -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alita |> Pumps -- [ALITA INDUSTRIES INC]  {alita.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-Brite <| Electric |> is -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: - <| All |> rights -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY:  <| Irish |> wedding -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All-American |> has -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Irish |> unity -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| All |> Rights -- [ALL ABOARD AMERICA]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: hare <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: 2004-2016 <| All American |> , -- [ALL AMERICAN SPORTING GOODS]  {allamericaninc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: The <| All American |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Our <| Alaska |> travel -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> All -- [2334 S BROADWAY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Align |> Terms -- [ALIGN TECHNOLOGY INC]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Lavender |> Lifestyle -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: s <| Pest |> Control -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alive |> Teen -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: American <| Pools |> has -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Africa |> to -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All-Safe |> has -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| All-Mode |> ’ -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: New <| Haven |> Student -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: With <| All-Safe |> being -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| About |> Us -- [ALL ABOUT DOGS]  {allaboutdogsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+ADDRESS: ’ <| s |> important -- [2825 S WASHINGTON AVE # 153]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Heller |> also -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Mortgage |> Loans -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: View <| All |>  -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alion |> employees -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Mortgage Company |>  -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All Aboard |> Cruises.Com -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Travel |> Tips -- [ALL-WAYS TRAVEL BUREAU INC]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: for <| Africa |> 2016 -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: from <| Alion |> ’ -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> times -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| All-Coast |> Solid -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Align |> Corporate -- [ALIGN TECHNOLOGY INC]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: ) <| ALL-MODE |>  -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: GE <| Africa |> ( -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| A List |> Transportation -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: best <| Irish |> shopping -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| e. |> eac -- [533 E ELK AVE]  {all4jesus.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: our <| Irish |> toasting -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Texas <| Pest |> Association -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Howard <| Jones |> , -- [JANET JONES]  {alivehospice.org} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+CONTACT: , <| Lopez |> Family -- [JOHN LOPEZ]  {allabouticecream.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| All American |> has -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Syracuse <| University |> and -- [2012 UNIVERSITY BLVD]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| About |>  -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Commuter <| Limo |> & -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Dogs |> . -- [ALL ABOUT DOGS]  {allaboutdogsinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Insurance |> tailored -- [ALL-CAL INSURANCE]  {all-calinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ’ <| s |> uncle -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| Travel |> Expert -- [ALL-WAYS TRAVEL BUREAU INC]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ’ <| s |> daughter -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All-Mode |> designs -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Christmas |> decorations -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All About |> Bucks -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: contact <| All Makes |> immediately -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: To <| A List |> Worldwide -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: North <| Alabama |> / -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Full <| Lincoln |> Signature -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Grace |> OPC -- [GRACE ORTHODOX PRESBYTERIAN]  {all-of-grace.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-American |> Pool -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Contact <| Us |>  -- [23123 US HIGHWAY 441]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: day <| All American |> stands -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Lavender |> Honey -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: – <| Alion |> ’ -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Call <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: by <| Alkota |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: at <| 1496 West |>  -- [1496 W MAIN ST]  {alink.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: for <| Appliance |> Repairs -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alkit |> Pro -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: » <| Alion |> Awarded -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Irish |> Imports -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: at <| Grace |> OPC -- [GRACE ORTHODOX PRESBYTERIAN]  {all-of-grace.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| About |> Us -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: and <| Pam |> 16 -- [PAM SHEFFIELD-PONWI]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: sub-Saharan <| Africa |> will -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Alison |> McDaniel -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Fitzmaurice <| Pilates |>  -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Passenger <| Limo |> Party -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Life <| Insurance |>  -- [ALL-CITY INSURANCE]  {all-cityinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: in <| Al |> Maza -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| All |> the -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Dr. <| Heller |> resides -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> other -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| All American |> Difference -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: your <| All Aboard |> Cruise -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: - <| Alicia |> ' -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Lavender |> Soy -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> unique -- [441 S BEVERLY DR # 5]  {alistlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| 1750 Tysons |> Boulevard -- [1750 TYSONS BLVD # 1300]  {alionscience.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: LIST <| CRUISES |> 2016 -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 21
+
+CONTACT: by <| Jack |> L. -- [JACK WIGLEY]  {allaboardamerica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alki |> Church -- [ALKI CONGREGATIONAL UNITED CHR]  {alkiucc.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 1323 <| W. |> Henderson -- [40 W OLIVE AVE]  {allabouticecream.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Duke <| R |> ( -- [R J SAVAGE]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| TRAVEL |> SPECIALS -- [ALL-WAYS TRAVEL BUREAU INC]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Irish |> hats -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Landscape |> Installation -- [ALL PRO LANDSCAPE MANAGEMENT]  {all-prolandscape.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-Brite <| Electric |> in -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Lincoln Book |>  -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: 2016 <| KTM |> 1190 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: on <| Maui |> ) -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: your <| Irish |> Heritage -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All |> pieces -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| All |> Rights -- [ALL AMERICAN SPORTING GOODS]  {allamericaninc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| All |> rights -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: in <| Align |> products -- [ALIGN TECHNOLOGY INC]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: ; <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: 870 <| E. Research Dr. |> Suite -- [888 E RESEARCH DR # 109]  {allamericangifts.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All American |> Contact -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Lincoln |> Assassination -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ’ <| s |> needs -- [220 S 4TH ST]  {allabouthomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2015 <| KTM |> 65 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Tennis |>  -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: New <| KTM |> Street -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: by <| All Action |> Corporate -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Step <| Aboard |> an -- [ALL ABOARD AMERICA]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Pet <| Insurance |>  -- [ALL-CITY INSURANCE]  {all-cityinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Local <| Irish |> Events -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Complete <| All |> Fields -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> most -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Experience <| S. |> Dakota -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: VIEW <| ALL |> PROJECTS -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alison Andrews |> Specials -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: All-Brite <| Electric |> , -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Africa |> Partnership -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: | <| Alison Andrews |>  -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 10
+
+COMPANY: unique <| Alaska |> cruise -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> vision -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All KTM |> Products -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+CITY: New <| Haven |> Dwight -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alion |> ’ -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> make -- [15613 S 71ST CT]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| A List |> Worldwide -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Coast <| Forest Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 20
+
+COMPANY: 2016 <| ALKIT |> - -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: a <| True Value |>  -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All-Coast |> Log -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alison Andrews |> has -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: destination <| Alaska |> `` -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: one <| All About |> Buck -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All |> Makes -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: by <| Alison Andrews |> . -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: for <| Skin |> Ceuticals -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| KTM |> 350 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: Sell <| Printing |> ... -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: called <| Alkota |> and -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| KTM |> Accessories -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Alaska |> 99501 -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: AKL <| Maui |> - -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> award -- [3114 S MCCLINTOCK DR # 4]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Alignment |> Industry -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| KTM |> Helmets -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: the <| ALL ABOARD |> CRUISE -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All Makes |> wants -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS:  <| WASHINGTON |> ( -- [2825 S WASHINGTON AVE # 153]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: OFF <| Lavender |> Spritzer -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY:  <| Greenwich |>  -- [OLD GREENWICH]  {alisbergparker.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: TEN <| CRUISES |> ! -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Alabama |>  -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: All-American <| Farms |> truly -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alien |> Academy -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Limo |> in -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alison Andrews |> offers -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| All Aboard |> Cruise -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: GE <| Africa |> President -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Irish |> gifts -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: FREE <| ALL ABOARD |> CRUISE -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Dr. <| Heller |> was -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Africa |> / -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Alison Andrews |> Spa -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS:  <| SOUTH |> DAKOTA -- [2825 S WASHINGTON AVE # 153]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: FDA <| Lavender |> Fragrance -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-American <| Farms |> will -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alkota |> © -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Abraham Lincoln |> Autograph -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> wages -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Mortgage |> Saving -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| KTM |> Riding -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CITY:  <| Greenwich |> Pool -- [OLD GREENWICH]  {alisbergparker.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Children <| Dance |> Classes -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: See <| All |> News -- [ALL AMERICAN SEMICONDUCTOR]  {allamerican.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alicia |> ' -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: - <| Irish |> Imports -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alison Andrews |> is -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: 2016-2017 <| Dance |> Season -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: , <| Alison |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: at <| All |> about -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: American <| Pools |> does -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 40
+
+COMPANY:  <| All |> publishers -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alabama |> ’ -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Christmas |> Sculptures -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: All-American <| Farms |> are -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Africa |> , -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+CONTACT:  <| Alison |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+COMPANY: in <| Alaska |> worth -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: With <| All-Coast |> products -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 1323 <| W Henderson Ave |> . -- [40 W OLIVE AVE]  {allabouticecream.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: - <| All |> Rights -- [ALL ABOARD CRUISES]  {allaboardcruisestravel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| All |> of -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Corporate <| Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: All-Brite <| Electric , Inc |> . -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| All Makes |> Transcription -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: RFID <| Technology |> . -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: The <| Lavender |> Farm -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Chicago <| Limousine |> - -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Christmas |> Light -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Hunter <| PetCare |> was -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Ice Cream |> Wedding -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Dr. <| Heller |> completed -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: each <| All American |> staff -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT:  <| Dan |> came -- [DAN GURNEY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alabama |> Organ -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALL ABOARD |> CRUISE -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Our <| Limo |> and -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: 1st <| Ave |>  -- [2209 SPAR AVE]  {alisonsrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Lavender |> Products -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Alicia |> ’ -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2015 <| All Makes |> | -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS: Gulf <| South |> and -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alion |> ' -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All American |> Contracting -- [ALL AMERICAN CUSTOM REMODELING]  {allamericancontracting.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+CONTACT: Dr. <| Heller |> , -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: KTM <| Street |> Bikes -- [872 MAIN ST]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: about <| Adrienne |> Fitzmaurice -- [ADRIENNE GUZE]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: s <| True Value |> > -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: the <| Alien |> Academy -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Joseph <| Pilates |>  -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Nakd <| Al |> ` -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: live <| Irish |> music -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Ave. <| All |> major -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| SOUTH |> CAROLINA -- [2825 S WASHINGTON AVE # 153]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: - <| Irish |> & -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 27
+
+COMPANY:  <| Alien |> Services -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Tennis |> Industry -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: special <| Irish |> wedding -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALL-COAST |> SUPPLIERS -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Plumbing |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Irish |> Products -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Sub-Saharan <| Africa |> and -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: VIEW <| ALL |>  -- [ALL ABOARD AMERICA]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| About |>  -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: knows <| Alaska |> inside -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 824 <| W. |> Superior -- [357 W CHICAGO AVE]  {alincolnbookshop.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All |> Topics -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Tennis |> Balls -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: at <| Alison Andrews |> is -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Mortgage |> Calculators -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Africa |> , -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Lavender |> Gourmet -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> rights -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Development |> & -- [ALL AMERICAN DEVELOPMENT CO]  {allamericandev.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Hunter <| Petcare |> . -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: North <| Africa |> Home -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: GOES <| ALL |> INCLUSIVE -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Abraham Lincoln |> in -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: East <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Plumbing |> Service -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alion |> Awarded -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ’ <| s |> get -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Paramus <| Mortgage |> Loan -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Christmas |> Trees -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Kidney |> Facts -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: The <| Foundation |> provides -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Align-Rite |> makes -- [ALIGN-RITE TOOL CO]  {alignritetool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 211-19 <| 26th Ave |>  -- [21119 26TH AVE]  {aliciasjewelers.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Technology |> for -- [ALLIANCE SCIENCE TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: East <| Africa |> : -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: , <| Irish |> Wedding -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ’ <| s |> stressful -- [15613 S 71ST CT]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2015 <| KTM |> 1190 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Our <| Christmas |> displays -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| American |> aspect -- [ALL AMERICAN RACERS INC]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> you -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| All Aboard |> Cruise -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Corp. <| All |> Rights -- [ALL AMERICAN SEMICONDUCTOR]  {allamerican.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All Action |> Fleet -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: 2016 <| KTM |> 500 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| SKIN |> CARE -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alkota |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> License -- [220 S 4TH ST]  {allabouthomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 1st <| Avenue |>  -- [2209 SPAR AVE]  {alisonsrelo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: to <| Africa |> at -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: for <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Chicago <| Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Limo |> buses -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Maui |> AKL -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alion |> Cares -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY: Optical <| Alignment |>  -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: City <| Africa |> Tour -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alion |> ' -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| About |> Us -- [ALL ABOUT PETS]  {allaboutpetsprovo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Products |> : -- [ALL STAR PRODUCTS]  {all-star-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alabama |> has -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> items -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Machinery <| Alignment |> . -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Conversation <| Africa |> ) -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Jdeidet <| Al |> Fadel -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: by <| Alison |> ’ -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alita |> Compressor -- [ALITA INDUSTRIES INC]  {alita.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> idea -- [2334 S BROADWAY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Several <| Alion |> locations -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| About |> All -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Africa |> : -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 39
+
+COMPANY:  <| All |> of -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: L. <| Bond |> in -- [KENT BOND]  {all-coast.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: on <| Alignment |> issues -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: View <| All |> Promotions -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Alix |> ' -- [JOHN ALIX]  {alixs.com} REASON:ONLY_ONE_WORD  Occurrence: 11
+
+COMPANY: The <| Pilates |> Method -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: the <| Carson |> ' -- [JOHN CARSON]  {alink.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All American |> Services -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Nazariyyat <| Al |> Aql -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| All American |> is -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: SE4All <| Africa |> Hub -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Chicago <| Limousine |> Services -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Comics -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Wood <| Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Lavender |> Garden -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| All Brite |> team -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: - <| All American |> Contracting -- [ALL AMERICAN CUSTOM REMODELING]  {allamericancontracting.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: commercial <| Christmas |> decorations -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: of <| Waipoli |> road -- [1100 WAIPOLI RD]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Pest |> & -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: unique <| Irish |> engagement -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: real <| Alaska |> ; -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alion |> Senior -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: South <| Alabama |> / -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CONTACT:  <| Jack |> D -- [JACK WIGLEY]  {allaboardamerica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: a <| Golden Dream |> : -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: , <| Chalala |> says -- [ELIE CHALALA]  {aljadid.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| ALION |>  -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: from <| KTM |> , -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alive |> Institute -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| John |> Carty -- [JOHN OTJEN]  {alionscience.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Bob |> had -- [BOB FULTZ]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: HOSPITAL <| DELIVERY |>  -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: and <| Pam |> still -- [PAM SHEFFIELD-PONWI]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY:  <| Colorado |> Gardener -- [COLORADO SPRINGS]  {allamericangrounds.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: your <| Irish |> heritage -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Alkit |> provides -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT:  <| Alix |> 's -- [JOHN ALIX]  {alixs.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| Kidney |> Walks -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+CONTACT:  <| e |> will -- [A E KOHLER]  {alkar1.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Dan |> is -- [DAN GURNEY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> RMA -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Alaska |> & -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Hunter <| Petcare |> ! -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Thomas <| Gervais |> , -- [TOM GERVAIS]  {alkotaphi.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Lavender |> Lilikoi -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Your <| All Aboard |> cruise -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: for <| All Aboard |> Cruise -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Ridge <| Lane |> # -- [12285 LOCKSLEY LN]  {all-about-gutters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+CONTACT: William <| Page |> -- -- [BILL PAGE]  {allaboardcruisestravel.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alien |> Partners -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: of <| Jack |> D -- [JACK WIGLEY]  {allaboardamerica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Lavender |> Strawberry -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> event -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Abraham Lincoln |> , -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: the <| Alison Andrews |> team -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: line <| Irish |> gifts -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: FOR <| ALL |> OF -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: RIVER <| CRUISES |> TO -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-Mode |> now -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alison Andrews |> in -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: All-American <| Printing |> Services -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 94
+
+CONTACT: at <| Alison |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Kidney |> Disease -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: about <| Alison Andrews |> ' -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: into <| Align |> ’ -- [ALIGN TECHNOLOGY INC]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Dallas <| Pest |> Control -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Cal <| Insurance |> - -- [ALL-CAL INSURANCE]  {all-calinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Come <| Dance |> With -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Central <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: / <| All |> Models -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Systems -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Contact <| All-Safe |> . -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alive |> Grief -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All-Coast |> Coast -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Kidney |> disease -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| All |> our -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Alicia 's |>  -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Alion |> can -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: call <| All-American |> ! -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alkota |> came -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| All |> rights -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: European <| Cruises |>  -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> extensive -- [3114 S MCCLINTOCK DR # 4]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Pilates |> / -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: 1 <| KTM |> Dealership -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: of <| Olive |> and -- [40 W OLIVE AVE]  {allabouticecream.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Plumbing |> infrastructure -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Lavender |> Farm -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Organic <| Lavender |> Foaming -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Chalala |> , -- [ELIE CHALALA]  {aljadid.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Pools and Spas |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: Inc. <| All |> rights -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| Alki Congregational |> Church -- [ALKI CONGREGATIONAL UNITED CHR]  {alkiucc.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: CONTACT <| ALISON |> ’ -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Coast <| Forest Products |> is -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: our <| True Value |> Hardwarians -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> long -- [2334 S BROADWAY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: | <| Alison |> ’ -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: All-American <| Farms |> , -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| All-Coast Structural Framing Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: your <| City |> and -- [OHIO CITY ORTHODAEDICS INC]  {allaboutmydoc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Military <| Gifts |>  -- [ALL AMERICAN GIFTS]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> Top -- [3114 S MCCLINTOCK DR # 4]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alaska |> ' -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| United |> Church -- [ALKI CONGREGATIONAL UNITED CHR]  {alkiucc.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: * <| All |> registration -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Dance |> Teams -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Bus <| Limo |> Service -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: Ceuticals <| Skin |> Care -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: New <| Haven |> Parking -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: `` <| Hospice |> was -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Commercial <| Christmas |> Decorations -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: company <| Alaska |> Private -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Christmas |> lights -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alison Andrews |> Products -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> a -- [2825 S WASHINGTON AVE # 153]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ' <| Irish |> to -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALITA |> Linear -- [ALITA INDUSTRIES INC]  {alita.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| West |> Suburbs -- [9536 W FOSTER AVE]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: for <| Africa |> ( -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Airport <| Limousine Service |> , -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: 2015 <| KTM |> 690 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| All Makes |> - -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY: at <| All-Coast |> . -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2011 <| All |> Rights -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Digital <| Printing |>  -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 24
+
+CONTACT: original <| Alix |> ' -- [JOHN ALIX]  {alixs.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Lincoln |>  -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Fiberglass <| Christmas |> Sculptures -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Brands -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Printing |> & -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 32
+
+COMPANY: at <| Alkota |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2017 <| Alive |> At -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CONTACT: Dr. <| Dicou |>  -- [LESLIE DICOU]  {allaboutpetsprovo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALKIT |> | -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Let <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Gettysburg <| Lincoln |> Photograph -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-Coast |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Disaster <| Service |> Worker -- [SERVICE MASTER CO]  {allabouthomes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Box |> 805 -- [PO BOX 24DD2]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: hired <| Alison |> ’ -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: South <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY: of <| Printing |> Terms -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 30
+
+COMPANY: Hunter <| PetCare |>  -- [ALL ABOUT PETCARE]  {allaboutpetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Dr. <| Heller |> formed -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: At <| A List |> Worldwide -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: at <| 150 W. |> 24 -- [150 W 24TH ST]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| ALL |> BACK -- [ALL AMERICAN COMIC SHOP]  {allamericancomicshops.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: Yale <| West |> – -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Dr. <| Dicou |> does -- [LESLIE DICOU]  {allaboutpetsprovo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: - <| Appliance |> Repairs -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Central <| Alabama |>  -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: GE <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: Aql <| Al |> Arabi -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Yourx <| Skin |> Care -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Plumbing |> uses -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> satisfaction -- [441 S BEVERLY DR # 5]  {alistlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: of <| Lavender |> . -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: PROM <| LIMO |>  -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Alabama |> kidney -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: , <| KTM |> Parts -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: European <| Cruises |> is -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All American |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Ice Cream |> Cakes -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Commerical <| Christmas |> Trees -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Dicou |> loves -- [LESLIE DICOU]  {allaboutpetsprovo.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CITY: , <| West |> Point -- [WEST PALM BEACH]  {allacselfstorage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: FOR <| ALL |> ! -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: than <| All Makes |> . -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> iconic -- [2334 S BROADWAY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Interior <| Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: ’ <| s |> son -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-Coast |> ' -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: West <| Africa |> : -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: South <| Africa |> : -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 9
+
+COMPANY: the <| Alion |> team -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Organic <| Lavender |> Body -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+ADDRESS: 800 <| N |>  -- [2255 N FREEDOM BLVD]  {allaboutpetsprovo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| All |> Rights -- [ALL INDUSTRIAL ENGINE SVC]  {all-industrial.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Gulf <| South |> for -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Alive |>  -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+ADDRESS: Charcot <| Ave |>  -- [881 MARTIN AVE]  {aligntech.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Irish |> and -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: the <| American |> way -- [ALL AMERICAN GIFTS]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Skin |> Ceuticals -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Alion |>  -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS: ' <| s |>  -- [3114 S MCCLINTOCK DR # 4]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: practice <| All Makes |> has -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: About <| Alion |>  -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+ADDRESS: Cindy <| S |> . -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: From <| All |> The -- [ALL ABOARD AMERICA]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY:  <| Plumbing |> is -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: East <| Africa |> Home -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Southern <| Africa |> Home -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: your <| Irish |> wedding -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: true <| ALL |> AMERICANS -- [ALL AMERICAN GIFTS]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Custom <| Printing |>  -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 38
+
+COMPANY: 2016 <| KTM |> 50 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Ordering <| Printing |>  -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| True Value |> Company -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: Pre-School <| Dance |> . -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| Alison Andrews |> we -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: with <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: 2015 <| Alison Andrews |> | -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: Wedding <| Limo |> Services -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+CITY: New <| Haven |> Rec -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| True Value |> is -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alien |> has -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All-Cal |> , -- [ALL-CAL INSURANCE]  {all-calinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: - <| All Action |> Limo -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY: All-American <| Farms |> believes -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| US |> Produce -- [23123 US HIGHWAY 441]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alion |> ’ -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alion |> Code -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: explained <| John |> Carty -- [JOHN OTJEN]  {alionscience.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: East <| Africa |> , -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Two-Color <| Printing |>  -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: Neighborhood <| Printing |> Firm -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY: `` <| Alion |> ' -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| PRODUCTS |>  -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CONTACT:  <| Alison |> ’ -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 16
+
+COMPANY:  <| All-Safe |> believes -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Central <| Alabama |> . -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: that <| Alison |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY:  <| All |> of -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: of <| Alabama |> Department -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Rights -- [ALL AMERICAN GROUND]  {allamericangrounds.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: with <| Alion |>  -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Dicou |> was -- [LESLIE DICOU]  {allaboutpetsprovo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Custom <| Printing |> Quotes -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Dar <| Al |> Saqi -- [AL JADID MAGAZINE]  {aljadid.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Services |>  -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: , <| Chalala |> is -- [ELIE CHALALA]  {aljadid.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: All-American <| Farms |> Blue -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: '' <| Chalala |> said. -- [ELIE CHALALA]  {aljadid.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| Dan |> Gurney’s -- [DAN GURNEY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 1998-2015 <| Alkit |> of -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: AKL <| Maui |>  -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Search <| Cruises |>  -- [ALL ABOARD CRUISES]  {allaboardcruisestravel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 's <| True Value |> > -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| OFFICE |> HOURS -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Emergency <| Plumbing |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Adrienne |> Fitzmaurice -- [ADRIENNE GUZE]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Homeowner <| Insurance |>  -- [ALL-CITY INSURANCE]  {all-cityinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Explore <| Alaska |>  -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: the <| Schumacher |> family -- [JIM SCHUMACHER]  {all-safe-pest.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Alion |> turns -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Heller |> ’ -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: popular <| Irish |> and -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: In <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS:  <| West |> Dundee -- [9536 W FOSTER AVE]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Limo |> service -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Feeding <| Africa |> : -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS:  <| Washington |> DC -- [2825 S WASHINGTON AVE # 153]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: In-Ground <| Pools |>  -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| PLUMBING |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: South <| Africa |> ' -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Smart <| Tennis |> Sensor -- [ALL ABOUT TENNIS]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Gutter <| Helmet |> , -- [GUTLER HELMET OF CENTRAL CA]  {all-about-gutters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Alion |> ' -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Service <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Pest |> Control -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: in <| Africa. |> `` -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: for <| Africa |> ' -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| All |> pro-products -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: ” <| Jackson , III |>  -- [D W JACKSON III]  {alkidney.org} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Porterville <| Ice Cream |> Cakes -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All |> trucks -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Limo |> Bus -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Pilates |>  -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: s <| True Value |>  -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: popular <| Irish |> wedding -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: Paul <| Borrelli |>  -- [STEPHEN BORRELLI]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Pre-School <| Dance |> ( -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: for <| All |> ( -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Organic <| Lavender |> Spritzer -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Barrow <| Street |> , -- [413 G ST]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: in <| Alaska |> and -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All Brite |> Clients -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: California <| Landscape |> Contractors -- [ALL PRO LANDSCAPE MANAGEMENT]  {all-prolandscape.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ~ <| Insurance |> for -- [ALL-CAL INSURANCE]  {all-calinsurance.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Specialty <| Painting |> Contractor -- [ALL ABOUT PAINTING INC]  {allaboutpainting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: own <| Mortgage |> Broker -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Unique <| Irish |> Products -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: “ <| Alion |> has -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> business -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Why <| All Action |> Limo -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| KTM |> Shirts -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| KTM |> Racing -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Printing |> Is -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY:  <| Gifts |> Suggestions -- [ALL AMERICAN GIFTS]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| ALISON |> ' -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: WHY <| ALKOTA |> ? -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CONTACT: , <| George |> Washington -- [GEORGE SWITLYK]  {allacselfstorage.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Mortgage |> Calculator -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Countries -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| Irish |> Claddagh -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Alive |> Grief -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alabama |> ranks -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY:  <| About |>  -- [ALL ABOUT DANCE]  {allaboutdance-az.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Why <| Alive |>  -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+ADDRESS: ’ <| s |> leading -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: throughout <| Alaska |> . -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Exterior <| Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| AlixPartners |> | -- [ALIXPARTNERS LLC]  {alixpartners.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| All-Coast |> Genuine -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: that <| All Brite |> has -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: a <| Travel |> Agent -- [ALL-WAYS TRAVEL BUREAU INC]  {all-waystravelbureau.vacation.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| KTM |> Seats -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| All Action |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: i <| Antiques |> ! -- [ALII ANTIQUES OF KAILUA]  {aliiantiques.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: ' <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Cruises |>  -- [ALL ABOARD CRUISES]  {allaboardcruisestravel.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: | <| All |> Rights -- [ALL CITY]  {all-city.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Stephen |> @ -- [STEPHEN BORRELLI]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: All-Star <| Products |> , -- [ALL STAR PRODUCTS]  {all-star-usa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Common <| Pest |> Photos -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Best <| Antiques |> & -- [ALII ANTIQUES OF KAILUA]  {aliiantiques.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Office |> Automation -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: ) <| Africa |> Hub -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: ( <| KTM |> ) -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 43
+
+COMPANY: Southern <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Irish |> Wedding -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| KTM |> Apparel -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: with <| Alison |> back -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Skin |> Care -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+CONTACT:  <| Alison |> 's -- [ALISON BOTTORFF]  {alisonsrelo.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Buying <| Printing |> Online -- [ALL AMERICAN PRINTING SVC]  {allamericanprinting.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY:  <| Align-Rite |> Tools -- [ALIGN-RITE TOOL CO]  {alignritetool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: experienced <| Alison Andrews |> team -- [ALISON ANDREWS SKIN THERAPY]  {alisonandrews.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: North <| Africa |>  -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: | <| All American |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: ’ <| s |> great -- [15613 S 71ST CT]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-American <| Farms , Inc |> . -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Industries| <| AlixPartners |>  -- [ALIXPARTNERS LLC]  {alixpartners.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ’ <| s |> All -- [2334 S BROADWAY]  {allamericanracers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: for <| Hospice |> Memorial -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Kidney |> patients -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All-Brite <| Electric , Inc. |> provides -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: New <| KTM |> Dirt -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| ALL |> ARTICLES -- [ALL AMERICAN COMIC SHOP]  {allamericancomicshops.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Your <| Mortgage |> or -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| ALL |> AMERICANS -- [ALL AMERICAN GIFTS]  {allamericangifts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Services |>  -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Central <| Africa |> Home -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: Pure <| Lavender |> Sachet -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Africa |> by -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All-Coast Exterior Products |>  -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Organic <| Lavender |> Citrus -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: all <| KTM |> product -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: serves <| Kidney |> patients -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: the <| Alaska |> Travel -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Prom <| Limo Service | Chicago |> | -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: - <| Alicia 's |>  -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> collection -- [15613 S 71ST CT]  {alisonandrews.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: at <| Jackson |> Hospital -- [D W JACKSON III]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Lavender |> Essential -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alicia |> ’ -- [ALICIA 'S GOLDEN DREAM JEWELERS]  {aliciasjewelers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> James -- [3114 S MCCLINTOCK DR # 4]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-American |> food -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: North <| Africa |> : -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Middle <| Alabama |> / -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: , <| Technology |> Solutions -- [ALLIANCE SCIENCE TECHNOLOGY]  {alionscience.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| All American |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: About <| Us |>  -- [23123 US HIGHWAY 441]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: , <| Limousine Service |> Los -- [A LIST LIMOUSINE SVC]  {alistlimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CITY: New <| Haven |> Housing -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: 2016 <| KTM |> 1290 -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Limousine Service |> in -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 15
+
+COMPANY:  <| All American |>  -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Irish |> decorations -- [ALL THINGS IRISH]  {all-thingsirish.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: in <| Colorado |> with -- [COLORADO SPRINGS]  {allamericangrounds.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: in <| Alaska |> & -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: inform <| All Makes |> of -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> more -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: American <| Pools |> will -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Rights -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+CONTACT: , <| Pam |> and -- [PAM SHEFFIELD-PONWI]  {allabouttennis.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: New <| Haven |> Maxcy -- [WEST HAVEN]  {all-briteinc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: great <| Lavender |> product -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: benefits <| Pilates |> exercises -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Chicago <| Limousine Service |> includes -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+ADDRESS: ’ <| s |> always -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Why <| Alkota |> ? -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: for <| Africa |> Prioritizes -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: to <| Sherman Avenue |> . -- [315 E SHERMAN AVE]  {all-thingsirish.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY:  <| All |> Limousine -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Featured <| KTM |> Powerparts -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Coast <| Forest Products |> Company -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: in <| Maui |> , -- [MAUI KULA LAVENDER]  {aliikulalavender.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-Coast |> employees -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ’ <| s |> never -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Airport <| Limo |> Services -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY:  <| All-Mode |> ’ -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: The <| Schumacher |> family -- [JIM SCHUMACHER]  {all-safe-pest.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Alysia <| Jones |> , -- [JANET JONES]  {alivehospice.org} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Alabama |> Transportation -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Alkit |> ROES -- [ALKIT IMAGE EXPRESS]  {alkit.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY:  <| ICE CREAM |> MENU -- [ALL ABOUT ICE CREAM]  {allabouticecream.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: H. <| Pilates |> back -- [ALIGN PILATES]  {alignpilates.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Ed <| Parker |> lead -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| All-Safe |> ' -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Custom <| Pools and Spas |>  -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: by <| All Makes |> have -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All Brite |> Memberships -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT:  <| Kerri |> Bauer-Owner -- [KERRI BAUER]  {allaboutdance-az.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| All |> rights -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: last <| 15 |> years -- [15 COMMERCE WAY]  {alignmentservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Alkota |> AK -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: to <| All Makes |> . -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> Ak-Chin -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: for <| Alaska |> and -- [ALL ALASKA TOURS]  {allalaskatours.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Plumbing |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: All-American <| Farms |> has -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Africa |> - -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: for <| Alive |>  -- [ALIVE HOSPICE INC]  {alivehospice.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY:  <| Alkota |> ’ -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+

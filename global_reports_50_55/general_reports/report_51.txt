@@ -1,0 +1,32 @@
+Labelled 100 files.
+
+[COMPANY]  entity found  [990]  times.
+[CONTACT]  entity found  [62]  times.
+[STATE]  entity found  [514]  times.
+[CITY]  entity found  [932]  times.
+[ADDRESS]  entity found  [176]  times.
+[ZIP]  entity found  [172]  times.
+
+[COMPANY]  entity found at least once in [70] files. [ 70.00% ]
+[0] times the data was missing (Nan). [0.00%]
+
+[CONTACT]  entity found at least once in [15] files. [ 15.00% ]
+[6] times the data was missing (Nan). [6.00%]
+
+[STATE]  entity found at least once in [68] files. [ 68.00% ]
+[0] times the data was missing (Nan). [0.00%]
+
+[CITY]  entity found at least once in [70] files. [ 70.00% ]
+[0] times the data was missing (Nan). [0.00%]
+
+[ADDRESS]  entity found at least once in [48] files. [ 48.00% ]
+[1] times the data was missing (Nan). [1.00%]
+
+[ZIP]  entity found at least once in [50] files. [ 50.00% ]
+[0] times the data was missing (Nan). [0.00%]
+
+
+Number of failed searches due to 'Nan' in json: 7
+Number of useless documents: 11
+Number of targets: 705
+Number of skipped targets due to repetition: 63

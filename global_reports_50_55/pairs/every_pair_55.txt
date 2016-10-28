@@ -1,0 +1,2408 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+STATE: , <| NY |> . -- [NY]  {allcountycorp.com}    Occurrence: 6
+
+COMPANY: the <| All American Rentals |> email -- [ALL AMERICAN RENTALS INC]  {allamericanrentals.com}    Occurrence: 1
+
+STATE: in <| NH |> , -- [NH]  {allbrightsystems.com}    Occurrence: 1
+
+ZIP: CA <| 94010 |>  -- [94010 2306]  {allamericantransport.com}    Occurrence: 5
+
+STATE: , <| CA |> 92834 -- [CA]  {allcountyconstruction.com}    Occurrence: 21
+
+COMPANY:  <| All Shook Up |>  -- [ALL DRESSED UP]  {alldressedupcostumes.com}    Occurrence: 1
+
+COMPANY:  <| ALL COAST CONSTRUCTION |> is -- [ALL COAST CONSTRUCTION]  {allcoastconstruction.com}    Occurrence: 7
+
+COMPANY:  <| All Custom Aluminum |>  -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com}    Occurrence: 3
+
+COMPANY: to <| Allandale Farm |>  -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 1
+
+COMPANY:  <| Crane Rental |> All -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 1
+
+CITY: , <| Costa Mesa |> , -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 13
+
+COMPANY:  <| ALL Crane & Equipment Rental |> Corp -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+CITY:  <| New York |> City -- [NEW YORK]  {allcityny.com}    Occurrence: 2
+
+COMPANY: that <| All Covered |> engineers -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: by <| All Disaster |> Services -- [ALL DISASTER SVC]  {alldisasters.com}    Occurrence: 1
+
+CITY: | <| Lake Worth |> , -- [LAKE WORTH]  {allcounty.com}    Occurrence: 6
+
+COMPANY:  <| All Seasons Camera |> used -- [ALL SEASONS CAMERA]  {allcamera.com}    Occurrence: 2
+
+COMPANY:  <| All Creatures Animal Hospital |> is -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 4
+
+CITY: In <| Houston |> , -- [HOUSTON]  {allbritefloors.com}    Occurrence: 2
+
+CITY: and <| Waterloo |>  -- [WATERLOO]  {allamericanturf.com}    Occurrence: 1
+
+COMPANY: - <| Allblack Co. |> - -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 2
+
+COMPANY: , <| All Counties Courier |> , -- [ALL COUNTIES COURIER]  {allcountiescourier.com}    Occurrence: 4
+
+CITY:  <| Tallahassee |> Pergolas -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 1
+
+COMPANY: , <| Allan Industries , Inc. |> provides -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+STATE: Home <| ID |> , -- [ID]  {allanmarsh.com}    Occurrence: 8
+
+COMPANY:  <| All California Brokerage Inc |> . -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+STATE:  <| CA |> BRE -- [CA]  {allamericanrealestate.com}    Occurrence: 5
+
+COMPANY: services <| All Creatures Animal Hospital |> offers -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY: to <| All Covered |> , -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+ADDRESS:  <| Box 9894 |> San -- [PO BOX 9894]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY: , <| All Brite Floors |> , -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 2
+
+STATE: , <| IL |> 60510 -- [IL]  {alldressedupcostumes.com}    Occurrence: 1
+
+COMPANY:  <| All American Turf Beauty , Inc |> . -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 10
+
+CITY: the <| Allegany |> Rescue -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+CITY: Signs <| Tucson |> is -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+STATE: , <| AZ |> since -- [AZ]  {allegra-arizona.com}    Occurrence: 1
+
+CITY: , <| Oak Hills |> , -- [OAK HILLS]  {allamericanrealestate.com}    Occurrence: 1
+
+COMPANY: About <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 20
+
+ADDRESS:  <| 730 North York Rd |> . -- [730 N YORK RD]  {allchicagoland.com}    Occurrence: 1
+
+CITY: , <| W. Nyack |> , -- [WEST NYACK]  {allbrightelectric.com}    Occurrence: 6
+
+CITY: , <| Covington |> Buick -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+COMPANY: from <| Allan Industries , Inc |> . -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+CITY: | <| Boise |> Idaho -- [BOISE]  {allanmarsh.com}    Occurrence: 10
+
+COMPANY:  <| All Dressed Up |> Costumes -- [ALL DRESSED UP]  {alldressedupcostumes.com}    Occurrence: 5
+
+CITY: St. <| Baldwin Park |> , -- [BALDWIN PARK]  {allancompany.com}    Occurrence: 1
+
+COMPANY: About <| All Discount Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com}    Occurrence: 1
+
+CITY: , <| Ridgefield |> travel -- [RIDGEFIELD]  {alldestinations.com}    Occurrence: 1
+
+STATE: , <| VA |>  -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+CONTACT:  <| Bryan Spinks |> ­ -- [BRYAN SPINKS]  {alldade.com}    Occurrence: 1
+
+COMPANY:  <| All Brite Floors , Inc |>  -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 1
+
+COMPANY:  <| All American Turf Beauty |>  -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+COMPANY: of <| Allegiant Business Finance |> . -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+COMPANY: 2016 <| All American Turf Beauty |> , -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 5
+
+COMPANY: about <| All City Limo |> ? -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+STATE:  <| CA |> Department -- [CA]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+STATE: , <| OK |> | -- [OK]  {allamericanrfg.com}    Occurrence: 4
+
+COMPANY: of <| All Book Covers |> . -- [ALL BOOK COVERS INC]  {allbookcovers.com}    Occurrence: 1
+
+COMPANY: At <| Allblack Company |> , -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 1
+
+CITY: in <| Boise |> , -- [BOISE]  {allanmarsh.com}    Occurrence: 6
+
+STATE: , <| CA |> 92868-1105 -- [CA]  {alldiametergrinding.com}    Occurrence: 1
+
+COMPANY: at <| All Dogs |> Inn -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+CITY: including <| Clovis |> , -- [CLOVIS]  {allbritten.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> IT -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+COMPANY:  <| All Bay Contractors , Inc. |> is -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}    Occurrence: 1
+
+COMPANY: , <| All Destinations |> will -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 1
+
+ADDRESS:  <| 130 East 10th Street |>  -- [130 E 10TH ST]  {allans.com}    Occurrence: 1
+
+ADDRESS:  <| 5 Harvard Lane |>  -- [5 HARVARD LN]  {allcamera.com}    Occurrence: 1
+
+STATE: , <| MI |> - -- [MI]  {alleganhospice.com}    Occurrence: 2
+
+CITY: serving <| Costa Mesa |> families -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 1
+
+COMPANY: About <| All Area Roofing |> All -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+CITY: Buick <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+ADDRESS: | <| 13090 Park Street |> | -- [13090 PARK ST]  {allblackco-llc.com}    Occurrence: 3
+
+COMPANY:  <| All Seasons |>  -- [ALL SEASONS CAMERA]  {allcamera.com}    Occurrence: 1
+
+CITY:  <| Oak Hills |> CA -- [OAK HILLS]  {allamericanrealestate.com}    Occurrence: 5
+
+STATE: , <| NY |> for -- [NY]  {allcountycorp.com}    Occurrence: 1
+
+COMPANY: 2016 <| Allan Houser |> . -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 4
+
+COMPANY: operated <| All Creatures Animal Hospital |> with -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+ZIP: CA <| 90670 |>  -- [90670 4032]  {allblackco-llc.com}    Occurrence: 1
+
+COMPANY: with <| All Covered |> . -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+STATE: , <| NY |> are -- [NY]  {allegany.org}    Occurrence: 1
+
+STATE: , <| AZ |> a -- [AZ]  {allegra-arizona.com}    Occurrence: 8
+
+COMPANY: used <| All Clean Chem-Dry |> many -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY:  <| Allblack Co. |> , -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 5
+
+ZIP: Ohio <| 45750 |>  -- [45750 8238]  {allcrane.com}    Occurrence: 3
+
+CITY: Services <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 20
+
+ADDRESS:  <| 130 East 10th Street |> ( -- [130 E 10TH ST]  {allans.com}    Occurrence: 4
+
+COMPANY: is <| All Covered |> ? -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY: | <| Tucson |> is -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+COMPANY:  <| Allegiance Realty |> AZ -- [ALLEGIANCE REALTY]  {allegiancerealty.com}    Occurrence: 1
+
+COMPANY: ***** <| All American Sewer Service |> ***** -- [ALL AMERICAN SEWER SVC]  {allamericansewerservice.com}    Occurrence: 1
+
+CITY: Allegra <| Tucson |> ' -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+CITY: the <| Allegany |> Fire -- [ALLEGANY]  {allegany.org}    Occurrence: 2
+
+CITY: | <| Tallahassee |> Pool -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 2
+
+COMPANY: of <| Alla Prima Studios |> . -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> provides -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+COMPANY: Roofing <| All Area Roofing |> & -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY: at <| All American Roofing |> today -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 1
+
+ZIP: IL <| 60126 |>  -- [60126 1617]  {allchicagoland.com}    Occurrence: 7
+
+STATE: , <| AZ |> has -- [AZ]  {allegra-arizona.com}    Occurrence: 1
+
+CITY: in <| Fort Worth |> , -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 6
+
+CITY: the <| Tucson |> community -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+STATE: , <| OH |>  -- [OH]  {allanpeace.com}    Occurrence: 1
+
+CITY: - <| Tucson |>  -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+STATE: Dunwoody <| GA |> and -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: | <| All American Poly |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com}    Occurrence: 8
+
+ADDRESS: 26 <| Haozous Rd |>  -- [22 HAOZOUS RD]  {allanhouser.com}    Occurrence: 4
+
+COMPANY: 2016 <| All Custom Aluminum |> . -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com}    Occurrence: 1
+
+COMPANY: today <| All Counties Courier |> ( -- [ALL COUNTIES COURIER]  {allcountiescourier.com}    Occurrence: 1
+
+COMPANY:  <| Allan Automatic Sprinkler |> of -- [ALLAN AUTOMATIC SPRINKLER CORP]  {allansocal.com}    Occurrence: 2
+
+CITY: in <| Costa Mesa |> can -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+STATE: , <| FL |> 34994 -- [FL]  {allcounty.com}    Occurrence: 2
+
+CITY: Print <| Scottsdale |>  -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 8
+
+CITY: Organizations <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+STATE: Norwalk <| CA |> 90650 -- [CA]  {allcaliforniabrokerage.com}    Occurrence: 3
+
+CITY:  <| OAK HILLS |>  -- [OAK HILLS]  {allamericanrealestate.com}    Occurrence: 1
+
+CITY:  <| Allegan |> County -- [ALLEGAN]  {alleganhospice.com}    Occurrence: 3
+
+COMPANY: , <| All Clean Chem-Dry |> is -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY:  <| All Clean Chem-Dry |> : -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+CITY: to <| Fort Worth |> and -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 2
+
+STATE: Allegany <| NY |> | -- [NY]  {allegany.org}    Occurrence: 21
+
+COMPANY: , <| All Covered |> employs -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY: in <| Denver |> , -- [DENVER]  {allcityfloors.com}    Occurrence: 1
+
+CITY: Dealer <| Boise |> ID -- [BOISE]  {allanmarsh.com}    Occurrence: 390
+
+STATE: , <| NY |> website -- [NY]  {allegany.org}    Occurrence: 1
+
+COMPANY: to <| All Creatures Animal Hospital |> . -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+CITY: the <| Dunwoody |> and -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+ZIP: Ohio <| 43616 |>  -- [43616 3551]  {allcrane.com}    Occurrence: 3
+
+COMPANY: and <| All American |> has -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 1
+
+COMPANY: , <| All Chicagoland Moving |> & -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com}    Occurrence: 3
+
+CITY: Company <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+STATE: , <| CA |> 93257 -- [CA]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY: of <| ALL Erection & Crane Rental |> Corp -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 2
+
+STATE: , <| FL |> 32960 -- [FL]  {allcounty.com}    Occurrence: 2
+
+STATE: , <| MA |> Contact -- [MA]  {allandalefarm.com}    Occurrence: 2
+
+CITY:  <| Allegan |> , -- [ALLEGAN]  {alleganhospice.com}    Occurrence: 1
+
+ADDRESS:  <| 309 Phillips Road |>  -- [309 PHILLIPS RD]  {allampoly.com}    Occurrence: 7
+
+CITY:  <| Scottsdale |> , -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 6
+
+ADDRESS:  <| 9748 Rose DR |>  -- [9748 ROSE DR]  {allamericanrealestate.com}    Occurrence: 5
+
+COMPANY: an <| All Clean |> Chemdry -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+STATE: , <| OK |>  -- [OK]  {allamericanrfg.com}    Occurrence: 81
+
+COMPANY: of <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 1
+
+ADDRESS: onto <| Allandale Road |> . -- [259 ALLANDALE RD]  {allandalefarm.com}    Occurrence: 1
+
+CITY: in <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 3
+
+STATE: Dunwoody <| GA |> & -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: « <| All American Sports Center |>  -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com}    Occurrence: 6
+
+CITY: of <| Allegany |> residents -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+STATE: , <| TX |> , -- [TX]  {allbritefloors.com}    Occurrence: 5
+
+CITY: Hospital <| Costa Mesa |> | -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 12
+
+CONTACT: , <| Jitu Jhaveri |> ( -- [JITU JHAVERI]  {allbriteusa.com}    Occurrence: 1
+
+COMPANY: of <| Allan Industries |> employees -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+STATE: of <| NH |> Postsecondary -- [NH]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY:  <| All American Supply |> - -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 6
+
+ZIP: , <| 33460 |>  -- [33460 3601]  {allcounty.com}    Occurrence: 1
+
+COMPANY: from <| All Covered |> engineers -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY: the <| Costa Mesa |> area -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+CONTACT:  <| Eileen Rogers |>  -- [EILEEN ROGERS]  {allegraaz.com}    Occurrence: 1
+
+CITY:  <| Tallahassee |> Pool -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 1
+
+COMPANY:  <| ALL Carolina Crane Rental |> of -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+CONTACT: contact <| Allan Peace |> , -- [ALLAN PEACE]  {allanpeace.com}    Occurrence: 1
+
+COMPANY: , <| All Dog Yard Cleanup |> is -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY:  <| ALL Crane Rental |> of -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 21
+
+COMPANY:  <| All American Poly |> is -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com}    Occurrence: 6
+
+ZIP: , <| 83714 |>  -- [83714 6343]  {allanmarsh.com}    Occurrence: 6
+
+COMPANY:  <| All American Roofing |> is -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 3
+
+COMPANY: Rental <| All Crane |> Equipment -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 1
+
+ADDRESS:  <| 22380 Lakeland Blvd |> . -- [22380 LAKELAND BLVD]  {alldisasters.com}    Occurrence: 2
+
+ZIP: NH <| 03103 |>  -- [03103 2313]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY:  <| All County Electric Supply |> Products -- [ALL COUNTY ELECTRIC SUPPLY]  {allcountyelectricsupply.com}    Occurrence: 2
+
+CITY: | <| Tallahassee |> Awnings -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 2
+
+ADDRESS: down <| Allandale Road |> on -- [259 ALLANDALE RD]  {allandalefarm.com}    Occurrence: 1
+
+COMPANY: by <| All Covered |> . -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: ¢ <| ALL BRIGHT ELECTRIC |> â -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 3
+
+STATE: , <| VA |> & -- [VA]  {alleghanymotors.com}    Occurrence: 3
+
+STATE: Tucson <| AZ |> 85713 -- [AZ]  {allegra-arizona.com}    Occurrence: 4
+
+ADDRESS: • <| 259 Allandale Road |> • -- [259 ALLANDALE RD]  {allandalefarm.com}    Occurrence: 3
+
+CITY:  <| Boise |> , -- [BOISE]  {allanmarsh.com}    Occurrence: 6
+
+COMPANY: At <| All Around Computers |> we -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 1
+
+STATE: , <| MA |> 02467 -- [MA]  {allandalefarm.com}    Occurrence: 3
+
+STATE: CINCINNATI <| OH |> PES -- [OH]  {allanpeace.com}    Occurrence: 2
+
+COMPANY:  <| ALL DIAMETER GRINDING |>  -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com}    Occurrence: 2
+
+ADDRESS:  <| 1107 Lake Avenue |>  -- [1107 LAKE AVE]  {allcounty.com}    Occurrence: 3
+
+CITY:  <| Dalton |> , -- [DALTON]  {allchem-inc.com}    Occurrence: 3
+
+ZIP: Indiana <| 46016 |>  -- [46016 1719]  {allans.com}    Occurrence: 1
+
+CITY: of <| Dunwoody |> GA -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY:  <| ALL Carolina Crane |> & -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+COMPANY:  <| ALL Tower Crane |> , -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 2
+
+ADDRESS: is <| Allandale Road |> . -- [259 ALLANDALE RD]  {allandalefarm.com}    Occurrence: 1
+
+COMPANY:  <| All Book Covers |> is -- [ALL BOOK COVERS INC]  {allbookcovers.com}    Occurrence: 1
+
+CITY:  <| Covington |> Buick -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| All Book Covers |>  -- [ALL BOOK COVERS INC]  {allbookcovers.com}    Occurrence: 1
+
+CITY: Shovel <| Cleveland |> Ohio -- [CLEVELAND]  {allcrane.com}    Occurrence: 2
+
+CITY:  <| New York |>  -- [NEW YORK]  {allcovered.com}    Occurrence: 22
+
+CITY:  <| Tallahassee |> Screen -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 1
+
+COMPANY:  <| Alla Prima Studios |>  -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com}    Occurrence: 6
+
+COMPANY: recommend <| All Clean Chem-Dry |> ! -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+CITY: in <| Covington |> . -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+CONTACT:  <| Gail Tamases Fisher |>  -- [GAIL FISHER]  {alldogsgym.com}    Occurrence: 1
+
+CITY: of <| Allegany |> Annual -- [ALLEGANY]  {allegany.org}    Occurrence: 14
+
+COMPANY:  <| All American Turf Beauty |> Commercial -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> client -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+CITY: | <| Tallahassee |> Screen -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 2
+
+CITY: , <| Seattle |> WA -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 2
+
+COMPANY: At <| All Counties Courier |> , -- [ALL COUNTIES COURIER]  {allcountiescourier.com}    Occurrence: 1
+
+COMPANY:  <| ALL AROUND COMPUTERS |> , -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 1
+
+CITY: Hospital <| Costa Mesa |> : -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+COMPANY: At <| All Creatures Animal Hospital |> , -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 4
+
+STATE: , <| NY |> is -- [NY]  {allegany.org}    Occurrence: 1
+
+CONTACT:  <| Theresa Lynn |> , -- [THERESA LYNN]  {alleganhospice.com}    Occurrence: 1
+
+ADDRESS:  <| 455 W. Belmont Drive |> , -- [455 W BELMONT DR]  {allanimalcare.com}    Occurrence: 1
+
+STATE: , <| NM |> 87123 -- [NM]  {allamericansupply.com}    Occurrence: 4
+
+COMPANY: - <| All American Turf Beauty , Inc |> . -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 5
+
+CITY: provides <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 1
+
+COMPANY: Premier <| Electrical Service Contractor |> serving -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net}    Occurrence: 1
+
+COMPANY: , <| All Destinations |> has -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 2
+
+COMPANY:  <| All California Brokerage , Inc. |> is -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+COMPANY:  <| All Book Covers |> PDF -- [ALL BOOK COVERS INC]  {allbookcovers.com}    Occurrence: 2
+
+CITY: in <| Cleveland |> , -- [CLEVELAND]  {allcrane.com}    Occurrence: 1
+
+ADDRESS:  <| 730 North York Road |>  -- [730 N YORK RD]  {allchicagoland.com}    Occurrence: 6
+
+COMPANY:  <| All Clean Chem-Dry |> | -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+CITY:  <| Anderson |> , -- [ANDERSON]  {allans.com}    Occurrence: 5
+
+COMPANY:  <| All Covered |> Online -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: | <| All Creatures Animal Hospital |> , -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 16
+
+COMPANY: | <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}    Occurrence: 10
+
+COMPANY:  <| Allegheny Installations |> prepar -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 4
+
+COMPANY: | <| Wings of Hope Hospice |>  -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 8
+
+COMPANY:  <| All Covered |> Salesforce -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+ZIP: GA <| 30701 |>  -- [30701 3043]  {allanimalcare.com}    Occurrence: 2
+
+COMPANY: 2013 <| All Bright Electric |> All -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 3
+
+COMPANY: The <| All Covered |> Approach -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+CITY:  <| Oak Hills |> , -- [OAK HILLS]  {allamericanrealestate.com}    Occurrence: 4
+
+CITY: of <| Allegany |> Limestone -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+COMPANY: About <| All Area Roofing |>  -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+ZIP: NY <| 14706 |>  -- [14706 9501]  {allegany.org}    Occurrence: 16
+
+CITY: of <| Allegany |> Municipal -- [ALLEGANY]  {allegany.org}    Occurrence: 2
+
+COMPANY:  <| All Area Roofing |> , -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+CITY: a <| Seattle |> native -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+COMPANY:  <| Allan Industries , Inc. |> can -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY: CEO <| All Destinations |> opened -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 1
+
+STATE: Southwest <| MI |> . -- [MI]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY:  <| All-Dade Drilling |>  -- [ALL-DADE DRILLING CORP]  {alldade.com}    Occurrence: 2
+
+CONTACT:  <| Allan Marsh |> Travel -- [ALLAN MARSH]  {allanmarsh.com}    Occurrence: 12
+
+STATE: , <| AZ |> 85024 -- [AZ]  {allanimalsrescue.com}    Occurrence: 1
+
+CITY: Floors <| Denver |> CO -- [DENVER]  {allcityfloors.com}    Occurrence: 2
+
+STATE: , <| NY |>  -- [NY]  {allbrightelectric.com}    Occurrence: 6
+
+CITY: Care <| Costa Mesa |> : -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+STATE: VILLAGE <| CA |> 91361 -- [CA]  {allcoastconstruction.com}    Occurrence: 1
+
+STATE: , <| IA |>  -- [IA]  {allamericanturf.com}    Occurrence: 86
+
+CITY: Allegra <| Tucson |> Clients -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+CITY: in <| Costa Mesa |> with -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+CITY: in <| Scottsdale |> , -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 1
+
+COMPANY:  <| Allan Automatic Sprinkler Corp. |> of -- [ALLAN AUTOMATIC SPRINKLER CORP]  {allansocal.com}    Occurrence: 12
+
+COMPANY: at <| All American Turf Beauty |>  -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 5
+
+COMPANY: Contact <| All Brite Floors Inc. |> for -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> searches -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+CITY:  <| Opelika |> ' -- [OPELIKA]  {allaroundcomputers.com}    Occurrence: 1
+
+COMPANY:  <| Allegiant Business Finance |> is -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+COMPANY:  <| All County Electric |> products -- [ALL COUNTY ELECTRIC SUPPLY]  {allcountyelectricsupply.com}    Occurrence: 1
+
+CITY:  <| Bethany |>  -- [BETHANY]  {allamericanrfg.com}    Occurrence: 7
+
+STATE: , <| PA |>  -- [PA]  {alleghenyinstallations.com}    Occurrence: 2
+
+CITY: in <| Allegan |> MI -- [ALLEGAN]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY: best <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+STATE: Allegany <| NY |> ( -- [NY]  {allegany.org}    Occurrence: 1
+
+CITY: in <| Tucson |> gives -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+ZIP: CA <| 95157 |> US -- [95157 0894]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY:  <| All American Poly |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com}    Occurrence: 2
+
+CITY: DRIVE <| WESTLAKE VILLAGE |> CA -- [WESTLAKE VILLAGE]  {allcoastconstruction.com}    Occurrence: 1
+
+CITY:  <| Allegany |> Fire -- [ALLEGANY]  {allegany.org}    Occurrence: 30
+
+CITY: , <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 4
+
+COMPANY: © <| Allegiant Business Finance |> , -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+STATE: , <| AZ |> . -- [AZ]  {allegra-arizona.com}    Occurrence: 9
+
+COMPANY: with <| All Covered |>  -- [ALL COVERED]  {allcovered.com}    Occurrence: 5
+
+COMPANY:  <| Allan ' s Jewelry & Loan |> is -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 5
+
+COMPANY: to <| All Covered |> . -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+STATE: , <| VA |> 24426 -- [VA]  {alleghanymotors.com}    Occurrence: 3
+
+COMPANY: – <| All American Tent and Awning |>  -- [ALL AMERICAN TENT & AWNING INC]  {allamericantentandawning.com}    Occurrence: 6
+
+CITY: Allegra <| Scottsdale |> today -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 1
+
+CITY: | <| Santa Fe Springs |> , -- [SANTA FE SPRINGS]  {allblackco-llc.com}    Occurrence: 3
+
+COMPANY: Enter <| All Clean |> Chemdry -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+STATE: Brooklyn <| NY |> 11218 -- [NY]  {allcountycorp.com}    Occurrence: 8
+
+COMPANY:  <| All Dogs |> Agility -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 2
+
+COMPANY:  <| All Custom Aluminum |> | -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com}    Occurrence: 2
+
+STATE: , <| AZ |> , -- [AZ]  {allegra-arizona.com}    Occurrence: 1
+
+COMPANY: © <| All Claims Repairs |> . -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}    Occurrence: 3
+
+COMPANY: of <| Allan Houser |>  -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 4
+
+CITY: Oklahoma <| Oregon |> Pennsylvania -- [OREGON]  {allcrane.com}    Occurrence: 4
+
+CITY: for <| Porterville |> and -- [PORTERVILLE]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY: The <| Alliance Company |> is -- [ALLIANCE CO]  {allco.net}    Occurrence: 1
+
+COMPANY: At <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 2
+
+CITY:  <| Tallahassee |> Sun -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 1
+
+COMPANY: 2016 <| All Creatures Animal Hospital |> . -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 8
+
+COMPANY: 2009 <| All American Sewer Service |>  -- [ALL AMERICAN SEWER SVC]  {allamericansewerservice.com}    Occurrence: 1
+
+CITY: West <| Phoenix |> location -- [PHOENIX]  {allanimalsrescue.com}    Occurrence: 1
+
+CITY: a <| Covington |> or -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| Allan Houser Inc |> . -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 1
+
+COMPANY:  <| All County Electric Supply |>  -- [ALL COUNTY ELECTRIC SUPPLY]  {allcountyelectricsupply.com}    Occurrence: 4
+
+CITY:  <| Dunwoody |> GA -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 14
+
+COMPANY:  <| All Clean Chem-Dry |> ' -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Backup -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+STATE: , <| CA |> 94939 -- [CA]  {allcalifornia.com}    Occurrence: 1
+
+STATE: , <| NY |>  -- [NY]  {allcountycorp.com}    Occurrence: 3
+
+COMPANY: at <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 1
+
+COMPANY:  <| Allegiant Technology |> was -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 4
+
+COMPANY: the <| Allan Houser |> Gallery -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 1
+
+COMPANY: an <| All Covered |> representative -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY: The <| All Covered |> Legal -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY: About <| Allbrite Car Care Products |>  -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com}    Occurrence: 1
+
+CONTACT: “ <| Allan Greenberg |> ’ -- [ALLAN GREENBERG]  {allangreenberg.com}    Occurrence: 1
+
+STATE: , <| CA |> 90293 -- [CA]  {allcitylimo.com}    Occurrence: 1
+
+COMPANY: , <| All Covered |> can -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY:  <| Allegheny Installations |> is -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 5
+
+CITY:  <| Allegany |> Department -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+COMPANY: the <| ALL Erection & Crane Rental |> Corp. -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 2
+
+COMPANY: At <| Allan Industries Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 2
+
+CITY: Cars <| Covington |>  -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+CITY: greater <| Phoenix |> and -- [PHOENIX]  {allanimalsrescue.com}    Occurrence: 5
+
+CITY: GMC <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 3
+
+COMPANY:  <| All Dogs Gym |> & -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY:  <| All City Limo |> provides -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 2
+
+COMPANY:  <| All Destinations Inc |> . -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 3
+
+CITY: and <| Opelika |> areas -- [OPELIKA]  {allaroundcomputers.com}    Occurrence: 1
+
+COMPANY: joining <| All Covered |> makes -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY: of <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 1
+
+COMPANY:  <| ALL Erection & Crane Rental |> Corp -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+CITY: , <| Houston |> , -- [HOUSTON]  {allbritefloors.com}    Occurrence: 5
+
+ZIP: NY <| 11218 |>  -- [11218 5309]  {allcountycorp.com}    Occurrence: 8
+
+CITY:  <| San Juan |> Capistrano -- [SAN JUAN CPSTRNO]  {allco.net}    Occurrence: 1
+
+COMPANY:  <| All American Roofing |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 21
+
+COMPANY:  <| Wings of Hope Hospice |>  -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Technology -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| All Bright Electric |> | -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 4
+
+COMPANY:  <| Allan ' s Jewelry & Loan |>  -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 1
+
+STATE: , <| CA |> 93010 -- [CA]  {allcitylimo.com}    Occurrence: 1
+
+ZIP: FL <| 33460 |>  -- [33460 3601]  {allcounty.com}    Occurrence: 5
+
+COMPANY: Hiring <| All Clean Chem-Dry |> not -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+STATE: , <| OK |> 73008 -- [OK]  {allamericanrfg.com}    Occurrence: 2
+
+CONTACT: by <| Gary Zak |> . -- [GARY ZAK]  {allbritefloors.com}    Occurrence: 1
+
+CITY: - <| Scottsdale |> , -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 2
+
+CITY:  <| Phoenix |> , -- [PHOENIX]  {allanimalsrescue.com}    Occurrence: 1
+
+CITY:  <| Seattle |> WA -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+CITY: , <| Porterville |> , -- [PORTERVILLE]  {allcreaturespetcare.com}    Occurrence: 4
+
+CITY: in <| Covington |> will -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| All Book Covers |> - -- [ALL BOOK COVERS INC]  {allbookcovers.com}    Occurrence: 4
+
+CITY: in <| Denver |>  -- [DENVER]  {allcityfloors.com}    Occurrence: 1
+
+COMPANY:  <| All City Limo |> was -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 2
+
+CITY:  <| Larkspur |> , -- [LARKSPUR]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY: on <| All Covered |>  -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| All American Roofing |> offers -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 2
+
+STATE: , <| AZ |> . -- [AZ]  {allegraaz.com}    Occurrence: 1
+
+ZIP: AZ <| 85251 |>  -- [85251 5515]  {allegraaz.com}    Occurrence: 6
+
+CITY: : <| Waterloo |> Office -- [WATERLOO]  {allamericanturf.com}    Occurrence: 1
+
+CITY: Waterproofing <| Tampa |> Offices -- [TAMPA]  {allarearoofing.com}    Occurrence: 1
+
+STATE: , <| IN |> 46016 -- [IN]  {allans.com}    Occurrence: 5
+
+COMPANY:  <| All Chicagoland Moving |> and -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com}    Occurrence: 14
+
+COMPANY:  <| Allan Houser |>  -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 10
+
+COMPANY:  <| All Around Cruises |> - -- [ALL AROUND CRUISES & TOURS]  {allaroundcruises.com}    Occurrence: 2
+
+STATE: , <| WI |> 54106 -- [WI]  {allcanada.com}    Occurrence: 4
+
+COMPANY: within <| All Covered |> will -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY: Blvd <| Boise |> , -- [BOISE]  {allanmarsh.com}    Occurrence: 6
+
+COMPANY:  <| All Covered |> ’ -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+COMPANY:  <| All Animals Rescue |> & -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com}    Occurrence: 26
+
+CITY: Center <| Boise |> Idaho -- [BOISE]  {allanmarsh.com}    Occurrence: 8
+
+COMPANY: knowing <| Allan Industries |> is -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY: generations <| Allegheny Installations |> remains -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY: At <| All Animals Rescue |> & -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com}    Occurrence: 1
+
+COMPANY: With <| All Covered |> ' -- [ALL COVERED]  {allcovered.com}    Occurrence: 4
+
+COMPANY: allows <| All Area Roofing |> & -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY:  <| Allcounty Plumbing & Heating Corp. |> has -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com}    Occurrence: 1
+
+CITY:  <| Fort Worth |> Pest -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 6
+
+CITY: Pens <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 4
+
+STATE: , <| VA |> to -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| ALL Carolina Crane Rental |> , -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+COMPANY: services <| All Area Roofing |> performs -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY: , <| All American Real Estate |> - -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com}    Occurrence: 4
+
+CITY:  <| Opelika |>  -- [OPELIKA]  {allaroundcomputers.com}    Occurrence: 1
+
+COMPANY: with <| All Covered |> for -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: About <| All Disaster |> Services -- [ALL DISASTER SVC]  {alldisasters.com}    Occurrence: 3
+
+COMPANY: , <| All Creatures Animal Hospital |> is -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+ADDRESS:  <| 530 Linn Street |>  -- [530 LINN ST # A]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY: | <| Allegiance Realty |> AZ -- [ALLEGIANCE REALTY]  {allegiancerealty.com}    Occurrence: 2
+
+COMPANY:  <| Allegiance Realty |>  -- [ALLEGIANCE REALTY]  {allegiancerealty.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Workspaces -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+STATE: , <| VA |> or -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| All American Real Estate |>  -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com}    Occurrence: 5
+
+CITY: ¢ <| WEST NYACK |> , -- [WEST NYACK]  {allbrightelectric.com}    Occurrence: 3
+
+COMPANY: CONTACT <| ALL-CITY METAL |>  -- [ALL-CITY METAL INC]  {allcitymetal.com}    Occurrence: 6
+
+COMPANY: and <| All Covered |> Store -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+STATE: Training <| NH |>  -- [NH]  {alldogsgym.com}    Occurrence: 2
+
+ADDRESS:  <| 13090 Park Street |>  -- [13090 PARK ST]  {allblackco-llc.com}    Occurrence: 1
+
+COMPANY: ​ <| ALL Claims Repairs |> at -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}    Occurrence: 1
+
+ZIP: AZ <| 85024 |>  -- [85024 1203]  {allanimalsrescue.com}    Occurrence: 1
+
+COMPANY: At <| All City Floor Company |> , -- [ALL CITY FLOOR CO]  {allcityfloors.com}    Occurrence: 2
+
+CITY: in <| Seattle |> WA -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 2
+
+CITY: for <| New York |>  -- [NEW YORK]  {allcityny.com}    Occurrence: 1
+
+STATE: Valley <| NY |> . -- [NY]  {allbrightelectric.com}    Occurrence: 1
+
+COMPANY: , <| Allan Peace Associates |> ) -- [ALLAN PEACE & ASSOC INC INS]  {allanpeace.com}    Occurrence: 2
+
+COMPANY:  <| All Brite Floors |> proudly -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 3
+
+COMPANY:  <| All city Limo |> was -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+COMPANY: at <| All Cities |> Fence -- [ALL CITIES ENTERPRISES]  {allcitiesfence.com}    Occurrence: 1
+
+COMPANY: at <| All City Limo |> , -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 3
+
+CITY: - <| Manchester |> , -- [MANCHESTER]  {alldogsgym.com}    Occurrence: 1
+
+CITY: in <| Costa Mesa |>  -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+COMPANY: The <| Alliance Company |>  -- [ALLIANCE CO]  {allco.net}    Occurrence: 1
+
+COMPANY: watch <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}    Occurrence: 6
+
+COMPANY:  <| All County Funeral Home |> & -- [ALL COUNTY FUNERAL HOME]  {allcounty.com}    Occurrence: 12
+
+CITY: Allegra <| Tucson |> : -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+ADDRESS:  <| 5421 Navarre Ave |> . -- [5421 NAVARRE AVE]  {allcrane.com}    Occurrence: 3
+
+COMPANY: , <| All California Mortgage |> has -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY: cleaning <| All Clean Chem-Dry |> offers -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY: - <| Allegiant Business Finance |>  -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 2
+
+CITY: Planning <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+CITY:  <| New Berlin |> , -- [NEW BERLIN]  {allcountyelectricsupply.com}    Occurrence: 2
+
+STATE: , <| NY |> and -- [NY]  {allcountycorp.com}    Occurrence: 3
+
+ZIP: CA <| 91706 |>  -- [91706 1796]  {allancompany.com}    Occurrence: 1
+
+STATE: Arlington <| TX |>  -- [TX]  {alldeadpestcontrol.com}    Occurrence: 6
+
+STATE: , <| AL |>  -- [AL]  {allaroundcomputers.com}    Occurrence: 2
+
+COMPANY: *** <| All American Sewer Service |> *** -- [ALL AMERICAN SEWER SVC]  {allamericansewerservice.com}    Occurrence: 1
+
+COMPANY: About <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}    Occurrence: 1
+
+CITY: , <| Covington |> Chevrolet -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+COMPANY:  <| Allegheny Installations |> creates -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 1
+
+CITY: , <| Santa Fe Springs |> , -- [SANTA FE SPRINGS]  {allblackco-llc.com}    Occurrence: 3
+
+COMPANY: largest <| Crane Rental |> Company -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 1
+
+CITY:  <| Allegany |> River -- [ALLEGANY]  {allegany.org}    Occurrence: 21
+
+STATE: , <| VA |> , -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+CITY:  <| Waterloo |> , -- [WATERLOO]  {allamericanturf.com}    Occurrence: 6
+
+CITY: flooring <| Denver |>  -- [DENVER]  {allcityfloors.com}    Occurrence: 1
+
+ADDRESS:  <| 455 West Belmont Drive |> , -- [455 W BELMONT DR]  {allanimalcare.com}    Occurrence: 1
+
+ADDRESS: ¢ <| 100 SNAKE HILL ROAD |> â -- [100 SNAKE HILL RD]  {allbrightelectric.com}    Occurrence: 3
+
+STATE: , <| NM |> 87508 -- [NM]  {allanhouser.com}    Occurrence: 4
+
+COMPANY: - <| All Dogs |> Academy -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY:  <| ALLEGRA MARKETING & PRINT |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}    Occurrence: 1
+
+CITY: of <| New York |> College -- [NEW YORK]  {allcovered.com}    Occurrence: 1
+
+STATE: , <| VA |> CHEVROLET -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+STATE: , <| FL |> 33442 -- [FL]  {allclaimsrepairs.com}    Occurrence: 2
+
+CITY:  <| Cerritos |> , -- [CERRITOS]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+STATE: JEWELRY <| IN |> GOOD -- [IN]  {allans.com}    Occurrence: 4
+
+COMPANY: and <| Allan Automatic Sprinkler |> of -- [ALLAN AUTOMATIC SPRINKLER CORP]  {allansocal.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Services -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY: of <| Allegany |> , -- [ALLEGANY]  {allegany.org}    Occurrence: 2
+
+CITY: Control <| Fort Worth |> & -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 2
+
+CITY:  <| Allegany |> Members -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+COMPANY: hire <| All American Turf Beauty |> to -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 2
+
+COMPANY: Put <| Allegiant Technology |> ’ -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 2
+
+COMPANY: used <| All Clean |> Chemdry -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+CONTACT: Dr. <| David Imbach |> . -- [DAVID G IMBACH]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY: See <| Allandale Farm |>  -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 1
+
+STATE: Dunwoody <| GA |>  -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 16
+
+COMPANY: give <| Allegiant Business Finance |> and -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+COMPANY: a <| Wings of Hope Hospice |> program -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+CITY: in <| Tucson |> | -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+CITY: Signs <| Tucson |>  -- [TUCSON]  {allegra-arizona.com}    Occurrence: 22
+
+COMPANY: an <| All Covered |> Technology -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: trusting <| All Covered |> for -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY:  <| Albuquerque |> , -- [ALBUQUERQUE]  {allamericansupply.com}    Occurrence: 4
+
+ADDRESS:  <| 301 Eubank SE |>  -- [301 EUBANK BLVD SE]  {allamericansupply.com}    Occurrence: 4
+
+COMPANY: | <| All American Trucking & Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}    Occurrence: 2
+
+COMPANY:  <| All Around Computers |> - -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 5
+
+CITY:  <| Cerritos |> Real -- [CERRITOS]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+COMPANY: About <| Allblack Co |> . -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 2
+
+COMPANY: at <| All Dogs Gym |> ? -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY: At <| Allegheny Installations |> we -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 4
+
+ZIP: CA <| 90670 |> | -- [90670 4032]  {allblackco-llc.com}    Occurrence: 3
+
+COMPANY: - <| Allegra Print & Imaging |>  -- [ALLEGRA PRINT & IMAGING]  {allegraplymouth.com}    Occurrence: 6
+
+CITY: in <| Houston |> , -- [HOUSTON]  {allbritefloors.com}    Occurrence: 1
+
+CITY: for <| Cincinnati |> employers -- [CINCINNATI]  {allanpeace.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+CITY: , <| MODESTO |> , -- [MODESTO]  {allcareipa.com}    Occurrence: 2
+
+ZIP: Texas <| 76133 |>  -- [76133 7809]  {alldeadpestcontrol.com}    Occurrence: 1
+
+ZIP:  <| 10706 |>  -- [10706 3304]  {allcamera.com}    Occurrence: 1
+
+CITY: in <| Tucson |>  -- [TUCSON]  {allegra-arizona.com}    Occurrence: 6
+
+STATE: , <| VA |> Buick -- [VA]  {alleghanymotors.com}    Occurrence: 9
+
+STATE: , <| AZ |>  -- [AZ]  {allanimalsrescue.com}    Occurrence: 7
+
+COMPANY: Contact <| Allan Industries Inc. |> for -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+STATE: Grooming <| NH |>  -- [NH]  {alldogsgym.com}    Occurrence: 2
+
+COMPANY: at <| Allegiant Business Finance |> since -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+STATE: OF <| PA |>  -- [PA]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY: , <| All Covered |> ' -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY:  <| All American Rentals , Inc. |> 2011 -- [ALL AMERICAN RENTALS INC]  {allamericanrentals.com}    Occurrence: 1
+
+COMPANY: s <| All Creatures Animal Hospital |> ’ -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> is -- [ALL COVERED]  {allcovered.com}    Occurrence: 30
+
+CITY:  <| Allegany |> American -- [ALLEGANY]  {allegany.org}    Occurrence: 40
+
+CITY:  <| Covington |> Auto -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+STATE: , <| IL |> 60126 -- [IL]  {allchicagoland.com}    Occurrence: 7
+
+COMPANY:  <| All American Turf Beauty |> is -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+ZIP: , <| 94939 |>  -- [94939 1736]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY:  <| All American Tent and Awning |> - -- [ALL AMERICAN TENT & AWNING INC]  {allamericantentandawning.com}    Occurrence: 3
+
+COMPANY: at <| Alleghany Motors |> We -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com}    Occurrence: 1
+
+STATE: , <| MI |> 49010 -- [MI]  {alleganlaw.com}    Occurrence: 1
+
+STATE: City <| OK |>  -- [OK]  {allamericanrfg.com}    Occurrence: 1
+
+COMPANY:  <| All American |> high -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 4
+
+CITY: your <| Covington |> Chevrolet -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY: of <| All Covered |> . -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY:  <| Allegan |> , -- [ALLEGAN]  {alleganlaw.com}    Occurrence: 1
+
+COMPANY: - <| All Dogs Gym |> & -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 3
+
+CITY: in <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 7
+
+CITY: Clinic <| Costa Mesa |>  -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+STATE: , <| VA |> and -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+CONTACT: Big <| Mike `` Liptak |> proudly -- [MIKE LIPTAK]  {allcrane.com}    Occurrence: 1
+
+COMPANY:  <| All American Roofing |> has -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 4
+
+STATE: , <| CA |> 90670 -- [CA]  {allblackco-llc.com}    Occurrence: 4
+
+COMPANY:  <| All Coast Construction |>  -- [ALL COAST CONSTRUCTION]  {allcoastconstruction.com}    Occurrence: 2
+
+COMPANY:  <| All American Turf Beauty , Inc. |> | -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 6
+
+STATE: , <| GA |> 30701 -- [GA]  {allanimalcare.com}    Occurrence: 2
+
+COMPANY:  <| All American Turf Beauty Inc. |> | -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 4
+
+COMPANY:  <| Allblack Co. |> | -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 3
+
+COMPANY:  <| Crane Service |> Lift -- [JEFFERS CRANE SVC]  {allcrane.com}    Occurrence: 4
+
+COMPANY:  <| All American Trucking & Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}    Occurrence: 8
+
+COMPANY: Contact <| All Custom Aluminum |>  -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com}    Occurrence: 1
+
+CITY: George <| Washington |> , -- [WASHINGTON]  {allangreenberg.com}    Occurrence: 1
+
+CITY: for <| Tucson |> non-profits -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+COMPANY:  <| All Dog Yard Cleanup |>  -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com}    Occurrence: 4
+
+COMPANY:  <| All Destinations |>  -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 4
+
+CITY:  <| Allegany |> Main -- [ALLEGANY]  {allegany.org}    Occurrence: 15
+
+COMPANY: , <| All Claims Repairs |> can -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}    Occurrence: 2
+
+COMPANY:  <| ALL Crane Rental |> Corp -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 6
+
+COMPANY: © <| All County Funeral Home |> & -- [ALL COUNTY FUNERAL HOME]  {allcounty.com}    Occurrence: 3
+
+CITY: , <| Orange |> County -- [ORANGE]  {alldiametergrinding.com}    Occurrence: 2
+
+COMPANY:  <| All Discount Insurance |> - -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com}    Occurrence: 2
+
+COMPANY: founded <| All Bright Electric |> , -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 1
+
+COMPANY: Trust <| Allegiant Technology |> ’ -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Webinar -- [ALL COVERED]  {allcovered.com}    Occurrence: 5
+
+STATE: Valley <| NY |>  -- [NY]  {allegany.org}    Occurrence: 8
+
+COMPANY: is <| All Covered |> ' -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+ADDRESS:  <| 2755 S. 163rd Street |>  -- [2755 S 163RD ST]  {allcountyelectricsupply.com}    Occurrence: 2
+
+CITY:  <| Allegany |> Public -- [ALLEGANY]  {allegany.org}    Occurrence: 15
+
+CITY:  <| Tampa |> Offices -- [TAMPA]  {allarearoofing.com}    Occurrence: 1
+
+ZIP: NJ <| 07981 |>  -- [07981 1602]  {allanbriteway.com}    Occurrence: 1
+
+COMPANY: , <| All City |> has -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+CONTACT:  <| Howard Hellman |> , -- [HOWARD HELLMAN]  {allbrightelectric.com}    Occurrence: 1
+
+STATE: , <| CA |> 94539 -- [CA]  {allbaycontractors.com}    Occurrence: 4
+
+STATE: ERIE <| PA |>  -- [PA]  {alleghenyinstallations.com}    Occurrence: 1
+
+CITY: References <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY: by <| Allan Houser |>  -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 2
+
+CITY: of <| Fort Worth |> , -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 4
+
+COMPANY:  <| ALLAN GARNAAS ASSOCIATES |>  -- [ALLAN D GARNAAS & ASSOC]  {allangarnaas.com}    Occurrence: 1
+
+STATE: , <| CA |> 92821 -- [CA]  {allansocal.com}    Occurrence: 1
+
+COMPANY: to <| All Clean Chem-Dry |> , -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY: … <| All Cities |> Fence -- [ALL CITIES ENTERPRISES]  {allcitiesfence.com}    Occurrence: 1
+
+STATE: , <| CA |>  -- [CA]  {allbritten.com}    Occurrence: 3
+
+STATE: , <| GA |> 30720 -- [GA]  {allchem-inc.com}    Occurrence: 2
+
+CITY: GMC <| Covington |> VA -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 3
+
+CITY: Campaigns <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+COMPANY: replacement <| All Area Roofing |> does -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> partners -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY: | <| Allegiant Technology |>  -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 12
+
+COMPANY: of <| Allan Greenberg Architect |> , -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com}    Occurrence: 1
+
+STATE: , <| OK |> , -- [OK]  {allamericanrfg.com}    Occurrence: 1
+
+CITY:  <| Allegany |> will -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+COMPANY:  <| All Around Cruises |>  -- [ALL AROUND CRUISES & TOURS]  {allaroundcruises.com}    Occurrence: 3
+
+CITY: in <| Allegan |> County -- [ALLEGAN]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY: , <| All City Floor Company |> has -- [ALL CITY FLOOR CO]  {allcityfloors.com}    Occurrence: 1
+
+CITY: in <| Calhoun |> across -- [CALHOUN]  {allanimalcare.com}    Occurrence: 1
+
+COMPANY: then <| Allegheny Installations |> is -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY:  <| Crane Rental |> Cranes -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+STATE: , <| CA |> 92627 -- [CA]  {allcreaturescarecottage.com}    Occurrence: 14
+
+ZIP: IN <| 46016 |>  -- [46016 1719]  {allans.com}    Occurrence: 5
+
+ZIP: VA <| 24426 |>  -- [24426 1943]  {alleghanymotors.com}    Occurrence: 3
+
+ZIP: CA <| 92675 |>  -- [92675 3231]  {allco.net}    Occurrence: 1
+
+COMPANY: , <| ALLAN INDUSTRIES |> has -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+CITY:  <| Tucson |> Hispanic -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+STATE: , <| AZ |> your -- [AZ]  {allegra-arizona.com}    Occurrence: 1
+
+COMPANY:  <| All California Mortgage |> , -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com}    Occurrence: 1
+
+ADDRESS:  <| 1820 N. 57th Street |>  -- [1820 N 57TH ST]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY:  <| Allegany Town Highway |> Photos -- [ALLEGANY HIGHWAY DEPT]  {allegany.org}    Occurrence: 7
+
+COMPANY:  <| All Covered |> blends -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+STATE: , <| NJ |> 07981 -- [NJ]  {allanbriteway.com}    Occurrence: 1
+
+CONTACT:  <| Peter Marcus |>  -- [PETER MARCUS]  {allegra-arizona.com}    Occurrence: 1
+
+CONTACT: Big <| Mike `` Liptak |> and -- [MIKE LIPTAK]  {allcrane.com}    Occurrence: 1
+
+CITY: in <| Alexandria |> , -- [ALEXANDRIA]  {allballoons.com}    Occurrence: 1
+
+CITY: Print <| Scottsdale |> is -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 2
+
+CITY: Includes <| Los Angeles |> , -- [LOS ANGELES]  {allcitylimo.com}    Occurrence: 1
+
+ZIP: CA <| 92821 |>  -- [92821 6295]  {allansocal.com}    Occurrence: 1
+
+COMPANY: 2014 <| Allan ' s Jewelry & Loan |> . -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 4
+
+COMPANY: artist <| Allan Houser |> is -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 2
+
+COMPANY:  <| Allan Houser Inc. |> , -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 1
+
+COMPANY: 2016 <| All Destinations |> . -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 3
+
+COMPANY:  <| All City |> Transit -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+COMPANY:  <| ALL Crane |> offers -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 1
+
+CONTACT:  <| Allan Marsh |> Consignment -- [ALLAN MARSH]  {allanmarsh.com}    Occurrence: 1
+
+CITY: at <| Seattle |> University -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+CITY:  <| Cleveland |> , -- [CLEVELAND]  {allcrane.com}    Occurrence: 3
+
+CITY: in <| Covington |> Offers -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+CONTACT:  <| Allan Peace |> and -- [ALLAN PEACE]  {allanpeace.com}    Occurrence: 1
+
+CITY: in <| Costa Mesa |> , -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+COMPANY: Contact <| Allbrite Electrical Service Contractor |> serving -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net}    Occurrence: 1
+
+ZIP: IL <| 60510 |>  -- [60510 2447]  {alldressedupcostumes.com}    Occurrence: 1
+
+COMPANY: s <| All Covered |> team -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CONTACT: of <| Gail Fisher |> ' -- [GAIL FISHER]  {alldogsgym.com}    Occurrence: 1
+
+CITY:  <| Oak Hills |>  -- [OAK HILLS]  {allamericanrealestate.com}    Occurrence: 3
+
+COMPANY: At <| All Covered |> , -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: - <| All Discount Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com}    Occurrence: 4
+
+CITY:  <| Costa Mesa |> , -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 1
+
+STATE: , <| MA |> HOME -- [MA]  {allandalefarm.com}    Occurrence: 2
+
+CITY: of <| Phoenix |> , -- [PHOENIX]  {allanimalsrescue.com}    Occurrence: 1
+
+CITY: in <| Porterville |> and -- [PORTERVILLE]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Help -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| All American Supply |>  -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 6
+
+CONTACT:  <| Theresa Lynn |>  -- [THERESA LYNN]  {alleganhospice.com}    Occurrence: 1
+
+CITY:  <| Allegany |> Limestone -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+CONTACT: , <| Peter & Cyd Marcus |> , -- [PETER MARCUS]  {allegra-arizona.com}    Occurrence: 1
+
+COMPANY: The <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 1
+
+COMPANY: - <| All California Brokerage , Inc |> . -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 2
+
+COMPANY:  <| Allblack Company |> , -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 1
+
+CITY:  <| Allegany |> Area -- [ALLEGANY]  {allegany.org}    Occurrence: 37
+
+COMPANY: Verde <| Law Offices |>  -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}    Occurrence: 1
+
+COMPANY: call <| Wings of Hope Hospice |> . -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+STATE: , <| VA |> Chevrolet -- [VA]  {alleghanymotors.com}    Occurrence: 5
+
+CITY: Our <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| Wings of Hope Hospice |> provides -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 2
+
+CONTACT: “ <| Allan Greenberg |> has -- [ALLAN GREENBERG]  {allangreenberg.com}    Occurrence: 1
+
+COMPANY: at <| All Clean Chem-Dry |> is -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+ADDRESS: 4033 <| W. Chinden Blvd |>  -- [4195 W CHINDEN BLVD]  {allanmarsh.com}    Occurrence: 12
+
+CITY:  <| Hayward |> , -- [HAYWARD]  {allcreditcardservices.com}    Occurrence: 1
+
+CITY: - <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 4
+
+STATE: Dunwoody <| GA |> veterinary -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY:  <| All Area Roofing |> & -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 8
+
+COMPANY:  <| Allegiant Technology |>  -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 13
+
+COMPANY: current <| All Covered |> client -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| Allbrite Car Care Products |> was -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com}    Occurrence: 1
+
+COMPANY: Call <| All American Roofing |> today -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 1
+
+COMPANY: At <| Allegra Print |> • -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 1
+
+STATE: Edmond <| OK |> services -- [OK]  {allamericanrfg.com}    Occurrence: 2
+
+STATE: Dunwoody <| GA |> Veterinarians -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 8
+
+ZIP: Wisconsin <| 53151 |>  -- [53151 3609]  {allcountyelectricsupply.com}    Occurrence: 2
+
+CITY:  <| Allegany |> NY -- [ALLEGANY]  {allegany.org}    Occurrence: 21
+
+COMPANY: 2009 <| All Around Computers |> expanded -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 1
+
+CITY:  <| Allegany |> , -- [ALLEGANY]  {allegany.org}    Occurrence: 16
+
+CITY: Buick <| Covington |> VA -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| All American Sewer Service |> is -- [ALL AMERICAN SEWER SVC]  {allamericansewerservice.com}    Occurrence: 1
+
+ZIP: MA <| 02467 |>  -- [02467 3201]  {allandalefarm.com}    Occurrence: 3
+
+ADDRESS:  <| 17 E Sir Francis Drake |> Blvd -- [17 E SIR FRANCIS DRAKE BL # 200]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY:  <| Allegra Marketing & Print |> - -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}    Occurrence: 2
+
+CONTACT:  <| Glenn Zimmerman |> , -- [GLENN ZIMMERMAN]  {allamericanrealestate.com}    Occurrence: 5
+
+ADDRESS: 559-784-1955 <| 842 N Westwood St |> Porterville -- [842 N WESTWOOD ST]  {allcreaturespetcare.com}    Occurrence: 1
+
+ADDRESS:  <| 6701 NW 50th St. |> Bethany -- [6701 NW 50TH ST]  {allamericanrfg.com}    Occurrence: 2
+
+CITY:  <| Allegany |> Central -- [ALLEGANY]  {allegany.org}    Occurrence: 8
+
+COMPANY:  <| Allegiance Realty |> | -- [ALLEGIANCE REALTY]  {allegiancerealty.com}    Occurrence: 2
+
+CITY: around <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 1
+
+CITY: , <| Fort Worth |> , -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 5
+
+COMPANY: 2016 <| ALL AMERICAN ROOFING |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 7
+
+ADDRESS:  <| 730 N York Road |>  -- [730 N YORK RD]  {allchicagoland.com}    Occurrence: 6
+
+COMPANY:  <| All Animals Rescue |> and -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com}    Occurrence: 1
+
+COMPANY:  <| All-City Metal |> staff -- [ALL-CITY METAL INC]  {allcitymetal.com}    Occurrence: 2
+
+CITY: and <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 1
+
+COMPANY:  <| All Brite Floors |>  -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 7
+
+COMPANY: to <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 6
+
+COMPANY:  <| All American Turf Beauty |> provides -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 3
+
+COMPANY: , <| Allan Automatic Sprinkler |> of -- [ALLAN AUTOMATIC SPRINKLER CORP]  {allansocal.com}    Occurrence: 2
+
+COMPANY: The <| Alliance Company |> got -- [ALLIANCE CO]  {allco.net}    Occurrence: 2
+
+COMPANY: , <| All Destinations |> is -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 1
+
+COMPANY: with <| All Dogs |> Academy -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+CITY: from <| Dunwoody |> GA -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY:  <| All American Roofing |> – -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 4
+
+COMPANY:  <| All Crane |> Safety -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 2
+
+CITY: St. <| Bethany |> , -- [BETHANY]  {allamericanrfg.com}    Occurrence: 2
+
+CITY: , <| Allegany |> NY -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+STATE: Seattle <| WA |> 98101 -- [WA]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+CITY: Identity <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+ADDRESS:  <| 683 Oakland Park Ave |> . -- [683 OAKLAND PARK AVE]  {allcrane.com}    Occurrence: 3
+
+ZIP: OH <| 44132 |>  -- [44132 2602]  {alldisasters.com}    Occurrence: 2
+
+COMPANY: | <| All American |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 2
+
+COMPANY:  <| All Creatures Animal Hospital |> welcomes -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: Visit <| All Dogs |> Academy -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+CITY: and <| Washington |> , -- [WASHINGTON]  {allangreenberg.com}    Occurrence: 1
+
+COMPANY: of <| Allegheny Installations |> . -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 2
+
+STATE: Hills <| CA |> 92344 -- [CA]  {allamericanrealestate.com}    Occurrence: 5
+
+COMPANY:  <| All Custom Aluminum |> specializes -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com}    Occurrence: 1
+
+COMPANY: 2013 <| All-Bright Systems |>  -- [ALL-BRIGHT SYSTEMS]  {allbrightsystems.com}    Occurrence: 1
+
+COMPANY: , <| All Around Computers |> has -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 1
+
+STATE: Daycare <| NH |>  -- [NH]  {alldogsgym.com}    Occurrence: 2
+
+COMPANY:  <| Allegra Marketing & Print |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}    Occurrence: 2
+
+CITY:  <| Porterville |> , -- [PORTERVILLE]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY:  <| All-City Metal |> can -- [ALL-CITY METAL INC]  {allcitymetal.com}    Occurrence: 2
+
+CITY:  <| Allegany |> FD -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+COMPANY:  <| All Brite Floors , Inc |> . -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 7
+
+COMPANY:  <| ALLAN INDUSTRIES , Inc. |> is -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+CITY: of <| Dunwoody |> and -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: About <| All Dog Yard Cleanup |>  -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com}    Occurrence: 1
+
+CITY:  <| Tucson |> Printing -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY:  <| Allegiant Business Finance |> , -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+STATE: Allegan <| MI |>  -- [MI]  {alleganhospice.com}    Occurrence: 1
+
+STATE: Boarding <| NH |>  -- [NH]  {alldogsgym.com}    Occurrence: 2
+
+COMPANY: joining <| All Covered |> through -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+ZIP: GA <| 30720 |>  -- [30720 3124]  {allchem-inc.com}    Occurrence: 2
+
+CITY:  <| Allegany |> Rescue -- [ALLEGANY]  {allegany.org}    Occurrence: 22
+
+CITY: service <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 3
+
+CITY:  <| Tallahassee |> Awnings -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 1
+
+CITY: Company <| Tucson |>  -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY: , <| Allegiant Technology |> is -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 1
+
+ZIP:  <| 33619 |>  -- [33619 3116]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY:  <| All-City Metal |> ' -- [ALL-CITY METAL INC]  {allcitymetal.com}    Occurrence: 1
+
+CITY: N. <| Batavia |> Ave -- [BATAVIA]  {alldressedupcostumes.com}    Occurrence: 1
+
+COMPANY: operates <| All Creatures Animal Hospital |> . -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: of <| All Area Roofing |> ’ -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY: - <| Allegra Marketing & Print |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}    Occurrence: 8
+
+CITY: the <| New York |> Stock -- [NEW YORK]  {alleghany.com}    Occurrence: 1
+
+COMPANY: Contact <| Wings of Hope Hospice |> Care -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+CITY: ® <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+STATE: , <| NH |> 03103 -- [NH]  {alldogsgym.com}    Occurrence: 1
+
+STATE: Serving <| PA |> , -- [PA]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY:  <| Allegiant Technology |> Infrastructure -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 1
+
+COMPANY: for <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY:  <| All Creatures Animal Hospital |> offers -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY:  <| Allan 's Jewelry & Loan , Inc |> | -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 1
+
+COMPANY: how <| All Covered |> can -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+COMPANY: | <| All Counties Courier |>  -- [ALL COUNTIES COURIER]  {allcountiescourier.com}    Occurrence: 6
+
+STATE: Boise <| ID |> , -- [ID]  {allanmarsh.com}    Occurrence: 390
+
+CITY: Signs <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 8
+
+CITY: , <| Los Angeles |>  -- [LOS ANGELES]  {allcitylimo.com}    Occurrence: 2
+
+COMPANY:  <| All Covered |> has -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+CITY: in <| Tampa |> and -- [TAMPA]  {allarearoofing.com}    Occurrence: 2
+
+STATE: , <| PA |> 15215 -- [PA]  {alleghenyinstallations.com}    Occurrence: 7
+
+CONTACT: , <| Allan Greenberg |> was -- [ALLAN GREENBERG]  {allangreenberg.com}    Occurrence: 1
+
+STATE: , <| NY |> residents -- [NY]  {allcountycorp.com}    Occurrence: 1
+
+COMPANY: with <| Allegiant Business Finance |> , -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+CITY: , <| New York |> 10018 -- [NEW YORK]  {alleghany.com}    Occurrence: 11
+
+COMPANY: , <| All American Roofing |> has -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 2
+
+ZIP: MI <| 49010 |>  -- [49010 1312]  {alleganlaw.com}    Occurrence: 1
+
+CITY: in <| Seattle |> , -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+COMPANY:  <| All Bright Electric |> Location -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {allblackco-llc.com}    Occurrence: 3
+
+COMPANY:  <| All Creatures Animal Hospital |> does -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 8
+
+COMPANY: hiring <| All American Turf Beauty |> , -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+COMPANY: joining <| All Bright Electric |> he -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 1
+
+STATE: - <| CA |>  -- [CA]  {allblackco-llc.com}    Occurrence: 4
+
+COMPANY:  <| All American Turf Beauty |> has -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 2
+
+COMPANY: joining <| All Covered |> , -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+CITY: the <| Allegany |> Police -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+CONTACT:  <| John Lee |> , -- [JOHN LEE]  {allandalefarm.com}    Occurrence: 1
+
+CITY:  <| Allegany |> Engine -- [ALLEGANY]  {allegany.org}    Occurrence: 27
+
+CITY:  <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+COMPANY:  <| Allan Industries , Inc. |> has -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 2
+
+CITY: Allegra <| Tucson |> Blog -- [TUCSON]  {allegra-arizona.com}    Occurrence: 38
+
+CITY: Chevrolet <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+COMPANY:  <| Allandale Farm |> • -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 3
+
+COMPANY: : <| All California Brokerage , Inc. |> is -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+CONTACT: Attorney <| Mike Villar |> if -- [MIKE VILLAR]  {alleganlaw.com}    Occurrence: 3
+
+CITY:  <| Allegany |> Code -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+STATE:  <| PA |> CULINARY -- [PA]  {alleghenyinstallations.com}    Occurrence: 1
+
+CITY:  <| Allegany |> 60 -- [ALLEGANY]  {allegany.org}    Occurrence: 8
+
+COMPANY:  <| All Bright Electric |> 's -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 1
+
+CITY: our <| Costa Mesa |> veterinary -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+COMPANY:  <| All Bay Contractors , Inc |> has -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}    Occurrence: 2
+
+COMPANY: At <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 3
+
+STATE: Tucson <| AZ |>  -- [AZ]  {allegra-arizona.com}    Occurrence: 18
+
+COMPANY:  <| Allan ' s Jewelry & Loan , Inc. |> 130 -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 1
+
+CITY: Management <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+STATE: , <| FL |> 33460 -- [FL]  {allcounty.com}    Occurrence: 5
+
+ADDRESS:  <| 1912 Harbor |> Boulevard -- [1912 HARBOR BLVD]  {allcreaturescarecottage.com}    Occurrence: 1
+
+COMPANY:  <| Wings of Hope Hospice |> helps -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+CITY: of <| Santa Fe |> ( -- [SANTA FE]  {allanhouser.com}    Occurrence: 2
+
+CITY: in <| New York |> and -- [NEW YORK]  {allcovered.com}    Occurrence: 1
+
+CITY: , <| Covington |> GMC -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+COMPANY:  <| All Covered |> Cloud -- [ALL COVERED]  {allcovered.com}    Occurrence: 4
+
+CITY:  <| Lake Worth |> , -- [LAKE WORTH]  {allcounty.com}    Occurrence: 6
+
+STATE: Davie <| FL |> 33325 -- [FL]  {allbrite.net}    Occurrence: 4
+
+COMPANY: Verde <| Law Offices |> is -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}    Occurrence: 1
+
+COMPANY: of <| All City |> Transit -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+CITY:  <| CINCINNATI |> OH -- [CINCINNATI]  {allanpeace.com}    Occurrence: 2
+
+CITY: Print <| Scottsdale |> team -- [SCOTTSDALE]  {allegraaz.com}    Occurrence: 1
+
+COMPANY:  <| Allcounty Plumbing & Heating Corp |> . -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com}    Occurrence: 1
+
+COMPANY: at <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}    Occurrence: 23
+
+COMPANY: to <| Alla Prima Studios |> ! -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com}    Occurrence: 1
+
+COMPANY: Call <| All Around Computers |> ! -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 1
+
+STATE: , <| MA |> ABOUT -- [MA]  {allandalefarm.com}    Occurrence: 2
+
+COMPANY: OF <| ALL CALIFORNIA MORTGAGE |> . -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY: by <| All Dogs Gym |> and -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+STATE: , <| AZ |> from -- [AZ]  {allegra-arizona.com}    Occurrence: 2
+
+CITY: understanding <| Tucson |> ’ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+STATE: Covington <| VA |>  -- [VA]  {alleghanymotors.com}    Occurrence: 2
+
+COMPANY:  <| Allbrite Car Care Products |>  -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com}    Occurrence: 12
+
+COMPANY: at <| All Covered |> . -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+ADDRESS:  <| 725 North Main Street |> , -- [725 N MAIN ST]  {alldiametergrinding.com}    Occurrence: 1
+
+CITY: - <| New York |> City -- [NEW YORK]  {allcityny.com}    Occurrence: 2
+
+CITY: Downtown <| Allegany |>  -- [ALLEGANY]  {allegany.org}    Occurrence: 14
+
+ZIP: GA <| 30338 |>  -- [30338 3051]  {allcreaturesanimalhospital.com}    Occurrence: 10
+
+CITY: : <| Tallahassee |> , -- [TALLAHASSEE]  {allcustomaluminum.com}    Occurrence: 1
+
+STATE: Tucson <| AZ |> : -- [AZ]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY:  <| Allan Peace and Associates |> specializes -- [ALLAN PEACE & ASSOC INC INS]  {allanpeace.com}    Occurrence: 1
+
+CITY: the <| Allegany |> Town -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+ZIP: Ohio <| 44131 |>  -- [44131 2313]  {allcrane.com}    Occurrence: 6
+
+ADDRESS: and <| Allandale Road |> . -- [259 ALLANDALE RD]  {allandalefarm.com}    Occurrence: 1
+
+STATE: , <| AZ |> are -- [AZ]  {allegra-arizona.com}    Occurrence: 1
+
+CITY: , <| Lake Worth |>  -- [LAKE WORTH]  {allcounty.com}    Occurrence: 6
+
+COMPANY: to <| All Animal Care |> . -- [ALL ANIMAL CARE VETERINARY]  {allanimalcare.com}    Occurrence: 1
+
+COMPANY:  <| All California Mortgage |>  -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com}    Occurrence: 2
+
+ADDRESS:  <| 1107 Lake Ave |> , -- [1107 LAKE AVE]  {allcounty.com}    Occurrence: 3
+
+CITY: many <| Cleveland |> landmarks -- [CLEVELAND]  {allcrane.com}    Occurrence: 1
+
+CITY:  <| Seattle |> Factoring -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 4
+
+CITY: Veterinarian <| Costa Mesa |>  -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 6
+
+CITY:  <| Burlingame |> , -- [BURLINGAME]  {allamericantransport.com}    Occurrence: 5
+
+STATE: , <| NM |> 87501 -- [NM]  {allanhouser.com}    Occurrence: 4
+
+CONTACT: Highways <| John Moshier |>  -- [JOHN MOSHIER]  {allegany.org}    Occurrence: 1
+
+CONTACT:  <| Michael and Karolyn Akins |> , -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+CITY:  <| Santa Fe |> , -- [SANTA FE]  {allanhouser.com}    Occurrence: 8
+
+CITY: the <| Ridgefield |> Chamber -- [RIDGEFIELD]  {alldestinations.com}    Occurrence: 1
+
+COMPANY:  <| Allegheny Installations |>  -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 2
+
+ADDRESS:  <| 7809 Old Rockside Rd |> . -- [7809 OLD ROCKSIDE RD]  {allcrane.com}    Occurrence: 3
+
+COMPANY: joined <| All Covered |> in -- [ALL COVERED]  {allcovered.com}    Occurrence: 8
+
+STATE: , <| DC |>  -- [DC]  {allangreenberg.com}    Occurrence: 1
+
+COMPANY: is <| All City Limo |> . -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+CITY:  <| Brea |> , -- [BREA]  {allansocal.com}    Occurrence: 1
+
+COMPANY:  <| All American Trucking & Transport |>  -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}    Occurrence: 5
+
+CITY: that <| Cincinnati |> employers -- [CINCINNATI]  {allanpeace.com}    Occurrence: 2
+
+COMPANY:  <| All American Turf Beauty |> also -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+CITY: of <| Allegany |> which -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+COMPANY:  <| All Diameter Grinding |> : -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com}    Occurrence: 3
+
+COMPANY:  <| Allan Houser |> Gallery -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 4
+
+CITY:  <| Allegan |> Location -- [ALLEGAN]  {alleganlaw.com}    Occurrence: 1
+
+COMPANY:  <| All Claims Repairs |> is -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}    Occurrence: 2
+
+CITY: local <| Covington |> Chevrolet -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+CITY:  <| Alexandria |> , -- [ALEXANDRIA]  {allangarnaas.com}    Occurrence: 1
+
+STATE: Jose <| CA |> 95157 -- [CA]  {alldogyardcleanup.com}    Occurrence: 1
+
+ZIP: CA <| 92627 |>  -- [92627 2669]  {allcreaturescarecottage.com}    Occurrence: 4
+
+STATE: , <| MN |> 55402 -- [MN]  {allegraplymouth.com}    Occurrence: 5
+
+STATE: Dunwoody <| GA |> Veterinary -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+ADDRESS:  <| 1912 Harbor Blvd |> , -- [1912 HARBOR BLVD]  {allcreaturescarecottage.com}    Occurrence: 8
+
+CITY: make <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 8
+
+COMPANY:  <| All Area Roofing |> ’ -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY: of <| All Dog Yard Cleanup |> and -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY: At <| ALL Erection & Crane Rental |> Corporation -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 2
+
+COMPANY:  <| All Bay Contractors , Inc |> . -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}    Occurrence: 3
+
+STATE:  <| AR |> 72117 -- [AR]  {allampoly.com}    Occurrence: 2
+
+STATE: , <| NY |> , -- [NY]  {allcountycorp.com}    Occurrence: 2
+
+CITY: , <| CINCINNATI |> , -- [CINCINNATI]  {allanpeace.com}    Occurrence: 1
+
+CITY: of <| Allegany |>  -- [ALLEGANY]  {allegany.org}    Occurrence: 43
+
+CITY: Displays <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+COMPANY:  <| ALL-CITY METAL |>  -- [ALL-CITY METAL INC]  {allcitymetal.com}    Occurrence: 1
+
+STATE: , <| NY |> 14706 -- [NY]  {allegany.org}    Occurrence: 16
+
+ADDRESS:  <| 3233 Enterprise Street |>  -- [3233 ENTERPRISE ST]  {allansocal.com}    Occurrence: 1
+
+CITY: • <| Hackensack |> Area -- [HACKENSACK]  {allclearplumbing.com}    Occurrence: 1
+
+CITY: Signs <| Tucson |> : -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY:  <| All American Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}    Occurrence: 1
+
+COMPANY: AT <| ALL DOGS GYM |>  -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY: Of <| ALL Erection & Crane Rental |> Corp -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 2
+
+COMPANY:  <| All Bright Electric |> ' -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 1
+
+COMPANY:  <| All City Floor Company |> , -- [ALL CITY FLOOR CO]  {allcityfloors.com}    Occurrence: 1
+
+COMPANY: at <| Allan Industries , Inc. |> gets -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY: joining <| All Bright Electric |> , -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com}    Occurrence: 1
+
+ADDRESS:  <| 130 Algonquin |> Parkway -- [130 ALGONQUIN PKWY]  {allanbriteway.com}    Occurrence: 1
+
+COMPANY:  <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 2
+
+CONTACT:  <| Laura Morales |>  -- [LAURA MORALES]  {alldogyardcleanup.com}    Occurrence: 5
+
+CITY: | <| Costa Mesa |> Vets -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 6
+
+STATE: , <| NY |>  -- [NY]  {allegany.org}    Occurrence: 8
+
+COMPANY:  <| All Covered |> develops -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+ZIP:  <| 85713 |>  -- [85713 1752]  {allegra-arizona.com}    Occurrence: 19
+
+CITY: in <| Los Angeles |> county -- [LOS ANGELES]  {allcitylimo.com}    Occurrence: 1
+
+COMPANY: of <| Allegiant Business Finance , LLC |> . -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+STATE: , <| AR |> 72117 -- [AR]  {allampoly.com}    Occurrence: 5
+
+COMPANY:  <| All Book Covers |> Virtual -- [ALL BOOK COVERS INC]  {allbookcovers.com}    Occurrence: 2
+
+COMPANY:  <| All City Limo |>  -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 4
+
+STATE: in <| CA |> become -- [CA]  {allbritten.com}    Occurrence: 1
+
+CITY:  <| Allegany |> Complete -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+CITY:  <| Allegany |> Village -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+STATE: , <| CA |>  -- [CA]  {allamericanrealestate.com}    Occurrence: 37
+
+COMPANY:  <| Alla Prima Studios |> is -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com}    Occurrence: 1
+
+STATE: , <| FL |> | -- [FL]  {allcounty.com}    Occurrence: 6
+
+COMPANY: | <| All Claims Repairs |>  -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com}    Occurrence: 2
+
+COMPANY: trusted <| All Covered |> resources -- [ALL COVERED]  {allcovered.com}    Occurrence: 4
+
+STATE: , <| CA |> 94541 -- [CA]  {allcreditcardservices.com}    Occurrence: 1
+
+COMPANY:  <| All Area Roofing |> is -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 3
+
+STATE: , <| CA |> 94010 -- [CA]  {allamericantransport.com}    Occurrence: 5
+
+COMPANY:  <| Allan Marsh Marine , RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}    Occurrence: 52
+
+COMPANY: considering <| All City Limo |> your -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+STATE: Dunwoody <| GA |> Veterinarian -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY: so <| Wings of Hope Hospice |> offers -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+STATE: , <| CA |>  -- [CA]  {allco.net}    Occurrence: 4
+
+COMPANY: to <| All Dogs Gym |> & -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Hosted -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+CONTACT: , <| Michael Akins |> owns -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY:  <| All American Real Estate Company |>  -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com}    Occurrence: 3
+
+CITY: , <| Calhoun |> , -- [CALHOUN]  {allanimalcare.com}    Occurrence: 2
+
+ADDRESS:  <| 600 University Street |> , -- [600 UNIVERSITY ST # 2800]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+COMPANY:  <| Allandale Farm |> is -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 2
+
+COMPANY:  <| All Covered |> Procurement -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| Allandale Farm |> Chestnut -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 6
+
+CITY:  <| Allegany |> State -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+COMPANY: At <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+STATE: , <| AL |> 36830 -- [AL]  {allaroundcomputers.com}    Occurrence: 1
+
+STATE: Houston <| TX |> All -- [TX]  {allbritefloors.com}    Occurrence: 2
+
+COMPANY: of <| All Clean Chem-Dry |> . -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY: 2016 <| Wings of Hope Hospice |> | -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 5
+
+CITY: call <| Dunwoody |> and -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY:  <| Allan Marsh Boat |> RV -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com}    Occurrence: 1
+
+CITY: , <| Orange |> , -- [ORANGE]  {alldiametergrinding.com}    Occurrence: 3
+
+COMPANY: 2014 <| Alla Prima Studios |>  -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com}    Occurrence: 4
+
+CITY:  <| Oregon |> , -- [OREGON]  {allcrane.com}    Occurrence: 3
+
+CITY: , <| Brooklyn |> NY -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 8
+
+ZIP: WA <| 98101 |>  -- [98101 1176]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+COMPANY: Contact <| Allan Industries , Inc |> . -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY: 2004 <| Allcity Properties |> Corp. -- [ALLCITY PROPERTIES]  {allcityny.com}    Occurrence: 1
+
+COMPANY: at <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 8
+
+COMPANY:  <| All Animal Care |> - -- [ALL ANIMAL CARE VETERINARY]  {allanimalcare.com}    Occurrence: 2
+
+COMPANY: about <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85251 -- [AZ]  {allegraaz.com}    Occurrence: 6
+
+CITY: , <| Dunwoody |> GA -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 16
+
+COMPANY: with <| ALL Erection & Crane Rental |> Corp. -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 1
+
+COMPANY: various <| All Covered |> services -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: Call <| All Around Computers |> Today -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 4
+
+ADDRESS:  <| 20 South Quaker Lane , Suite 300 |>  -- [20 S QUAKER LN # 300]  {allangarnaas.com}    Occurrence: 1
+
+COMPANY: , <| All American |> has -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 1
+
+COMPANY:  <| All American Sports Center |>  -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com}    Occurrence: 2
+
+ZIP: Virginia <| 22314 |>  -- [22314 4500]  {allangarnaas.com}    Occurrence: 1
+
+COMPANY: to <| All Covered |> when -- [ALL COVERED]  {allcovered.com}    Occurrence: 4
+
+ZIP:  <| 83714 |>  -- [83714 6343]  {allanmarsh.com}    Occurrence: 12
+
+CITY:  <| Santa Fe Springs |> , -- [SANTA FE SPRINGS]  {allblackco-llc.com}    Occurrence: 1
+
+COMPANY: contacting <| Allan ' s Jewelry & Loan |> . -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 1
+
+ADDRESS: - <| 505 Sheffield Road |> - -- [505 SHEFFIELD RD]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY: out <| All Dressed Up |> on -- [ALL DRESSED UP]  {alldressedupcostumes.com}    Occurrence: 1
+
+STATE: , <| VA |> GMC -- [VA]  {alleghanymotors.com}    Occurrence: 5
+
+COMPANY: & <| Crane Rental |> , -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 13
+
+COMPANY:  <| All American Rentals |>  -- [ALL AMERICAN RENTALS INC]  {allamericanrentals.com}    Occurrence: 2
+
+CITY: , <| Houston |> , -- [HOUSTON]  {allaprimastudios.com}    Occurrence: 1
+
+COMPANY:  <| All Clean Chem-Dry |> is -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 2
+
+COMPANY: call <| All Chicagoland Moving |> and -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com}    Occurrence: 1
+
+COMPANY: as <| All Covered |> ' -- [ALL COVERED]  {allcovered.com}    Occurrence: 3
+
+COMPANY: | <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 12
+
+ADDRESS: at <| 1912 Harbor Blvd |> , -- [1912 HARBOR BLVD]  {allcreaturescarecottage.com}    Occurrence: 5
+
+ADDRESS:  <| 1300 S. Park Ave. |> , -- [1300 S PARK AVE]  {allegra-arizona.com}    Occurrence: 19
+
+COMPANY:  <| ALL DIAMETER GRINDING |> IS -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com}    Occurrence: 2
+
+ADDRESS:  <| 6701 NW 50th St |>  -- [6701 NW 50TH ST]  {allamericanrfg.com}    Occurrence: 7
+
+STATE: , <| AZ |>  -- [AZ]  {allegraaz.com}    Occurrence: 2
+
+COMPANY:  <| All Covered |> can -- [ALL COVERED]  {allcovered.com}    Occurrence: 10
+
+STATE: , <| MI |> 49010 -- [MI]  {alleganhospice.com}    Occurrence: 6
+
+CITY:  <| Allegany |> Community -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+CITY:  <| Boise |>  -- [BOISE]  {allanmarsh.com}    Occurrence: 6
+
+STATE: , <| TX |>  -- [TX]  {allbritefloors.com}    Occurrence: 2
+
+COMPANY: The <| Allan Houser |> Foundation -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 2
+
+ADDRESS: | <| 100 Snake Hill Rd |> , -- [100 SNAKE HILL RD]  {allbrightelectric.com}    Occurrence: 6
+
+CITY:  <| Covington |> and -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY:  <| All Clean Chem-Dry |>  -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 7
+
+CITY: Floors <| Houston |> TX -- [HOUSTON]  {allbritefloors.com}    Occurrence: 2
+
+ADDRESS:  <| 530 Linn Street |> , -- [530 LINN ST # A]  {alleganhospice.com}    Occurrence: 5
+
+STATE: INDIANA <| PA |>  -- [PA]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY:  <| Allegheny Installations |> Inc. -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 6
+
+COMPANY: 2004 <| All American Supply |>  -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 4
+
+COMPANY:  <| All Dogs Gym |> in -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 1
+
+COMPANY: , <| All Covered |> offers -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: and <| All Covered |> ' -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CONTACT:  <| Allan Peace |> , -- [ALLAN PEACE]  {allanpeace.com}    Occurrence: 1
+
+COMPANY: considering <| All American Trucking & Transport |> , -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com}    Occurrence: 1
+
+COMPANY: Call <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 3
+
+COMPANY: 2016 <| ALL Erection & Crane Rental |> Corp. -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 8
+
+COMPANY: to <| Allegiant Technology |> . -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 1
+
+COMPANY: 2016 <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 5
+
+COMPANY:  <| Jeffers Crane Service |> , -- [JEFFERS CRANE SVC]  {allcrane.com}    Occurrence: 9
+
+CITY: Control <| Fort Worth |> , -- [FORT WORTH]  {alldeadpestcontrol.com}    Occurrence: 4
+
+COMPANY: on <| All Covered |> ' -- [ALL COVERED]  {allcovered.com}    Occurrence: 2
+
+CITY: , <| Phoenix |> , -- [PHOENIX]  {allanimalsrescue.com}    Occurrence: 5
+
+COMPANY:  <| ALLEGIANT BUSINESS FINANCE |> . -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+COMPANY: , <| Allan Greenberg : Classical Architect |> . -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com}    Occurrence: 1
+
+ADDRESS: 4033 <| W. Chinden Blvd |> Boise -- [4195 W CHINDEN BLVD]  {allanmarsh.com}    Occurrence: 6
+
+STATE: , <| CO |>  -- [CO]  {allcityfloors.com}    Occurrence: 1
+
+CITY:  <| New York |> , -- [NEW YORK]  {alleghany.com}    Occurrence: 11
+
+CITY: in <| Tucson |> . -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+CITY: Services <| Lake Worth |> , -- [LAKE WORTH]  {allcounty.com}    Occurrence: 3
+
+ZIP: MI <| 49010 |>  -- [49010 1525]  {alleganhospice.com}    Occurrence: 6
+
+STATE: , <| GA |> 30338 -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 10
+
+CITY:  <| Columbus |> , -- [COLUMBUS]  {allcrane.com}    Occurrence: 3
+
+ZIP: NY <| 10994 |> â -- [10994 1628]  {allbrightelectric.com}    Occurrence: 3
+
+COMPANY: for <| All Covered |> , -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+STATE: , <| CO |> 80239 -- [CO]  {allcityfloors.com}    Occurrence: 1
+
+CONTACT: is <| Laura Morales |> , -- [LAURA MORALES]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY:  <| Allbright Asset Management Inc |> . -- [ALLBRIGHT ASSET MANAGEMENT INC]  {allbright-inc.com}    Occurrence: 2
+
+COMPANY: 1999 <| All Diameter Grinding , Inc. |> All -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com}    Occurrence: 1
+
+COMPANY: | <| Allan Industries |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 18
+
+COMPANY: , <| All American Roofing |> , -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 1
+
+COMPANY:  <| ALL Sunshine Crane Rental |> Corporation -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+CITY: , <| Anderson |> , -- [ANDERSON]  {allans.com}    Occurrence: 1
+
+CITY: to <| Allegany |> , -- [ALLEGANY]  {allegany.org}    Occurrence: 2
+
+COMPANY: , <| All Covered |> is -- [ALL COVERED]  {allcovered.com}    Occurrence: 4
+
+COMPANY: additional <| Wings of Hope Hospice |> grief -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY: Offices <| All Area Roofing |> & -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+CITY:  <| Tucson |>  -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+ADDRESS:  <| 437 N. Hamilton St |> . -- [437 N HAMILTON ST]  {allchem-inc.com}    Occurrence: 2
+
+COMPANY:  <| All Bay Contractors , Inc. |> — -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}    Occurrence: 3
+
+COMPANY:  <| All Dog Yard Cleanup |> has -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY:  <| ALL-DADE DRILLING |>  -- [ALL-DADE DRILLING CORP]  {alldade.com}    Occurrence: 1
+
+ZIP: CA <| 94939 |> ( -- [94939 1736]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY:  <| Allblack Co |> . -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 1
+
+COMPANY:  <| All American turf Beauty |> ’ -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+CITY: throughout <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 1
+
+CITY:  <| North Little Rock |> , -- [N LITTLE ROCK]  {allampoly.com}    Occurrence: 8
+
+COMPANY: Difference <| All American Roofing |> Makes -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 1
+
+ZIP: Ohio <| 44131 |> . -- [44131 2313]  {allcrane.com}    Occurrence: 8
+
+COMPANY: - <| All Chicagoland Moving |> and -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com}    Occurrence: 12
+
+CITY: Service <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 19
+
+COMPANY:  <| Alla Prima Studios |> offers -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com}    Occurrence: 1
+
+COMPANY:  <| All Seasons Camera |> buys -- [ALL SEASONS CAMERA]  {allcamera.com}    Occurrence: 1
+
+CITY: Commitment <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+COMPANY: | <| All Disaster |> Services -- [ALL DISASTER SVC]  {alldisasters.com}    Occurrence: 6
+
+CITY: the <| Porterville |> community -- [PORTERVILLE]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY:  <| All Counties Courier |>  -- [ALL COUNTIES COURIER]  {allcountiescourier.com}    Occurrence: 2
+
+CITY: of <| Allegany |> Economic -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+CONTACT: - <| Jitu Jhaveri |> ( -- [JITU JHAVERI]  {allbriteusa.com}    Occurrence: 1
+
+ADDRESS: 1590 <| Rollins Road |>  -- [1512 ROLLINS RD]  {allamericantransport.com}    Occurrence: 5
+
+CONTACT: : <| Allan Peace |> , -- [ALLAN PEACE]  {allanpeace.com}    Occurrence: 2
+
+STATE: , <| NY |> - -- [NY]  {allcountycorp.com}    Occurrence: 4
+
+COMPANY: with <| Allegra Print |> • -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 1
+
+ADDRESS:  <| 3639 N. Marshall Way |>  -- [3639 N MARSHALL WAY]  {allegraaz.com}    Occurrence: 6
+
+CITY: , <| New York |> , -- [NEW YORK]  {allcovered.com}    Occurrence: 1
+
+CITY: in <| Dalton |> , -- [DALTON]  {allchem-inc.com}    Occurrence: 1
+
+COMPANY:  <| All Counties Funding |> , -- [ALL COUNTIES FUNDING]  {allcountiesfunding.com}    Occurrence: 2
+
+CITY:  <| Dunwoody |> Petland -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+STATE: , <| CA |> 91706 -- [CA]  {allancompany.com}    Occurrence: 1
+
+CITY:  <| Marietta |> , -- [MARIETTA]  {allcrane.com}    Occurrence: 3
+
+STATE: , <| WI |> Jan. -- [WI]  {allcanada.com}    Occurrence: 3
+
+ADDRESS: Inc. <| 130 E. 10th Street |> , -- [130 E 10TH ST]  {allans.com}    Occurrence: 1
+
+COMPANY:  <| Allegra - Print |> Marketing -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com}    Occurrence: 6
+
+COMPANY:  <| All Area Roofing |> and -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY:  <| All Discount Insurance |> | -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com}    Occurrence: 1
+
+CITY: , <| NEW YORK |> , -- [NEW YORK]  {allcityny.com}    Occurrence: 1
+
+COMPANY: `` <| All Clean |> Chemdry -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY:  <| All Brite Floors |> ' -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 1
+
+COMPANY: or <| Allan Peace & Associates |> see -- [ALLAN PEACE & ASSOC INC INS]  {allanpeace.com}    Occurrence: 1
+
+CITY: Floors <| Denver |> , -- [DENVER]  {allcityfloors.com}    Occurrence: 1
+
+ADDRESS:  <| 17960 State Route 7 |>  -- [17960 STATE ROUTE 7]  {allcrane.com}    Occurrence: 3
+
+COMPANY: Contact <| ALL Erection & Crane Rental |> Corp. -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 6
+
+COMPANY:  <| All Around Computers |> is -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 2
+
+COMPANY: using <| All Clean |> Chemdry -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY: | <| All Creatures Animal Hospital |> | -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY: | <| All American Roofing |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com}    Occurrence: 4
+
+STATE: , <| VA |> BUICK -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+ZIP: OK <| 73008 |>  -- [73008 2614]  {allamericanrfg.com}    Occurrence: 2
+
+COMPANY:  <| All Covered |> makes -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85301 -- [AZ]  {allanimalsrescue.com}    Occurrence: 1
+
+CITY: in <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+CITY:  <| Batavia |> , -- [BATAVIA]  {alldressedupcostumes.com}    Occurrence: 1
+
+COMPANY:  <| All Creatures Care Cottage |> Veterinary -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com}    Occurrence: 11
+
+CITY: , <| Los Angeles |> , -- [LOS ANGELES]  {allcitylimo.com}    Occurrence: 1
+
+ZIP: hospital <| 92627 |> , -- [92627 2669]  {allcreaturescarecottage.com}    Occurrence: 5
+
+COMPANY: with <| Allan Industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY:  <| All Creatures Animal Hospital |> ’ -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY:  <| Allan Industries , Inc. |> Professional -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 11
+
+STATE: , <| AZ |> 85713 -- [AZ]  {allegra-arizona.com}    Occurrence: 8
+
+COMPANY:  <| Allan Industries , Inc. |> offers -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 2
+
+COMPANY: at <| Allan Industries , Inc |> . -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+CITY: Banners <| Tucson |> AZ -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+STATE: , <| AZ |> region -- [AZ]  {allegra-arizona.com}    Occurrence: 1
+
+ADDRESS: : <| 600 University Street |> , -- [600 UNIVERSITY ST # 2800]  {allegiantbusinessfinance.com}    Occurrence: 2
+
+ADDRESS:  <| 141 Brady Street |>  -- [141 BRADY ST]  {alleganlaw.com}    Occurrence: 1
+
+CITY: from <| Seattle |> University -- [SEATTLE]  {allegiantbusinessfinance.com}    Occurrence: 1
+
+COMPANY:  <| ALL Tower Crane |> LLC -- [ALL CRANE RENTAL]  {allcrane.com}    Occurrence: 3
+
+CITY: the <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+CITY: the <| Allegany |> , -- [ALLEGANY]  {allegany.org}    Occurrence: 1
+
+COMPANY: , <| All American |> can -- [ALL AMERICAN SUPPLY]  {allamericansupply.com}    Occurrence: 1
+
+COMPANY:  <| All Brite Floors |> is -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 2
+
+CITY:  <| Elmhurst |> , -- [ELMHURST]  {allchicagoland.com}    Occurrence: 12
+
+COMPANY: of <| Allan Peace & Associates |> blogs -- [ALLAN PEACE & ASSOC INC INS]  {allanpeace.com}    Occurrence: 1
+
+COMPANY:  <| All California Brokerage , Inc |> . -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+COMPANY:  <| ALLAN INDUSTRIES |> is -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY:  <| All Discount Insurance |> Services -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com}    Occurrence: 1
+
+COMPANY:  <| All Clean Chem-Dry |> offers -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+CITY: in <| Covington |> is -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY: by <| Allandale Farm |> ( -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 1
+
+COMPANY: Verde <| Law Offices |> - -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}    Occurrence: 2
+
+CITY: 9894 <| San Jose |> CA -- [SAN JOSE]  {alldogyardcleanup.com}    Occurrence: 1
+
+COMPANY: To <| All Brite Floors |>  -- [ALL BRITE FLOORS INC]  {allbritefloors.com}    Occurrence: 1
+
+STATE: , <| NY |> 10994 -- [NY]  {allbrightelectric.com}    Occurrence: 3
+
+ZIP: Ohio <| 43224 |>  -- [43224 3999]  {allcrane.com}    Occurrence: 3
+
+CONTACT:  <| Allan Marsh |> Showroom -- [ALLAN MARSH]  {allanmarsh.com}    Occurrence: 6
+
+COMPANY:  <| Allan Erdy Escrow |> Home -- [ALLAN ERDY ESCROW]  {allanerdyescrow.com}    Occurrence: 2
+
+COMPANY: to <| All Creatures Animal Hospital |>  -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 3
+
+CITY: St <| Porterville |> , -- [PORTERVILLE]  {allcreaturespetcare.com}    Occurrence: 1
+
+COMPANY: - <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 4
+
+COMPANY: 2013 <| Allbrite Car Care Products |> Inc -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com}    Occurrence: 5
+
+CITY: of <| Allegany |> Zoning -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+STATE: , <| OK |> 74145 -- [OK]  {allamericanrfg.com}    Occurrence: 2
+
+ZIP: Texas <| 76133 |> , -- [76133 7809]  {alldeadpestcontrol.com}    Occurrence: 4
+
+COMPANY:  <| Allan Garnaas Associates |> - -- [ALLAN D GARNAAS & ASSOC]  {allangarnaas.com}    Occurrence: 2
+
+CITY: the <| Tucson |> area -- [TUCSON]  {allegra-arizona.com}    Occurrence: 2
+
+CITY: in <| Tucson |> , -- [TUCSON]  {allegra-arizona.com}    Occurrence: 21
+
+COMPANY:  <| Allegiant Technology |> uses -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 1
+
+STATE: , <| OH |> 44132 -- [OH]  {alldisasters.com}    Occurrence: 2
+
+CITY:  <| Whippany |> , -- [WHIPPANY]  {allanbriteway.com}    Occurrence: 1
+
+COMPANY: , <| All City Floor Company |> is -- [ALL CITY FLOOR CO]  {allcityfloors.com}    Occurrence: 1
+
+COMPANY:  <| All City Limo |> , -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+STATE: southwest <| MI |> . -- [MI]  {alleganhospice.com}    Occurrence: 1
+
+COMPANY: The <| Allan Houser |> Archive -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 2
+
+CITY: for <| Dunwoody |> & -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: Core <| All Covered |> Partners -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| Allan ' s Jewelry & Loan , Inc |> | -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com}    Occurrence: 1
+
+CONTACT: is <| Michael Toole |> and -- [MICHAEL TOOLE]  {alleghenyinstallations.com}    Occurrence: 1
+
+CITY: of <| Lake Worth |> , -- [LAKE WORTH]  {allcounty.com}    Occurrence: 3
+
+COMPANY: , <| Allan Greenberg Architect |> , -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com}    Occurrence: 1
+
+COMPANY:  <| Allan Greenberg Architect |>  -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com}    Occurrence: 3
+
+CITY: in <| Allegany |>  -- [ALLEGANY]  {allegany.org}    Occurrence: 21
+
+COMPANY: sets <| All Creatures Animal Hospital |> apart -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+COMPANY: at <| All City Limo |> we -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 1
+
+CITY:  <| Houston |> , -- [HOUSTON]  {allbritefloors.com}    Occurrence: 4
+
+STATE: , <| WI |>  -- [WI]  {allcanada.com}    Occurrence: 2
+
+COMPANY: , <| All Covered |> helps -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY: — <| Allegiant Technology |>  -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 1
+
+CITY: Chevrolet <| Covington |> VA -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY: with <| All Clean |> . -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com}    Occurrence: 1
+
+COMPANY:  <| All Bay Contractors , Inc |> - -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}    Occurrence: 4
+
+CITY:  <| Hackensack |>  -- [HACKENSACK]  {allclearplumbing.com}    Occurrence: 1
+
+CITY: , <| Larkspur |> , -- [LARKSPUR]  {allcalifornia.com}    Occurrence: 1
+
+COMPANY:  <| Allblack Co. |> provides -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 1
+
+COMPANY:  <| All Chicagoland Moving |> & -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com}    Occurrence: 7
+
+STATE: , <| TX |> 77041 -- [TX]  {allbritefloors.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |>  -- [ALL COVERED]  {allcovered.com}    Occurrence: 42
+
+COMPANY: | <| All-Bright Systems |> ALL -- [ALL-BRIGHT SYSTEMS]  {allbrightsystems.com}    Occurrence: 2
+
+COMPANY: , <| Allandale Farm |> is -- [ALLANDALE FARM]  {allandalefarm.com}    Occurrence: 1
+
+CITY: around <| Tucson |> are -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+ADDRESS:  <| 799 Coney Island Ave |> , -- [799 CONEY ISLAND AVE]  {allcountycorp.com}    Occurrence: 8
+
+STATE: Atlanta <| GA |> . -- [GA]  {allcreaturesanimalhospital.com}    Occurrence: 1
+
+STATE: Realty <| AZ |>  -- [AZ]  {allegiancerealty.com}    Occurrence: 3
+
+COMPANY: At <| Allan industries , Inc. |> , -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY:  <| All Disaster |> Services -- [ALL DISASTER SVC]  {alldisasters.com}    Occurrence: 19
+
+STATE: Seattle <| WA |> , -- [WA]  {allegiantbusinessfinance.com}    Occurrence: 2
+
+COMPANY:  <| All American Rentals |> offers -- [ALL AMERICAN RENTALS INC]  {allamericanrentals.com}    Occurrence: 1
+
+STATE: , <| NY |> . -- [NY]  {allcovered.com}    Occurrence: 1
+
+CITY: flooring <| Denver |> , -- [DENVER]  {allcityfloors.com}    Occurrence: 1
+
+COMPANY: the <| ALL Erection & Crane Rental |> Corp -- [ALL ERECTION & CRANE RENTAL]  {allcrane.com}    Occurrence: 1
+
+COMPANY: Verde <| Law Offices |> , -- [ALLEGAN LAW OFFICES]  {alleganlaw.com}    Occurrence: 4
+
+STATE: Covington <| VA |> , -- [VA]  {alleghanymotors.com}    Occurrence: 3
+
+COMPANY: the <| Allegra Marketing & Print |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com}    Occurrence: 1
+
+COMPANY: , <| All Disaster |> Services -- [ALL DISASTER SVC]  {alldisasters.com}    Occurrence: 1
+
+COMPANY: , <| All Destinations |> Travel -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> offers -- [ALL COVERED]  {allcovered.com}    Occurrence: 4
+
+COMPANY: , <| All Area Roofing |> is -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+STATE: Denver <| CO |>  -- [CO]  {allcityfloors.com}    Occurrence: 2
+
+STATE: , <| VA |> . -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+CITY: Signs <| Tucson |> to -- [TUCSON]  {allegra-arizona.com}    Occurrence: 1
+
+CITY: & <| Los Angeles |> Convention -- [LOS ANGELES]  {allcitylimo.com}    Occurrence: 1
+
+CITY: | <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 2
+
+STATE: Hailey <| ID |> , -- [ID]  {allanmarsh.com}    Occurrence: 8
+
+CITY: in <| Covington |> SERVING -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY: , <| All Seasons Camera |>  -- [ALL SEASONS CAMERA]  {allcamera.com}    Occurrence: 1
+
+STATE: Ontario <| ID |> , -- [ID]  {allanmarsh.com}    Occurrence: 8
+
+STATE: Falls <| ID |>  -- [ID]  {allanmarsh.com}    Occurrence: 8
+
+COMPANY:  <| All Bay Contractors , Inc |>  -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com}    Occurrence: 4
+
+COMPANY: 2015 <| All California Brokerage , Inc. |> and -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 1
+
+CITY: , <| Allegan |> , -- [ALLEGAN]  {alleganhospice.com}    Occurrence: 7
+
+COMPANY: 2014 <| All City Limo |> , -- [ALL CITY LIMO]  {allcitylimo.com}    Occurrence: 4
+
+ZIP:  <| 73008 |>  -- [73008 2614]  {allamericanrfg.com}    Occurrence: 7
+
+COMPANY: the <| All Creatures Animal Hospital |> team -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+CITY: Farm <| Chestnut Hill |> , -- [CHESTNUT HILL]  {allandalefarm.com}    Occurrence: 6
+
+CITY: repair <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 3
+
+STATE: , <| CA |> 92675 -- [CA]  {allco.net}    Occurrence: 1
+
+COMPANY:  <| All Dogs |> Academy -- [ALL DOGS GYM]  {alldogsgym.com}    Occurrence: 3
+
+CITY: • <| Denver |> , -- [DENVER]  {allcityfloors.com}    Occurrence: 1
+
+COMPANY:  <| Allegra Print |> Mail -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com}    Occurrence: 10
+
+CITY:  <| Allegany |> Police -- [ALLEGANY]  {allegany.org}    Occurrence: 8
+
+STATE: , <| AZ |>  -- [AZ]  {allegra-arizona.com}    Occurrence: 134
+
+COMPANY: services <| All Area Roofing |> does -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+CONTACT: | <| Glenn Zimmerman |> , -- [GLENN ZIMMERMAN]  {allamericanrealestate.com}    Occurrence: 4
+
+STATE: , <| FL |> , -- [FL]  {allcounty.com}    Occurrence: 3
+
+COMPANY: At <| All Discount Insurance |> Services -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com}    Occurrence: 1
+
+COMPANY:  <| Crane Service |> Crane -- [JEFFERS CRANE SVC]  {allcrane.com}    Occurrence: 4
+
+CONTACT: Dr. <| Michael Akins |> , -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com}    Occurrence: 2
+
+COMPANY: its <| All Covered |> IT -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+ZIP: CA <| 92627 |> | -- [92627 2669]  {allcreaturescarecottage.com}    Occurrence: 10
+
+COMPANY:  <| All Around Computers |>  -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 12
+
+CITY: , <| Van Meter |> , -- [VAN METER]  {allamericanturf.com}    Occurrence: 1
+
+CITY: Clinic <| Costa Mesa |> : -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 3
+
+COMPANY:  <| All Animal Care |>  -- [ALL ANIMAL CARE VETERINARY]  {allanimalcare.com}    Occurrence: 3
+
+ZIP: AR <| 72117 |>  -- [72117 4105]  {allampoly.com}    Occurrence: 7
+
+STATE: Olympia <| WA |>  -- [WA]  {allegiantbusinessfinance.com}    Occurrence: 3
+
+COMPANY: of <| All Destinations Inc. |> for -- [ALL DESTINATIONS INC]  {alldestinations.com}    Occurrence: 1
+
+COMPANY: 2016 <| Allegiant Technology |> All -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com}    Occurrence: 6
+
+ZIP: AZ <| 85713 |>  -- [85713 1752]  {allegra-arizona.com}    Occurrence: 12
+
+COMPANY:  <| Allblack Co. |> offers -- [ALLBLACK CO]  {allblackco-llc.com}    Occurrence: 2
+
+CITY:  <| Allegany |> Officers -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+CITY: Electrican <| Coral Springs |>  -- [CORAL SPRINGS]  {allbrite.net}    Occurrence: 3
+
+COMPANY:  <| All Dressed Up |>  -- [ALL DRESSED UP]  {alldressedupcostumes.com}    Occurrence: 1
+
+CITY: the <| Covington |> , -- [COVINGTON]  {alleghanymotors.com}    Occurrence: 1
+
+COMPANY: of <| All Custom Aluminum |>  -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com}    Occurrence: 1
+
+ZIP: CA <| 93257 |> , -- [93257 9286]  {allcreaturespetcare.com}    Occurrence: 1
+
+ZIP: NM <| 87123 |>  -- [87123 3328]  {allamericansupply.com}    Occurrence: 4
+
+ZIP: CO <| 80239 |> • -- [80239 2718]  {allcityfloors.com}    Occurrence: 1
+
+COMPANY: - <| All Covered |>  -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+CITY:  <| Cincinnati |> PES -- [CINCINNATI]  {allanpeace.com}    Occurrence: 1
+
+STATE: WESTERN <| PA |> SCHOOL -- [PA]  {alleghenyinstallations.com}    Occurrence: 1
+
+CITY: , <| Elmhurst |> , -- [ELMHURST]  {allchicagoland.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {allcalifornia.com}    Occurrence: 1
+
+CITY: - <| Allegany |> , -- [ALLEGANY]  {allegany.org}    Occurrence: 7
+
+CITY: of <| Costa Mesa |> have -- [COSTA MESA]  {allcreaturescarecottage.com}    Occurrence: 1
+
+COMPANY:  <| All Covered |> Enhanced -- [ALL COVERED]  {allcovered.com}    Occurrence: 1
+
+COMPANY:  <| Allan Houser |> : -- [ALLAN HOUSER INC]  {allanhouser.com}    Occurrence: 2
+
+COMPANY: - <| Allan Greenberg Architect |>  -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com}    Occurrence: 6
+
+COMPANY: 2014 <| All Around Computers |> , -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 5
+
+ADDRESS:  <| 31815 Camino Capistrano Suite 21 |>  -- [31815 CAMINO CAPISTRANO # 21]  {allco.net}    Occurrence: 1
+
+CONTACT:  <| Michael Toole |> 3rd -- [MICHAEL TOOLE]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY: bt <| Allbrite Electrical Service Contractor |> serving -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net}    Occurrence: 1
+
+COMPANY:  <| All Animals Rescue |> not -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com}    Occurrence: 2
+
+COMPANY: enabled <| All Area Roofing |> , -- [ALL AREA ROOFING]  {allarearoofing.com}    Occurrence: 1
+
+COMPANY: how <| Allan Industries |> ’ -- [ALLAN INDUSTRIES INC]  {allanindustries.com}    Occurrence: 1
+
+COMPANY:  <| All Around Computers |> was -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com}    Occurrence: 1
+
+COMPANY:  <| All Counties Courier |> , -- [ALL COUNTIES COURIER]  {allcountiescourier.com}    Occurrence: 1
+
+STATE: , <| VA |> also -- [VA]  {alleghanymotors.com}    Occurrence: 1
+
+CITY:  <| Tampa |>  -- [TAMPA]  {allarearoofing.com}    Occurrence: 2
+
+ADDRESS: allarearoofing.com <| 1820 N. 57th Street |>  -- [1820 N 57TH ST]  {allarearoofing.com}    Occurrence: 1
+
+ZIP: NM <| 87508 |>  -- [87508 8033]  {allanhouser.com}    Occurrence: 4
+
+CITY:  <| Dunwoody |> , -- [DUNWOODY]  {allcreaturesanimalhospital.com}    Occurrence: 10
+
+COMPANY: solutions <| Allegheny Installations |> Inc -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY:  <| All Cities |> Fence -- [ALL CITIES ENTERPRISES]  {allcitiesfence.com}    Occurrence: 3
+
+COMPANY:  <| Allegheny Installations |> Inc -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 2
+
+COMPANY: - <| Wings of Hope Hospice |>  -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com}    Occurrence: 2
+
+COMPANY: At <| Allegheny Installations |> Inc -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com}    Occurrence: 1
+
+COMPANY:  <| All California Brokerage , Inc |> CABRE -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com}    Occurrence: 2
+
+COMPANY: , <| All American Turf Beauty |> offers -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com}    Occurrence: 1
+
+CITY: for <| Brooklyn |> , -- [BROOKLYN]  {allcountycorp.com}    Occurrence: 2
+

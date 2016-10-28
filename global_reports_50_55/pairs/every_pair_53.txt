@@ -1,0 +1,2434 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY:  <| Advanced Logic Industries |> is -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com}    Occurrence: 1
+
+COMPANY: using <| Alicia Garage Doors |> for -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: , <| Prattville |> , -- [PRATTVILLE]  {alfarealty.com}    Occurrence: 1
+
+COMPANY: from <| Abundant Life Fellowship |> , -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+CITY: as <| Algona |> Implement -- [ALGONA]  {algonamarine.com}    Occurrence: 1
+
+CITY:  <| San Diego |> , -- [SAN DIEGO]  {alfatek.com}    Occurrence: 1
+
+CITY: in <| Ashland |> , -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 2
+
+COMPANY: s <| Alexandria Toyota |> get -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 2
+
+COMPANY: , <| ALFA International |> has -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 3
+
+COMPANY: Contact <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 8
+
+COMPANY:  <| Algart Health Care |> 8902 -- [ALGART HEALTH CARE INC]  {algart.com}    Occurrence: 1
+
+CITY: and <| Palo Alto |> as -- [PALO ALTO]  {alexza.com}    Occurrence: 1
+
+CITY:  <| Alhambra |>  -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 8
+
+CONTACT:  <| Kenneth Boone |>  -- [KENNETH BOONE]  {alexcityoutlook.com}    Occurrence: 1
+
+CITY:  <| Elk Grove |> Village -- [ELK GROVE VLG]  {alexianbrothershealth.org}    Occurrence: 56
+
+COMPANY: - <| Alfred Matthews |> Buick -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 6
+
+COMPANY: , <| ALFA International |>  -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 1
+
+COMPANY: at <| Alexus Steak House |> . -- [ALEXUS STEAK HOUSE & TAVERN]  {alexussteakhouse.com}    Occurrence: 1
+
+COMPANY:  <| Alex Displays |> | -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 6
+
+CITY:  <| Lake Forest |> , -- [LAKE FOREST]  {aliciaair.com}    Occurrence: 4
+
+COMPANY:  <| Alexandria Clinic |> has -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 3
+
+COMPANY:  <| Alexandria Clinic |>  -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 26
+
+CONTACT: and <| Karen Canto |>  -- [KAREN CANTO]  {alextamping.com}    Occurrence: 1
+
+CITY: of <| Alexandria |> . -- [ALEXANDRIA]  {alexgbc.com}    Occurrence: 1
+
+COMPANY:  <| Alicia Garage Doors |> provides -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 2
+
+CITY: in <| Vallejo |> ’ -- [VALLEJO]  {alexscatering.com}    Occurrence: 1
+
+COMPANY: to <| Abundant Life Fellowship |> whenever -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+COMPANY:  <| Alex Displays |> Contact -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 2
+
+CONTACT:  <| Frank Bullard |> - -- [FRANK BULLARD]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY: Kimpton <| Alexis Hotel |> lavishes -- [ALEXIS HOTEL]  {alexishotel.com}    Occurrence: 1
+
+COMPANY: The <| Prudent Speculator |> investment -- [PRUDENT SPECULATOR]  {alfrank.com}    Occurrence: 1
+
+COMPANY:  <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 3
+
+CITY: the <| Alexander City |> City -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+ADDRESS:  <| 1417 East Commercial Street |>  -- [1417 E COMMERCIAL ST]  {algonamarine.com}    Occurrence: 4
+
+CITY: Greater <| Fairfield |> County -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 2
+
+CITY: The <| Tacoma |> Rescue -- [TACOMA]  {alfellowship.com}    Occurrence: 1
+
+CITY:  <| Fort Smith |> Arkansas -- [FORT SMITH]  {alfatransformer.com}    Occurrence: 6
+
+ZIP: Illinois <| 60137 |>  -- [60137 5622]  {alfiesinn.com}    Occurrence: 2
+
+CITY: toward <| Madison |> for -- [MADISON]  {alfalight.com}    Occurrence: 2
+
+STATE: , <| WI |> 53704 -- [WI]  {alfalight.com}    Occurrence: 1
+
+ZIP: , <| 85004 |>  -- [85004 2445]  {alicecooperstown.com}    Occurrence: 1
+
+STATE: Prattville <| AL |> homes -- [AL]  {alfarealty.com}    Occurrence: 2
+
+COMPANY:  <| Alex Displays |> designs -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 4
+
+ZIP: CT <| 06824 |>  -- [06824 6002]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: , <| Alex Roofing Company , Inc. |> has -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 4
+
+CONTACT: 2016 <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 12
+
+COMPANY:  <| Aliano Real Estate |> has -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 3
+
+COMPANY: 10 <| Alice Peck Day |> Dr -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 12
+
+COMPANY: Alexandria <| First Baptist Church |> is -- [FIRST BAPTIST CHURCH]  {alexfbc.org}    Occurrence: 1
+
+STATE: , <| IL |> 60156 -- [IL]  {alfpd.org}    Occurrence: 3
+
+CITY:  <| Alhambra |> , -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 4
+
+COMPANY: recommend <| Alex Displays |> to -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+ADDRESS:  <| 3807 McHenry Avenue |>  -- [3807 MCHENRY AVE]  {alfredmatthews.com}    Occurrence: 4
+
+CITY: in <| San Francisco |>  -- [S SAN FRANCISCO]  {alibaba1.com}    Occurrence: 6
+
+STATE: , <| IL |> 61520 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+CITY:  <| Alexandria |> First -- [ALEXANDRIA]  {alexfbc.org}    Occurrence: 5
+
+CITY: '' <| Alexandria |> `` -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 6
+
+COMPANY: in <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+CONTACT: , <| Greg Alford |> is -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alexandria Toyota |>  -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+STATE: , <| AZ |> 86322 -- [AZ]  {alfredoswife.com}    Occurrence: 2
+
+ZIP: CA <| 91801 |>  -- [91801 3329]  {alhambramazda.com}    Occurrence: 8
+
+ADDRESS: , <| 610 30th Avenue West |> Alexandria -- [610 30TH AVE W]  {alexclinic.com}    Occurrence: 1
+
+COMPANY: between <| Alexian Brothers Health System |> and -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+STATE: , <| CA |> 92656 -- [CA]  {alfrank.com}    Occurrence: 5
+
+COMPANY:  <| Alex Audio Video and Computer Service |>  -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}    Occurrence: 5
+
+CITY: downtown <| Seattle |>  -- [SEATTLE]  {alexishotel.com}    Occurrence: 1
+
+CITY:  <| Corona |> , -- [CORONA]  {alexisoil.com}    Occurrence: 1
+
+STATE: , <| CA |> with -- [CA]  {alhambramazda.com}    Occurrence: 2
+
+COMPANY: | <| Alfa Insurance |>  -- [ALFA INSURANCE CORP]  {alfains.com}    Occurrence: 12
+
+CITY:  <| Alexandria |>  -- [ALEXANDRIA]  {alexfbc.org}    Occurrence: 1
+
+CITY: of <| Alexandria |> , -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 1
+
+COMPANY: Contact <| Alfa Insurance |> by -- [ALFA INSURANCE CORP]  {alfains.com}    Occurrence: 2
+
+CITY: popular <| Nashville |> attractions -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+CONTACT: , <| Greg Alford |> custom -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY: at <| Alexandria Clinic |> ? -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 1
+
+CONTACT: to <| Jack Taylor |> ’ -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 4
+
+STATE: , <| IL |> 61462 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+COMPANY: your <| Farmers Insurance |> agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+COMPANY:  <| Alice ' s Tea Cup |>  -- [ALICE 'S TEA CUP]  {alicesteacup.com}    Occurrence: 1
+
+COMPANY: to <| Alexander Lumber |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY: s <| Alexandria Toyota |> ! -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 2
+
+CITY: Hospital <| Lebanon |> , -- [LEBANON]  {alicepeckday.org}    Occurrence: 24
+
+ZIP: IL <| 60102 |> | -- [60102 5995]  {algonquin.org}    Occurrence: 1
+
+CONTACT:  <| Kevin Boyle |> began -- [KEVIN BOYLE]  {alfwear.com}    Occurrence: 1
+
+CITY: Homes <| Dallas |>  -- [DALLAS]  {alfordhomes.com}    Occurrence: 2
+
+ZIP: VA <| 22305 |> | -- [22305 3104]  {alexandriatoyota.com}    Occurrence: 2
+
+CITY: the <| Dallas |> Homebuilders -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+CONTACT: Contact <| Greg Alford |> of -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 2
+
+COMPANY: | <| Alicat Scientific |> Alicat -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 10
+
+STATE: , <| CA |> 92880 -- [CA]  {alexisoil.com}    Occurrence: 6
+
+CITY: on <| Effingham |> Illinois -- [EFFINGHAM]  {algator.com}    Occurrence: 1
+
+COMPANY:  <| Alfa Realty |> is -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 4
+
+COMPANY: s <| Alexandria Toyota |> has -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 2
+
+COMPANY: with <| Alfa Realty |> and -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 1
+
+CITY: from <| Modesto |>  -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+CONTACT:  <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 22
+
+CITY:  <| Tucson |> , -- [TUCSON]  {alfrescolandscaping.com}    Occurrence: 1
+
+COMPANY:  <| Alford Homes |> has -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY: , <| Alford Homes |> strives -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alfa Insurance |> | -- [ALFA INSURANCE CORP]  {alfains.com}    Occurrence: 2
+
+STATE: Effingham <| IL |> . -- [IL]  {algator.com}    Occurrence: 1
+
+CITY:  <| Alexandria |> Auto -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 2
+
+STATE: , <| CA |>  -- [CA]  {aliciagaragedoors.com}    Occurrence: 9
+
+ADDRESS:  <| PO Box 6316 |>  -- [PO BOX 6316]  {alfatransformer.com}    Occurrence: 4
+
+CITY: of <| Alhambra |>  -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 5
+
+STATE: , <| CA |> 91367 -- [CA]  {alexsayeri.com}    Occurrence: 1
+
+COMPANY: the <| Alexandria Clinic |> for -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 2
+
+COMPANY:  <| Alicat Scientific |> makes -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 1
+
+CITY: homebuilder <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY: 2001 <| Alex Displays |> . -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 4
+
+COMPANY: 2016 <| Alfa Box |> Corporation -- [ALFA BOX CORP]  {alfabox.com}    Occurrence: 3
+
+CITY: access <| Davie |> location -- [DAVIE]  {alexfarm.com}    Occurrence: 1
+
+ADDRESS: of <| Virginia Street |> , -- [300 VIRGINIA ST]  {alexscatering.com}    Occurrence: 2
+
+COMPANY: Contact <| Alfred Matthews |> Buick -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 3
+
+COMPANY:  <| Alicia Garage Doors |> : -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Brothers Behavioral Health |> Hospital -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 14
+
+COMPANY:  <| Alexis Oil Company |>  -- [ALEXIS OIL CO]  {alexisoil.com}    Occurrence: 2
+
+CONTACT: '' <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 6
+
+STATE: Osakis <| MN |> , -- [MN]  {alexclinic.com}    Occurrence: 1
+
+CITY: in <| Orange |> , -- [ORANGE]  {alexproducts.com}    Occurrence: 1
+
+COMPANY: , <| Algren |> Associates -- [ALGREN]  {algren.com}    Occurrence: 1
+
+STATE: , <| FL |> in -- [FL]  {alexfarm.com}    Occurrence: 1
+
+COMPANY:  <| ALFA International |> provides -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 1
+
+COMPANY: 2015 <| Alicat Scientific , Inc. |> All -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 5
+
+CONTACT: at <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 2
+
+CONTACT: make <| Ava Dering |> ' -- [AVA DERING]  {alfredoswife.com}    Occurrence: 1
+
+COMPANY:  <| Alice |> 105.9 -- [ALICE]  {alice1059.com}    Occurrence: 2
+
+CITY:  <| Birmingham |> , -- [BIRMINGHAM]  {alggraphics.com}    Occurrence: 1
+
+COMPANY:  <| Abundant Life Fellowship |> is -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+COMPANY:  <| Alexandria Tutorials |>  -- [ALEXANDRIA TUTORIALS]  {alexandriatutorials.com}    Occurrence: 2
+
+ADDRESS: 110 <| Peachtree Industrial Blvd |> ♦ -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net}    Occurrence: 1
+
+COMPANY:  <| Alicia Garage Doors |> is -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 5
+
+COMPANY:  <| Al 's Tire Mart & Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+COMPANY:  <| Alex Displays |> ' -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 2
+
+CITY: Health <| Elk Grove |> Village -- [ELK GROVE VLG]  {alexianbrothershealth.org}    Occurrence: 2
+
+CONTACT:  <| Jack Taylor |> 's -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY: : <| Al 's Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 2
+
+COMPANY: in <| Alexander Lumber |> is -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY: The <| Abraham L. Green and Son Funeral |> Home -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}    Occurrence: 2
+
+COMPANY: , <| Farmers Insurance |> has -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+CITY: the <| Erie |> , -- [ERIE]  {alexroofing.com}    Occurrence: 1
+
+CITY: the <| Ashland |> area -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 3
+
+ZIP:  <| 91801 |>  -- [91801 3329]  {alhambramazda.com}    Occurrence: 8
+
+STATE: , <| NH |> - -- [NH]  {alicepeckday.org}    Occurrence: 24
+
+STATE: , <| NY |> 11764 -- [NY]  {alianorealestate.com}    Occurrence: 1
+
+COMPANY: : <| Brown Property Development |> 140 -- [BROWN PROPERTY DEVELOPMENT]  {alfredrental.com}    Occurrence: 1
+
+CITY: of <| New Hope |> on -- [NEW HOPE]  {alexav.com}    Occurrence: 1
+
+COMPANY: at <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY: to <| Alice ' s Kitchen |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 1
+
+CONTACT: Make <| Jack Taylor |> ’ -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY: s <| Alexandria Toyota |> `` -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 6
+
+CITY: , <| Alexandria |> Country -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY:  <| Algona |> , -- [ALGONA]  {algonamarine.com}    Occurrence: 4
+
+CITY: of <| Signal Mountain |> outside -- [SIGNAL MOUNTAIN]  {alexianvillage.com}    Occurrence: 1
+
+STATE: Heights <| IL |> 60005 -- [IL]  {alexianfoundation.org}    Occurrence: 1
+
+STATE: , <| IL |> 61704 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+CITY: , <| NEW YORK |> , -- [NEW YORK]  {alexrosenbergfineart.com}    Occurrence: 1
+
+CITY: around <| Columbus |> , -- [COLUMBUS]  {algorithminc.com}    Occurrence: 2
+
+STATE: , <| CA |> , -- [CA]  {alexsayeri.com}    Occurrence: 1
+
+STATE: Subwoofer <| MN |> , -- [MN]  {alexav.com}    Occurrence: 2
+
+COMPANY: s <| Alexandria Toyota |> | -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY: , <| Alexander City |> , -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 2
+
+CONTACT:  <| Greg Alford |> of -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 1
+
+ZIP: NH <| 03766 |> . -- [03766 0000]  {alicepeckday.org}    Occurrence: 2
+
+COMPANY: The <| Prudent Speculator |> ( -- [PRUDENT SPECULATOR]  {alfrank.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Brothers Health System |> - -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+COMPANY: About <| Ali Baba |>  -- [ALI BABA]  {alibaba1.com}    Occurrence: 1
+
+CITY:  <| Modesto |> GMC -- [MODESTO]  {alfredmatthews.com}    Occurrence: 44
+
+CITY: in <| Fairfield |> center -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 1
+
+CITY: to <| Alexandria |> families -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 1
+
+CITY: , <| Elk Grove |>  -- [ELK GROVE VLG]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY: About <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 3
+
+COMPANY: with <| Alex Displays |> . -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY: that <| Al Hill Boiler |> is -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}    Occurrence: 1
+
+COMPANY:  <| Alex Displays |> will -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+ZIP: NY <| 10021 |> tel -- [10021 4943]  {alexrosenbergfineart.com}    Occurrence: 1
+
+CITY: | <| Erie |> , -- [ERIE]  {alexroofing.com}    Occurrence: 8
+
+ADDRESS:  <| 102 West 73rd Street |>  -- [102 W 73RD ST]  {alicesteacup.com}    Occurrence: 1
+
+ADDRESS: | <| 2200 Harnish Drive |> | -- [2200 HARNISH DR]  {algonquin.org}    Occurrence: 1
+
+COMPANY: to <| Abundant Life Fellowship |>  -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+CITY:  <| Lebanon |> New -- [LEBANON]  {alicepeckday.org}    Occurrence: 4
+
+COMPANY:  <| Alice ' s Kitchen |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 5
+
+COMPANY:  <| Alexandria Tutorials |> - -- [ALEXANDRIA TUTORIALS]  {alexandriatutorials.com}    Occurrence: 2
+
+COMPANY: of <| Garage Doors |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY:  <| Alfred Matthews |> Staff -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 4
+
+ZIP:  <| 95356 |>  -- [95356 1584]  {alfredmatthews.com}    Occurrence: 4
+
+ADDRESS:  <| 1417 E Commercial St |>  -- [1417 E COMMERCIAL ST]  {algonamarine.com}    Occurrence: 1
+
+CITY: in <| Modesto |> for -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: 2012 <| Alex ' s Catering |> . -- [ALEX 'S CATERING]  {alexscatering.com}    Occurrence: 3
+
+ZIP: Virginia <| 22301 |>  -- [22301 2021]  {alexgbc.com}    Occurrence: 1
+
+COMPANY:  <| Farmers Insurance |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 3
+
+CITY: , <| Elk Grove |> Village -- [ELK GROVE VLG]  {alexianbrothershealth.org}    Occurrence: 17
+
+STATE: , <| CA |> office -- [CA]  {aliciaair.com}    Occurrence: 1
+
+COMPANY: | <| Alfa Realty |>  -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 6
+
+CITY:  <| Modesto |> Used -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+COMPANY: About <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+COMPANY: of <| Alicia Garage Doors |> . -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 2
+
+CONTACT:  <| AL FARNAM |>  -- [AL FARNAM]  {alfarnammaintenance.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {alhambramazda.com}    Occurrence: 4
+
+CONTACT: Anthony <| L. Wood , Sr |> . -- [TONY L WOOD SR]  {algc.net}    Occurrence: 1
+
+ZIP: CA <| 94590 |>  -- [94590 5994]  {alexscatering.com}    Occurrence: 1
+
+ADDRESS: on <| Mascoma Street |> , -- [125 MASCOMA ST]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY:  <| Alfred Matthews |> : -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+CITY: in <| Alexandria |> , -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 2
+
+CITY:  <| Modesto |> Buick -- [MODESTO]  {alfredmatthews.com}    Occurrence: 24
+
+COMPANY: started <| Al ’ s Tire Mart |> with -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+CITY: Explore <| Nashville |>  -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+ADDRESS:  <| 1644 East 12th Street |>  -- [1644 E 12TH ST]  {alexroofing.com}    Occurrence: 3
+
+CITY:  <| Lebanon |>  -- [LEBANON]  {alicepeckday.org}    Occurrence: 12
+
+COMPANY: s <| Alexandria Toyota |> your -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY: use <| Abundant Life Fellowship |> in -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+ZIP:  <| 55428 |>  -- [55428 4917]  {alexav.com}    Occurrence: 4
+
+COMPANY: joined <| Alfalight |> Inc. -- [ALFALIGHT]  {alfalight.com}    Occurrence: 4
+
+COMPANY: The <| Alexian Brothers Health System |> has -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+COMPANY: At <| Alex Roofing Company , Inc. |> we -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 1
+
+ADDRESS:  <| 600 Ermac Drive |>  -- [600 ERMAC DR]  {alexisinn.com}    Occurrence: 1
+
+CITY: to <| Aurora |> , -- [AURORA]  {alexlbr.com}    Occurrence: 2
+
+COMPANY:  <| Al Farnam Maintenance |>  -- [AL FARNAM MAINTENANCE]  {alfarnammaintenance.com}    Occurrence: 6
+
+CONTACT:  <| Greg Alford |> is -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY: : <| Alfalight |> , -- [ALFALIGHT]  {alfalight.com}    Occurrence: 2
+
+CITY: to <| Alexandria |> and -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 1
+
+COMPANY:  <| Farmers Insurance |> - -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 2
+
+ZIP: CA <| 94590 |> ( -- [94590 5994]  {alexscatering.com}    Occurrence: 6
+
+STATE: , <| IL |> 60101 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+STATE: Effingham <| IL |> Tires -- [IL]  {algator.com}    Occurrence: 2
+
+STATE: , <| FL |> 33325 -- [FL]  {alexfarm.com}    Occurrence: 2
+
+STATE: , <| CT |> 06824-6002 -- [CT]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY:  <| Al ' s Tire mart & Electronics |> center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+ZIP:  <| 44102 |>  -- [44102 1840]  {algart.com}    Occurrence: 1
+
+STATE: , <| TN |> 37214 -- [TN]  {alexisinn.com}    Occurrence: 4
+
+CITY: greater <| Alhambra |> area -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 4
+
+ADDRESS: to <| Rhode Island Ave North |> . -- [4211 RHODE ISLAND AVE N]  {alexav.com}    Occurrence: 1
+
+ZIP:  <| 22305 |>  -- [22305 3104]  {alexandriatoyota.com}    Occurrence: 6
+
+CONTACT: , <| Mike McGee |> , -- [MIKE MCGEE]  {alfrescolandscaping.com}    Occurrence: 1
+
+CITY:  <| Nashville |>  -- [NASHVILLE]  {alexisinn.com}    Occurrence: 3
+
+CITY: in <| Columbus |> where -- [COLUMBUS]  {algorithminc.com}    Occurrence: 1
+
+STATE: , <| GA |> 30224 -- [GA]  {ali-service.com}    Occurrence: 1
+
+CITY: the <| Lebanon |> community -- [LEBANON]  {alicepeckday.org}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alfredmatthews.com}    Occurrence: 2
+
+STATE: , <| IL |>  -- [IL]  {alexianbrothershealth.org}    Occurrence: 60
+
+COMPANY:  <| Alexander Landscaping & Plant |> Farm -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com}    Occurrence: 4
+
+STATE: , <| IL |>  -- [IL]  {alfiesinn.com}    Occurrence: 3
+
+COMPANY: 2016 <| Alice Peck Day |> Health -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 12
+
+COMPANY: , <| Ali Baba |> opened -- [ALI BABA]  {alibaba1.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alhambramazda.com}    Occurrence: 2
+
+COMPANY:  <| Al ’ s Tire Mart |> originally -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+ZIP: IL <| 60804 |>  -- [60804 2899]  {algorphs.com}    Occurrence: 2
+
+CONTACT:  <| David Gabri |>  -- [DAVID GABRI]  {alhi.com}    Occurrence: 1
+
+CITY: in <| Davie |> , -- [DAVIE]  {alexfarm.com}    Occurrence: 3
+
+ADDRESS: 57 <| North Main Street |>  -- [44 N MAIN ST]  {alfredrental.com}    Occurrence: 5
+
+STATE: , <| AL |> , -- [AL]  {alfarealty.com}    Occurrence: 1
+
+COMPANY:  <| Alex ' s Bar |>  -- [ALEX 'S BAR]  {alexsbar.com}    Occurrence: 4
+
+COMPANY: , <| Al Hill ' s Boiler |> , -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}    Occurrence: 3
+
+COMPANY:  <| Alex Cooper Auctioneers |> , -- [ALEX COOPER AUCTIONEERS]  {alexcooper.com}    Occurrence: 2
+
+CITY:  <| Chicago |> , -- [CHICAGO]  {alexdisplays.com}    Occurrence: 1
+
+ADDRESS:  <| 3807 McHenry Avenue |> , -- [3807 MCHENRY AVE]  {alfredmatthews.com}    Occurrence: 4
+
+ADDRESS:  <| 425 Roosevelt Road |>  -- [425 ROOSEVELT RD]  {alfiesinn.com}    Occurrence: 1
+
+STATE: Montgomery <| AL |> Homes -- [AL]  {alfarealty.com}    Occurrence: 2
+
+ZIP: IL <| 60007 |>  -- [60007 3395]  {alexianbrothershealth.org}    Occurrence: 12
+
+CITY: | <| Alexandria |> First -- [ALEXANDRIA]  {alexfbc.org}    Occurrence: 2
+
+CONTACT: sons <| Tom Knabe |> , -- [TOM KNABE]  {algator.com}    Occurrence: 1
+
+STATE: , <| MN |> . -- [MN]  {alexav.com}    Occurrence: 1
+
+COMPANY:  <| Alger Park Christian Reformed |> Church -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com}    Occurrence: 2
+
+ZIP: MI <| 49507 |>  -- [49507 3604]  {algerparkcrc.com}    Occurrence: 2
+
+COMPANY: Contact <| Alicia Air Conditioning |> and -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com}    Occurrence: 3
+
+COMPANY: the <| Alexander Lumber Co. |> since -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+ADDRESS:  <| 610 30th Avenue West |> Alexandria -- [610 30TH AVE W]  {alexclinic.com}    Occurrence: 1
+
+COMPANY: at <| Alfred Matthews |> Thanks -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY:  <| Alice 's Tea Cup |>  -- [ALICE 'S TEA CUP]  {alicesteacup.com}    Occurrence: 1
+
+COMPANY:  <| Alice Adam Ltd. |> German -- [ALICE ADAM LTD]  {aliceadamltd.com}    Occurrence: 2
+
+ADDRESS:  <| 88 Beach Road |>  -- [88 BEACH RD]  {algreenfuneralhome.com}    Occurrence: 2
+
+COMPANY: | <| Alice + Olivia |>  -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 4
+
+ADDRESS:  <| 830 South Flamingo Road |> , -- [830 S FLAMINGO RD]  {alexfarm.com}    Occurrence: 1
+
+COMPANY:  <| Alex Displays |>  -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+CONTACT:  <| Pete Alex |>  -- [PETE ALEX]  {alexroofing.com}    Occurrence: 1
+
+CITY: in <| Glen Ellyn |> , -- [GLEN ELLYN]  {alfiesinn.com}    Occurrence: 1
+
+CITY: serving <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+CITY:  <| Tucson |> , -- [TUCSON]  {alicatscientific.com}    Occurrence: 5
+
+COMPANY:  <| A lex Products , Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}    Occurrence: 2
+
+ADDRESS:  <| 900 E. Fayette |>  -- [900 E FAYETTE AVE]  {algator.com}    Occurrence: 4
+
+ZIP:  <| 60007 |>  -- [60007 3395]  {alexianbrothershealth.org}    Occurrence: 24
+
+COMPANY: at <| Alexian Brothers Health System |> , -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+CITY: , <| Tucson |> , -- [TUCSON]  {alicatscientific.com}    Occurrence: 2
+
+CITY: Downtown <| Seattle |> Hotels -- [SEATTLE]  {alexishotel.com}    Occurrence: 2
+
+CITY:  <| New York |> , -- [NEW YORK]  {alicesteacup.com}    Occurrence: 3
+
+CITY:  <| Modesto |>  -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+COMPANY:  <| Farmers Group |> , -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+CITY:  <| Modesto |> Area -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+CITY: with <| Alexandria |> area -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 1
+
+ADDRESS:  <| 900 E. Fayette |> Effingham -- [900 E FAYETTE AVE]  {algator.com}    Occurrence: 1
+
+CITY: ~ <| Fairfield |> , -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Brothers Health System |> is -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+STATE: , <| CA |>  -- [CA]  {alfredmatthews.com}    Occurrence: 2
+
+STATE: Auburn <| AL |> , -- [AL]  {alfarealty.com}    Occurrence: 2
+
+CITY: in <| South San Francisco |> . -- [S SAN FRANCISCO]  {alibaba1.com}    Occurrence: 1
+
+COMPANY:  <| Alex Roofing Company |> , -- [ALEX ROOFING CONSTRUCTION CO]  {alexroofing.com}    Occurrence: 1
+
+STATE: Alfred <| NY |> | -- [NY]  {alfredrental.com}    Occurrence: 2
+
+ADDRESS:  <| Box 11616 |>  -- [PO BOX 11616]  {aliceadamltd.com}    Occurrence: 1
+
+STATE: , <| NJ |> 07013 -- [NJ]  {alexussteakhouse.com}    Occurrence: 6
+
+CONTACT: on <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 1
+
+ADDRESS:  <| 1832 Wright Street |>  -- [1832 WRIGHT ST]  {alfalight.com}    Occurrence: 1
+
+COMPANY: Alexandria <| First Baptist Church |>  -- [FIRST BAPTIST CHURCH]  {alexfbc.org}    Occurrence: 4
+
+ZIP:  <| 03766 |>  -- [03766 0000]  {alicepeckday.org}    Occurrence: 12
+
+CITY: of <| Dallas |> ' -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+CONTACT: to <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY:  <| Aliano Real Estate |> can -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 1
+
+CITY: | <| Phoenix |> , -- [PHOENIX]  {alicecooperstown.com}    Occurrence: 2
+
+COMPANY:  <| Alger Park – Christian Reformed |> Church -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com}    Occurrence: 2
+
+CITY: a <| Tucson |> based -- [TUCSON]  {alfrescolandscaping.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {alfatek.com}    Occurrence: 2
+
+ADDRESS: on <| South Flamingo Road |> , -- [830 S FLAMINGO RD]  {alexfarm.com}    Occurrence: 1
+
+STATE: , <| IL |> 60970 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+ZIP: IL <| 60611 |>  -- [60611 0616]  {aliceadamltd.com}    Occurrence: 1
+
+CITY: wider <| Alexandria |> community -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 2
+
+COMPANY: Contact <| Alford Homes |>  -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+CITY: , <| Fairfield |> , -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: at <| Alexian Brothers Health System |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY: to <| Alford Homes |> , -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alfa Realty |>  -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 4
+
+COMPANY: | <| Abraham L. Green and Son Funeral |> Home -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}    Occurrence: 2
+
+STATE: , <| CA |> | -- [CA]  {aliciaair.com}    Occurrence: 4
+
+COMPANY: to <| Alfalight |> , -- [ALFALIGHT]  {alfalight.com}    Occurrence: 6
+
+COMPANY:  <| Alex Audio and Video Service , Inc. |> started -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}    Occurrence: 1
+
+STATE: , <| CA |> New -- [CA]  {alhambramazda.com}    Occurrence: 4
+
+COMPANY:  <| Alice Adam Ltd |> . -- [ALICE ADAM LTD]  {aliceadamltd.com}    Occurrence: 2
+
+COMPANY:  <| Alex 's Bar |>  -- [ALEX 'S BAR]  {alexsbar.com}    Occurrence: 1
+
+COMPANY:  <| Advanced Logic Industries |> Achieves -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com}    Occurrence: 1
+
+CITY: – <| Madison |> , -- [MADISON]  {alfalight.com}    Occurrence: 2
+
+CITY: believe <| Alexander City |> is -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+CITY: Builder <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY: but <| Alex Roofing Company , Inc. |> is -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 2
+
+CITY: to <| New York |> City -- [NEW YORK]  {alicesteacup.com}    Occurrence: 2
+
+CITY:  <| Nashville |> Airport -- [NASHVILLE]  {alexisinn.com}    Occurrence: 3
+
+CITY:  <| Clifton |> , -- [CLIFTON]  {alexussteakhouse.com}    Occurrence: 4
+
+COMPANY:  <| ALFA REALTY |>  -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 2
+
+STATE: Auburn <| AL |> real -- [AL]  {alfarealty.com}    Occurrence: 2
+
+ZIP:  <| 98104 |>  -- [98104 1007]  {alexishotel.com}    Occurrence: 3
+
+COMPANY: or <| Farmers Insurance |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+STATE: , <| IL |> 60612 -- [IL]  {alexdisplays.com}    Occurrence: 1
+
+ZIP: AR <| 72370 |>  -- [72370 0643]  {algonquin-industries.com}    Occurrence: 1
+
+CITY: Suites <| Nashville |> , -- [NASHVILLE]  {alexisinn.com}    Occurrence: 2
+
+COMPANY: at <| Alex Roofing Company , Inc. |> to -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Lumber |> has -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+STATE: , <| WA |>  -- [WA]  {alexishotel.com}    Occurrence: 2
+
+COMPANY: , <| Alford Homes |> , -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY: The <| Prudent Speculator |>  -- [PRUDENT SPECULATOR]  {alfrank.com}    Occurrence: 3
+
+STATE: , <| CA |> 92630 -- [CA]  {aliciaair.com}    Occurrence: 1
+
+ADDRESS: , <| 1417 E Commercial St. |> , -- [1417 E COMMERCIAL ST]  {algonamarine.com}    Occurrence: 3
+
+COMPANY:  <| Alexander Lumber |> Grows -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY:  <| Alfalight |> designs -- [ALFALIGHT]  {alfalight.com}    Occurrence: 4
+
+ZIP: NY <| 11764 |>  -- [11764 2731]  {alianorealestate.com}    Occurrence: 1
+
+COMPANY:  <| Alfie ' s Inn |> , -- [ALFIE 'S INN INC]  {alfiesinn.com}    Occurrence: 1
+
+STATE: , <| DC |> areas -- [DC]  {alexcooper.com}    Occurrence: 2
+
+COMPANY: the <| ALEXIS INN |> APP -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 3
+
+COMPANY:  <| Alexian Brothers Health System |> Mission -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+CONTACT: , <| Walter Alexander |>  -- [WALTER F ALEXANDER]  {alexlbr.com}    Occurrence: 2
+
+CITY:  <| Lebanon |> , -- [LEBANON]  {alicepeckday.org}    Occurrence: 3
+
+ADDRESS: Follow <| Wright St. |> for -- [1832 WRIGHT ST]  {alfalight.com}    Occurrence: 4
+
+ADDRESS:  <| 4211 Rhode Island Ave North |>  -- [4211 RHODE ISLAND AVE N]  {alexav.com}    Occurrence: 4
+
+CITY: F. <| San Diego |> , -- [SAN DIEGO]  {alfatek.com}    Occurrence: 1
+
+STATE: , <| DC |> 20015 -- [DC]  {alexcooper.com}    Occurrence: 2
+
+CITY: Downtown <| Seattle |>  -- [SEATTLE]  {alexishotel.com}    Occurrence: 3
+
+COMPANY: , <| Abundant Life Fellowship |> sent -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+CONTACT:  <| Alicia Mugetti |> , -- [ALICIA MUGETTI]  {aliciamugetti.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Landscaping |>  -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com}    Occurrence: 3
+
+ADDRESS:  <| 219 Glider |> Circle -- [219 GLIDER CIR]  {alexisoil.com}    Occurrence: 1
+
+COMPANY: the <| Farmers Insurance Group |> of -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 6
+
+STATE: , <| CA |> to -- [CA]  {alfredmatthews.com}    Occurrence: 1
+
+CITY:  <| Nashville |> International -- [NASHVILLE]  {alexisinn.com}    Occurrence: 2
+
+STATE: , <| AL |> 36116 -- [AL]  {alfarealty.com}    Occurrence: 2
+
+ADDRESS: from <| Mascoma Street |> Inpatient -- [125 MASCOMA ST]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY:  <| Alex Rosenberg Fine Art |> and -- [ALEX J ROSENBERG FINE ART]  {alexrosenbergfineart.com}    Occurrence: 2
+
+CITY: of <| Nashville |> and -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+COMPANY: , <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 3
+
+STATE: , <| NY |> community -- [NY]  {alfredrental.com}    Occurrence: 2
+
+CITY: Meet <| Alexandria |> . -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 1
+
+CITY: in <| Effingham |> IL -- [EFFINGHAM]  {algator.com}    Occurrence: 1
+
+COMPANY: | <| ALFA International |>  -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 8
+
+STATE: Lebanon <| NH |> 03766 -- [NH]  {alicepeckday.org}    Occurrence: 1
+
+ZIP: , <| 91801 |>  -- [91801 3329]  {alhambramazda.com}    Occurrence: 4
+
+CITY:  <| ELK GROVE |> VILLAGE -- [ELK GROVE VLG]  {alexianbrothershealth.org}    Occurrence: 6
+
+COMPANY:  <| Abundant Life Fellowship |> : -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 2
+
+COMPANY: the <| Alexis Inn & Suites |> offers -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 1
+
+CITY: , <| ASHLAND |> CONTRACTOR -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 3
+
+CITY: downtown <| Seattle |> , -- [SEATTLE]  {alexishotel.com}    Occurrence: 1
+
+STATE: , <| NY |> 10001 -- [NY]  {algren.com}    Occurrence: 4
+
+CONTACT: at <| Jack Taylor |> ’ -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 2
+
+CITY: , <| Modesto |> Cadillac -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+STATE: , <| IL |> 62526 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+STATE: , <| CA |> 92879 -- [CA]  {alexproducts.com}    Occurrence: 3
+
+COMPANY: used <| Al Hill ' s Boiler Sales |> & -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}    Occurrence: 1
+
+COMPANY: from <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY: to <| A lex Products , Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}    Occurrence: 1
+
+CITY: in <| Chicago |> has -- [CHICAGO]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY: About <| Alicia Garage Doors |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+STATE: Lamp <| MN |> USA -- [MN]  {alexav.com}    Occurrence: 4
+
+STATE: , <| AZ |>  -- [AZ]  {alicecooperstown.com}    Occurrence: 2
+
+CONTACT: Us <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+ZIP: CA <| 94080 |>  -- [94080 6410]  {alibaba1.com}    Occurrence: 1
+
+ADDRESS: | <| 1644 East 12th Street |> , -- [1644 E 12TH ST]  {alexroofing.com}    Occurrence: 4
+
+CITY:  <| Fort Smith |> , -- [FORT SMITH]  {alfatransformer.com}    Occurrence: 2
+
+COMPANY:  <| Alex Displays |> is -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 2
+
+STATE: , <| NH |>  -- [NH]  {alicepeckday.org}    Occurrence: 13
+
+COMPANY: s <| Alexandria Toyota |> team -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+CONTACT:  <| Kenneth Boone |> is -- [KENNETH BOONE]  {alexcityoutlook.com}    Occurrence: 1
+
+CITY: Oriental <| Washington |> , -- [WASHINGTON]  {alhi.com}    Occurrence: 4
+
+CONTACT: | <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 4
+
+STATE: , <| PA. |> We -- [PA]  {alexroofing.com}    Occurrence: 2
+
+CITY: to <| Alexander City |> , -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+ADDRESS:  <| 830 S. Flamingo Road |> , -- [830 S FLAMINGO RD]  {alexfarm.com}    Occurrence: 1
+
+CITY: in <| Tacoma |> was -- [TACOMA]  {alfellowship.com}    Occurrence: 1
+
+CITY: of <| Alexandria |>  -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 11
+
+CITY: of <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: than <| Alicia Garage Doors |> when -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+STATE: Hope <| MN |> . -- [MN]  {alexav.com}    Occurrence: 2
+
+CITY:  <| Hillsborough |> , -- [HILLSBOROUGH]  {alfonsos.net}    Occurrence: 2
+
+COMPANY: The <| Alexander City Outlook |>  -- [ALEXANDER CITY OUTLOOK]  {alexcityoutlook.com}    Occurrence: 8
+
+COMPANY: 2015 <| Alexis Inn & Suites |> . -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 3
+
+COMPANY:  <| ALEXANDER LUMBER |> © -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 5
+
+ADDRESS: to <| Wright St |> . -- [1832 WRIGHT ST]  {alfalight.com}    Occurrence: 4
+
+COMPANY: of <| Alger Park Christian Reformed |> Church -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com}    Occurrence: 1
+
+CONTACT: facility <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 1
+
+COMPANY:  <| Alicia Garage Doors |> has -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 2
+
+COMPANY: to <| Ali Baba |>  -- [ALI BABA]  {alibaba1.com}    Occurrence: 1
+
+ZIP: NJ <| 07013 |> . -- [07013 4023]  {alexussteakhouse.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Landscaping and Plant |> Farm -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com}    Occurrence: 3
+
+COMPANY: at <| A lex Products , Inc. |> Our -- [A LEX PRODUCTS INC]  {alexproducts.com}    Occurrence: 2
+
+COMPANY:  <| Alice |> On -- [ALICE]  {alice1059.com}    Occurrence: 2
+
+COMPANY:  <| Abundant Life |> FellowshipÂ -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+COMPANY:  <| American Logistics International Inc |>  -- [AMERICAN LOGISTICS INC]  {ali-service.com}    Occurrence: 2
+
+CITY: across <| Tucson |> . -- [TUCSON]  {alfrescolandscaping.com}    Occurrence: 1
+
+STATE: , <| MI |> 48001 -- [MI]  {algonac.k12.mi.us}    Occurrence: 2
+
+CONTACT:  <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 27
+
+CITY: Homebuilder <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+ZIP: , <| 92154 |>  -- [92154 7527]  {alfatek.com}    Occurrence: 2
+
+COMPANY: think <| Alfred Matthews |> first -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: 's <| Alexandria Toyota |> | -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY: in <| Fairfield |>  -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: Contact <| Al ' s Tire Mart & Electronics |>  -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 4
+
+CITY: in <| Modesto |> is -- [MODESTO]  {alfredmatthews.com}    Occurrence: 1
+
+COMPANY: © <| Alfa Realty |> All -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 2
+
+ZIP: MN <| 56308 |>  -- [56308 3403]  {alexclinic.com}    Occurrence: 1
+
+COMPANY:  <| Alice + Olivia |>  -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 4
+
+STATE: , <| AZ |> , -- [AZ]  {alicecooperstown.com}    Occurrence: 1
+
+COMPANY:  <| AL , FARNAM , MAINTENANCE |> , -- [AL FARNAM MAINTENANCE]  {alfarnammaintenance.com}    Occurrence: 3
+
+ADDRESS:  <| 3750 Jefferson Davis Hwy |> • -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 6
+
+CITY: own <| Lebanon |> office -- [LEBANON]  {alicepeckday.org}    Occurrence: 1
+
+STATE: , <| IL |> 60938 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+ZIP: IL <| 62401 |>  -- [62401 3696]  {algator.com}    Occurrence: 11
+
+COMPANY: s <| Alexandria Toyota |>  -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 43
+
+COMPANY: your <| Alice and Olivia |> gift -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 1
+
+COMPANY: the <| Alexian Brothers Health System |> ( -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY: , <| Algonquin Industries |> , -- [ALGONQUIN INDUSTRIES]  {algonquin-industries.com}    Occurrence: 7
+
+COMPANY:  <| Alicia Garage Doors |> - -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 2
+
+STATE: , <| IL |> . -- [IL]  {alexianbrothershealth.org}    Occurrence: 2
+
+STATE: , <| IL |> 60056 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+COMPANY:  <| Algart Health Care |> - -- [ALGART HEALTH CARE INC]  {algart.com}    Occurrence: 2
+
+COMPANY: At <| Algona Marine & Sport |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 1
+
+CITY: Hwy <| Alexandria |> , -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 9
+
+STATE: , <| CA |> 94043 -- [CA]  {alexza.com}    Occurrence: 6
+
+COMPANY: 2016 <| ALFA International |>  -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 4
+
+COMPANY: at <| Alexandria Clinic |> . -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 1
+
+STATE: , <| AL |>  -- [AL]  {alfarealty.com}    Occurrence: 1
+
+ADDRESS: at <| 1832 Wright St. |> , -- [1832 WRIGHT ST]  {alfalight.com}    Occurrence: 1
+
+STATE: , <| IL |> Tires -- [IL]  {algator.com}    Occurrence: 2
+
+COMPANY: 2010 <| Algona Marine and Sport |>  -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 4
+
+CITY: in <| Washington |> , -- [WASHINGTON]  {alhi.com}    Occurrence: 1
+
+CONTACT:  <| Frank Bullard |> is -- [FRANK BULLARD]  {aliciagaragedoors.com}    Occurrence: 2
+
+COMPANY:  <| Alex Roofing Company , Inc. |> , -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 1
+
+COMPANY: the <| Alexandria Clinic |> . -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 2
+
+COMPANY: | <| Alicia Air Conditioning |>  -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com}    Occurrence: 2
+
+ZIP: MN <| 56308 |> , -- [56308 3403]  {alexclinic.com}    Occurrence: 1
+
+COMPANY: Kimpton <| Alexis Hotel |> in -- [ALEXIS HOTEL]  {alexishotel.com}    Occurrence: 3
+
+CITY:  <| Grand Rapids |> , -- [GRAND RAPIDS]  {algerparkcrc.com}    Occurrence: 2
+
+COMPANY: at <| A lex Products , Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}    Occurrence: 4
+
+COMPANY: - <| Alexandria Clinic |>  -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 16
+
+ZIP: Ohio <| 44805 |>  -- [44805 1236]  {alfarnammaintenance.com}    Occurrence: 2
+
+COMPANY:  <| Alice Cooper |> ' -- [ALICE COOPER 'S TOWN]  {alicecooperstown.com}    Occurrence: 1
+
+COMPANY: recommend <| Alicia Garage Doors |> for -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY:  <| Alice ' s Kitchen |> was -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 1
+
+COMPANY: Choose <| Alicia Garage Doors |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: Dealer <| Alexandria |> | -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 2
+
+CITY: our <| Clifton |> location -- [CLIFTON]  {alexussteakhouse.com}    Occurrence: 1
+
+STATE: , <| IL |> 60005 -- [IL]  {alexianfoundation.org}    Occurrence: 4
+
+ZIP:  <| 98408 |> `` -- [98408 5654]  {alfellowship.com}    Occurrence: 1
+
+COMPANY: - <| Alex ' s Bar |>  -- [ALEX 'S BAR]  {alexsbar.com}    Occurrence: 5
+
+CITY: in <| South San Francisco |> and -- [S SAN FRANCISCO]  {alibaba1.com}    Occurrence: 1
+
+STATE: , <| CA |> as -- [CA]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: to <| Alfred Matthews |> . -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+CITY:  <| Orlando |> , -- [ORLANDO]  {alhi.com}    Occurrence: 1
+
+COMPANY: Inductee <| Alice Cooper |> . -- [ALICE COOPER 'S TOWN]  {alicecooperstown.com}    Occurrence: 1
+
+COMPANY: | <| Alfalight |> , -- [ALFALIGHT]  {alfalight.com}    Occurrence: 6
+
+COMPANY:  <| Alex Displays |> has -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 2
+
+COMPANY: | <| Brown Property Development |>  -- [BROWN PROPERTY DEVELOPMENT]  {alfredrental.com}    Occurrence: 4
+
+STATE: , <| NY |> , -- [NY]  {alfaco.com}    Occurrence: 1
+
+COMPANY:  <| Alfa Realty |> | -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 2
+
+ADDRESS:  <| 1020 W Algonquin Road |> | -- [1020 W ALGONQUIN RD]  {alfpd.org}    Occurrence: 3
+
+ADDRESS: 110 <| Peachtree Industrial Blvd |>  -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net}    Occurrence: 1
+
+COMPANY:  <| Alicat Scientific |> is -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 1
+
+COMPANY:  <| Alfredo 's Wife |> | -- [ALFREDO 'S WIFE FACTORY OUTLET]  {alfredoswife.com}    Occurrence: 1
+
+COMPANY:  <| Al ' s Tire Mart & Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 9
+
+COMPANY: About <| Al 's Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alabama Graphics |> | -- [ALABAMA GRAPHICS & ENGINEERING]  {algraphics.com}    Occurrence: 2
+
+COMPANY: to <| Alicia Garage Doors |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY:  <| Alicat Scientific |> Wins -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 1
+
+COMPANY: first <| Alexander Lumber |>  -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY: at <| Abundant Life |> Fellowship.Â -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+STATE: , <| IL |> 62568 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+COMPANY:  <| Alice Bell Baptist Church |> is -- [ALICE BELL BAPTIST CHURCH]  {alicebellbaptist.org}    Occurrence: 1
+
+CITY: to <| Aurora |> in -- [AURORA]  {alexlbr.com}    Occurrence: 2
+
+CITY:  <| Glen Ellyn |> , -- [GLEN ELLYN]  {alfiesinn.com}    Occurrence: 1
+
+COMPANY:  <| Alicat Scientific , Inc. |> • -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 1
+
+CITY:  <| Washington |>  -- [WASHINGTON]  {alhi.com}    Occurrence: 5
+
+COMPANY: The <| Alexander City Outlook |> ’ -- [ALEXANDER CITY OUTLOOK]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: Why <| Alfred Matthews |>  -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 4
+
+COMPANY: to <| Alicia Garage Doors |> . -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY: internationally <| Alfa Realty |> is -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 1
+
+CITY: in <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 3
+
+STATE: , <| CA |> 95050 -- [CA]  {alfnational.org}    Occurrence: 1
+
+ADDRESS:  <| 1200 West Main Street |>  -- [1200 W MAIN ST]  {alhambramazda.com}    Occurrence: 8
+
+STATE: Alamo <| CA |> - -- [CA]  {alexscatering.com}    Occurrence: 1
+
+COMPANY:  <| Farmers Insurance Group |> offers -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+CITY: , <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 1
+
+STATE: , <| CA |> 94080 -- [CA]  {alibaba1.com}    Occurrence: 1
+
+ADDRESS: at <| 900 E Fayette |> is -- [900 E FAYETTE AVE]  {algator.com}    Occurrence: 1
+
+COMPANY:  <| Al ’ s Tire Mart and Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+CITY: | <| Glen Ellyn |> , -- [GLEN ELLYN]  {alfiesinn.com}    Occurrence: 3
+
+COMPANY:  <| Alice ' s Kitchen |> Parisian -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 2
+
+ADDRESS: 38 <| North Main Street |>  -- [44 N MAIN ST]  {alfredrental.com}    Occurrence: 5
+
+CITY: Circle <| Corona |> , -- [CORONA]  {alexisoil.com}    Occurrence: 5
+
+COMPANY: of <| Alfa Insurance |> ® -- [ALFA INSURANCE CORP]  {alfains.com}    Occurrence: 2
+
+COMPANY: thus <| Alice ' s Kitchen |> was -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 1
+
+ADDRESS:  <| 26824 Vista |> Terrace -- [26824 VISTA TER]  {aliciaair.com}    Occurrence: 1
+
+COMPANY: , <| ALFA International |> is -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 2
+
+COMPANY:  <| Alex Rosenberg Fine Art |>  -- [ALEX J ROSENBERG FINE ART]  {alexrosenbergfineart.com}    Occurrence: 1
+
+CITY:  <| Madison |> - -- [MADISON]  {alfalight.com}    Occurrence: 2
+
+CONTACT: from <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 2
+
+COMPANY: Island <| Real Estate |>  -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 1
+
+COMPANY:  <| Farmers Insurance Group |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 3
+
+COMPANY:  <| Brown Property Development |>  -- [BROWN PROPERTY DEVELOPMENT]  {alfredrental.com}    Occurrence: 10
+
+COMPANY:  <| Alfalight |> , -- [ALFALIGHT]  {alfalight.com}    Occurrence: 3
+
+ZIP: Arkansas <| 72903 |> Phone -- [72903 6514]  {alfatransformer.com}    Occurrence: 1
+
+CONTACT: 1970 <| Bill Hall |> , -- [BILL HALL]  {algonamarine.com}    Occurrence: 1
+
+COMPANY:  <| Farmers Insurance |> FAQ -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+COMPANY:  <| Algona Marine & Sport |> Lund -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 2
+
+COMPANY:  <| AL FARNAM MAINTENANCE |> IS -- [AL FARNAM MAINTENANCE]  {alfarnammaintenance.com}    Occurrence: 3
+
+CITY: • <| Tucson |> , -- [TUCSON]  {alicatscientific.com}    Occurrence: 1
+
+COMPANY: Alexandria <| First Baptist Church |> , -- [FIRST BAPTIST CHURCH]  {alexfbc.org}    Occurrence: 2
+
+COMPANY: About <| Alexian Brothers Health System |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+COMPANY: © <| Alice and Olivia |>  -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 3
+
+COMPANY: Call <| Alexian Brothers Health System |> Central -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 8
+
+CONTACT: At <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 2
+
+CITY: in <| Vallejo |> ' -- [VALLEJO]  {alexscatering.com}    Occurrence: 1
+
+COMPANY: of <| Alexander Lumber Company |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+CITY: in <| Alfred |> , -- [ALFRED]  {alfredrental.com}    Occurrence: 1
+
+CITY: North <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alice + Olivia |> is -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 1
+
+COMPANY: to <| Alicia Garage Doors |> , -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: , <| Vallejo |> , -- [VALLEJO]  {alexscatering.com}    Occurrence: 7
+
+CITY:  <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 3
+
+CITY:  <| Alexandria |> Grace -- [ALEXANDRIA]  {alexgbc.com}    Occurrence: 6
+
+CONTACT:  <| Heidi & Gary Brown |>  -- [HEIDI BROWN]  {alfredrental.com}    Occurrence: 1
+
+ADDRESS: at <| 3750 Jefferson Davis |> Highway -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 2
+
+COMPANY: Contact <| Advanced Logic Industries |>  -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com}    Occurrence: 2
+
+STATE: , <| AL |> 35233 -- [AL]  {alggraphics.com}    Occurrence: 1
+
+CITY: the <| Columbus |> area -- [COLUMBUS]  {algorithminc.com}    Occurrence: 1
+
+COMPANY:  <| Alex ' s Bar |> Karaoke -- [ALEX 'S BAR]  {alexsbar.com}    Occurrence: 2
+
+STATE: , <| IL |> 61821 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+ZIP: NJ <| 08844 |>  -- [08844 5024]  {alfonsos.net}    Occurrence: 2
+
+COMPANY: hire <| ALEX DISPLAYS. |> `` -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY: about <| Farmers Insurance |> , -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+CITY: of <| Algonquin |> | -- [ALGONQUIN]  {algonquin.org}    Occurrence: 1
+
+ZIP: OHIO <| 44805 |>  -- [44805 1236]  {alfarnammaintenance.com}    Occurrence: 1
+
+ADDRESS: on <| Mascoma Street |> in -- [125 MASCOMA ST]  {alicepeckday.org}    Occurrence: 1
+
+ADDRESS:  <| 5301 Wisconsin Ave , NW |> , -- [5301 WISCONSIN AVE NW]  {alexcooper.com}    Occurrence: 2
+
+CITY: downtown <| Seattle |> and -- [SEATTLE]  {alexishotel.com}    Occurrence: 1
+
+CITY:  <| Washington |> , -- [WASHINGTON]  {alexcooper.com}    Occurrence: 2
+
+ZIP: Washington <| 98408 |>  -- [98408 5654]  {alfellowship.com}    Occurrence: 1
+
+STATE: , <| VA |> , -- [VA]  {alexandriatoyota.com}    Occurrence: 2
+
+STATE: , <| PA |> and -- [PA]  {alexroofing.com}    Occurrence: 8
+
+ADDRESS:  <| 900 E. Fayette |> , -- [900 E FAYETTE AVE]  {algator.com}    Occurrence: 1
+
+ADDRESS:  <| 724 S. Bon View Ave. |> Ontario -- [724 S BON VIEW AVE]  {alger1.com}    Occurrence: 4
+
+COMPANY: 2015 <| Alex Roofing Company , Inc. |> | -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 4
+
+STATE: , <| NY |> 11215 -- [NY]  {alexfigliolia.com}    Occurrence: 6
+
+COMPANY: At <| Alex Audio and Video |> we -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}    Occurrence: 1
+
+CITY: , <| Madison |> , -- [MADISON]  {alfalight.com}    Occurrence: 1
+
+COMPANY:  <| Alex Cooper Auctioneers |> specialize -- [ALEX COOPER AUCTIONEERS]  {alexcooper.com}    Occurrence: 1
+
+COMPANY:  <| Alicia Garage Doors |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 3
+
+CONTACT: at <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 1
+
+CITY:  <| San Francisco |> , -- [S SAN FRANCISCO]  {alibaba1.com}    Occurrence: 1
+
+STATE: , <| IA |> 800-839-3501 -- [IA]  {algonamarine.com}    Occurrence: 3
+
+ADDRESS: '' <| 3750 Jefferson Davis Hwy |> `` -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 6
+
+CITY:  <| Modesto |> GM -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+COMPANY: | <| Alice Bell Baptist |>  -- [ALICE BELL BAPTIST CHURCH]  {alicebellbaptist.org}    Occurrence: 2
+
+CITY: our <| Nashville |> Airport -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+COMPANY: s <| Alexandria Toyota |> 3750 -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+STATE: , <| NY |> 11553 -- [NY]  {algren.com}    Occurrence: 4
+
+COMPANY: to <| Alford Homes |>  -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+CITY:  <| Fairfield |> , -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 2
+
+STATE: LOVE <| NY |> TOP -- [NY]  {aliceandolivia.com}    Occurrence: 2
+
+STATE: , <| NY |> 10021 -- [NY]  {alexrosenbergfineart.com}    Occurrence: 1
+
+CITY: , <| Prattville |> AL -- [PRATTVILLE]  {alfarealty.com}    Occurrence: 4
+
+COMPANY: About <| Alexis Inn and Suites |> Nashville -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 2
+
+COMPANY: At <| Alexian Brothers Health System |> we -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+CONTACT:  <| Alex Sayeri |> - -- [ALEX SAYERI]  {alexsayeri.com}    Occurrence: 2
+
+STATE: , <| NH |> 03766 -- [NH]  {alicepeckday.org}    Occurrence: 4
+
+COMPANY: 1999-2015 <| Advanced Logic Industries |> | -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com}    Occurrence: 6
+
+CITY: your <| Modesto |> Cadillac -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: Alexandria <| First Baptist Church |> | -- [FIRST BAPTIST CHURCH]  {alexfbc.org}    Occurrence: 2
+
+COMPANY: of <| Alford Homes |> Dallas -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 2
+
+COMPANY:  <| Al ’ s Tire Mart |>  -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+CITY: Ave. <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 1
+
+COMPANY: make <| Alfalight |> the -- [ALFALIGHT]  {alfalight.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Lumber Co. |> currently -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY: | <| Farmers Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 2
+
+COMPANY: 2014 <| American Leadership |> Forum -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org}    Occurrence: 5
+
+COMPANY: used <| Al Hill Boiler |> for -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}    Occurrence: 1
+
+CITY: • <| Alexandria |> , -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 6
+
+COMPANY: Contact <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+COMPANY:  <| A Lex Products Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}    Occurrence: 3
+
+COMPANY: - <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 24
+
+CITY:  <| Alexandria |> , -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 6
+
+COMPANY: The <| Abundant Life Fellowship |> School -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+COMPANY: of <| Alhambra | New Mazda |> dealership -- [ALHAMBRA MAZDA]  {alhambramazda.com}    Occurrence: 8
+
+COMPANY: that <| Alice Peck Day |> bequeathed -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+CITY: for <| Alexander City |> and -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 4
+
+COMPANY: favorite <| Alice ' s Tea Cup |> sweets -- [ALICE 'S TEA CUP]  {alicesteacup.com}    Occurrence: 1
+
+COMPANY: call <| Alicia Garage Doors |> that -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: 1488 <| Griffin |> , -- [GRIFFIN]  {ali-service.com}    Occurrence: 1
+
+CONTACT:  <| FRANK BULLARD |> CONTRACTOR -- [FRANK BULLARD]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: Street <| Fort Smith |> Arkansas -- [FORT SMITH]  {alfatransformer.com}    Occurrence: 1
+
+COMPANY:  <| Alexandria Clinic |> partners -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 1
+
+CITY: our <| Lake Forest |> , -- [LAKE FOREST]  {aliciaair.com}    Occurrence: 1
+
+COMPANY:  <| Advanced Logic Industries |>  -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com}    Occurrence: 2
+
+CITY:  <| Algona |> , -- [ALGONA]  {algonamarine.com}    Occurrence: 1
+
+CITY: created <| Alexander City |> ’ -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: | <| Alex Cooper Auctioneers |>  -- [ALEX COOPER AUCTIONEERS]  {alexcooper.com}    Occurrence: 2
+
+COMPANY:  <| Alice |> Cares -- [ALICE]  {alice1059.com}    Occurrence: 1
+
+STATE: , <| IL |> . -- [IL]  {algator.com}    Occurrence: 2
+
+ADDRESS:  <| 955 Valley Road |>  -- [955 VALLEY RD]  {alexussteakhouse.com}    Occurrence: 4
+
+COMPANY: © <| Alexis Oil |> Comapny -- [ALEXIS OIL CO]  {alexisoil.com}    Occurrence: 5
+
+CITY: and <| Alfred |> State -- [ALFRED]  {alfredrental.com}    Occurrence: 2
+
+ADDRESS:  <| 5801 Plantation Road |>  -- [5801 PLANTATION RD]  {alhillboiler.com}    Occurrence: 1
+
+STATE: , <| IL |> . -- [IL]  {algonquin.org}    Occurrence: 1
+
+COMPANY: The <| Alice Peck Day |> Social -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+ADDRESS: ¢ <| 3305 Alice Bell Road |> â -- [3305 ALICE BELL RD]  {alicebellbaptist.org}    Occurrence: 1
+
+COMPANY:  <| Aliano Real Estate |> is -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 1
+
+COMPANY: View <| Alfa Realty |> Office -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 1
+
+CITY: , <| Columbus |> , -- [COLUMBUS]  {algorithminc.com}    Occurrence: 12
+
+STATE: , <| IL |>  -- [IL]  {algator.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Lumber |> specialists -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY:  <| Alice ' s Kitchen |> operates -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 1
+
+CITY:  <| Chicago |> , -- [CHICAGO]  {aliceadamltd.com}    Occurrence: 1
+
+CITY:  <| Brooklyn |> , -- [BROOKLYN]  {alexfigliolia.com}    Occurrence: 6
+
+CONTACT:  <| Alicia Mugetti |>  -- [ALICIA MUGETTI]  {aliciamugetti.com}    Occurrence: 4
+
+ZIP: IL <| 60156 |> | -- [60156 3500]  {alfpd.org}    Occurrence: 3
+
+ADDRESS: to <| Rhode Island Ave. North |> . -- [4211 RHODE ISLAND AVE N]  {alexav.com}    Occurrence: 1
+
+COMPANY: 's <| Alexandria Toyota |>  -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 4
+
+COMPANY:  <| ALFA International |> Dealer -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 4
+
+COMPANY: at <| Algona Marine & Sport |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 1
+
+CITY: in <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 5
+
+ADDRESS:  <| 420 Carroll Street |>  -- [420 CARROLL ST]  {alexfigliolia.com}    Occurrence: 6
+
+ZIP: CA <| 92630 |>  -- [92630 0000]  {aliciaair.com}    Occurrence: 1
+
+CITY:  <| Alexander City |> , -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: - <| Alicia Garage Doors |> . -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY: Shop <| Alice + Olivia |> for -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 1
+
+COMPANY: an <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 1
+
+COMPANY: does <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY: At <| Alex Roofing Company , Inc. |> our -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 2
+
+COMPANY:  <| Alfred Matthews |> is -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+CITY: serving <| Cicero |> and -- [CICERO]  {algorphs.com}    Occurrence: 1
+
+ZIP: Arkansas <| 72903 |>  -- [72903 6514]  {alfatransformer.com}    Occurrence: 4
+
+CONTACT: , <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 4
+
+COMPANY: ( <| Farmers Insurance |> Exchange -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+COMPANY: The <| Alexian Brothers Health System |> ( -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+CITY: IN <| ASHLAND |> AREA -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 3
+
+ADDRESS: Transformer <| 6107 South Zero Street |> Fort -- [6107 ZERO ST]  {alfatransformer.com}    Occurrence: 1
+
+COMPANY: in <| Alfalight |> and -- [ALFALIGHT]  {alfalight.com}    Occurrence: 2
+
+STATE: '' <| VA |> `` -- [VA]  {alexandriatoyota.com}    Occurrence: 6
+
+CITY: Service <| Modesto |> - -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: for <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+STATE: to <| MN |> , -- [MN]  {alexav.com}    Occurrence: 2
+
+CITY: West <| Alexandria |> , -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 2
+
+ADDRESS: 141 <| Mascoma Street |>  -- [125 MASCOMA ST]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY: called <| Alex Displays |> . -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY:  <| Alexis Inn and Suites |> Nashville -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 3
+
+CITY: visited <| Nashville |> I -- [NASHVILLE]  {alexisinn.com}    Occurrence: 3
+
+STATE: Computers <| MN |> USA -- [MN]  {alexav.com}    Occurrence: 2
+
+COMPANY:  <| ALEX ROSENBERG FINE ART |>  -- [ALEX J ROSENBERG FINE ART]  {alexrosenbergfineart.com}    Occurrence: 1
+
+CITY: in <| Lebanon |> and -- [LEBANON]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY: the <| American Leadership |> Forum -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org}    Occurrence: 3
+
+STATE: , <| IL |> 61254 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+ADDRESS: at <| 900 East Fayette |> , -- [900 E FAYETTE AVE]  {algator.com}    Occurrence: 1
+
+CONTACT: 1991 <| Kenneth Boone |> purchased -- [KENNETH BOONE]  {alexcityoutlook.com}    Occurrence: 1
+
+ZIP: Arizona <| 85714 |>  -- [85714 1961]  {alfrescolandscaping.com}    Occurrence: 1
+
+CITY: Fayette <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 1
+
+ADDRESS:  <| 970 Route 25A |>  -- [970 ROUTE 25A]  {alianorealestate.com}    Occurrence: 1
+
+ADDRESS:  <| 3750 Jefferson Davis Hwy |> Alexandria -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 6
+
+ZIP: since <| 1998 |> / -- [91761 1998]  {alger1.com}    Occurrence: 3
+
+CONTACT:  <| Alex Cooper |>  -- [ALEX COOPER]  {alexcooper.com}    Occurrence: 1
+
+CITY: of <| Algonquin |> , -- [ALGONQUIN]  {algonquin.org}    Occurrence: 5
+
+COMPANY: Alexandria <| First Baptist Church |> to -- [FIRST BAPTIST CHURCH]  {alexfbc.org}    Occurrence: 1
+
+ZIP: IA <| 50511 |>  -- [50511 1923]  {algonamarine.com}    Occurrence: 1
+
+COMPANY:  <| Alicia Garage Doors |> , -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY: About <| Alfalight |>  -- [ALFALIGHT]  {alfalight.com}    Occurrence: 2
+
+COMPANY: - <| American Leadership |> Forum -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org}    Occurrence: 4
+
+COMPANY:  <| Algart Health Care |>  -- [ALGART HEALTH CARE INC]  {algart.com}    Occurrence: 1
+
+COMPANY: , <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 1
+
+COMPANY: Contact <| Ali Baba |>  -- [ALI BABA]  {alibaba1.com}    Occurrence: 1
+
+COMPANY: Als <| Tire Mart and Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+CITY:  <| Alexander City |> woman -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+CITY:  <| Tacoma |> , -- [TACOMA]  {alfellowship.com}    Occurrence: 1
+
+STATE: , <| CA |>  -- [CA]  {aliciaair.com}    Occurrence: 146
+
+ZIP: FL <| 32835 |>  -- [32835 6199]  {alhi.com}    Occurrence: 1
+
+COMPANY: about <| Alford Homes |> , -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+CONTACT:  <| Walter Alexander |> learned -- [WALTER F ALEXANDER]  {alexlbr.com}    Occurrence: 2
+
+COMPANY: homeowner <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 1
+
+COMPANY:  <| Alice |> TV -- [ALICE]  {alice1059.com}    Occurrence: 1
+
+COMPANY: 2016 <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 5
+
+ZIP: AL <| 35233 |>  -- [35233 3026]  {alggraphics.com}    Occurrence: 1
+
+STATE: , <| TN |>  -- [TN]  {alexisinn.com}    Occurrence: 2
+
+COMPANY: Kimpton <| Alexis Hotel |> a -- [ALEXIS HOTEL]  {alexishotel.com}    Occurrence: 1
+
+COMPANY: At <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 1
+
+STATE: , <| CA |> 91410 -- [CA]  {alfredpub.com}    Occurrence: 1
+
+CONTACT: 2015 <| Alex Cooper |> Inc -- [ALEX COOPER]  {alexcooper.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85743 -- [AZ]  {alicatscientific.com}    Occurrence: 7
+
+COMPANY: | <| Associated Luxury Hotels |> International -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com}    Occurrence: 2
+
+COMPANY: of <| Alexander Lumber |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY:  <| Alex Roofing Company , Inc. |> provides -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {alfredpub.com}    Occurrence: 2
+
+COMPANY: Mrs. <| Alice Peck Day |> bequeathed -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+CITY: in <| San Diego |> , -- [SAN DIEGO]  {alfatek.com}    Occurrence: 1
+
+ADDRESS:  <| 401 N Leavitt St |>  -- [401 N LEAVITT ST]  {alexdisplays.com}    Occurrence: 1
+
+ADDRESS: facing <| Beach Road |> was -- [88 BEACH RD]  {algreenfuneralhome.com}    Occurrence: 1
+
+STATE: , <| NY |> 14850 -- [NY]  {alfredrental.com}    Occurrence: 2
+
+COMPANY:  <| Farmers Insurance |> Agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 3
+
+COMPANY:  <| Alexian Brothers |> PACE -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com}    Occurrence: 1
+
+CITY: , <| New Hope |> , -- [NEW HOPE]  {alexav.com}    Occurrence: 1
+
+CITY: for <| Algonquin |> residents -- [ALGONQUIN]  {algonquin.org}    Occurrence: 1
+
+COMPANY: and <| Alice and Olivia |> gift -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 1
+
+STATE:  <| NY |> State -- [NY]  {algren.com}    Occurrence: 3
+
+COMPANY: | <| Alexis Oil Company |>  -- [ALEXIS OIL CO]  {alexisoil.com}    Occurrence: 8
+
+COMPANY: as <| Alexander Lumber Co. |> With -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+CITY: service <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 3
+
+COMPANY:  <| Alex Displays |> provides -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY:  <| Alfa International |> has -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 1
+
+STATE: , <| NY |> 10065 -- [NY]  {aliciamugetti.com}    Occurrence: 1
+
+CITY: in <| Algona |> , -- [ALGONA]  {algonamarine.com}    Occurrence: 1
+
+COMPANY:  <| Alfie ' s Inn |>  -- [ALFIE 'S INN INC]  {alfiesinn.com}    Occurrence: 1
+
+COMPANY: s <| Alexandria Toyota |> , -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 2
+
+STATE: , <| IL |> Circa -- [IL]  {alexlbr.com}    Occurrence: 4
+
+COMPANY:  <| Alfa Instruments |> - -- [ALFA INSTRUMENTS]  {alfaline.com}    Occurrence: 4
+
+STATE:  <| MN |> , -- [MN]  {alexav.com}    Occurrence: 2
+
+COMPANY:  <| Algren |> Fast -- [ALGREN]  {algren.com}    Occurrence: 3
+
+COMPANY: Kimpton <| Alexis Hotel |> , -- [ALEXIS HOTEL]  {alexishotel.com}    Occurrence: 1
+
+STATE: , <| IL |> 61752 -- [IL]  {alexlbr.com}    Occurrence: 2
+
+COMPANY:  <| Alfie ’ s Inn |> caters -- [ALFIE 'S INN INC]  {alfiesinn.com}    Occurrence: 1
+
+CITY: & <| Washington |> , -- [WASHINGTON]  {alexcooper.com}    Occurrence: 2
+
+COMPANY: ; <| Alabama Graphics |> guarantees -- [ALABAMA GRAPHICS & ENGINEERING]  {algraphics.com}    Occurrence: 1
+
+ZIP: Arkansas <| 72906 |>  -- [72906 6316]  {alfatransformer.com}    Occurrence: 4
+
+CITY:  <| Brooklyn |> Borough -- [BROOKLYN]  {alexfigliolia.com}    Occurrence: 1
+
+CITY:  <| Fairfield |> County -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY:  <| Alfalight |> Receives -- [ALFALIGHT]  {alfalight.com}    Occurrence: 1
+
+COMPANY:  <| Alfa Realty |> , -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 3
+
+COMPANY: - <| Aliano Real Estate |>  -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 9
+
+CONTACT: Let <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Brothers Health System |> locations -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+CITY:  <| Lebanon |> NH -- [LEBANON]  {alicepeckday.org}    Occurrence: 1
+
+STATE: , <| IL |> , -- [IL]  {algator.com}    Occurrence: 3
+
+ADDRESS:  <| 1301 Commonwealth Avenue |>  -- [1301 COMMONWEALTH AVE]  {alexgbc.com}    Occurrence: 1
+
+CITY:  <| Alexandria |>  -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 12
+
+CITY: The <| Alexander City |> City -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+CITY:  <| Ashland |> , -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 2
+
+COMPANY: , <| Algren |> consistently -- [ALGREN]  {algren.com}    Occurrence: 1
+
+ADDRESS:  <| 1738 COTTAGE ST |> . -- [1738 COTTAGE ST]  {alfarnammaintenance.com}    Occurrence: 1
+
+CITY: to <| Seattle |> ' -- [SEATTLE]  {alexishotel.com}    Occurrence: 1
+
+COMPANY: About <| Alicia Air Conditioning |> & -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com}    Occurrence: 2
+
+CITY: , <| Brooklyn |> and -- [BROOKLYN]  {alexfigliolia.com}    Occurrence: 5
+
+CITY: in <| Alhambra |> , -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 10
+
+STATE: , <| NY |> near -- [NY]  {alfredrental.com}    Occurrence: 1
+
+CONTACT:  <| Alex Sayeri |>  -- [ALEX SAYERI]  {alexsayeri.com}    Occurrence: 2
+
+COMPANY:  <| Abundant Life Fellowship |> School -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+ADDRESS:  <| 5220 W Cermak Rd |>  -- [5220 W CERMAK RD]  {algorphs.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Lumber Co |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+COMPANY: at <| Alicia Garage Doors |> for -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+STATE: , <| IL |> 60195 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+CONTACT: Contact <| Alex Sayeri |> , -- [ALEX SAYERI]  {alexsayeri.com}    Occurrence: 1
+
+CITY: | <| Algonquin |> , -- [ALGONQUIN]  {algonquin.org}    Occurrence: 1
+
+STATE: , <| CA |> 91410-0003 -- [CA]  {alfredpub.com}    Occurrence: 5
+
+STATE: , <| MN |> 55428 -- [MN]  {alexav.com}    Occurrence: 1
+
+CITY: the <| Aurora |> yard -- [AURORA]  {alexlbr.com}    Occurrence: 2
+
+COMPANY:  <| Alfa Instruments |> . -- [ALFA INSTRUMENTS]  {alfaline.com}    Occurrence: 4
+
+CITY:  <| Alexander City |> schools -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: a <| Farmers Insurance |> ® -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 2
+
+COMPANY:  <| Alice + Olivia |> | -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 2
+
+COMPANY: , <| Al Hill ' s Boiler |> offers -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}    Occurrence: 3
+
+COMPANY:  <| Alexian Brothers |> Home -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com}    Occurrence: 1
+
+STATE: , <| IL |> 60106 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+ZIP: IL <| 60612 |>  -- [60612 1617]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY: Contact <| ALFA International |> in -- [ALFA INTERNATIONAL CORP]  {alfaco.com}    Occurrence: 1
+
+CITY: In <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+ZIP: NJ <| 07013 |>  -- [07013 4023]  {alexussteakhouse.com}    Occurrence: 4
+
+COMPANY:  <| Algonquin Industries |> – -- [ALGONQUIN INDUSTRIES]  {algonquin-industries.com}    Occurrence: 3
+
+STATE: , <| AL |> 35011 -- [AL]  {alexcityoutlook.com}    Occurrence: 1
+
+ADDRESS:  <| 44 North Main Street |> `` -- [44 N MAIN ST]  {alfredrental.com}    Occurrence: 1
+
+CITY: shopin <| New Hope |> MN -- [NEW HOPE]  {alexav.com}    Occurrence: 2
+
+COMPANY: The <| Prudent Speculator |> newsletter -- [PRUDENT SPECULATOR]  {alfrank.com}    Occurrence: 1
+
+CITY: about <| Alexandria |> First -- [ALEXANDRIA]  {alexfbc.org}    Occurrence: 2
+
+CITY: the <| Effingham |> County -- [EFFINGHAM]  {algator.com}    Occurrence: 1
+
+CITY: Southeast <| Grand Rapids |> , -- [GRAND RAPIDS]  {algerparkcrc.com}    Occurrence: 1
+
+CONTACT:  <| Walter Alexander |>  -- [WALTER F ALEXANDER]  {alexlbr.com}    Occurrence: 2
+
+ADDRESS:  <| 548 Cherokee Road |> , -- [548 CHEROKEE RD]  {alexcityoutlook.com}    Occurrence: 1
+
+ADDRESS: at <| 830 South Flamino Rd |> , -- [830 S FLAMINGO RD]  {alexfarm.com}    Occurrence: 1
+
+COMPANY: through <| Farmers Insurance |> Company -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+COMPANY:  <| Alex 's Catering |>  -- [ALEX 'S CATERING]  {alexscatering.com}    Occurrence: 1
+
+STATE: , <| NY |> — -- [NY]  {alicesteacup.com}    Occurrence: 3
+
+COMPANY:  <| Algona Marine & Sport |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 2
+
+COMPANY: | <| Alex ' s Catering |>  -- [ALEX 'S CATERING]  {alexscatering.com}    Occurrence: 2
+
+CONTACT: than <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+STATE: , <| GA |> 30518 -- [GA]  {algc.net}    Occurrence: 2
+
+COMPANY: trust <| Alabama Graphics |> with -- [ALABAMA GRAPHICS & ENGINEERING]  {algraphics.com}    Occurrence: 1
+
+COMPANY:  <| Alfalight |> was -- [ALFALIGHT]  {alfalight.com}    Occurrence: 4
+
+ADDRESS:  <| 1738 Cottage Street |>  -- [1738 COTTAGE ST]  {alfarnammaintenance.com}    Occurrence: 2
+
+STATE: , <| IL |> 60098 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+COMPANY:  <| Alexandria Clinic |> contact -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 1
+
+COMPANY: of <| Alfalight |> , -- [ALFALIGHT]  {alfalight.com}    Occurrence: 2
+
+STATE: , <| DC |> 20006 -- [DC]  {alhi.com}    Occurrence: 1
+
+CITY: The <| Washington |> Court -- [WASHINGTON]  {alhi.com}    Occurrence: 4
+
+CITY: , <| Modesto |> Buick -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: more <| Alexian Brothers Health System |> videos -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+STATE: , <| FL |> 32835 -- [FL]  {alhi.com}    Occurrence: 1
+
+STATE: , <| PA |> region -- [PA]  {alexroofing.com}    Occurrence: 1
+
+CITY: the <| Alexander City |> Chamber -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+STATE: , <| IA |> 50511 -- [IA]  {algonamarine.com}    Occurrence: 5
+
+CONTACT: Call <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 6
+
+ZIP: PA <| 16511 |> | -- [16511 1722]  {alexroofing.com}    Occurrence: 4
+
+COMPANY: on <| Algona Marine & Sport |>  -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 2
+
+CITY: , <| New York |> , -- [NEW YORK]  {aliceandolivia.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Brothers |> Valley -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com}    Occurrence: 1
+
+COMPANY:  <| Alfalight |> Completes -- [ALFALIGHT]  {alfalight.com}    Occurrence: 1
+
+CITY:  <| Phoenix |> , -- [PHOENIX]  {alicecooperstown.com}    Occurrence: 1
+
+CONTACT:  <| Alex Matthews |> - -- [ALEX MATTHEWS]  {alexmatthews.com}    Occurrence: 2
+
+STATE: , <| CT |> 06824 -- [CT]  {algreenfuneralhome.com}    Occurrence: 2
+
+CONTACT: our <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+STATE: , <| CA |> 91302 -- [CA]  {alexsayeri.com}    Occurrence: 1
+
+ADDRESS:  <| 6107 South Zero Street |>  -- [6107 ZERO ST]  {alfatransformer.com}    Occurrence: 4
+
+CITY: Montgomery <| Prattville |> , -- [PRATTVILLE]  {alfarealty.com}    Occurrence: 2
+
+COMPANY: all <| Alfalight |> laser -- [ALFALIGHT]  {alfalight.com}    Occurrence: 2
+
+STATE: , <| IL |> 61615 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+STATE: , <| CA |> | -- [CA]  {aliciagaragedoors.com}    Occurrence: 2
+
+ZIP: MN <| 55428 |>  -- [55428 4917]  {alexav.com}    Occurrence: 1
+
+COMPANY:  <| Abraham L. Green and Son |>  -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: of <| Alford Homes |> has -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+CITY: in <| Van Nuys |> , -- [VAN NUYS]  {alfredpub.com}    Occurrence: 2
+
+CONTACT: 2016 <| Alex Cooper |> Inc -- [ALEX COOPER]  {alexcooper.com}    Occurrence: 1
+
+ADDRESS: 675 <| Madison Avenue |> , -- [999 MADISON AVE]  {aliciamugetti.com}    Occurrence: 1
+
+COMPANY: of <| Alexian Brothers Behavioral Health |> Hospital -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY: at <| Alfred Matthews |> Buick -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 5
+
+CONTACT: , <| Greg Alford |> Dallas -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 2
+
+CITY: of <| Alhambra |> in -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 1
+
+COMPANY:  <| Alfred Matthews |> Buick -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 16
+
+STATE: , <| IL |> 62401 -- [IL]  {algator.com}    Occurrence: 11
+
+ZIP: NY <| 11215 |>  -- [11215 1012]  {alexfigliolia.com}    Occurrence: 6
+
+ADDRESS: Toyota <| 3750 Jefferson Davis Hwy |> Alexandria -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 2
+
+CITY: in <| Cicero |> , -- [CICERO]  {algorphs.com}    Occurrence: 1
+
+COMPANY: about <| Alexander Lumber Co |> ... -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+CITY: , <| Erie |> , -- [ERIE]  {alexroofing.com}    Occurrence: 7
+
+ADDRESS:  <| 101 E Jackson St |>  -- [101 E JACKSON ST]  {alicecooperstown.com}    Occurrence: 1
+
+CITY:  <| Nashville |> , -- [NASHVILLE]  {alexisinn.com}    Occurrence: 4
+
+COMPANY: 10 <| Alice Peck Day |> Drive -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 16
+
+CITY:  <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 8
+
+STATE: , <| WA |> . -- [WA]  {alfellowship.com}    Occurrence: 1
+
+STATE: , <| IL |> 62681 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+COMPANY: The <| Alexian Brothers Health System |> also -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+CITY:  <| Miller Place |> , -- [MILLER PLACE]  {alianorealestate.com}    Occurrence: 1
+
+CITY:  <| Modesto |> Cadillac -- [MODESTO]  {alfredmatthews.com}    Occurrence: 49
+
+COMPANY:  <| Alice Peck Day |> ’ -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+COMPANY:  <| Alex Roofing Company , Inc. |> maintains -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 1
+
+COMPANY:  <| Al ’ s Tire Mart & Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 1
+
+COMPANY:  <| American Leadership |> Forum -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org}    Occurrence: 19
+
+CITY:  <| New York |> , -- [NEW YORK]  {algren.com}    Occurrence: 4
+
+ZIP: CA <| 95356 |>  -- [95356 1584]  {alfredmatthews.com}    Occurrence: 4
+
+CITY: Alford <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 2
+
+COMPANY:  <| Alfred Matthews |> History -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 4
+
+COMPANY: , <| Alfred Matthews |> also -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY:  <| Alicat Scientific |> helps -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 1
+
+CONTACT: of <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 5
+
+STATE: , <| CA |> Garage -- [CA]  {aliciagaragedoors.com}    Occurrence: 2
+
+STATE: , <| MN |>  -- [MN]  {alexav.com}    Occurrence: 1
+
+COMPANY: | <| Alford Homes |> in -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 2
+
+COMPANY:  <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 11
+
+ZIP: Tennessee <| 37917 |> â -- [37917 1926]  {alicebellbaptist.org}    Occurrence: 1
+
+STATE: , <| MN |> , -- [MN]  {alexav.com}    Occurrence: 1
+
+STATE: , <| VA |> 22305 -- [VA]  {alexandriatoyota.com}    Occurrence: 21
+
+CITY: and <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+STATE: , <| CT |> , -- [CT]  {algreenfuneralhome.com}    Occurrence: 1
+
+ADDRESS: the <| Harnish Drive |> parking -- [2200 HARNISH DR]  {algonquin.org}    Occurrence: 1
+
+COMPANY:  <| Alexis Inn & Suites |>  -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 3
+
+STATE: , <| AR |> 72370 -- [AR]  {algonquin-industries.com}    Occurrence: 1
+
+COMPANY: About <| Alice ' s Kitchen |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com}    Occurrence: 1
+
+ZIP: '' <| 22305 |> `` -- [22305 3104]  {alexandriatoyota.com}    Occurrence: 6
+
+COMPANY:  <| Alicia Air Conditioning |> and -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com}    Occurrence: 1
+
+STATE: Prattville <| AL |> , -- [AL]  {alfarealty.com}    Occurrence: 2
+
+COMPANY: s <| Alexandria Toyota |> we -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY: Hixon <| Lumber Co |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+STATE: , <| TX |> 75287 -- [TX]  {alfordhomes.com}    Occurrence: 3
+
+CONTACT:  <| Alex Rosenberg |> founded -- [ALEX J ROSENBERG]  {alexrosenbergfineart.com}    Occurrence: 1
+
+COMPANY: at <| Algorithm Inc. |> Jeremy -- [ALGORITHM INC]  {algorithminc.com}    Occurrence: 1
+
+CITY: to <| New Hope |> , -- [NEW HOPE]  {alexav.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Assisted Living |>  -- [ALEXIAN INN-ASSISTED LIVING]  {alexianvillage.com}    Occurrence: 1
+
+CITY: , <| Alexandria |> ’ -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY: about <| Alex Displays |> and -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY: : <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 2
+
+COMPANY: to <| Abraham L. Green and Son Funeral |> Home -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: with <| Alex Displays |> it -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+CITY:  <| New York |> ( -- [NEW YORK]  {algren.com}    Occurrence: 1
+
+CITY: near <| Alfred |> University -- [ALFRED]  {alfredrental.com}    Occurrence: 2
+
+STATE: , <| CA |> 95356 -- [CA]  {alfredmatthews.com}    Occurrence: 4
+
+STATE: , <| CA |> - -- [CA]  {alfredmatthews.com}    Occurrence: 4
+
+CITY: in <| Fairfield |> , -- [FAIRFIELD]  {algreenfuneralhome.com}    Occurrence: 3
+
+STATE: , <| CA |> since -- [CA]  {alexproducts.com}    Occurrence: 1
+
+COMPANY: to <| Alfie ' s Inn |> ! -- [ALFIE 'S INN INC]  {alfiesinn.com}    Occurrence: 1
+
+COMPANY:  <| American Logistics International , Inc. |> ( -- [AMERICAN LOGISTICS INC]  {ali-service.com}    Occurrence: 1
+
+COMPANY: At <| Algren |> Associates -- [ALGREN]  {algren.com}    Occurrence: 1
+
+CITY: in <| Oak Park |> , -- [OAK PARK]  {alexmatthews.com}    Occurrence: 1
+
+CITY: the <| Nashville |> International -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+ADDRESS:  <| 3750 Jefferson Davis Hwy |>  -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 18
+
+CITY: , <| Davie |> , -- [DAVIE]  {alexfarm.com}    Occurrence: 3
+
+STATE: , <| IL |> 60102 -- [IL]  {algonquin.org}    Occurrence: 1
+
+COMPANY:  <| Aliano Real Estate |> - -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 6
+
+COMPANY: , <| Associated Luxury Hotels |> International -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com}    Occurrence: 1
+
+STATE: , <| PA |> , -- [PA]  {alexroofing.com}    Occurrence: 3
+
+STATE: , <| IL |> 60133 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+COMPANY: | <| Alexis Inn and Suites |>  -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 2
+
+CITY:  <| Tacoma |> Rescue -- [TACOMA]  {alfellowship.com}    Occurrence: 1
+
+CITY: in <| Alfred |> NY -- [ALFRED]  {alfredrental.com}    Occurrence: 2
+
+COMPANY:  <| Alexian Brothers Health System |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 6
+
+COMPANY:  <| Algona Marine & Sport , Inc. |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 3
+
+CITY: Suites <| Nashville |> Airport -- [NASHVILLE]  {alexisinn.com}    Occurrence: 3
+
+CITY: in <| Modesto |> . -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: : <| Alabama Graphics |>  -- [ALABAMA GRAPHICS & ENGINEERING]  {algraphics.com}    Occurrence: 4
+
+CITY: at <| Alexander City |> Middle -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alexian Brothers Health System |> . -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 6
+
+CITY: , <| Alexandria |> City -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 1
+
+COMPANY: to <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 2
+
+CITY:  <| Birmingham |> : -- [BIRMINGHAM]  {algraphics.com}    Occurrence: 2
+
+COMPANY: your <| Farmers Insurance |> and -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+CONTACT: : <| Heidi & Gary Brown |> Mailing -- [HEIDI BROWN]  {alfredrental.com}    Occurrence: 1
+
+STATE: , <| IL |>  -- [IL]  {alexlbr.com}    Occurrence: 16
+
+CITY: builder <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+CITY: in <| Modesto |>  -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+ADDRESS: at <| 955 Valley Road |> Clifton -- [955 VALLEY RD]  {alexussteakhouse.com}    Occurrence: 2
+
+ZIP: CT <| 06824 |> ~ -- [06824 6002]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: at <| Alfred Matthews |> is -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+ZIP: PA <| 16511 |>  -- [16511 1722]  {alexroofing.com}    Occurrence: 3
+
+CITY: in <| Lebanon |> , -- [LEBANON]  {alicepeckday.org}    Occurrence: 2
+
+COMPANY:  <| Al Farnam Maintenance |> llc -- [AL FARNAM MAINTENANCE]  {alfarnammaintenance.com}    Occurrence: 2
+
+COMPANY:  <| Farmers ® Business Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 3
+
+COMPANY: , <| Alex Displays |> opened -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY:  <| Alford Homes |> is -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+ZIP: © <| 2015 |> Alex -- [20015 2015]  {alexcooper.com}    Occurrence: 1
+
+COMPANY: Think <| Alfred Matthews |> for -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 2
+
+CITY: Road <| Clifton |> , -- [CLIFTON]  {alexussteakhouse.com}    Occurrence: 2
+
+COMPANY:  <| Alexis Oil |> ’ -- [ALEXIS OIL CO]  {alexisoil.com}    Occurrence: 1
+
+CONTACT: | <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 8
+
+CITY: near <| Nashville |> Airport -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+CITY:  <| Van Nuys |> , -- [VAN NUYS]  {alfredpub.com}    Occurrence: 6
+
+STATE: , <| UT |> 84104 -- [UT]  {alfwear.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Lumber |> ' -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 2
+
+STATE: , <| CA |> 94590 -- [CA]  {alexscatering.com}    Occurrence: 7
+
+CONTACT:  <| Alex Cooper |> ’ -- [ALEX COOPER]  {alexcooper.com}    Occurrence: 1
+
+ADDRESS:  <| 88 Beach Road |> ~ -- [88 BEACH RD]  {algreenfuneralhome.com}    Occurrence: 1
+
+COMPANY: as <| Ali Baba |> ' -- [ALI BABA]  {alibaba1.com}    Occurrence: 1
+
+COMPANY: to <| Algren |> Associates -- [ALGREN]  {algren.com}    Occurrence: 1
+
+CITY: in <| New Hope |> , -- [NEW HOPE]  {alexav.com}    Occurrence: 1
+
+CITY: Downtown <| Algonquin |> . -- [ALGONQUIN]  {algonquin.org}    Occurrence: 1
+
+COMPANY: The <| Algona Marine & Sport |> Story -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 5
+
+COMPANY: the <| Alfa Insurance |> Companies -- [ALFA INSURANCE CORP]  {alfains.com}    Occurrence: 1
+
+ADDRESS: Care <| 8902 Detroit Ave. |> Cleveland -- [8902 DETROIT AVE]  {algart.com}    Occurrence: 1
+
+COMPANY:  <| AL FARNAM MAINTENANCE |> LLC -- [AL FARNAM MAINTENANCE]  {alfarnammaintenance.com}    Occurrence: 3
+
+COMPANY: from <| Alexandria Toyota |> and -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY:  <| New Hope |>  -- [NEW HOPE]  {alexav.com}    Occurrence: 4
+
+CITY: of <| Birmingham |> Planroom -- [BIRMINGHAM]  {algraphics.com}    Occurrence: 2
+
+COMPANY:  <| Alfalight |> ’ -- [ALFALIGHT]  {alfalight.com}    Occurrence: 3
+
+CITY: a <| Modesto |> GM -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY:  <| Alford Homes |> wins -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+STATE: , <| IL |> 60067 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+ZIP: AL <| 35010 |>  -- [35010 2503]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: , <| Alford Homes |>  -- [ALFORD HOMES LLP]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alex Roofing Company , Inc |> . -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 3
+
+STATE: , <| PA |> 16511 -- [PA]  {alexroofing.com}    Occurrence: 7
+
+CITY: Thompson <| Tacoma |> , -- [TACOMA]  {alfellowship.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alice Bell Baptist Church |>  -- [ALICE BELL BAPTIST CHURCH]  {alicebellbaptist.org}    Occurrence: 1
+
+CITY: find <| Alexandria |> First -- [ALEXANDRIA]  {alexfbc.org}    Occurrence: 1
+
+CITY: Lake <| Erie |> from -- [ERIE]  {alexroofing.com}    Occurrence: 1
+
+CONTACT:  <| Pete Alex |> III -- [PETE ALEX]  {alexroofing.com}    Occurrence: 1
+
+COMPANY:  <| Alfalight |> is -- [ALFALIGHT]  {alfalight.com}    Occurrence: 5
+
+CONTACT:  <| Steve Lockridge |> : -- [STEVE LOCKRIDGE]  {alfatransformer.com}    Occurrence: 1
+
+STATE: , <| AR |> Plant -- [AR]  {algonquin-industries.com}    Occurrence: 1
+
+CITY: of <| Alexandria |> . -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 2
+
+ZIP: FL <| 33325 |> in -- [33325 4402]  {alexfarm.com}    Occurrence: 1
+
+STATE: Paul <| MN |>  -- [MN]  {alexav.com}    Occurrence: 11
+
+ADDRESS:  <| 5917 South Thompson |> Tacoma -- [5917 S THOMPSON AVE]  {alfellowship.com}    Occurrence: 1
+
+CONTACT: and <| Kevin Boyle |> , -- [KEVIN BOYLE]  {alfwear.com}    Occurrence: 1
+
+CONTACT: At <| Jack Taylor |> ' -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+ZIP: CA <| 92880 |>  -- [92880 2534]  {alexisoil.com}    Occurrence: 1
+
+CITY:  <| Washington |> , -- [WASHINGTON]  {alhi.com}    Occurrence: 8
+
+ZIP: CA <| 92880 |> Office -- [92880 2534]  {alexisoil.com}    Occurrence: 5
+
+COMPANY: to <| Algona Marine & Sport , Inc. |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 1
+
+COMPANY: of <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 1
+
+CITY:  <| Orlando |>  -- [ORLANDO]  {alhi.com}    Occurrence: 10
+
+CITY: : <| Effingham |> IL -- [EFFINGHAM]  {algator.com}    Occurrence: 2
+
+STATE: , <| IL |> 60169 -- [IL]  {alexianbrothershealth.org}    Occurrence: 6
+
+STATE: , <| NJ |> 08844 -- [NJ]  {alfonsos.net}    Occurrence: 2
+
+ADDRESS:  <| 300 Virginia St |> , -- [300 VIRGINIA ST]  {alexscatering.com}    Occurrence: 7
+
+COMPANY: Alexandria <| Grace Brethren Church |>  -- [GRACE BRETHREN CHURCH]  {alexgbc.com}    Occurrence: 6
+
+STATE: , <| IL |> | -- [IL]  {alfpd.org}    Occurrence: 4
+
+COMPANY: , <| Ali Baba |> can -- [ALI BABA]  {alibaba1.com}    Occurrence: 1
+
+COMPANY: to <| American Logistics International , Inc. |> ! -- [AMERICAN LOGISTICS INC]  {ali-service.com}    Occurrence: 1
+
+ADDRESS:  <| 44 North Main Street |> “ -- [44 N MAIN ST]  {alfredrental.com}    Occurrence: 4
+
+CONTACT:  <| Alex Rosenberg |> AAA -- [ALEX J ROSENBERG]  {alexrosenbergfineart.com}    Occurrence: 1
+
+ZIP:  <| 91761 |>  -- [91761 1998]  {alger1.com}    Occurrence: 4
+
+COMPANY: At <| Advanced Logic Industries |> , -- [ADVANCED LOGIC INDUSTRIES INC]  {ali-inc.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alexian Brothers |> Senior -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com}    Occurrence: 1
+
+ZIP: Wisconsin <| 53704 |>  -- [53704 2522]  {alfalight.com}    Occurrence: 1
+
+CITY: your <| Modesto |> GM -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+ZIP: FL <| 33325 |>  -- [33325 4402]  {alexfarm.com}    Occurrence: 1
+
+STATE: , <| CA |> since -- [CA]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: , <| New York |> , -- [NEW YORK]  {aliciamugetti.com}    Occurrence: 1
+
+CITY: our <| Seattle |> Hotel -- [SEATTLE]  {alexishotel.com}    Occurrence: 6
+
+ZIP: WI <| 53704 |> USA -- [53704 2522]  {alfalight.com}    Occurrence: 1
+
+COMPANY:  <| Brown Property Development |> offers -- [BROWN PROPERTY DEVELOPMENT]  {alfredrental.com}    Occurrence: 1
+
+STATE: , <| IL |> location -- [IL]  {alexlbr.com}    Occurrence: 2
+
+STATE: Montgomery <| AL |> , -- [AL]  {alfarealty.com}    Occurrence: 2
+
+CITY:  <| Alexandria |> , -- [ALEXANDRIA]  {alexgbc.com}    Occurrence: 1
+
+CITY:  <| Stanford |> University -- [STANFORD]  {alfnational.org}    Occurrence: 1
+
+CITY:  <| Theodore |> , -- [THEODORE]  {alhillboiler.com}    Occurrence: 1
+
+COMPANY:  <| Ali Baba |> Restaurant -- [ALI BABA]  {alibaba1.com}    Occurrence: 3
+
+COMPANY: at <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 1
+
+CITY:  <| WASHINGTON |> , -- [WASHINGTON]  {alhi.com}    Occurrence: 1
+
+CITY: greater <| Grand Rapids |>  -- [GRAND RAPIDS]  {algerparkcrc.com}    Occurrence: 1
+
+CITY: Contact <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 2
+
+CITY: , <| ASHLAND |> HEATING -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 3
+
+CITY: , <| Algona |> , -- [ALGONA]  {algonamarine.com}    Occurrence: 3
+
+STATE: , <| MN |> 56308 -- [MN]  {alexclinic.com}    Occurrence: 2
+
+CITY: Of <| Alhambra |> in -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 1
+
+STATE: , <| MI |> 49507 -- [MI]  {algerparkcrc.com}    Occurrence: 2
+
+COMPANY: OWNER <| ALICIA GARAGE DOORS |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY:  <| Alex Audio Video and Computer Service |> . -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}    Occurrence: 4
+
+CONTACT:  <| Alice Adam |> is -- [ALICE ADAM]  {aliceadamltd.com}    Occurrence: 1
+
+STATE: , <| IL |> . -- [IL]  {algorphs.com}    Occurrence: 1
+
+COMPANY: joining <| Alfalight |> , -- [ALFALIGHT]  {alfalight.com}    Occurrence: 6
+
+CONTACT: and <| Kevin Boyle |> set -- [KEVIN BOYLE]  {alfwear.com}    Occurrence: 1
+
+CITY: to <| Erie |> and -- [ERIE]  {alexroofing.com}    Occurrence: 2
+
+CONTACT: Contact <| Alex Figliolia |> Water -- [ALEX FIGLIOLIA]  {alexfigliolia.com}    Occurrence: 1
+
+STATE: , <| CA |> 91301 -- [CA]  {alexsayeri.com}    Occurrence: 5
+
+STATE: , <| DC |>  -- [DC]  {alhi.com}    Occurrence: 7
+
+CITY: the <| Alfred |> , -- [ALFRED]  {alfredrental.com}    Occurrence: 2
+
+COMPANY:  <| Aliano Real Estate |>  -- [ALIANO REAL ESTATE]  {alianorealestate.com}    Occurrence: 1
+
+COMPANY: the <| Alexis Inn & Suites |> , -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 1
+
+COMPANY:  <| Alexian Brothers Health System |> Continuing -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY:  <| Alex Roofing |> , -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 2
+
+CITY: Homes <| Dallas |> , -- [DALLAS]  {alfordhomes.com}    Occurrence: 1
+
+CITY:  <| Modesto |> Tires -- [MODESTO]  {alfredmatthews.com}    Occurrence: 4
+
+STATE: , <| CA |> 91801 -- [CA]  {alhambramazda.com}    Occurrence: 8
+
+STATE: , <| CA |> . -- [CA]  {alger1.com}    Occurrence: 4
+
+ADDRESS:  <| 5917 South Thompson Avenue |>  -- [5917 S THOMPSON AVE]  {alfellowship.com}    Occurrence: 1
+
+ZIP: — <| 10023 |>  -- [10023 3047]  {alicesteacup.com}    Occurrence: 1
+
+COMPANY:  <| Farmers Insurance Group |> of -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 1
+
+COMPANY: Scientific <| Alicat Scientific |>  -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}    Occurrence: 10
+
+COMPANY:  <| ALEXANDRIA TOYOTA |> ’ -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY:  <| ASHLAND |> , -- [ASHLAND]  {alfarnammaintenance.com}    Occurrence: 1
+
+CITY: Cadillac <| Modesto |> & -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY: Kimpton <| Alexis Hotel |>  -- [ALEXIS HOTEL]  {alexishotel.com}    Occurrence: 6
+
+CITY:  <| Osceola |> , -- [OSCEOLA]  {algonquin-industries.com}    Occurrence: 1
+
+CITY: toward <| Madison |> , -- [MADISON]  {alfalight.com}    Occurrence: 1
+
+CITY: in <| Modesto |> ? -- [MODESTO]  {alfredmatthews.com}    Occurrence: 1
+
+STATE: , <| NY |> for -- [NY]  {alfaco.com}    Occurrence: 1
+
+COMPANY: at <| Algorithm , Inc |> . -- [ALGORITHM INC]  {algorithminc.com}    Occurrence: 1
+
+COMPANY: of <| Alex Roofing , Inc |> . -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 1
+
+CONTACT:  <| Kevin Boyle |> set -- [KEVIN BOYLE]  {alfwear.com}    Occurrence: 1
+
+ADDRESS: | <| 425 Roosevelt Road |> | -- [425 ROOSEVELT RD]  {alfiesinn.com}    Occurrence: 1
+
+COMPANY: to <| Alfa Realty |> of -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 1
+
+CITY: Universal <| Orlando |>  -- [ORLANDO]  {alhi.com}    Occurrence: 12
+
+CITY: of <| Algonquin |> ! -- [ALGONQUIN]  {algonquin.org}    Occurrence: 1
+
+STATE: , <| CA |> 95354 -- [CA]  {alfnational.org}    Occurrence: 1
+
+COMPANY: - <| Alexian Brothers Health System |>  -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 2
+
+CITY: , <| Brooklyn |> , -- [BROOKLYN]  {alexfigliolia.com}    Occurrence: 1
+
+STATE: , <| AL |> 35010 -- [AL]  {alexcityoutlook.com}    Occurrence: 1
+
+CITY: repair <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 3
+
+COMPANY:  <| Alabama Graphics |> has -- [ALABAMA GRAPHICS & ENGINEERING]  {algraphics.com}    Occurrence: 1
+
+ZIP: TX <| 75287 |>  -- [75287 7304]  {alfordhomes.com}    Occurrence: 3
+
+COMPANY: 's <| Alexandria Toyota |> 3750 -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY: ¢ <| Knoxville |> , -- [KNOXVILLE]  {alicebellbaptist.org}    Occurrence: 1
+
+CITY:  <| Birmingham |>  -- [BIRMINGHAM]  {algraphics.com}    Occurrence: 2
+
+COMPANY:  <| ALEX ROOFING COMPANY , INC. |> | -- [ALEX ROOFING INC]  {alexroofing.com}    Occurrence: 8
+
+CITY: 572 <| Washington |> Street -- [WASHINGTON]  {alhi.com}    Occurrence: 1
+
+CITY: , <| Alexandria |> , -- [ALEXANDRIA]  {alexandriatoyota.com}    Occurrence: 1
+
+STATE: , <| IL |> 61739 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Lumber |>  -- [ALEXANDER LUMBER CO]  {alexlbr.com}    Occurrence: 18
+
+STATE: , <| IL |> 60804 -- [IL]  {algorphs.com}    Occurrence: 2
+
+COMPANY: at <| Alicia Garage Doors |> today -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: in <| Columbus |> , -- [COLUMBUS]  {algorithminc.com}    Occurrence: 11
+
+COMPANY:  <| Algona Marine & Sport |>  -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 1
+
+STATE: , <| CA |> 95833 -- [CA]  {alfnational.org}    Occurrence: 1
+
+ZIP:  <| 37012 |>  -- [37012 0192]  {alexfbc.org}    Occurrence: 1
+
+COMPANY: , <| Algona Marine & Sport , Inc. |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 1
+
+CITY: , <| Lebanon |> , -- [LEBANON]  {alicepeckday.org}    Occurrence: 14
+
+COMPANY:  <| Associated Luxury Hotels |> International -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com}    Occurrence: 7
+
+STATE: , <| IL |> Location -- [IL]  {alexlbr.com}    Occurrence: 2
+
+CITY: to <| Nashville |> Airport -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+COMPANY: The <| Alexian Brothers Health System |> 2013 -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY: About <| Farmers Insurance |> : -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 2
+
+ADDRESS: at <| 1832 Wright St |> . -- [1832 WRIGHT ST]  {alfalight.com}    Occurrence: 4
+
+COMPANY:  <| Algorithm , Inc. |> Partners -- [ALGORITHM INC]  {algorithminc.com}    Occurrence: 2
+
+ADDRESS:  <| 2655 Eastern Avenue SE |>  -- [2655 EASTERN AVE SE]  {algerparkcrc.com}    Occurrence: 2
+
+CONTACT:  <| Greg Alford |>  -- [GREG ALFORD]  {alfordhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alice Adam , Ltd |> . -- [ALICE ADAM LTD]  {aliceadamltd.com}    Occurrence: 1
+
+CITY: of <| Alhambra |> , -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 5
+
+STATE: , <| IL |> 60007 -- [IL]  {alexianbrothershealth.org}    Occurrence: 12
+
+COMPANY:  <| Algorithm , Inc |> . -- [ALGORITHM INC]  {algorithminc.com}    Occurrence: 3
+
+STATE: , <| CA |> , -- [CA]  {alfredmatthews.com}    Occurrence: 2
+
+CITY: downtown <| Seattle |> hotel -- [SEATTLE]  {alexishotel.com}    Occurrence: 1
+
+CONTACT:  <| Alex Matthews |> is -- [ALEX MATTHEWS]  {alexmatthews.com}    Occurrence: 1
+
+COMPANY: The <| American Leadership |> Forum -- [AMERICAN LEADERSHIP FORUM-NTNL]  {alfnational.org}    Occurrence: 2
+
+CONTACT: by <| Al Farnam |> . -- [AL FARNAM]  {alfarnammaintenance.com}    Occurrence: 2
+
+STATE: , <| CA |> 91761 -- [CA]  {alfalighting.com}    Occurrence: 1
+
+CITY:  <| Cicero |> , -- [CICERO]  {algorphs.com}    Occurrence: 2
+
+STATE: , <| IL |> 62656 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+COMPANY: at <| Algorithm , Inc. |> She -- [ALGORITHM INC]  {algorithminc.com}    Occurrence: 1
+
+ADDRESS: at <| 3750 Jefferson Davis Hwy |> Alexandria -- [3750 JEFFERSON DAVIS HWY]  {alexandriatoyota.com}    Occurrence: 1
+
+ZIP: NH <| 03766 |>  -- [03766 0000]  {alicepeckday.org}    Occurrence: 3
+
+STATE: , <| IL |>  -- [IL]  {alfpd.org}    Occurrence: 2
+
+CONTACT: to <| Alex Cooper |> Gallery -- [ALEX COOPER]  {alexcooper.com}    Occurrence: 1
+
+COMPANY:  <| Algona Marine & Sport |> takes -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}    Occurrence: 1
+
+ZIP: IA <| 50511 |>  -- [50511 1923]  {algonamarine.com}    Occurrence: 4
+
+COMPANY:  <| Alice Peck Day Memorial |> Hospital -- [ALICE PECK DAY MEMORIAL HOSP]  {alicepeckday.org}    Occurrence: 13
+
+CITY: , <| Alexandria |> , -- [ALEXANDRIA]  {alexclinic.com}    Occurrence: 1
+
+STATE: , <| IL |> 60611 -- [IL]  {aliceadamltd.com}    Occurrence: 1
+
+CITY: Annual <| Nashville |> Oktoberfest -- [NASHVILLE]  {alexisinn.com}    Occurrence: 1
+
+STATE: , <| CA |> expert -- [CA]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY: started <| Alex Displays |> forty -- [ALEX DISPLAYS]  {alexdisplays.com}    Occurrence: 1
+
+COMPANY: , <| Alfred Matthews |> Buick -- [ALFRED MATTHEWS INC]  {alfredmatthews.com}    Occurrence: 4
+
+CITY: in <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 7
+
+COMPANY: Kimpton <| Alexis Hotel |> . -- [ALEXIS HOTEL]  {alexishotel.com}    Occurrence: 1
+
+CITY: Michelle <| Washington |>  -- [WASHINGTON]  {alhi.com}    Occurrence: 1
+
+STATE: Wetumpka <| AL |> real -- [AL]  {alfarealty.com}    Occurrence: 2
+
+CITY: , <| Modesto |> GMC -- [MODESTO]  {alfredmatthews.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Plant |> Farm -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com}    Occurrence: 1
+
+COMPANY: - <| Alicia Air Conditioning |> & -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com}    Occurrence: 1
+
+ADDRESS:  <| 3005 4th Avenue South |>  -- [3005 4TH AVE S]  {alggraphics.com}    Occurrence: 1
+
+CITY:  <| Erie |> , -- [ERIE]  {alexroofing.com}    Occurrence: 3
+
+ZIP: DC <| 20015 |>  -- [20015 2015]  {alexcooper.com}    Occurrence: 2
+
+ADDRESS: 111 <| Mascoma Street |>  -- [125 MASCOMA ST]  {alicepeckday.org}    Occurrence: 1
+
+STATE: Paul <| MN |> . -- [MN]  {alexav.com}    Occurrence: 3
+
+CONTACT: & <| Karen Canto |> , -- [KAREN CANTO]  {alextamping.com}    Occurrence: 1
+
+COMPANY:  <| Associated Luxury Hotels |> Internationa -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com}    Occurrence: 3
+
+CITY: of <| Alhambra |> sells -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 4
+
+COMPANY:  <| Alicia Air Conditioning |> - -- [ALICIA AIR CONDITIONING & HTG]  {aliciaair.com}    Occurrence: 1
+
+COMPANY: upon <| Alicia Garage Doors |> for -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+COMPANY: called <| Alicia Garage Doors |> and -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}    Occurrence: 1
+
+CITY: Ave. <| Ontario |> , -- [ONTARIO]  {alger1.com}    Occurrence: 4
+
+CONTACT: , <| Alex and Carole Rosenberg |> bring -- [ALEX J ROSENBERG]  {alexrosenbergfineart.com}    Occurrence: 1
+
+CITY: Ave. <| Cleveland |> , -- [CLEVELAND]  {algart.com}    Occurrence: 1
+
+COMPANY: | <| Alex 's Catering |>  -- [ALEX 'S CATERING]  {alexscatering.com}    Occurrence: 2
+
+COMPANY: trusted <| Alexandria Clinic |> for -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 1
+
+STATE: , <| CA |> treats -- [CA]  {alhambramazda.com}    Occurrence: 1
+
+CONTACT: | <| Jack Taylor |> 's -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 4
+
+COMPANY: age.Â <| Abundant Life Fellowship |> has -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+COMPANY: within <| Alexandria Clinic |> . -- [ALEXANDRIA CLINIC]  {alexclinic.com}    Occurrence: 1
+
+STATE: Wetumpka <| AL |> , -- [AL]  {alfarealty.com}    Occurrence: 2
+
+STATE: , <| MN |> 56360 -- [MN]  {alexclinic.com}    Occurrence: 1
+
+CITY: in <| Phoenix |> Arizona -- [PHOENIX]  {alicecooperstown.com}    Occurrence: 1
+
+STATE: , <| IL |> 60112 -- [IL]  {alexlbr.com}    Occurrence: 2
+
+CONTACT: Us <| Jack Taylor |> 's -- [JACK TAYLOR]  {alexandriatoyota.com}    Occurrence: 1
+
+CITY: » <| Elk Grove |> Village -- [ELK GROVE VLG]  {alexianbrothershealth.org}    Occurrence: 6
+
+CITY: , <| Modesto |> , -- [MODESTO]  {alfredmatthews.com}    Occurrence: 5
+
+COMPANY: to <| Alexis Oil Company |> ! -- [ALEXIS OIL CO]  {alexisoil.com}    Occurrence: 1
+
+ADDRESS:  <| 600 Ermac Drive |> , -- [600 ERMAC DR]  {alexisinn.com}    Occurrence: 3
+
+COMPANY:  <| Algren |> Associates -- [ALGREN]  {algren.com}    Occurrence: 7
+
+STATE: Martin <| AL |> rea -- [AL]  {alfarealty.com}    Occurrence: 2
+
+CITY:  <| Madison |> , -- [MADISON]  {alfalight.com}    Occurrence: 1
+
+STATE: , <| IL |> and -- [IL]  {algator.com}    Occurrence: 3
+
+STATE: , <| CA |>  -- [CA]  {alexsayeri.com}    Occurrence: 4
+
+CITY: Cars <| Modesto |>  -- [MODESTO]  {alfredmatthews.com}    Occurrence: 1
+
+COMPANY: an <| Alice and Olivia |> account -- [ALICE & OLIVIA INC]  {aliceandolivia.com}    Occurrence: 2
+
+COMPANY: | <| Alexian Brothers |> Senior -- [ALEXIAN BROTHERS REHAB]  {alexianvillage.com}    Occurrence: 2
+
+STATE: Repair <| MN |>  -- [MN]  {alexav.com}    Occurrence: 2
+
+COMPANY: , <| Alfa Insurance |> Companies -- [ALFA INSURANCE CORP]  {alfains.com}    Occurrence: 2
+
+COMPANY: s <| Alexandria Toyota |> . -- [ALEXANDRIA TOYOTA]  {alexandriatoyota.com}    Occurrence: 2
+
+ADDRESS:  <| 1007 First Avenue |>  -- [1007 1ST AVE]  {alexishotel.com}    Occurrence: 3
+
+COMPANY: - <| Farmers Insurance |> Agent -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}    Occurrence: 2
+
+CITY:  <| Seattle |> , -- [SEATTLE]  {alexishotel.com}    Occurrence: 4
+
+STATE: , <| IL |> 60435 -- [IL]  {alexlbr.com}    Occurrence: 1
+
+CITY: new <| Alexander City |> will -- [ALEXANDER CITY]  {alexcityoutlook.com}    Occurrence: 1
+
+COMPANY: an <| Alfa Realty |> Realtor -- [ALFA REALTY INC]  {alfarealty.com}    Occurrence: 1
+
+COMPANY: About <| Alexis Inn & Suites |>  -- [ALEXIS INN & SUITES]  {alexisinn.com}    Occurrence: 1
+
+CITY:  <| ORLANDO |>  -- [ORLANDO]  {alhi.com}    Occurrence: 1
+
+CITY: : <| Effingham |> , -- [EFFINGHAM]  {algator.com}    Occurrence: 2
+
+ZIP: TN <| 37214 |>  -- [37214 5002]  {alexisinn.com}    Occurrence: 4
+
+COMPANY: about <| Alexian Brothers Health System |> , -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+COMPANY: about <| Associated Luxury Hotels |> International -- [ASSOCIATED LUXURY HOTELS INC]  {alhi.com}    Occurrence: 1
+
+STATE: Martin <| AL |> and -- [AL]  {alfarealty.com}    Occurrence: 2
+
+COMPANY:  <| Alice Bell Baptist Church |> â -- [ALICE BELL BAPTIST CHURCH]  {alicebellbaptist.org}    Occurrence: 1
+
+ZIP: VA <| 22305 |>  -- [22305 3104]  {alexandriatoyota.com}    Occurrence: 19
+
+CITY: – <| Osceola |> , -- [OSCEOLA]  {algonquin-industries.com}    Occurrence: 1
+
+CITY: , <| Alhambra |> , -- [ALHAMBRA]  {alhambramazda.com}    Occurrence: 4
+
+COMPANY:  <| Alexian Brothers Home Health |> Care -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}    Occurrence: 1
+
+CITY: , <| Lake Forest |> , -- [LAKE FOREST]  {aliciaair.com}    Occurrence: 1
+
+COMPANY: contact <| Abundant Life Fellowship |> at -- [ABUNDANT LIFE FELLOWSHIP]  {alfellowship.com}    Occurrence: 1
+
+CONTACT:  <| Alex Cooper |> has -- [ALEX COOPER]  {alexcooper.com}    Occurrence: 1
+
+COMPANY: | <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}    Occurrence: 2
+
+ADDRESS:  <| 4211 Rhode Island Ave North |> , -- [4211 RHODE ISLAND AVE N]  {alexav.com}    Occurrence: 1
+
+COMPANY:  <| Alex ' s Catering |>  -- [ALEX 'S CATERING]  {alexscatering.com}    Occurrence: 1
+
+CITY: a <| Seattle |> Hotel -- [SEATTLE]  {alexishotel.com}    Occurrence: 1
+

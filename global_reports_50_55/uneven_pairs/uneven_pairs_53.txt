@@ -1,0 +1,304 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: used <| Al Hill Boiler |> for -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}  Occurrence: 1
+
+ADDRESS:  <| Box 11616 |>  -- [PO BOX 11616]  {aliceadamltd.com}  Occurrence: 1
+
+COMPANY: to <| Alfie ' s Inn |> ! -- [ALFIE 'S INN INC]  {alfiesinn.com}  Occurrence: 1
+
+COMPANY: Contact <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY: favorite <| Alice ' s Tea Cup |> sweets -- [ALICE 'S TEA CUP]  {alicesteacup.com}  Occurrence: 1
+
+ADDRESS: 110 <| Peachtree Industrial Blvd |>  -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net}  Occurrence: 1
+
+COMPANY:  <| Alex Roofing Company , Inc. |> , -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 1
+
+COMPANY: of <| Alex Roofing , Inc |> . -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 1
+
+COMPANY: of <| Garage Doors |>  -- [ALICIA GARAGE DOORS]  {aliciagaragedoors.com}  Occurrence: 1
+
+ADDRESS: on <| Mascoma Street |> in -- [125 MASCOMA ST]  {alicepeckday.org}  Occurrence: 1
+
+ADDRESS: on <| South Flamingo Road |> , -- [830 S FLAMINGO RD]  {alexfarm.com}  Occurrence: 1
+
+COMPANY: at <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 1
+
+COMPANY: | <| Alexis Inn and Suites |>  -- [ALEXIS INN & SUITES]  {alexisinn.com}  Occurrence: 2
+
+COMPANY: About <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 3
+
+COMPANY: to <| Abraham L. Green and Son Funeral |> Home -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}  Occurrence: 1
+
+COMPANY: At <| Alex Roofing Company , Inc. |> we -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 1
+
+COMPANY: | <| Abraham L. Green and Son Funeral |> Home -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}  Occurrence: 2
+
+COMPANY: About <| Alice ' s Kitchen |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 1
+
+COMPANY: that <| Al Hill Boiler |> is -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}  Occurrence: 1
+
+COMPANY:  <| Alex Audio and Video Service , Inc. |> started -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}  Occurrence: 1
+
+COMPANY: Contact <| Al ' s Tire Mart & Electronics |>  -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 4
+
+COMPANY: - <| Alex ' s Bar |>  -- [ALEX 'S BAR]  {alexsbar.com}  Occurrence: 5
+
+COMPANY:  <| ALEX ROOFING COMPANY , INC. |> | -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 8
+
+COMPANY:  <| Alice ' s Kitchen |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 5
+
+COMPANY: , <| Algona Marine & Sport , Inc. |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}  Occurrence: 1
+
+CONTACT: : <| Heidi & Gary Brown |> Mailing -- [HEIDI BROWN]  {alfredrental.com}  Occurrence: 1
+
+COMPANY: at <| A lex Products , Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}  Occurrence: 4
+
+COMPANY: your <| Alice and Olivia |> gift -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 1
+
+COMPANY: but <| Alex Roofing Company , Inc. |> is -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 2
+
+COMPANY: at <| Alex Roofing Company , Inc. |> to -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 1
+
+COMPANY: | <| Alice + Olivia |>  -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 4
+
+COMPANY:  <| Alice ' s Kitchen |> operates -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 1
+
+CONTACT:  <| Walter Alexander |>  -- [WALTER F ALEXANDER]  {alexlbr.com}  Occurrence: 2
+
+COMPANY:  <| Al ’ s Tire Mart and Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY: 2012 <| Alex ' s Catering |> . -- [ALEX 'S CATERING]  {alexscatering.com}  Occurrence: 3
+
+COMPANY:  <| Al ' s Tire Mart & Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 9
+
+COMPANY:  <| Al ' s Tire mart & Electronics |> center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY:  <| Abraham L. Green and Son |>  -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}  Occurrence: 1
+
+COMPANY: | <| Alex ' s Catering |>  -- [ALEX 'S CATERING]  {alexscatering.com}  Occurrence: 2
+
+COMPANY:  <| Farmers ® Business Insurance |>  -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}  Occurrence: 3
+
+COMPANY: About <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+ADDRESS: 57 <| North Main Street |>  -- [44 N MAIN ST]  {alfredrental.com}  Occurrence: 5
+
+COMPANY:  <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 3
+
+COMPANY: Shop <| Alice + Olivia |> for -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 1
+
+COMPANY:  <| Algorithm , Inc. |> Partners -- [ALGORITHM INC]  {algorithminc.com}  Occurrence: 2
+
+CONTACT: Anthony <| L. Wood , Sr |> . -- [TONY L WOOD SR]  {algc.net}  Occurrence: 1
+
+COMPANY:  <| Alice Adam , Ltd |> . -- [ALICE ADAM LTD]  {aliceadamltd.com}  Occurrence: 1
+
+COMPANY:  <| Alicat Scientific , Inc. |> • -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}  Occurrence: 1
+
+ADDRESS: of <| Virginia Street |> , -- [300 VIRGINIA ST]  {alexscatering.com}  Occurrence: 2
+
+CITY: in <| San Francisco |>  -- [S SAN FRANCISCO]  {alibaba1.com}  Occurrence: 6
+
+COMPANY: Contact <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 8
+
+COMPANY:  <| Alfie ' s Inn |> , -- [ALFIE 'S INN INC]  {alfiesinn.com}  Occurrence: 1
+
+COMPANY: , <| Al Hill ' s Boiler |> , -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}  Occurrence: 3
+
+COMPANY:  <| Algona Marine & Sport , Inc. |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}  Occurrence: 3
+
+CONTACT: , <| Walter Alexander |>  -- [WALTER F ALEXANDER]  {alexlbr.com}  Occurrence: 2
+
+ADDRESS: Follow <| Wright St. |> for -- [1832 WRIGHT ST]  {alfalight.com}  Occurrence: 4
+
+ZIP: © <| 2015 |> Alex -- [20015 2015]  {alexcooper.com}  Occurrence: 1
+
+COMPANY:  <| Alex Audio Video and Computer Service |>  -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}  Occurrence: 5
+
+ADDRESS: at <| 830 South Flamino Rd |> , -- [830 S FLAMINGO RD]  {alexfarm.com}  Occurrence: 1
+
+ADDRESS: Transformer <| 6107 South Zero Street |> Fort -- [6107 ZERO ST]  {alfatransformer.com}  Occurrence: 1
+
+COMPANY: at <| Algorithm , Inc. |> She -- [ALGORITHM INC]  {algorithminc.com}  Occurrence: 1
+
+CITY:  <| San Francisco |> , -- [S SAN FRANCISCO]  {alibaba1.com}  Occurrence: 1
+
+ADDRESS: 38 <| North Main Street |>  -- [44 N MAIN ST]  {alfredrental.com}  Occurrence: 5
+
+COMPANY: to <| A lex Products , Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}  Occurrence: 1
+
+COMPANY:  <| Alice ' s Kitchen |> Parisian -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 2
+
+COMPANY: About <| Alexis Inn and Suites |> Nashville -- [ALEXIS INN & SUITES]  {alexisinn.com}  Occurrence: 2
+
+ADDRESS: from <| Mascoma Street |> Inpatient -- [125 MASCOMA ST]  {alicepeckday.org}  Occurrence: 1
+
+COMPANY:  <| Alex Rosenberg Fine Art |> and -- [ALEX J ROSENBERG FINE ART]  {alexrosenbergfineart.com}  Occurrence: 2
+
+COMPANY:  <| Alex Rosenberg Fine Art |>  -- [ALEX J ROSENBERG FINE ART]  {alexrosenbergfineart.com}  Occurrence: 1
+
+ADDRESS: 110 <| Peachtree Industrial Blvd |> ♦ -- [1630 PEACHTREE INDUSTRIAL BLVD]  {algc.net}  Occurrence: 1
+
+COMPANY: Island <| Real Estate |>  -- [ALIANO REAL ESTATE]  {alianorealestate.com}  Occurrence: 1
+
+COMPANY:  <| ALEX ROSENBERG FINE ART |>  -- [ALEX J ROSENBERG FINE ART]  {alexrosenbergfineart.com}  Occurrence: 1
+
+COMPANY:  <| Alex Audio Video and Computer Service |> . -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}  Occurrence: 4
+
+COMPANY:  <| Alexian Brothers Behavioral Health |> Hospital -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}  Occurrence: 14
+
+COMPANY:  <| Alex Roofing Company , Inc |> . -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 3
+
+COMPANY: At <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 1
+
+ZIP: since <| 1998 |> / -- [91761 1998]  {alger1.com}  Occurrence: 3
+
+ADDRESS: to <| Rhode Island Ave North |> . -- [4211 RHODE ISLAND AVE N]  {alexav.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Plant |> Farm -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com}  Occurrence: 1
+
+ADDRESS: 675 <| Madison Avenue |> , -- [999 MADISON AVE]  {aliciamugetti.com}  Occurrence: 1
+
+COMPANY: started <| Al ’ s Tire Mart |> with -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY: © <| Alice and Olivia |>  -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 3
+
+ADDRESS: on <| Mascoma Street |> , -- [125 MASCOMA ST]  {alicepeckday.org}  Occurrence: 1
+
+COMPANY: used <| Al Hill ' s Boiler Sales |> & -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}  Occurrence: 1
+
+ADDRESS: 111 <| Mascoma Street |>  -- [125 MASCOMA ST]  {alicepeckday.org}  Occurrence: 1
+
+COMPANY: of <| Alexian Brothers Behavioral Health |> Hospital -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}  Occurrence: 1
+
+COMPANY: At <| Alex Audio and Video |> we -- [ALEX AUDIO & VIDEO SVC INC]  {alexav.com}  Occurrence: 1
+
+COMPANY: , <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 1
+
+COMPANY:  <| Alice + Olivia |> is -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 1
+
+COMPANY:  <| Alice ' s Tea Cup |>  -- [ALICE 'S TEA CUP]  {alicesteacup.com}  Occurrence: 1
+
+COMPANY:  <| Alice + Olivia |> | -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 2
+
+COMPANY:  <| Al ’ s Tire Mart |> originally -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY:  <| Alice ' s Kitchen |> was -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 1
+
+COMPANY:  <| Farmers Group |> , -- [FARMERS INSURANCE GROUP]  {alexsayeri.com}  Occurrence: 1
+
+ADDRESS: facing <| Beach Road |> was -- [88 BEACH RD]  {algreenfuneralhome.com}  Occurrence: 1
+
+CONTACT:  <| Walter Alexander |> learned -- [WALTER F ALEXANDER]  {alexlbr.com}  Occurrence: 2
+
+COMPANY: , <| Alex Roofing Company , Inc. |> has -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 4
+
+COMPANY:  <| Alex ' s Bar |> Karaoke -- [ALEX 'S BAR]  {alexsbar.com}  Occurrence: 2
+
+COMPANY:  <| American Logistics International Inc |>  -- [AMERICAN LOGISTICS INC]  {ali-service.com}  Occurrence: 2
+
+COMPANY:  <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 11
+
+COMPANY:  <| Alex ' s Bar |>  -- [ALEX 'S BAR]  {alexsbar.com}  Occurrence: 4
+
+ADDRESS: to <| Rhode Island Ave. North |> . -- [4211 RHODE ISLAND AVE N]  {alexav.com}  Occurrence: 1
+
+COMPANY: to <| American Logistics International , Inc. |> ! -- [AMERICAN LOGISTICS INC]  {ali-service.com}  Occurrence: 1
+
+COMPANY: of <| Alhambra | New Mazda |> dealership -- [ALHAMBRA MAZDA]  {alhambramazda.com}  Occurrence: 8
+
+COMPANY:  <| Algorithm , Inc |> . -- [ALGORITHM INC]  {algorithminc.com}  Occurrence: 3
+
+CONTACT:  <| Alex Rosenberg |> AAA -- [ALEX J ROSENBERG]  {alexrosenbergfineart.com}  Occurrence: 1
+
+ADDRESS:  <| 5301 Wisconsin Ave , NW |> , -- [5301 WISCONSIN AVE NW]  {alexcooper.com}  Occurrence: 2
+
+COMPANY:  <| Alex Roofing Company , Inc. |> provides -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 1
+
+COMPANY: At <| Alex Roofing Company , Inc. |> our -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 2
+
+COMPANY:  <| American Logistics International , Inc. |> ( -- [AMERICAN LOGISTICS INC]  {ali-service.com}  Occurrence: 1
+
+COMPANY:  <| Alex Roofing Company , Inc. |> maintains -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 1
+
+ADDRESS: to <| Wright St |> . -- [1832 WRIGHT ST]  {alfalight.com}  Occurrence: 4
+
+COMPANY:  <| Al ’ s Tire Mart & Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY: an <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 1
+
+COMPANY: Als <| Tire Mart and Electronics |> Center -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+ADDRESS: 141 <| Mascoma Street |>  -- [125 MASCOMA ST]  {alicepeckday.org}  Occurrence: 1
+
+COMPANY: and <| Alice and Olivia |> gift -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 1
+
+COMPANY:  <| Alexander Landscaping and Plant |> Farm -- [ALEXANDER LANDSCAPING & PLANT]  {alexfarm.com}  Occurrence: 3
+
+COMPANY: at <| A lex Products , Inc. |> Our -- [A LEX PRODUCTS INC]  {alexproducts.com}  Occurrence: 2
+
+COMPANY: an <| Alice and Olivia |> account -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 2
+
+COMPANY: 2016 <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 5
+
+COMPANY:  <| Alice + Olivia |>  -- [ALICE & OLIVIA INC]  {aliceandolivia.com}  Occurrence: 4
+
+COMPANY: to <| Algona Marine & Sport , Inc. |> , -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}  Occurrence: 1
+
+COMPANY:  <| Alfie ' s Inn |>  -- [ALFIE 'S INN INC]  {alfiesinn.com}  Occurrence: 1
+
+COMPANY: at <| Algorithm , Inc |> . -- [ALGORITHM INC]  {algorithminc.com}  Occurrence: 1
+
+CONTACT: , <| Alex and Carole Rosenberg |> bring -- [ALEX J ROSENBERG]  {alexrosenbergfineart.com}  Occurrence: 1
+
+COMPANY:  <| Alexis Inn and Suites |> Nashville -- [ALEXIS INN & SUITES]  {alexisinn.com}  Occurrence: 3
+
+ADDRESS: the <| Harnish Drive |> parking -- [2200 HARNISH DR]  {algonquin.org}  Occurrence: 1
+
+COMPANY:  <| A lex Products , Inc |> . -- [A LEX PRODUCTS INC]  {alexproducts.com}  Occurrence: 2
+
+COMPANY: homeowner <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 1
+
+COMPANY: The <| Abraham L. Green and Son Funeral |> Home -- [ABRAHAM L GREEN & SON FUNERAL]  {algreenfuneralhome.com}  Occurrence: 2
+
+COMPANY: | <| Algor Plumbing and Heating |> Supply -- [ALGOR PLUMBING & HEATING SUPL]  {algorphs.com}  Occurrence: 2
+
+COMPANY: , <| Al Hill ' s Boiler |> offers -- [AL HILL 'S BOILER SALES]  {alhillboiler.com}  Occurrence: 3
+
+COMPANY:  <| Alfie ’ s Inn |> caters -- [ALFIE 'S INN INC]  {alfiesinn.com}  Occurrence: 1
+
+COMPANY:  <| AL , FARNAM , MAINTENANCE |> , -- [AL FARNAM MAINTENANCE]  {alfarnammaintenance.com}  Occurrence: 3
+
+COMPANY: Hixon <| Lumber Co |> . -- [ALEXANDER LUMBER CO]  {alexlbr.com}  Occurrence: 2
+
+COMPANY: thus <| Alice ' s Kitchen |> was -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 1
+
+CONTACT:  <| Alex Rosenberg |> founded -- [ALEX J ROSENBERG]  {alexrosenbergfineart.com}  Occurrence: 1
+
+COMPANY:  <| Alexian Brothers Home Health |> Care -- [ALEXIAN BROTHERS HEALTH SYSTEM]  {alexianbrothershealth.org}  Occurrence: 1
+
+CONTACT:  <| Heidi & Gary Brown |>  -- [HEIDI BROWN]  {alfredrental.com}  Occurrence: 1
+
+COMPANY:  <| Alexian Assisted Living |>  -- [ALEXIAN INN-ASSISTED LIVING]  {alexianvillage.com}  Occurrence: 1
+
+COMPANY: to <| Alice ' s Kitchen |>  -- [ALICE 'S KITCHEN]  {aliceskitchen.com}  Occurrence: 1
+
+COMPANY:  <| Alger Park – Christian Reformed |> Church -- [ALGER PARK CHRISTIAN REFORMED]  {algerparkcrc.com}  Occurrence: 2
+
+COMPANY:  <| Al ’ s Tire Mart |>  -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 1
+
+COMPANY: 2015 <| Alex Roofing Company , Inc. |> | -- [ALEX ROOFING INC]  {alexroofing.com}  Occurrence: 4
+
+COMPANY: : <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}  Occurrence: 2
+
+COMPANY:  <| Alex ' s Catering |>  -- [ALEX 'S CATERING]  {alexscatering.com}  Occurrence: 1
+
+ADDRESS:  <| 6107 South Zero Street |>  -- [6107 ZERO ST]  {alfatransformer.com}  Occurrence: 4
+
+COMPANY: 2015 <| Alicat Scientific , Inc. |> All -- [ALICAT SCIENTIFIC INC]  {alicatscientific.com}  Occurrence: 5
+
+COMPANY: 2010 <| Algona Marine and Sport |>  -- [ALGONA MARINE & SPORT INC]  {algonamarine.com}  Occurrence: 4
+
+COMPANY:  <| Alex Roofing Company |> , -- [ALEX ROOFING CONSTRUCTION CO]  {alexroofing.com}  Occurrence: 1
+

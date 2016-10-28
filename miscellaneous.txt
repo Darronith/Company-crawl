@@ -1,0 +1,53 @@
+ADDRESS:  <| 750 Eighth Avenue |> , -- [750 8TH AVE]  {aklawoffice.com}  Occurrence: 1
+Szamok nincsenek csak 3-ig kibontva.
+
+ADDRESS:  <| 121 West Fireweed , Suite 250 |>  -- [121 W FIREWEED LN # 250]  {akrdc.org}  Occurrence: 1
+Suite <-> # nincs felveve a szabalyok koze
+
+COMPANY:  <| Ake Laboratory Inc |>  -- [AKE ENVIRONMENTAL INC]  {akelab.com}  Occurrence: 2
+Cegek nevet valtottak idokozben. (contact hasonloan: X Y -> X & Z Y )
+
+COMPANY: Summit   <| County Public Library |>   ,   --   [AKRON-SUMMIT COUNTY LIBRARY]  {akronlibrary.org}    Occurrence: 2
+Nem kotojeles valtozatot nem talalja meg.
+
+CITY: sunny <| St. Pete |> . -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+Ezt megtalalja a 3:2 szabaly miatt.
+
+COMPANY: Your <| Pool and Spa Service |>  -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+Ritka eset, amikor kicsavarodva de epphogy illeszkedik.
+
+COMPANY: & <| Landscape Co |> . -- [ALDER LANDSCAPE CO]  {alderland.com}    Occurrence: 1
+Hasonloan 3:2.
+
+COMPANY:  <| Alegria ' s Brides |> world -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}  Occurrence: 1
+Szerencses eset a tokenizer hibajat elnezi.
+
+COMPANY: HouseAldrich <| Guest House |> | -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}  Occurrence: 4
+Egybeirassal nem tud mit kezdeni.
+
+COMPANY: , <| Alexander von Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}  Occurrence: 2 
+Nem o a contact, ezert hibasan megtalalja, mint cegnevet.
+
+COMPANY: Akron <| Children ' s Hospital |> Pediatrics -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 12 
+Uj szabaly: 's-ek nem szamitanak target hossznal, igy ezt is megtalalja mostantol.
+
+COMPANY:  <| Al ' s Tire Mart |> & -- [AL 'S TIRE MART & ELECTRONICS]  {algator.com}    Occurrence: 3
+COMPANY:  <| Alfie ' s Inn |> , -- [ALFIE 'S INN INC]  {alfiesinn.com}    Occurrence: 1
+COMPANY:  <| Alice Cooper |> ' -- [ALICE COOPER 'S TOWN]  {alicecooperstown.com}    Occurrence: 1
+COMPANY: to <| Alden ' s Kennels |>  -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}    Occurrence: 1
+Elozo szabaly kovetkezmenye.
+
+COMPANY: - <| Alexander 's Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 6
+SVC - service, tobbesszam nincs kezelve
+
+Kidobott esetek:
+
+COMPANY: , <| Africa |> , -- [ALL AFRICA]  {allafrica.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+COMPANY:  <| All |> rights -- [ALL AFRICA]  {allafrica.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+2:2 miatt.
+
+COMPANY:  <| Align-Rite |> Tools -- [ALIGN-RITE TOOL CO]  {alignritetool.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+Pontos egyezes miatt a tobbesszamot nem ismeri fel.
+
+CONTACT: Dr. <| Heller |> also -- [MATTHEW HELLER]  {allaboutpetcare.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+Rovid format nem ismeri fel.

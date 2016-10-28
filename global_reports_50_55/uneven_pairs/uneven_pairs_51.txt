@@ -1,0 +1,230 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: Alcyone <| Plumbing Company , Inc |> . -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com}  Occurrence: 13
+
+COMPANY: of <| ALCON Systems , Inc. |> , -- [ALCON SYSTEMS INC]  {alconsys.com}  Occurrence: 1
+
+ADDRESS: 321 <| Azuar Drive |> , -- [629 AZUAR DR]  {alcometals.com}  Occurrence: 1
+
+COMPANY: 2016 <| Iron & Metal Co. |> | -- [ALCO IRON & METAL CO INC]  {alcometals.com}  Occurrence: 4
+
+COMPANY:  <| Alden Kennels |> provides -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}  Occurrence: 1
+
+COMPANY:  <| Alcon Mechanical Piping , Inc. |> is -- [ALCON MECHANICAL INC]  {alconmechanical.com}  Occurrence: 1
+
+COMPANY: that <| Alden Pools and Play |> is -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}  Occurrence: 1
+
+ADDRESS:  <| 225 Watson Street |> Albion -- [225 E WATSON ST]  {albion.k12.mi.us}  Occurrence: 13
+
+COMPANY:  <| Alden Suites-A Beachfront Resort |> boasts -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+COMPANY: 2016 <| Aldec , Inc. |> All -- [ALDEC INC]  {aldec.com}  Occurrence: 20
+
+COMPANY: The <| Ingles / Company Realtors |> are -- [INGLES CO REALTORS]  {albqhomes.com}  Occurrence: 5
+
+ADDRESS:  <| 150 Paularino Avenue , Suite 194 |>  -- [150 PAULARINO AVE # 194]  {aldenmanagement.com}  Occurrence: 1
+
+COMPANY:  <| ALCON Systems , Inc. |> , -- [ALCON SYSTEMS INC]  {alconsys.com}  Occurrence: 1
+
+COMPANY: in <| Alcon Construction , Inc |> . -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+CONTACT:  <| John H. Sorrell |>  -- [JOHN SORRELL]  {alconcrete.org}  Occurrence: 1
+
+COMPANY: s <| Alden Suites Beachfront Resort |> ! -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+ADDRESS:  <| 7112 Pan American Fwy ~ NE |> Albuquerque -- [7112 PAN AMERICAN EAST FWY NE]  {albuquerquemeadows.com}  Occurrence: 3
+
+ADDRESS:  <| 330 Tijeras NW |> , -- [330 TIJERAS AVE NW]  {albuquerque.hyatt.com}  Occurrence: 1
+
+COMPANY: The <| Ingles / Company Realtors |>  -- [INGLES CO REALTORS]  {albqhomes.com}  Occurrence: 10
+
+COMPANY:  <| Albritton Electrical Service , Inc |> . -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}  Occurrence: 9
+
+COMPANY:  <| Jonathan Alder Junior High |>  -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us}  Occurrence: 5
+
+COMPANY:  <| Albion Devices , Inc. |> , -- [ALBION DEVICES INC]  {albiondevices.com}  Occurrence: 2
+
+COMPANY: , <| Alcon Construction , Inc. |> will -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+ADDRESS:  <| 2000 Mountain Dr NW |> , -- [2000 MOUNTAIN RD NW]  {albuquerquemuseum.com}  Occurrence: 1
+
+COMPANY:  <| Alcoa Elementary School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}  Occurrence: 5
+
+ADDRESS: 6739 <| Academy Rd NE Ste # |> 250 -- [6711 ACADEMY RD NE # B]  {albqhomes.com}  Occurrence: 5
+
+COMPANY:  <| Aldec , Inc |> . -- [ALDEC INC]  {aldec.com}  Occurrence: 2
+
+COMPANY: founded <| Alcon Construction , Inc. |> in -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY: of <| Alchemy Arts , Inc. |> by -- [ALCHEMY ARTS INC]  {alchemyarts.com}  Occurrence: 2
+
+COMPANY: Today <| Alcon Construction , Inc. |> is -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY:  <| Alcala Country Pet |> Resort -- [ALCALA PET CARE]  {alcalapetcare.com}  Occurrence: 3
+
+CONTACT: Pastors <| Jack and Teresa Miller |> . -- [JACK MILLER]  {alcc1.org}  Occurrence: 1
+
+ADDRESS:  <| 1533 FOURTH STREET |>  -- [1533 4TH ST]  {alderbrookpet.com}  Occurrence: 7
+
+COMPANY: at <| Alcon Construction , Inc. |> ( -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY:  <| Alden Suites-A Beachfront Resort |> is -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+COMPANY: Your <| Pool and Spa Service |>  -- [ALCHEMIST POOL SVC]  {alchemistpool.com}  Occurrence: 1
+
+COMPANY: with <| Alderbrook Hospital |> . -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}  Occurrence: 1
+
+COMPANY:  <| Alden Suites-A Beachfront Resort |>  -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+COMPANY:  <| Alcoa High School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}  Occurrence: 5
+
+COMPANY: - <| Aldec , Inc |>  -- [ALDEC INC]  {aldec.com}  Occurrence: 3
+
+COMPANY:  <| Aldec , Inc. |> : -- [ALDEC INC]  {aldec.com}  Occurrence: 4
+
+COMPANY:  <| Alcon Construction , Inc. |> provides -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY: The <| Jonathan Alder Local School District |> participates -- [JONATHAN ALDER SCHOOL DISTRICT]  {alder.k12.oh.us}  Occurrence: 1
+
+COMPANY:  <| Alder Group , Landscape |> Design -- [ALDER LANDSCAPE CO]  {alderland.com}  Occurrence: 1
+
+COMPANY: Evangelical <| Lutheran Church |> in -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}  Occurrence: 1
+
+COMPANY:  <| Alchemy Arts , Inc. |> provides -- [ALCHEMY ARTS INC]  {alchemyarts.com}  Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing Company , Inc. |> All -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com}  Occurrence: 4
+
+COMPANY:  <| Aldec , Inc. |> is -- [ALDEC INC]  {aldec.com}  Occurrence: 3
+
+COMPANY:  <| Alcon Construction , Inc. |> has -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 2
+
+ADDRESS: historic <| Palm Canyon Drive |> , -- [491 N PALM CANYON DR]  {aldente-palmsprings.com}  Occurrence: 2
+
+COMPANY: At <| Alden Suites Beachfront Resort |> we -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+ADDRESS:  <| 7112 Pan American Fwy , NE |>  -- [7112 PAN AMERICAN EAST FWY NE]  {albuquerquemeadows.com}  Occurrence: 1
+
+COMPANY: at <| ALCO Manufacturing , Inc |> . -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}  Occurrence: 2
+
+COMPANY: the <| Alcoholics for Christ |> Movie -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}  Occurrence: 1
+
+COMPANY:  <| Alcon Construction , Inc. |> wouldnâ -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+ADDRESS:  <| 330 Tijeras NW |>  -- [330 TIJERAS AVE NW]  {albuquerque.hyatt.com}  Occurrence: 1
+
+COMPANY:  <| Alden Property Management |>  -- [ALDEN MANAGEMENT GROUP]  {aldenmanagement.com}  Occurrence: 2
+
+COMPANY:  <| Aldec , Inc |> , -- [ALDEC INC]  {aldec.com}  Occurrence: 2
+
+COMPANY: The <| Ingles / Company Realtors |> Listings -- [INGLES CO REALTORS]  {albqhomes.com}  Occurrence: 5
+
+CONTACT: Dr. <| Lee W. Thorne |> , -- [LEE THORNE]  {alderbrookpet.com}  Occurrence: 1
+
+COMPANY:  <| Alcon Construction , Inc. |> knows -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 2
+
+COMPANY: About <| Alcoholics for Christ |>  -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}  Occurrence: 2
+
+COMPANY: © <| Alcon Construction , Inc. |> All -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 6
+
+COMPANY:  <| Alchemy Arts , Inc |> . -- [ALCHEMY ARTS INC]  {alchemyarts.com}  Occurrence: 20
+
+COMPANY: at <| Alden Suites Beachfront Resort |> . -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+COMPANY: : <| Alden Suites Beachfront Resort |>  -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}  Occurrence: 1
+
+COMPANY: , <| Pools , Play |> Sets -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}  Occurrence: 2
+
+COMPANY:  <| Jonathan Alder Junior High School |> is -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us}  Occurrence: 1
+
+COMPANY: 2000-2016 <| ALCO Manufacturing , Inc. |> All -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}  Occurrence: 1
+
+COMPANY:  <| Aldec , Inc. |> product -- [ALDEC INC]  {aldec.com}  Occurrence: 2
+
+CONTACT:  <| Mark Mays |>  -- [MARK H MAYS]  {alcottinsurance.com}  Occurrence: 2
+
+ADDRESS:  <| 9200 US Route 42 S |>  -- [9200 US HIGHWAY 42 S]  {alder.k12.oh.us}  Occurrence: 1
+
+CONTACT:  <| Linda L. Albo |>  -- [LINDA ALBO]  {alborealestate.com}  Occurrence: 1
+
+COMPANY:  <| Albritton Electrical Service , Inc. |> Â -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}  Occurrence: 3
+
+COMPANY: now <| Alcala Country Pet |> Resort -- [ALCALA PET CARE]  {alcalapetcare.com}  Occurrence: 2
+
+ADDRESS: 1902 <| Reid Farm Road |>  -- [1900 REID FARM RD]  {aldeengolfclub.com}  Occurrence: 1
+
+COMPANY: 1977-2001 <| Alcoholics for Christ |> ® -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}  Occurrence: 1
+
+ADDRESS:  <| 9200 State Route 42 South |> , -- [9200 US HIGHWAY 42 S]  {alder.k12.oh.us}  Occurrence: 1
+
+COMPANY:  <| ALCO Manufacturing , Inc |> . -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}  Occurrence: 1
+
+ADDRESS: 207 <| East Alton Avenue |> , -- [213 E ALTON AVE]  {alcomanufacturinginc.com}  Occurrence: 1
+
+COMPANY: The <| Ingles / Company Realtors |> ® -- [INGLES CO REALTORS]  {albqhomes.com}  Occurrence: 2
+
+COMPANY: at <| Alcon Construction , Inc. |> we -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY: 1980 <| Alcon Construction , Inc. |> was -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+CONTACT:  <| Lee W. Thorne |> , -- [LEE THORNE]  {alderbrookpet.com}  Occurrence: 1
+
+ADDRESS: 101 <| S. Glenwood Ave. Suite 4 |>  -- [110 S GLENWOOD AVE # 4]  {alconsys.com}  Occurrence: 1
+
+COMPANY:  <| Alcoholics for Christ |> : -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}  Occurrence: 4
+
+COMPANY: to <| Alden ' s Kennels |>  -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}  Occurrence: 1
+
+COMPANY:  <| Albion High |> School -- [ALBION SENIOR HIGH]  {albion.k12.mi.us}  Occurrence: 24
+
+COMPANY: Evangelical <| Lutheran Church |> in -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}  Occurrence: 1
+
+COMPANY:  <| Jonathan Alder Local School District |>  -- [JONATHAN ALDER SCHOOL DISTRICT]  {alder.k12.oh.us}  Occurrence: 5
+
+COMPANY: The <| Ingles / Company |> agrees -- [INGLES CO REALTORS]  {albqhomes.com}  Occurrence: 1
+
+COMPANY: Aldens <| Kennels Inc |> . -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}  Occurrence: 1
+
+COMPANY: helped <| Alcon Construction , Inc. |> win -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY: , <| Lutheran Church |> in -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}  Occurrence: 1
+
+COMPANY:  <| Alchemy Arts , Inc. |> | -- [ALCHEMY ARTS INC]  {alchemyarts.com}  Occurrence: 2
+
+COMPANY:  <| Abundant , Life , Christian , Academy |> , -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}  Occurrence: 1
+
+COMPANY: , <| Alston , Courtnage & Bassetti |> LLP -- [ALSTON COURTNAGE & BASSETTI]  {alcourt.com}  Occurrence: 3
+
+COMPANY: 1977-2008 <| Alcoholics for Christ |> ® -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}  Occurrence: 1
+
+COMPANY: & <| Landscape Co |> . -- [ALDER LANDSCAPE CO]  {alderland.com}  Occurrence: 1
+
+COMPANY: 2009-2016 <| Alston , Courtnage & Bassetti |> LLP -- [ALSTON COURTNAGE & BASSETTI]  {alcourt.com}  Occurrence: 2
+
+COMPANY: of <| Pool Service |>  -- [ALCHEMIST POOL SVC]  {alchemistpool.com}  Occurrence: 1
+
+COMPANY: Weekly <| Pool Service |> starting -- [ALCHEMIST POOL SVC]  {alchemistpool.com}  Occurrence: 1
+
+CONTACT:  <| Keith & Karen Albritton |>  -- [KEITH ALBRITTON]  {albrittonelectric.com}  Occurrence: 3
+
+COMPANY:  <| ALCON Systems , Inc |> . -- [ALCON SYSTEMS INC]  {alconsys.com}  Occurrence: 2
+
+COMPANY: Â <| Alcon Construction , Inc. |> was -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 1
+
+COMPANY:  <| Alchemy Arts , Inc. |> , -- [ALCHEMY ARTS INC]  {alchemyarts.com}  Occurrence: 1
+
+COMPANY:  <| Alcoa Intermediate School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}  Occurrence: 5
+
+COMPANY: American <| Dental Association |> and -- [ALABAMA DENTAL ASSN]  {aldaonline.org}  Occurrence: 2
+
+COMPANY: of <| Pool Service |> or -- [ALCHEMIST POOL SVC]  {alchemistpool.com}  Occurrence: 1
+
+COMPANY: Christmas <| Lutheran Church |> , -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}  Occurrence: 1
+
+COMPANY: The <| Ingles / Company Realtors |> that -- [INGLES CO REALTORS]  {albqhomes.com}  Occurrence: 1
+
+COMPANY: About <| Alco Management , Inc |> : -- [ALCO MANAGEMENT INC]  {alcomgt.com}  Occurrence: 1
+
+COMPANY:  <| Alcon Construction , Inc. |> is -- [ALCON CONSTRUCTION INC]  {alconconst.com}  Occurrence: 2
+
+ADDRESS: on <| Six Oaks Dr. |> in -- [4821 SIX OAKS DR]  {albrittonelectric.com}  Occurrence: 3
+

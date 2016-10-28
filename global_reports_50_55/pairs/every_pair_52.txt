@@ -1,0 +1,2564 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+ZIP: FL <| 32084 |> USA -- [32084 3529]  {alexanderhomestead.com}    Occurrence: 2
+
+CITY: to <| Alexandria |> or -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY: — <| Alegria ' s Brides |>  -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 2
+
+COMPANY: of <| Alert Logic |> marketing -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+ZIP: Florida <| 33040 |>  -- [33040 6910]  {alexanderskeywest.com}    Occurrence: 1
+
+COMPANY: , <| Advanced Linear Devices , Inc. |> All -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 9
+
+COMPANY: , <| Alexander Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+STATE: , <| VT |> 05701 -- [VT]  {aldousfuneralhome.com}    Occurrence: 1
+
+STATE: , <| NJ |> 07652 -- [NJ]  {alexandersummer.com}    Occurrence: 5
+
+CITY: of <| Alexander City |> | -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 3
+
+COMPANY: - <| Alexander Exhibit |> - -- [ALEXANDER EXHIBIT]  {alexanderexhibit.com}    Occurrence: 6
+
+STATE: , <| NJ |> 07071 -- [NJ]  {alertlocksmiths.com}    Occurrence: 1
+
+CITY: Cables <| Sunnyvale |> , -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+STATE: , <| TX |> , -- [TX]  {alderson.com}    Occurrence: 4
+
+COMPANY: with <| Alert Logic |> because -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: – <| Key West |> ’ -- [KEY WEST]  {alexanderskeywest.com}    Occurrence: 1
+
+COMPANY: Container <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+COMPANY: contact <| Alexandria Hyundai |> via -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 1
+
+CITY: store <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+ADDRESS: at <| 1118 Fleming Street |> in -- [1118 FLEMING ST]  {alexanderskeywest.com}    Occurrence: 2
+
+COMPANY: At <| Alert-O-Lite |> , -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 1
+
+CITY: Mercedes-Benz <| Lubbock |>  -- [LUBBOCK]  {alderson.com}    Occurrence: 7
+
+CITY: old <| Miami |> favorite -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+COMPANY:  <| Fire Marshal |>  -- [FIRE MARSHAL]  {aldoi.gov}    Occurrence: 1
+
+STATE: Alexandria <| VA |> , -- [VA]  {alexandriahyundai.com}    Occurrence: 4
+
+STATE: , <| FL |> . -- [FL]  {alexanderskeywest.com}    Occurrence: 2
+
+COMPANY:  <| Aldie Veterinary Hospital |> practices -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Publications |> sells -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 1
+
+ADDRESS:  <| 85 Old Mill River Road |>  -- [85 OLD MILL RIVER RD]  {alephbet.com}    Occurrence: 1
+
+CITY:  <| Houston |>  -- [HOUSTON]  {alexanderandsterling.com}    Occurrence: 1
+
+COMPANY: the <| Aldie Vet Hospital |> team -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+ZIP: CA <| 94132 |>  -- [94132 3201]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+COMPANY:  <| Alert Plumbing Service |> is -- [ALERT PLUMBING SVC]  {alertplumbing.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |> Product -- [ALDON]  {aldon.com}    Occurrence: 16
+
+COMPANY:  <| Alert Logic |> Opportunities -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 8
+
+STATE: , <| CA |> 95242 -- [CA]  {alegretrucking.com}    Occurrence: 4
+
+COMPANY: - <| Alexander 's Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 6
+
+COMPANY:  <| Alexander Nicholson |> was -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 1
+
+CITY: Design <| Spring Hill |> Fl -- [SPRING HILL]  {alexanderhomes.com}    Occurrence: 2
+
+STATE: , <| OH |> 45237 -- [OH]  {alexanderandassoc.com}    Occurrence: 2
+
+CITY: , <| Mansfield |> , -- [MANSFIELD]  {alexanderportraitdesigners.com}    Occurrence: 1
+
+CITY: several <| Washington |> , -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 1
+
+ZIP: VA <| 22302 |>  -- [22302 1921]  {alexandriapastry.com}    Occurrence: 1
+
+COMPANY:  <| Alegria ' s Brides |>  -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 6
+
+STATE: Tustin <| CA |>  -- [CA]  {alexanders.net}    Occurrence: 6
+
+COMPANY:  <| Aldinger Company |>  -- [ALDINGER CO]  {aldingercompany.com}    Occurrence: 1
+
+ADDRESS: 44 <| North Main Street |> 187 -- [25 N MAIN ST]  {aldousfuneralhome.com}    Occurrence: 1
+
+COMPANY: , <| Alexandria Hyundai |> Alexandria -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+CITY:  <| Lynnwood |> Office -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+COMPANY:  <| Alderson Court Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY: | <| Alexander Nicholson , Inc |> - -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 8
+
+CITY: , <| Galena |> ’ -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+STATE:  <| WA |> State -- [WA]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+COMPANY:  <| Advanced Linear Devices Inc. |> designs -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 3
+
+COMPANY: – <| Alexander Publications |>  -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 4
+
+ADDRESS:  <| 1118 Fleming Street |>  -- [1118 FLEMING ST]  {alexanderskeywest.com}    Occurrence: 3
+
+COMPANY:  <| Alexander Custom Homes |> continues -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+COMPANY:  <| Al Di La |> – -- [AL DI LA RISTORANTE & CATERERS]  {aldilarestaurant.com}    Occurrence: 2
+
+ZIP: York <| 14221 |>  -- [14221 6139]  {aletheas.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alexander Exhibit |> , -- [ALEXANDER EXHIBIT]  {alexanderexhibit.com}    Occurrence: 3
+
+COMPANY: for <| Aleph Center |> PLLC -- [ALEPH CENTER]  {alephcenter.com}    Occurrence: 2
+
+COMPANY: with <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+CITY: in <| Lubbock |> , -- [LUBBOCK]  {alderson.com}    Occurrence: 8
+
+COMPANY: of <| Alexander and Associates |> , -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+CITY: & <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+ADDRESS:  <| 1440 Prudential Dr |> . -- [1440 PRUDENTIAL DR]  {aldingercompany.com}    Occurrence: 1
+
+CITY: , <| St. Augustine |> bed -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+CITY:  <| Houston |> , -- [HOUSTON]  {alexanderryan.com}    Occurrence: 1
+
+COMPANY: The <| Alexander ® All Suite Oceanfront |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com}    Occurrence: 6
+
+COMPANY:  <| Advanced Linear Devices , Inc |>  -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 1
+
+COMPANY: as <| Aldie Veterinary Hospital |> in -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY:  <| Alert-O-Lite |> Sets-up -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 1
+
+COMPANY: , <| Alderwood Vision Therapy Center |> , -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+CITY: • <| Barre |> , -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 15
+
+COMPANY: Care <| Retirement Community |>  -- [ALDERSLY RETIREMENT COMMUNITY]  {aldersly.com}    Occurrence: 2
+
+COMPANY:  <| Aldie Veterinary Hospital |> ∙ -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 7
+
+CITY: of <| Alexandria |> . -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY: s <| Moving & Storage |> in -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 1
+
+COMPANY: Contact <| Alderwood Builders |>  -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 2
+
+ZIP: FL <| 33040 |>  -- [33040 6910]  {alexanderskeywest.com}    Occurrence: 2
+
+CITY: , <| Peoria |> , -- [PEORIA]  {alexander-travel.com}    Occurrence: 4
+
+STATE: Ridge <| VA |>  -- [VA]  {aldievet.com}    Occurrence: 21
+
+COMPANY: , <| ALEGRIA ’ S BRIDES |> can -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Travel |> , -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 3
+
+CITY: the <| Peoria |> Symphony -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: of <| Alert Logic |> versus -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CONTACT:  <| Joe Bob |> knows -- [JOE BOB SHIRLEY]  {alegal.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Travel |> . -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 3
+
+CITY:  <| Alexandria |> Specials -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 8
+
+COMPANY:  <| Alexander Ryan Marine and Safety |> | -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 12
+
+COMPANY: 2014 <| Alexander Electric |>  -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 2
+
+CITY: in <| Washington |> D.C. -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 2
+
+CITY: , <| Lodi |> , -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Custom Homes |> wants -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY:  <| Galena |> was -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+ADDRESS:  <| 2000 Wayside Drive |>  -- [2000 WAYSIDE DR]  {alexanderryan.com}    Occurrence: 1
+
+COMPANY: | <| Alderwood Landscaping |>  -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 2
+
+COMPANY: At <| Alexander & Associates |> , -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 6
+
+ADDRESS:  <| 4818 Beauregard St |>  -- [4818 BEAUREGARD ST # A]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+CITY: breakfast <| St Augustine |> video -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+COMPANY: with <| Alexander Travel |> ! -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Electric Company |> has -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 3
+
+COMPANY: Distance <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+CITY:  <| Lodi |> Adopt -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY: how <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+STATE: Whittier <| CA |>  -- [CA]  {alexanders.net}    Occurrence: 6
+
+COMPANY: with <| Alert Logic |> allows -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY: of <| Alert Logic |> . -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY:  <| Alexander Nicholson , Inc |> - -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 2
+
+COMPANY: , <| Alder Landscape Architecture |> has -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+STATE: , <| GA |> 31904 -- [GA]  {alexander-electric.com}    Occurrence: 6
+
+ZIP: Alaska <| 99503 |>  -- [99503 6079]  {aleutcorp.com}    Occurrence: 3
+
+CITY: , <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| Aldo 's Harbor Restaurant |> | -- [ALDO 'S RESTAURANT]  {aldos-cruz.com}    Occurrence: 1
+
+CITY: , <| Galena |> , -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 5
+
+ADDRESS:  <| 4818 Beauregard St Ste A |>  -- [4818 BEAUREGARD ST # A]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+CITY: The <| Alexandria |> Pastry -- [ALEXANDRIA]  {alexandriapastry.com}    Occurrence: 1
+
+ZIP: OH <| 45237 |>  -- [45237 1643]  {alexanderandassoc.com}    Occurrence: 2
+
+CITY: – <| Galena |> , -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+CITY: in <| Alexandria |> . -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY: and <| Alexander City |> and -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+COMPANY: the <| Alert Logic |> ActiveIntelligence -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: , <| Aldie Vet |> will -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: for <| Alderson Reporting |> . -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+CITY: Kits <| Sunnyvale |>  -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+CITY: Ave. <| Chicago |> , -- [CHICAGO]  {alencotool.com}    Occurrence: 2
+
+COMPANY: Contact <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 3
+
+CONTACT: Chef <| Anna Klinger |> . -- [ANNA KLINGER]  {aldilatrattoria.com}    Occurrence: 2
+
+CITY: main <| Lynnwood |> office -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+COMPANY: , <| Alexandria Field |> is -- [ALEXANDRIA FIELD INC]  {alexandriafield.com}    Occurrence: 1
+
+COMPANY: - <| Advanced Linear Devices |> Analog -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 8
+
+CITY: Geriatrics <| Tucson |> AZ -- [TUCSON]  {alephcenter.com}    Occurrence: 2
+
+CITY: , <| Houston |> , -- [HOUSTON]  {aldridge.com}    Occurrence: 3
+
+COMPANY:  <| Alder Landscape Architecture |> has -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 2
+
+CONTACT: by <| Helen & Marc Younger |> in -- [HELEN YOUNGER]  {alephbet.com}    Occurrence: 1
+
+CITY:  <| Barre |> Energy -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 8
+
+COMPANY: an <| Alert Logic |> partner -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: Of <| Alexandria |>  -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+ADDRESS:  <| 6 Washington St. |> , -- [6 WASHINGTON ST]  {aldrich.lib.vt.us}    Occurrence: 5
+
+COMPANY:  <| Construction Materials |> Association -- [FTG CONSTRUCTION MATERIALS]  {alegretrucking.com}    Occurrence: 1
+
+STATE: , <| CA |> to -- [CA]  {alexanderco.com}    Occurrence: 1
+
+CONTACT:  <| Alexander Isley |> Inc -- [ALEXANDER ISLEY]  {alexanderisley.com}    Occurrence: 13
+
+COMPANY:  <| Alexandria Hyundai |> , -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+CITY: in <| Sunnyvale |> . -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Co. |> has -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Street |> — -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> Docs -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 4
+
+CITY: first <| Galena |> homes -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> provides -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+ZIP: IL <| 60630 |> ( -- [60630 4419]  {alencotool.com}    Occurrence: 2
+
+ADDRESS:  <| 6 Washington St |> . -- [6 WASHINGTON ST]  {aldrich.lib.vt.us}    Occurrence: 1
+
+CITY:  <| San Rafael |>  -- [SAN RAFAEL]  {aldersly.com}    Occurrence: 2
+
+STATE: , <| NJ |>  -- [NJ]  {alertlocksmiths.com}    Occurrence: 4
+
+CITY: all <| Barre |> residents -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 1
+
+CITY: About <| Galena |>  -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 6
+
+ZIP: NJ <| 08831 |>  -- [08831 2035]  {alensecurity.com}    Occurrence: 11
+
+COMPANY:  <| Alderwood Builders |>  -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 1
+
+CITY:  <| Burbank |>  -- [BURBANK]  {aldrichtaylor.com}    Occurrence: 8
+
+CITY: serving <| San Francisco |> & -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 2
+
+CITY:  <| Alexander City |> , -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 9
+
+COMPANY: ® <| Aldon |> ® -- [ALDON]  {aldon.com}    Occurrence: 2
+
+STATE: , <| TX |> 77027 -- [TX]  {aldridge.com}    Occurrence: 10
+
+COMPANY:  <| ALEGRIA ’ S BRIDES |> has -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+CONTACT:  <| Joe Bob Shirley |> , -- [JOE BOB SHIRLEY]  {alegal.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Homestead |> Bed -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com}    Occurrence: 2
+
+STATE: Hayward <| CA |>  -- [CA]  {alexanders.net}    Occurrence: 6
+
+CITY: Downtown <| Fresno |> Location -- [FRESNO]  {alertolite.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Electric Company |> - -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 2
+
+ADDRESS:  <| 10 Pleasant Hill Road |>  -- [10 PLEASANT HILL RD]  {alensecurity.com}    Occurrence: 11
+
+COMPANY: , <| Alexander Ryan Marine and Safety |> . -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 12
+
+CITY: in <| Cincinnati |> as -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+STATE: , <| FL |> 33040 -- [FL]  {alexanderskeywest.com}    Occurrence: 2
+
+CITY: window <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 24
+
+COMPANY: to <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+COMPANY:  <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 33
+
+COMPANY:  <| Alder Landscape Architecture |> is -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 2
+
+COMPANY: by <| Alexander & Associates |> from -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Travel |> is -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 3
+
+COMPANY: 2016 <| Alexander Publications |>  -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 3
+
+COMPANY: 2016 <| Alexander Street |> . -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 8
+
+COMPANY:  <| Risk Management |> Consulting -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}    Occurrence: 1
+
+CITY: , <| Houston |> , -- [HOUSTON]  {alexandertent.com}    Occurrence: 3
+
+CITY: | <| St. Augustine |> FL -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+COMPANY:  <| Alexandria Hyundai |> service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 1
+
+STATE: , <| IL |> 61614 -- [IL]  {alexander-travel.com}    Occurrence: 1
+
+CITY: in <| Newport Beach |> , -- [NEWPORT BEACH]  {alexanderpublications.com}    Occurrence: 1
+
+CITY:  <| Houston |> Office -- [HOUSTON]  {alexandertent.com}    Occurrence: 1
+
+COMPANY: - <| Aldrich Guest |> HouseAldrich -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 10
+
+STATE: Mansfield <| TX |> , -- [TX]  {alexanderportraitdesigners.com}    Occurrence: 1
+
+COMPANY:  <| Alexander ’ s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+COMPANY:  <| Alexander Street |> has -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY: in <| Kenedy |>  -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Electric |> | -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 2
+
+COMPANY:  <| CUSTOM HOMES |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 3
+
+CITY:  <| Peoria |>  -- [PEORIA]  {alexander-travel.com}    Occurrence: 3
+
+STATE: , <| CA |>  -- [CA]  {aldrichtaylor.com}    Occurrence: 3
+
+CITY: Ave <| Alexandria |> VA -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 4
+
+ADDRESS: at <| 418 Lincoln |> Highway -- [418 LINCOLN HWY]  {aldospizza.net}    Occurrence: 1
+
+CITY: the <| Alexander City |> limits -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+CITY: | <| Galena |> , -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 4
+
+ADDRESS:  <| 9 Brookside Place |>  -- [9 BROOKSIDE PL # A]  {alexanderisley.com}    Occurrence: 1
+
+COMPANY: at <| Alert Logic |> fully -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: , <| Alderwood Vision Therapy Center |> is -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 1
+
+ZIP: , <| 22301 |>  -- [22301 1721]  {alexandriahyundai.com}    Occurrence: 4
+
+ADDRESS:  <| 360 McLean Drive |>  -- [360 MCLEAN DR]  {alexanderandassoc.com}    Occurrence: 5
+
+CITY: in <| Alexandria |> or -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY: Ave <| Brooklyn |> , -- [BROOKLYN]  {aldilatrattoria.com}    Occurrence: 1
+
+ZIP: York <| 14127 |>  -- [14127 1287]  {aldrichandcox.com}    Occurrence: 1
+
+CITY: MOSFETS <| Sunnyvale |> , -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+CITY: greater <| Lubbock |> area -- [LUBBOCK]  {alderson.com}    Occurrence: 13
+
+COMPANY: , <| Aldrich & Cox , Inc |>  -- [ALDRICH & COX INC]  {aldrichandcox.com}    Occurrence: 1
+
+COMPANY: Contact <| Advanced Linear Devices |>  -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 2
+
+COMPANY:  <| Alert Logic |> ® -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 40
+
+CONTACT: by <| Helen & Marc Younger |> . -- [HELEN YOUNGER]  {alephbet.com}    Occurrence: 1
+
+COMPANY:  <| Alexander / Ryan Marine & Safety |> is -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 1
+
+COMPANY: At <| Alexander Co. |> , -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+CONTACT:  <| William Fritsche |> – -- [WILLIAM FRITSCHE]  {alexandriafield.com}    Occurrence: 1
+
+COMPANY: About <| Aldie Vet |> ? -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 7
+
+CITY: to <| Galena |> was -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+COMPANY: like <| Alexander Street |> is -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY:  <| Pound Ridge |> , -- [POUND RIDGE]  {alephbet.com}    Occurrence: 7
+
+COMPANY: , <| Alexander Metals , Inc. |> ﻿﻿﻿ -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 1
+
+COMPANY: Contact <| Alert Locksmiths |> , -- [ALERT LOCKSMITHS]  {alertlocksmiths.com}    Occurrence: 2
+
+COMPANY: Contact <| Alexander Co. |> in -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+CITY: , <| Ashford |> , -- [ASHFORD]  {alexanderscountryinn.com}    Occurrence: 4
+
+COMPANY: Transferee <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+COMPANY: at <| Al Di La |> - -- [AL DI LA RISTORANTE & CATERERS]  {aldilarestaurant.com}    Occurrence: 1
+
+CITY: the <| San Francisco |> Bay -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 2
+
+CITY: in <| Alexandria |> , -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Co. |> in -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 4
+
+CITY: , <| Tustin |> , -- [TUSTIN]  {alexanders.net}    Occurrence: 1
+
+COMPANY:  <| Alexander Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 6
+
+CITY: | <| Lyndhurst |> , -- [LYNDHURST]  {alertlocksmiths.com}    Occurrence: 2
+
+COMPANY: , <| Alert Logic |> maintains -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: At <| Aldie Veterianry Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+ADDRESS:  <| 4818 Beauregard St Ste A |> Alexandria -- [4818 BEAUREGARD ST # A]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+STATE: , <| OH |> 45232 -- [OH]  {alexanderandassoc.com}    Occurrence: 1
+
+CONTACT: Dr. <| Nancy Torgerson |> , -- [NANCY G TORGERSON]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+STATE: , <| TN |> 37210 -- [TN]  {alexandermetalsinc.com}    Occurrence: 3
+
+STATE: , <| WA |> 98304 -- [WA]  {alexanderscountryinn.com}    Occurrence: 5
+
+COMPANY: About <| Alexander Co. |> , -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Ryan Marine and Safety |>  -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 2
+
+COMPANY: so <| Alert Logic |> was -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: ​ <| Alexander ’ s Guesthouse |> – -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}    Occurrence: 1
+
+COMPANY: Contact <| Alexander ' s Mobility |>  -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+CITY: in <| Albertville |> by -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY:  <| Alderwood Builders |> has -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 1
+
+CITY:  <| Dallas |> , -- [DALLAS]  {aldingercompany.com}    Occurrence: 1
+
+CITY:  <| Charlottesville |> builder -- [CHARLOTTESVILLE]  {alexandernicholson.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Publications |>  -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 4
+
+CITY: | <| Alexander City |> , -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 3
+
+COMPANY:  <| Alexander Wolf & Company |> , -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+COMPANY:  <| Aleph Inc |> . -- [ALEPH INC]  {alephcomputer.com}    Occurrence: 1
+
+COMPANY: 2016 <| Aleph-Bet Books |> . -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 5
+
+CITY: Rd <| South Riding |> , -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 7
+
+CITY:  <| Lubbock |> , -- [LUBBOCK]  {alderson.com}    Occurrence: 7
+
+ADDRESS: 187 <| North Main Street |>  -- [25 N MAIN ST]  {aldousfuneralhome.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Tent Rentals , Inc. |> is -- [ALEXANDER TENT CO INC]  {alexandertent.com}    Occurrence: 1
+
+COMPANY: , <| Aldie Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 18
+
+COMPANY:  <| Alenco Tool Supply |> located -- [ALENCO TOOL SUPPLY CO]  {alencotool.com}    Occurrence: 2
+
+CITY: Downtown <| Rochelle |> , -- [ROCHELLE]  {aldospizza.net}    Occurrence: 3
+
+STATE: Kenedy <| TX |>  -- [TX]  {alexanderautocenter.com}    Occurrence: 2
+
+CITY:  <| Houston |> East -- [HOUSTON]  {alexanderryan.com}    Occurrence: 2
+
+COMPANY: about <| Alert Logic |> products -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 5
+
+COMPANY: new <| Alexander Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+COMPANY: call <| Alder Landscape Architecture |> today -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+COMPANY:  <| Alexander & Associates |> ’ -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 4
+
+COMPANY: Rocket <| Aldon |> Community -- [ALDON]  {aldon.com}    Occurrence: 18
+
+COMPANY: to <| Alexander Wolf and Company |> an -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+COMPANY:  <| Alexander and Bonin |>  -- [ALEXANDER & BONIN]  {alexanderandbonin.com}    Occurrence: 12
+
+COMPANY:  <| Alert Logic |> has -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 4
+
+CITY: , <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 3
+
+STATE: , <| TX |> New -- [TX]  {alderson.com}    Occurrence: 7
+
+STATE: , <| FL |> 32084 -- [FL]  {alexanderhomestead.com}    Occurrence: 2
+
+CITY:  <| Dallas |> , -- [DALLAS]  {alegal.com}    Occurrence: 6
+
+COMPANY: the <| Alexander Homestead |> , -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com}    Occurrence: 6
+
+CITY: in <| Alexandria |> VA -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 3
+
+CITY: , <| San Francisco |> , -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 4
+
+CITY:  <| Lodi |> House -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY: | <| Alderwood Vision Therapy |>  -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 4
+
+CITY: , <| South Riding |> Vet -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 18
+
+STATE: Designers-Mansfield <| TX |>  -- [TX]  {alexanderportraitdesigners.com}    Occurrence: 2
+
+CITY: East <| Barre |> , -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 1
+
+CITY:  <| Galena |> has -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+CITY: large <| Washington |> , -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Street |> video -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY:  <| Albertville |>  -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 10
+
+CITY: , <| New York |>  -- [NEW YORK]  {alexanderandbonin.com}    Occurrence: 6
+
+CITY: the <| Albertville |> and -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: The <| Alert Logic |> component -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY:  <| Aldrich & Cox , Inc. |> is -- [ALDRICH & COX INC]  {aldrichandcox.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Metals , Inc. |> is -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 3
+
+COMPANY: , <| Alegria ' s Brides |> carries -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+CITY: in <| Galena |>  -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+COMPANY: Commercial <| Moving & Storage |> Services -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 1
+
+COMPANY: at <| Alexandria Hyundai |> . -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 3
+
+COMPANY: needs <| Alert Logic |> . -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+STATE: , <| VA |> - -- [VA]  {alexandriasurveys.com}    Occurrence: 2
+
+ADDRESS:  <| 5100 W. Highway 12 |> ( -- [5100 W HIGHWAY 12]  {alegretrucking.com}    Occurrence: 4
+
+COMPANY:  <| Alef Judaica |> Inc. -- [ALEF JUDAICA]  {alefjudaica.com}    Occurrence: 2
+
+ZIP: AL <| 35010 |>  -- [35010 2573]  {alexandercityonline.com}    Occurrence: 1
+
+COMPANY: , <| Aldi |> Essen -- [ALDI]  {aldi.com}    Occurrence: 1
+
+COMPANY: , <| Aldie Veterinary Hospital |> has -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+CITY: , <| Long Beach |> , -- [LONG BEACH]  {alegriacocinalatina.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> Threat -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 5
+
+COMPANY:  <| Alert Logic |> was -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY:  <| Alexander Company |> provides -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 2
+
+COMPANY: , <| Alexander and Associates |> began -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: of <| Alderson Court Reporting |> drawing -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY: , <| Aldrich Guest House |> Bed -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 2
+
+ZIP: VT <| 05641 |> • -- [05641 4227]  {aldrich.lib.vt.us}    Occurrence: 5
+
+COMPANY: with <| Alexandria Surveys |> , -- [ALEXANDRIA SURVEYS INC]  {alexandriasurveys.com}    Occurrence: 1
+
+COMPANY: at <| Alexander Travel |> since -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: About <| Alexander Ford |> | -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 2
+
+ADDRESS:  <| 900 Third Street |> , -- [900 3RD ST]  {aldrichguesthouse.com}    Occurrence: 5
+
+CITY: , <| San Francisco |> Door -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> Log -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 4
+
+CITY: restored <| Key West |> Conch -- [KEY WEST]  {alexanderskeywest.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Custom Homes |> ' -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY: in <| Barre |> as -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 1
+
+STATE: , <| CA |> | -- [CA]  {alexanderco.com}    Occurrence: 3
+
+CITY:  <| Houston |> , -- [HOUSTON]  {aldridge.com}    Occurrence: 10
+
+COMPANY: to <| Alexander Ford |>  -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY: of <| Alexander and Associates |> includes -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: Contact <| Alexandria Hyundai |> | -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Company |> is -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 3
+
+COMPANY: 2010-2016 <| Alert Logic |> , -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 5
+
+CONTACT:  <| Darrell Taylor |>  -- [DARRELL TAYLOR]  {aldrichtaylor.com}    Occurrence: 1
+
+ADDRESS:  <| 248 5th Ave. |> 718-783-4565 -- [248 5TH AVE]  {aldilatrattoria.com}    Occurrence: 2
+
+STATE: in <| WA |> , -- [WA]  {alderwoodvisiontherapy.com}    Occurrence: 1
+
+STATE: , <| AR |> 72113 -- [AR]  {alessikeyes.com}    Occurrence: 1
+
+CITY: in <| Alexandria |> near -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+STATE: , <| AL |> , -- [AL]  {alexanderdodge.com}    Occurrence: 3
+
+STATE: , <| CA |>  -- [CA]  {alexanderco.com}    Occurrence: 8
+
+STATE: , <| WA |>  -- [WA]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+STATE: , <| TX |> 77011 -- [TX]  {alexanderryan.com}    Occurrence: 1
+
+CITY: Today <| Galena |> is -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+CITY: Your <| Albertville |> , -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+STATE: , <| CA |> 94132 -- [CA]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+CITY: of <| San Francisco |> . -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+STATE: , <| AL |> and -- [AL]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Custom Homes |> sets -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY: greater <| Charlottesville |> area -- [CHARLOTTESVILLE]  {alexandernicholson.com}    Occurrence: 1
+
+CITY: South <| San Francisco |> , -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 5
+
+CITY:  <| Peoria |> , -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: - <| Alexandria Surveys |> , -- [ALEXANDRIA SURVEYS INC]  {alexandriasurveys.com}    Occurrence: 2
+
+COMPANY:  <| Alexander ’ s Country Inn |>  -- [ALEXANDER 'S COUNTRY INN]  {alexanderscountryinn.com}    Occurrence: 1
+
+COMPANY:  <| Alderson Reporting |> has -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+CITY: the <| Albertville |>  -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+ADDRESS:  <| 37515 State Route 706 E |> , -- [37515 STATE ROUTE 706 E]  {alexanderscountryinn.com}    Occurrence: 3
+
+CITY: the <| Washington |> , -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY: created <| Alexander and Associates |> Development -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Homes |> reserves -- [ALEXANDER HOMES]  {alexander-homes.com}    Occurrence: 1
+
+COMPANY:  <| Advanced Linear Devices , Inc. |> ( -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 1
+
+STATE: , <| TX |> , -- [TX]  {alexanderautocenter.com}    Occurrence: 3
+
+COMPANY:  <| ALERT WEATHER |> SERVICES -- [ALERT WEATHER SVC]  {alertweather.com}    Occurrence: 1
+
+CITY: in <| Peoria |> IL -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: , <| Alert Logic |> has -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+ADDRESS:  <| 6764 US Highway 431 |>  -- [6764 US HIGHWAY 431]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY:  <| Aldrich Guest House |> – -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 2
+
+COMPANY: HouseAldrich <| Guest House |> | -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 4
+
+STATE: , <| NJ |> 08831 -- [NJ]  {alensecurity.com}    Occurrence: 11
+
+COMPANY:  <| Alexander / Ryan Marine and Safety |> is -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 2
+
+COMPANY: at <| Alexandria Hyundai |> ? -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY: Select <| Alexander Custom Homes |> As -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY: , <| Cincinnati |> Milling -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+STATE: , <| WA |> 98052 -- [WA]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+COMPANY: Hyundai <| Alexandria , Hyundai |> near -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alef Judaica |> Inc. -- [ALEF JUDAICA]  {alefjudaica.com}    Occurrence: 3
+
+CITY: in <| Cincinnati |> , -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: of <| Alexander and Associates |> . -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+ADDRESS:  <| 248 5th Ave |> Brooklyn -- [248 5TH AVE]  {aldilatrattoria.com}    Occurrence: 1
+
+CITY: : <| Alexandria |> , -- [ALEXANDRIA]  {alexandriapastry.com}    Occurrence: 2
+
+CITY:  <| Alexander City |> has -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: The <| Alexandria Hyundai |> ' -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+CITY: of <| Arcadia |> , -- [ARCADIA]  {alertplumbing.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Travel |> acquired -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: is <| Aldrich Guest House |> . -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 1
+
+CONTACT: by <| Alec T. Estes |> , -- [ALEC ESTES]  {alexandermetalsinc.com}    Occurrence: 1
+
+COMPANY: like <| ALEGRIA ’ S BRIDES |> are -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Electric |> , -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 3
+
+CITY: , <| Kenedy |> , -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 4
+
+COMPANY:  <| Alexander Wolf and Company |> - -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+STATE: , <| CA |> 90802 -- [CA]  {alegriacocinalatina.com}    Occurrence: 1
+
+COMPANY:  <| Adelia M. Russell Library |>  -- [ADELIA M RUSSELL LIBRARY]  {alexandercityonline.com}    Occurrence: 6
+
+CITY: , <| Brooklyn |> , -- [BROOKLYN]  {aldilatrattoria.com}    Occurrence: 1
+
+ZIP: , <| 79401 |>  -- [79401 5030]  {alderson.com}    Occurrence: 4
+
+CITY: | <| Alexandria |> Pastry -- [ALEXANDRIA]  {alexandriapastry.com}    Occurrence: 4
+
+COMPANY: , <| Alexander von Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 2
+
+COMPANY: that <| Alert Logic |> helps -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+ZIP: CA <| 92780 |>  -- [92780 7266]  {alexanders.net}    Occurrence: 6
+
+CITY: new <| Miami |> vibe -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+COMPANY:  <| Alexandria Hyundai |> ' -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Global Promotions |>  -- [ALEXANDER GLOBAL PROMOTIONS]  {alexanderglobal.com}    Occurrence: 2
+
+COMPANY: by <| Alert-O-Lite |> . -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 4
+
+COMPANY: with <| Alderson Reporting |> since -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY:  <| Aldo 's Pizzeria |> and -- [ALDO 'S PIZZERIA]  {aldospizza.net}    Occurrence: 1
+
+STATE: Strengthen <| AL |> Homes -- [AL]  {aldoi.gov}    Occurrence: 1
+
+STATE: , <| LA |> 70505-2409 -- [LA]  {alertweather.com}    Occurrence: 1
+
+ADDRESS:  <| 3425 Alemany Blvd |>  -- [3425 ALEMANY BLVD]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+CITY: in <| Lubbock |> and -- [LUBBOCK]  {alderson.com}    Occurrence: 3
+
+CITY: of <| Lodi |> , -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY: Let <| Alder Landscape Architecture |> provide -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+COMPANY: , <| Frank C. Alegre Trucking |> . -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 4
+
+COMPANY: call <| Alexander Co. |> , -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+CITY: in <| Mansfield |> , -- [MANSFIELD]  {alexanderportraitdesigners.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Ford |> , -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY: at <| Aldrich Guest House |> , -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 1
+
+CITY: visiting <| Galena |> , -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+STATE: Peoria <| IL |> . -- [IL]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Publications |> is -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 1
+
+COMPANY:  <| Alexander & Associates |> was -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+COMPANY:  <| Alert Logic |> Security -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY: Hyundai <| Alexandria , Arlington Hyundai |> , -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+ZIP:  <| 35950 |>  -- [35950 1819]  {alexanderdodge.com}    Occurrence: 9
+
+CITY: in <| San Francisco |> CA -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| Alexander 's Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}    Occurrence: 1
+
+CONTACT: become <| Bonnie Alexander |> ' -- [BONNIE ALEXANDER]  {alexanderhomestead.com}    Occurrence: 5
+
+COMPANY: the <| Alert Logic |> team -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+STATE: , <| VT |> 05641 -- [VT]  {aldrich.lib.vt.us}    Occurrence: 6
+
+COMPANY: , <| Veterinary Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 11
+
+STATE: , <| VA |> 22302 -- [VA]  {alexandriapastry.com}    Occurrence: 3
+
+CITY: the <| Miami |> spotlight -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Electric Company |> was -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 4
+
+COMPANY: Facebook <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY:  <| Aldrich Public Library |> inspires -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us}    Occurrence: 1
+
+COMPANY:  <| Alexandria Hyundai |> | -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 5
+
+COMPANY: how <| Alert Logic |> solutions -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: , <| Alexandria |> Flower -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Electric Co. |> - -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 2
+
+ADDRESS:  <| 3690 H King Street |> : -- [3690 KING ST # H]  {alexandriapastry.com}    Occurrence: 2
+
+STATE: ) <| CA |>  -- [CA]  {alexanders.net}    Occurrence: 6
+
+COMPANY:  <| Aldinger Co |> . -- [ALDINGER CO]  {aldingercompany.com}    Occurrence: 2
+
+CITY: , <| St. Augustine |> Florida -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+CITY: · <| Lodi |> , -- [LODI]  {alegretrucking.com}    Occurrence: 8
+
+CITY:  <| Lubbock |> Pre-Owned -- [LUBBOCK]  {alderson.com}    Occurrence: 7
+
+COMPANY:  <| Alert-O-Lite |> Inc. -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 2
+
+STATE: , <| VA |> auto -- [VA]  {alexandriahyundai.com}    Occurrence: 2
+
+STATE: , <| GA |> with -- [GA]  {alexander-electric.com}    Occurrence: 1
+
+CITY: in <| Long Beach |> , -- [LONG BEACH]  {alegriacocinalatina.com}    Occurrence: 1
+
+CITY: reliable <| Alexandria |> floral -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY: St <| Williamsville |> , -- [WILLIAMSVILLE]  {aletheas.com}    Occurrence: 3
+
+COMPANY: At <| Alderwood Vision Therapy Center |> , -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 1
+
+COMPANY: that <| Aleman Auto Rental |> rents -- [ALEMAN AUTO RENTAL INC]  {aleman.net}    Occurrence: 1
+
+COMPANY: that <| Alexander & Associates |> ’ -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+CITY: : <| Lynnwood |> , -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 3
+
+CITY: the <| Santa Cruz |> Harbor -- [SANTA CRUZ]  {aldos-cruz.com}    Occurrence: 1
+
+STATE: , <| VA |>  -- [VA]  {aldievet.com}    Occurrence: 7
+
+COMPANY: Hyundai <| Alexandria VA , Hyundai |> Alexandria -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Summer |>  -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 8
+
+COMPANY: choose <| Alexander & Associates |> ? -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: , <| Alderwood Landscaping |> of -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 1
+
+CITY: Breakfast <| St. Augustine |> 904.826.4147 -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+STATE: , <| AZ |> Home -- [AZ]  {alephcenter.com}    Occurrence: 2
+
+COMPANY: receiving <| Alderwood Landscaping |> updates -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |>  -- [ALDON]  {aldon.com}    Occurrence: 26
+
+CITY:  <| Fresno |> , -- [FRESNO]  {alertolite.com}    Occurrence: 2
+
+COMPANY:  <| Aldie Vet |> Medical -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+CONTACT: owner <| Richard Habib |> ( -- [RICHARD HABIB]  {alexandersrugs.com}    Occurrence: 1
+
+CITY: the <| Dallas |> / -- [DALLAS]  {alegal.com}    Occurrence: 2
+
+COMPANY: around <| Alert Logic |> solutions -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY:  <| Alexandria Hyundai |> has -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 1
+
+COMPANY:  <| Aleck Plumbing |> is -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 1
+
+STATE: Tucson <| AZ |>  -- [AZ]  {alephcenter.com}    Occurrence: 2
+
+COMPANY: to <| Aldrich Guest House |> Bed -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 2
+
+STATE: , <| VA |> 22312-1707 -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 3
+
+COMPANY:  <| Risk Management |> Consultant -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}    Occurrence: 1
+
+COMPANY: with <| Alexander Street Press |> or -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+ZIP: FL <| 33140 |>  -- [33140 2570]  {alexanderhotel.com}    Occurrence: 5
+
+COMPANY:  <| Alert Weather |> Services -- [ALERT WEATHER SVC]  {alertweather.com}    Occurrence: 1
+
+CITY: , <| Spring Hill |> Builder -- [SPRING HILL]  {alexanderhomes.com}    Occurrence: 2
+
+STATE: , <| IL |> , -- [IL]  {alencotool.com}    Occurrence: 2
+
+COMPANY: let <| ALEGRIA ’ S BRIDES |> show -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+COMPANY: joined <| Alexander Travel |> in -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 2
+
+COMPANY: 2014 <| Alessco Inc. |> All -- [ALESSCO INC]  {alessco.com}    Occurrence: 1
+
+COMPANY: Call <| Alder Landscape Architecture |> today -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |> eBook -- [ALDON]  {aldon.com}    Occurrence: 2
+
+ADDRESS: : <| 115 Pine Ave |> , -- [115 PINE AVE]  {alegriacocinalatina.com}    Occurrence: 1
+
+ADDRESS:  <| 1411 Belfast Avenue |> Columbus -- [1411 BELFAST AVE]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY:  <| Alder Landscape |> Architects -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 2
+
+COMPANY:  <| Alegria 's Brides |> — -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Wolf and Company |>  -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+CITY: in <| Scottsdale |> , -- [SCOTTSDALE]  {alerion.com}    Occurrence: 1
+
+ADDRESS:  <| 8301 Main Street |>  -- [8301 MAIN ST]  {aletheas.com}    Occurrence: 1
+
+COMPANY: About <| Alexander Homes |> , -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY: of <| Arcadia |> . -- [ARCADIA]  {alertplumbing.com}    Occurrence: 1
+
+CITY: the <| Galena |> . -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+COMPANY: @ <| Alert Plumbing |> ... -- [ALERT PLUMBING SVC]  {alertplumbing.com}    Occurrence: 1
+
+CITY: a <| Albertville |> dealer -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: 2014 <| Alderwood Vision Therapy Center |> , -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 3
+
+ZIP: NY <| 11215 |>  -- [11215 1201]  {aldilatrattoria.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |> Products -- [ALDON]  {aldon.com}    Occurrence: 3
+
+COMPANY: , <| Alexandria Hyundai |> repair -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY: the <| Aldrich Public Library |>  -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us}    Occurrence: 8
+
+COMPANY:  <| Alexander Travel , LTD |> was -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Company |>  -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+ZIP: NY <| 10576 |>  -- [10576 1833]  {alephbet.com}    Occurrence: 1
+
+COMPANY: Flowers <| Alexandria VA - Landmark Florist |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+COMPANY: to <| Frank C. Alegre Trucking , Inc |> . -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY:  <| Alenco Tool Supply Co. |> 444 -- [ALENCO TOOL SUPPLY CO]  {alencotool.com}    Occurrence: 2
+
+CONTACT: owner <| John Ryan |> in -- [JOHN RYAN]  {alexanderryan.com}    Occurrence: 2
+
+CITY: 52409 <| Lafayette |> , -- [LAFAYETTE]  {alertweather.com}    Occurrence: 1
+
+CITY: in <| Kenedy |> TX -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 2
+
+ZIP: Ohio <| 45237 |>  -- [45237 1643]  {alexanderandassoc.com}    Occurrence: 4
+
+ZIP: NJ <| 07652 |>  -- [07652 2647]  {alexandersummer.com}    Occurrence: 5
+
+ADDRESS:  <| 1707 Mount Vernon Ave |> Alexandria -- [1707 MOUNT VERNON AVE]  {alexandriahyundai.com}    Occurrence: 4
+
+COMPANY: - <| Alexander & Associates |>  -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 10
+
+CITY: repair <| Alexandria |> , -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+ZIP: CA <| 90802 |> , -- [90802 4457]  {alegriacocinalatina.com}    Occurrence: 1
+
+CITY:  <| Tustin |>  -- [TUSTIN]  {alexanders.net}    Occurrence: 1
+
+COMPANY: in <| Alexandria , Landmark Florist |> offers -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY:  <| Aldie Veterinary Hospital |> moved -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+CONTACT: | <| Alexander Isley |> Inc -- [ALEXANDER ISLEY]  {alexanderisley.com}    Occurrence: 8
+
+STATE: Springfield <| VA |> Hyundai -- [VA]  {alexandriahyundai.com}    Occurrence: 1
+
+CITY: | <| Santa Cruz |> , -- [SANTA CRUZ]  {aldos-cruz.com}    Occurrence: 2
+
+CITY: the <| Burbank |> YMCA -- [BURBANK]  {aldrichtaylor.com}    Occurrence: 2
+
+COMPANY:  <| Alderson Court Reporting |> ' -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY: Container <| Moving & Portable Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+COMPANY:  <| Alexandria Hyundai |> provides -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+CITY: , <| South Riding |> VA -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 21
+
+COMPANY: Industrial <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+CITY: in <| Albertville |> near -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 2
+
+COMPANY:  <| Aldie Veterinary , Animal Hospital |> - -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 3
+
+COMPANY: Rocket <| Aldon |> Report -- [ALDON]  {aldon.com}    Occurrence: 17
+
+COMPANY: at <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 1
+
+CITY: in <| Peoria |> Heights -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+CITY: in <| Kenedy |> . -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 2
+
+COMPANY: Rocket <| Aldon |> products -- [ALDON]  {aldon.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Electric Company |> ’ -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY: to <| Alexander Electric Co |> . -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+CITY: of <| San Francisco |> , -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+ZIP: CA <| 93422 |>  -- [93422 3913]  {alexander-co.com}    Occurrence: 1
+
+COMPANY: to <| Alert Weather |> Services -- [ALERT WEATHER SVC]  {alertweather.com}    Occurrence: 1
+
+ZIP: IL <| 61614 |>  -- [61614 5849]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: Why <| Alexander & Associates |>  -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 6
+
+ADDRESS:  <| 3075 Southwestern Blvd |> . -- [3075 SOUTHWESTERN BLVD # 202]  {aldrichandcox.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Travel |> is -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY:  <| Aldie Veterinary Hospital |> ' -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: founded <| Alexander Electric |> , -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 1
+
+COMPANY: The <| Aleph Center |> , -- [ALEPH CENTER]  {alephcenter.com}    Occurrence: 6
+
+COMPANY: saw <| Alert Logic |> as -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+ADDRESS:  <| 4543 Post Oak Place Drive |>  -- [4543 POST OAK PLACE DR # 208]  {aldridge.com}    Occurrence: 10
+
+COMPANY: , <| Alexander and Bonin |>  -- [ALEXANDER & BONIN]  {alexanderandbonin.com}    Occurrence: 9
+
+CITY:  <| San Diego |> ( -- [SAN DIEGO]  {alexanders.net}    Occurrence: 6
+
+CITY: in <| Cincinnati |> . -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> Web -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY: State <| Fire Marshal |>  -- [FIRE MARSHAL]  {aldoi.gov}    Occurrence: 2
+
+COMPANY:  <| A-Legal Copy |> & -- [A-LEGAL COPY SVC]  {alegal.com}    Occurrence: 2
+
+STATE: , <| CA |> 93721 -- [CA]  {alertolite.com}    Occurrence: 1
+
+ADDRESS:  <| 120 Miracle Mile |>  -- [120 MIRACLE MILE]  {alegriasbrides.com}    Occurrence: 1
+
+ZIP: AL <| 35950 |>  -- [35950 1819]  {alexanderdodge.com}    Occurrence: 2
+
+COMPANY:  <| Alexander & Associates |> specializes -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+ADDRESS:  <| 2942 Dow Ave |> . -- [2942 DOW AVE]  {alexanders.net}    Occurrence: 1
+
+ADDRESS: at <| 6764 US Highway 431 |> , -- [6764 US HIGHWAY 431]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: compliment <| Alexander & Associates |> ' -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+COMPANY:  <| Aldie Veterinary Animal Hospital |> Team -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 4
+
+COMPANY: founding <| Alexander Publications |> , -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 1
+
+COMPANY: The <| Aleph Center |> is -- [ALEPH CENTER]  {alephcenter.com}    Occurrence: 3
+
+CITY: installation <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+ADDRESS:  <| 6408 East Tanque Verde Road |>  -- [6408 E TANQUE VERDE RD]  {alephcenter.com}    Occurrence: 1
+
+CITY: the <| Galena |> trifecta -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> works -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+STATE: , <| AL |> . -- [AL]  {alexanderdodge.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY: by <| Alexander & Associates |> ' -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+COMPANY:  <| Alegria ' s Brides |> — -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+ZIP: VT <| 05641 |>  -- [05641 4227]  {aldrich.lib.vt.us}    Occurrence: 1
+
+CITY:  <| St. Augustine |> Florida -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+CITY: in <| Bennington |> , -- [BENNINGTON]  {alexandrainn.com}    Occurrence: 1
+
+STATE: , <| CA |> 95073 -- [CA]  {aldos-cruz.com}    Occurrence: 2
+
+CITY:  <| Alexandria |>  -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 3
+
+ADDRESS:  <| 3690 H King Street |>  -- [3690 KING ST # H]  {alexandriapastry.com}    Occurrence: 1
+
+ADDRESS:  <| 100 Keystone Place |>  -- [100 KEYSTONE PL]  {alexandernicholson.com}    Occurrence: 1
+
+CITY: Benz <| Lubbock |> Inventory -- [LUBBOCK]  {alderson.com}    Occurrence: 7
+
+COMPANY: The <| Alexander Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alderson Court Reporting |> provides -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 2
+
+CITY: Ave. <| Santa Cruz |> , -- [SANTA CRUZ]  {aldos-cruz.com}    Occurrence: 2
+
+CITY: in <| Houston |> , -- [HOUSTON]  {aldridge.com}    Occurrence: 3
+
+COMPANY: At <| Alexandria Hyundai |> , -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 4
+
+ZIP: NJ <| 07071 |>  -- [07071 1202]  {alertlocksmiths.com}    Occurrence: 1
+
+CONTACT: chef <| Anna Klinger |> that -- [ANNA KLINGER]  {aldilatrattoria.com}    Occurrence: 1
+
+COMPANY:  <| ALDI |> SÃ -- [ALDI]  {aldi.com}    Occurrence: 1
+
+COMPANY: | <| Alderson Reporting |>  -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 16
+
+COMPANY:  <| Frank C. Alegre Trucking |> -- -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 6
+
+COMPANY: by <| Advanced Linear Devices |> . -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> Security-as-a-Service -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: in <| South Riding |> VA -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 8
+
+COMPANY: for <| Alexander Co. |> , -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| Aldo ' s Pizzeria |> and -- [ALDO 'S PIZZERIA]  {aldospizza.net}    Occurrence: 2
+
+ZIP: TX <| 75235 |>  -- [75235 4110]  {aldingercompany.com}    Occurrence: 1
+
+COMPANY: from <| Alexandria Hyundai |>  -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY: at <| Alexandria Field |> has -- [ALEXANDRIA FIELD INC]  {alexandriafield.com}    Occurrence: 1
+
+COMPANY:  <| Aldie Veterinary Hospital |> is -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: on <| Alexander Wolf & Company |>  -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+CITY: , <| McAllen |> , -- [MCALLEN]  {aleman.net}    Occurrence: 1
+
+COMPANY:  <| Alexander Ford |> truly -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Co. |> offers -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+CITY: Providing <| Columbus |> , -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 1
+
+STATE: , <| CA |> 92780 -- [CA]  {alexanders.net}    Occurrence: 6
+
+CITY:  <| Montgomery |> , -- [MONTGOMERY]  {aldoi.gov}    Occurrence: 2
+
+ZIP: VA <| 22902 |>  -- [22902 6200]  {alexandernicholson.com}    Occurrence: 1
+
+STATE: , <| TX |> 75244 -- [TX]  {alertlogic.net}    Occurrence: 2
+
+CITY: company <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+CONTACT: by <| Mark Alexander |> . -- [MARK ALEXANDER]  {alexanderhomes.com}    Occurrence: 1
+
+COMPANY: , <| Aldi |> Nord -- [ALDI]  {aldi.com}    Occurrence: 1
+
+CITY: , <| Wallingford |> , -- [WALLINGFORD]  {aldousfuneralhome.com}    Occurrence: 2
+
+CITY: in <| Miami |> & -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+ADDRESS:  <| 5225 Collins Avenue |> , -- [5225 COLLINS AVE]  {alexanderhotel.com}    Occurrence: 3
+
+ADDRESS:  <| 360 McLean Drive |> , -- [360 MCLEAN DR]  {alexanderandassoc.com}    Occurrence: 1
+
+ZIP:  <| 98391 |>  -- [98391 9448]  {alexanderexhibit.com}    Occurrence: 3
+
+COMPANY:  <| Alert Logic |> Ranked -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+CITY: About <| Galena |> - -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+CITY:  <| Lyndhurst |> , -- [LYNDHURST]  {alertlocksmiths.com}    Occurrence: 3
+
+CITY: in <| Alexandria |>  -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 8
+
+CITY: 05701 <| Wallingford |> , -- [WALLINGFORD]  {aldousfuneralhome.com}    Occurrence: 1
+
+CITY: A <| Alexandria |> , -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+CITY: greater <| Columbus |> , -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY: acquired <| Alexander / Ryan Marine & Safety |> , -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 2
+
+ZIP: CA <| 95242 |>  -- [95242 9529]  {alegretrucking.com}    Occurrence: 4
+
+STATE:  <| VT |> Library -- [VT]  {aldrich.lib.vt.us}    Occurrence: 5
+
+STATE: Rochelle <| IL |> , -- [IL]  {aldospizza.net}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alexanderco.com}    Occurrence: 4
+
+ZIP: GA <| 31904 |>  -- [31904 4498]  {alexander-electric.com}    Occurrence: 6
+
+CITY: in <| Dallas |> . -- [DALLAS]  {alegal.com}    Occurrence: 1
+
+CITY: , <| St. Augustine |> ' -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 5
+
+CITY: | <| Houston |> | -- [HOUSTON]  {alexandertent.com}    Occurrence: 4
+
+CITY: , <| Mansfield |> senior -- [MANSFIELD]  {alexanderportraitdesigners.com}    Occurrence: 1
+
+COMPANY: At <| Alert Logic |>  -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 9
+
+COMPANY:  <| Alert Plumbing Service |> of -- [ALERT PLUMBING SVC]  {alertplumbing.com}    Occurrence: 1
+
+COMPANY: | <| Alexandria Field |> Airport -- [ALEXANDRIA FIELD INC]  {alexandriafield.com}    Occurrence: 4
+
+CITY: premier <| St. Augustine |> bed -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 5
+
+ZIP: VA <| 20152 |>  -- [20152 4456]  {aldievet.com}    Occurrence: 16
+
+COMPANY:  <| Alert-O-Lite |>  -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 1
+
+COMPANY:  <| Alexander ' s Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}    Occurrence: 2
+
+COMPANY:  <| Aldie Veterinary Hospital |>  -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+STATE: Payne <| AL |>  -- [AL]  {alexanderdodge.com}    Occurrence: 4
+
+COMPANY:  <| Alderwood Builders |> is -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 1
+
+CITY: & <| Albertville |> , -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: | <| Alexander Travel |>  -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 6
+
+STATE: , <| GA |> area -- [GA]  {alexander-electric.com}    Occurrence: 1
+
+STATE: , <| FL |> 34604 -- [FL]  {alexanderhomes.com}    Occurrence: 2
+
+COMPANY: | <| Alexander Street |>  -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 15
+
+COMPANY: to <| Alexander Company |> from -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+CITY: Rutland <| Wallingford |> and -- [WALLINGFORD]  {aldousfuneralhome.com}    Occurrence: 1
+
+ZIP: WA <| 98304 |> * -- [98304 9741]  {alexanderscountryinn.com}    Occurrence: 3
+
+CITY: in <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 2
+
+ZIP: TX <| 79401 |>  -- [79401 5030]  {alderson.com}    Occurrence: 11
+
+COMPANY:  <| Alert Logic |> Cloud -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 7
+
+COMPANY: 2016 <| Alexander Electric |> , -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 4
+
+ADDRESS:  <| 2379 S. `` G `` Street |>  -- [2379 S G ST]  {alertolite.com}    Occurrence: 1
+
+CITY: ( <| Houston |> ) -- [HOUSTON]  {aldridge.com}    Occurrence: 1
+
+ADDRESS:  <| 85 Old Mill River Rd |> . -- [85 OLD MILL RIVER RD]  {alephbet.com}    Occurrence: 5
+
+COMPANY: Visit <| Alexander Ford |> in -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: of <| San Francisco |> for -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+CITY: manufacturer <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+COMPANY: - <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 6
+
+COMPANY: from <| Alexander Global |>  -- [ALEXANDER GLOBAL PROMOTIONS]  {alexanderglobal.com}    Occurrence: 1
+
+COMPANY: to <| Alenco Tool Supply |> . -- [ALENCO TOOL SUPPLY CO]  {alencotool.com}    Occurrence: 1
+
+STATE: , <| WA |> 98087 -- [WA]  {alderwoodvisiontherapy.com}    Occurrence: 5
+
+CITY: Inova <| Alexandria |> Hospital -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY:  <| Aleph-Bet Books |> Rare -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 4
+
+CITY: Inova <| Alexandria |> Lactation -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+ZIP: , <| 78119 |>  -- [78119 0000]  {alexanderautocenter.com}    Occurrence: 3
+
+STATE: , <| WA |> , -- [WA]  {alderwoodvisiontherapy.com}    Occurrence: 1
+
+STATE: , <| VA |> , -- [VA]  {alexandriahyundai.com}    Occurrence: 2
+
+STATE: Alexandria <| VA |> , -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+COMPANY: allowing <| Alexander Metals Inc. |> to -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 1
+
+STATE: , <| CA |> 94010 -- [CA]  {alexanderco.com}    Occurrence: 1
+
+COMPANY:  <| ALDI |> , -- [ALDI]  {aldi.com}    Occurrence: 1
+
+COMPANY: , <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 2
+
+CITY: , <| Lynnwood |> , -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+COMPANY: 2014 <| Alderwood Builders |>  -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 4
+
+CITY: – <| Cincinnati |> Milling -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: [ <| Alexander Street |> does -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY: If <| Alexander Street |> ’ -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY: , <| Alexander and Associates |> is -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: , <| Alexander and Associates |> quickly -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+STATE: , <| VA |> area -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+STATE: , <| WA |> , -- [WA]  {alderwoodlandscaping.com}    Occurrence: 1
+
+ZIP:  <| 91505 |>  -- [91505 2815]  {aldrichtaylor.com}    Occurrence: 7
+
+STATE: ( <| CT |> ) -- [CT]  {alexanderisley.com}    Occurrence: 1
+
+COMPANY:  <| Alexander & Associates |> history -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: about <| Alexander & Associates |> or -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+CITY: in <| Tucson |> , -- [TUCSON]  {alephcenter.com}    Occurrence: 3
+
+COMPANY: Local <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+STATE: , <| AL |> 35010 -- [AL]  {alexandercityonline.com}    Occurrence: 1
+
+ZIP: TX <| 77027 |>  -- [77027 3103]  {aldridge.com}    Occurrence: 10
+
+COMPANY: Call <| Alderson Court Reporting |> Today -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY:  <| Aldrich Public Library |> Financials -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us}    Occurrence: 5
+
+COMPANY: choosing <| Alexander Electric Company |> . -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 2
+
+ADDRESS:  <| 418 Lincoln |> Highway -- [418 LINCOLN HWY]  {aldospizza.net}    Occurrence: 1
+
+COMPANY: and <| Alexandria Hyundai |> has -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY:  <| Alexandria Hyundai |> is -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 4
+
+CITY:  <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 4
+
+CITY: , <| Lubbock |> , -- [LUBBOCK]  {alderson.com}    Occurrence: 7
+
+COMPANY: to <| Alexander Travel |> in -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY:  <| Aleck Plumbing |> provides -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 1
+
+CITY: in <| Chicago |> ' -- [CHICAGO]  {alencotool.com}    Occurrence: 1
+
+CITY:  <| Tustin |> CA -- [TUSTIN]  {alexanders.net}    Occurrence: 6
+
+COMPANY:  <| Alexander Wolf & Company |> has -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+STATE: , <| IL |> 61036 -- [IL]  {aldrichguesthouse.com}    Occurrence: 7
+
+COMPANY:  <| Alexander Nicholson |> offers -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 1
+
+CITY: in <| Sunnyvale |>  -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+COMPANY: About <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 3
+
+COMPANY: | <| Alert Logic |>  -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 8
+
+COMPANY:  <| Alexander Custom |> Homes- -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Electric Company |>  -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 4
+
+STATE: , <| AL |> region -- [AL]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: of <| Alexander Street |> ’ -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY: in <| Tucson |> Medical -- [TUCSON]  {alephcenter.com}    Occurrence: 1
+
+CITY:  <| Alexandria |> , -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY: With <| Alexander Wolf & Company |> as -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+CITY:  <| Cincinnati |> , -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 10
+
+COMPANY:  <| Aldridge Grinding Machine |> company -- [ALDRIDGE GRINDING MACHINE CO]  {aldridgegrinders.com}    Occurrence: 1
+
+COMPANY: `` <| Alert Logic |> has -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+CITY:  <| Alexandria |> Florists -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 3
+
+CITY:  <| Alexander City |> Schools -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+STATE: Chantilly <| VA |> , -- [VA]  {aldievet.com}    Occurrence: 21
+
+STATE: , <| VA |>  -- [VA]  {alexandriasurveys.com}    Occurrence: 2
+
+CITY: in <| Lynnwood |> , -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 1
+
+STATE: , <| IL |> 60630 -- [IL]  {alencotool.com}    Occurrence: 2
+
+COMPANY: Hire <| Alexandria Surveys |> , -- [ALEXANDRIA SURVEYS INC]  {alexandriasurveys.com}    Occurrence: 1
+
+COMPANY: Interstate <| Moving & Storage |>  -- [ALEXANDERS MOVING & STORAGE]  {alexanders.net}    Occurrence: 6
+
+CONTACT:  <| John Wolf |> Jr -- [JOHN WOLF]  {alexanderwolf.com}    Occurrence: 1
+
+CONTACT:  <| John F. Ryan |> , -- [JOHN RYAN]  {alexanderryan.com}    Occurrence: 2
+
+ADDRESS:  <| 14 Sevilla St |> , -- [14 SEVILLA ST]  {alexanderhomestead.com}    Occurrence: 2
+
+CONTACT:  <| Alexander Isley |> is -- [ALEXANDER ISLEY]  {alexanderisley.com}    Occurrence: 1
+
+CITY:  <| Homewood |> plumber -- [HOMEWOOD]  {aleckplumbing.com}    Occurrence: 2
+
+CITY:  <| Lodi |> Boosters -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+CITY: in <| Peoria |> to -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+CITY: in <| Burbank |> , -- [BURBANK]  {aldrichtaylor.com}    Occurrence: 1
+
+COMPANY: 2016 <| Aldila , Inc. |> All -- [ALDILA INC]  {aldila.com}    Occurrence: 1
+
+CITY: ( <| Tustin |> ) -- [TUSTIN]  {alexanders.net}    Occurrence: 1
+
+COMPANY:  <| Aldie Veterinary |> is -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 7
+
+COMPANY: with <| Alderwood Landscaping |> on -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 1
+
+COMPANY: | <| Alexander Homestead |> , -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com}    Occurrence: 2
+
+COMPANY:  <| Alert Logic |> ’ -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: © <| Alerion Capital Group |> | -- [ALERION CAPITAL GROUP LLC]  {alerion.com}    Occurrence: 3
+
+COMPANY: respect <| Alexander & Sterling |> . -- [ALEXANDER & STERLING]  {alexanderandsterling.com}    Occurrence: 1
+
+STATE: , <| IL |> 61068 -- [IL]  {aldospizza.net}    Occurrence: 2
+
+STATE: Augustine <| FL |> Bed -- [FL]  {alexanderhomestead.com}    Occurrence: 2
+
+COMPANY: Trust <| ALEGRIA ’ S BRIDES |> to -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+CONTACT: Dr. <| Drew Luce |>  -- [DREW LUCE]  {aldievet.com}    Occurrence: 1
+
+CITY: Motors <| Lubbock |>  -- [LUBBOCK]  {alderson.com}    Occurrence: 4
+
+COMPANY:  <| Alexander Ford |>  -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 8
+
+COMPANY: by <| Alexander & Associates |> is -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+STATE: , <| CA |> 93446 -- [CA]  {alertolite.com}    Occurrence: 1
+
+CITY: , <| Galena |> received -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+ADDRESS: 44 <| North Main Street |> Rutland -- [25 N MAIN ST]  {aldousfuneralhome.com}    Occurrence: 1
+
+COMPANY:  <| Decorative Rugs |> : -- [ALEXANDERS DECORATIVE RUGS]  {alexandersrugs.com}    Occurrence: 1
+
+COMPANY: that <| Aleck Plumbing |> provides -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 1
+
+COMPANY: at <| Alexander Travel |> at -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+STATE: , <| TN |>  -- [TN]  {alexandermetalsinc.com}    Occurrence: 1
+
+STATE: , <| CT |> 06896 -- [CT]  {alexanderisley.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Ford |> | -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 4
+
+COMPANY: for <| Alexander Street Press |> operate -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY:  <| Alexander & Associates |> Development -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 3
+
+CITY: POWER <| COLUMBUS |> AND -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 1
+
+CITY: in <| Galena |> , -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+CITY:  <| Kenedy |>  -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 7
+
+COMPANY: Rocket <| Aldon |> Lifecycle -- [ALDON]  {aldon.com}    Occurrence: 53
+
+COMPANY: , <| Alexander Ford |> Aims -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: in <| Rochelle |> : -- [ROCHELLE]  {aldospizza.net}    Occurrence: 1
+
+COMPANY:  <| Alef Judaica |> Inc -- [ALEF JUDAICA]  {alefjudaica.com}    Occurrence: 3
+
+COMPANY: to <| Alexandria Hyundai |> . -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Electric |> - -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 4
+
+COMPANY: dedicated <| Alert Logic |> analysts -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY: When <| Aldie Veterinary |> closes -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: to <| ALDI |>  -- [ALDI]  {aldi.com}    Occurrence: 2
+
+COMPANY: 2012 <| Alexander Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 2
+
+CITY: - <| Lyndhurst |> , -- [LYNDHURST]  {alertlocksmiths.com}    Occurrence: 2
+
+CITY: in <| Galena |> and -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+COMPANY: The <| Aleph Center |> ” -- [ALEPH CENTER]  {alephcenter.com}    Occurrence: 1
+
+CITY: East <| Barre |>  -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 33
+
+COMPANY:  <| Aleman Auto Rental |> of -- [ALEMAN AUTO RENTAL INC]  {aleman.net}    Occurrence: 1
+
+COMPANY:  <| Alexander Portrait |> Designers-Mansfield -- [ALEXANDER PORTRAIT]  {alexanderportraitdesigners.com}    Occurrence: 2
+
+CITY: our <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+STATE: , <| TX |> . -- [TX]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY: Trust <| Alexander Wolf and Company |>  -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+ADDRESS:  <| 2942 Dow Avenue |>  -- [2942 DOW AVE]  {alexanders.net}    Occurrence: 7
+
+STATE: , <| VA |> 20152 -- [VA]  {aldievet.com}    Occurrence: 24
+
+COMPANY:  <| Alexander Homestead |> is -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com}    Occurrence: 2
+
+CITY: | <| Alexandria |> & -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Metals , Inc. |> : -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 9
+
+COMPANY: - <| Aleck Plumbing |> , -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 4
+
+STATE: , <| VA |> 22556 -- [VA]  {alexandriasurveys.com}    Occurrence: 2
+
+STATE: Arlington <| VA |> area -- [VA]  {alexandriahyundai.com}    Occurrence: 1
+
+COMPANY: Contact <| Aleph-Bet Books |> to -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 1
+
+CITY: in <| Alexandria |> ! -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+STATE: Alexandria <| VA |> Flowers -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+STATE: , <| WA |> ( -- [WA]  {alexanderscountryinn.com}    Occurrence: 3
+
+CITY: windows <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 16
+
+COMPANY: Your <| Alexander Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+ADDRESS:  <| 8655 Morro Road |>  -- [8655 MORRO RD # D]  {alexander-co.com}    Occurrence: 1
+
+COMPANY: About <| Alexander Metals |>  -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 5
+
+COMPANY:  <| Alexandria Field |> Airport -- [ALEXANDRIA FIELD INC]  {alexandriafield.com}    Occurrence: 2
+
+STATE: , <| AL |> 35950 -- [AL]  {alexanderdodge.com}    Occurrence: 2
+
+STATE: Alexandria <| VA |> area -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY:  <| Alexandria |> , -- [ALEXANDRIA]  {alexanderstreet.com}    Occurrence: 1
+
+CITY: service <| Alexandria |> , -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+CITY: - <| Houston |>  -- [HOUSTON]  {alexanderryan.com}    Occurrence: 1
+
+COMPANY: “ <| Alexander Wolf and Company |> has -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+STATE: , <| VT |> 05649 -- [VT]  {aldrich.lib.vt.us}    Occurrence: 1
+
+ZIP: IL <| 61036 |>  -- [61036 2627]  {aldrichguesthouse.com}    Occurrence: 5
+
+STATE: , <| CA |>  -- [CA]  {alexanders.net}    Occurrence: 1
+
+CITY: , <| Alexandria |> VA -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY: Downtown <| Long Beach |> , -- [LONG BEACH]  {alegriacocinalatina.com}    Occurrence: 2
+
+COMPANY: , <| ALEGRIA ’ S BRIDES |> has -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+ADDRESS:  <| 6408 E Tanque Verde Road |>  -- [6408 E TANQUE VERDE RD]  {alephcenter.com}    Occurrence: 2
+
+CITY: Avenue <| Columbus |> , -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY: , <| Aldi |> Sued -- [ALDI]  {aldi.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Ford |> sells -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY: with <| Alert Logic |> I -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+CITY: in <| Albertville |> Welcomes -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> partner -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: the <| Alexander Summer Company |> . -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 2
+
+ZIP: CA <| 95062 |>  -- [95062 3823]  {aldos-cruz.com}    Occurrence: 2
+
+CITY: serving <| Rochelle |> and -- [ROCHELLE]  {aldospizza.net}    Occurrence: 1
+
+CITY:  <| Alexandria |> Service -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 4
+
+COMPANY:  <| Alexander Publications |> is -- [ALEXANDER PUBLICATIONS]  {alexanderpublications.com}    Occurrence: 2
+
+COMPANY: for <| Alexandria Hyundai |> , -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 1
+
+STATE: Tucson <| AZ |> , -- [AZ]  {alephcenter.com}    Occurrence: 4
+
+CITY: in <| Alexandria |> , -- [ALEXANDRIA]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY: and <| Alert Logic |> have -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY:  <| Kenedy |> , -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: Studios <| Key West |>  -- [KEY WEST]  {alexanderskeywest.com}    Occurrence: 2
+
+ZIP:  <| 79401 |>  -- [79401 5030]  {alderson.com}    Occurrence: 18
+
+STATE: Riding <| VA |> , -- [VA]  {aldievet.com}    Occurrence: 21
+
+COMPANY:  <| Alexander Homes |> Introduction -- [ALEXANDER HOMES]  {alexander-homes.com}    Occurrence: 2
+
+COMPANY:  <| Alert Weather |>  -- [ALERT WEATHER SVC]  {alertweather.com}    Occurrence: 2
+
+COMPANY: The <| Alexander ™ All Suite Oceanfront |> Resort -- [ALEXANDER ALL SUITE OCEANFRONT]  {alexanderhotel.com}    Occurrence: 4
+
+COMPANY: at <| Alexander & Associates |> is -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+COMPANY:  <| Alexander & Associates Co |> . -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 5
+
+CITY: greater <| Charlottesville |> community -- [CHARLOTTESVILLE]  {alexandernicholson.com}    Occurrence: 1
+
+CITY: to <| Alexandria |> and -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY: © <| A-Legal Copy |> & -- [A-LEGAL COPY SVC]  {alegal.com}    Occurrence: 5
+
+COMPANY:  <| Alexander Travel |> can -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+CITY:  <| Sunnyvale |> California -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Electric |> has -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY: | <| Alexander Electric |>  -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 6
+
+CITY: In <| Galena |> - -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 4
+
+COMPANY: About <| Aldo 's Pizzeria |>  -- [ALDO 'S PIZZERIA]  {aldospizza.net}    Occurrence: 1
+
+COMPANY:  <| Alderwood Builders |> , -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 1
+
+CITY: , <| Alexandria |> Flowers -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY: the <| Albertville |> area -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: Top-Rated <| Alexandria Hyundai |> Dealership -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+CITY: in <| Albertville |> , -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 4
+
+COMPANY:  <| Alderwood Vision Therapy Center |> , -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+COMPANY:  <| Alexander and Associates |> takes -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+CITY: around <| Galena |> . -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 2
+
+ZIP: IL <| 61068 |>  -- [61068 1643]  {aldospizza.net}    Occurrence: 2
+
+CITY: in <| South Riding |> , -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 1
+
+STATE: , <| WA |> 99218 -- [WA]  {alderwoodlandscaping.com}    Occurrence: 1
+
+CITY: in <| Washington |> State -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY: with <| Alert Logic |> managed -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+CITY: Replacement <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 2
+
+ZIP: TX <| 77011 |>  -- [77011 1218]  {alexanderryan.com}    Occurrence: 1
+
+CITY:  <| Houston |>  -- [HOUSTON]  {alexandertent.com}    Occurrence: 3
+
+CITY:  <| Anchorage |> , -- [ANCHORAGE]  {aleutcorp.com}    Occurrence: 7
+
+CITY:  <| LUBBOCK |>  -- [LUBBOCK]  {alderson.com}    Occurrence: 7
+
+ZIP: Alabama <| 35010 |> | -- [35010 2573]  {alexandercityonline.com}    Occurrence: 3
+
+COMPANY: with <| Alert Logic |> security-as-a-service -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+ADDRESS:  <| 6764 US Hwy 431 |>  -- [6764 US HIGHWAY 431]  {alexanderdodge.com}    Occurrence: 9
+
+STATE: , <| AL |>  -- [AL]  {alexanderdodge.com}    Occurrence: 1
+
+CITY: Our <| Albertville |> Dodge -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+ADDRESS:  <| 6408 E Tanque Verde Road |> , -- [6408 E TANQUE VERDE RD]  {alephcenter.com}    Occurrence: 1
+
+CITY: North <| Little Rock |> , -- [LITTLE ROCK]  {alessikeyes.com}    Occurrence: 1
+
+STATE: N. <| VA |> for -- [VA]  {aldievet.com}    Occurrence: 7
+
+COMPANY: with <| Aldie Vet Hospital |> since -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: trust <| Alert Logic |> for -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY:  <| Arcadia |> Florida -- [ARCADIA]  {alertplumbing.com}    Occurrence: 1
+
+ZIP: TX <| 78119 |>  -- [78119 0000]  {alexanderautocenter.com}    Occurrence: 2
+
+COMPANY: , <| Risk Management |> Audits -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}    Occurrence: 1
+
+COMPANY:  <| Aldie Vet |> ' -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+CITY: in <| Washington |> , -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 3
+
+COMPANY: The <| Alexander & Associates |> Development -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+COMPANY: of <| Alexander Wolf and Company |> . -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alexander Wolf & Company |> , -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+STATE:  <| VT |> Room -- [VT]  {aldrich.lib.vt.us}    Occurrence: 16
+
+COMPANY: in <| Alexandria from Landmark Florist |>  -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY: An <| Alert Logic |> Partner -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+STATE: , <| TX |> 78119 -- [TX]  {alexanderautocenter.com}    Occurrence: 2
+
+COMPANY: with <| Aldie Veterinary Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY:  <| Aleph-Bet Books |> is -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 1
+
+STATE: , <| AZ |> Contacts -- [AZ]  {alephcenter.com}    Occurrence: 2
+
+COMPANY: at <| Alexander Street Press |> . -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY: in <| Key West |> , -- [KEY WEST]  {alexanderskeywest.com}    Occurrence: 2
+
+COMPANY: about <| Alexander & Associates |> and -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |> . -- [ALDON]  {aldon.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Homes |> is -- [ALEXANDER HOMES]  {alexander-homes.com}    Occurrence: 1
+
+CITY:  <| Columbus |> , -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 5
+
+CITY:  <| Barre |> , -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 1
+
+COMPANY: - <| Alderwood Landscaping |>  -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 4
+
+CITY: greater <| Columbus |> area -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 3
+
+STATE: , <| CA |> 92557 -- [CA]  {alexanderscostumes.com}    Occurrence: 1
+
+COMPANY: our <| Aldie Veterinary Hospital |> logo -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+ZIP: , <| 35950 |>  -- [35950 1819]  {alexanderdodge.com}    Occurrence: 2
+
+CITY: in <| Houston |> , -- [HOUSTON]  {alexandertent.com}    Occurrence: 1
+
+COMPANY: to <| Alexander Co |>  -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY: about <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY:  <| Alert Locksmiths |> , -- [ALERT LOCKSMITHS]  {alertlocksmiths.com}    Occurrence: 2
+
+CITY:  <| Orchard Park |> , -- [ORCHARD PARK]  {aldrichandcox.com}    Occurrence: 1
+
+COMPANY: About <| Alexander Custom Homes |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 2
+
+ZIP: IL <| 61036 |> – -- [61036 2627]  {aldrichguesthouse.com}    Occurrence: 2
+
+COMPANY: to <| Alef Judaica |> Online -- [ALEF JUDAICA]  {alefjudaica.com}    Occurrence: 3
+
+CITY:  <| Atascadero |> , -- [ATASCADERO]  {alexander-co.com}    Occurrence: 1
+
+COMPANY: To <| Alexander & Sterling |>  -- [ALEXANDER & STERLING]  {alexanderandsterling.com}    Occurrence: 2
+
+CITY: in <| Lodi |> , -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+CITY: and <| Washington |> , -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 1
+
+COMPANY: from <| Alert Logic |> . -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY: as <| Frank C. Alegre Trucking , Inc |> . -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY: to <| Aldrich & Cox , Inc. |> - -- [ALDRICH & COX INC]  {aldrichandcox.com}    Occurrence: 2
+
+CITY: Psychiatrist <| Tucson |> AZ -- [TUCSON]  {alephcenter.com}    Occurrence: 2
+
+ZIP: Arizona <| 85715 |>  -- [85715 3809]  {alephcenter.com}    Occurrence: 2
+
+COMPANY: , <| Funeral Service |> , -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com}    Occurrence: 1
+
+CITY: in <| Alexandria |> , -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY:  <| Frank C. Alegre Trucking |>  -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 2
+
+STATE: , <| CA |> 95241-1508 -- [CA]  {alegretrucking.com}    Occurrence: 4
+
+STATE: , <| TX |> 77056 -- [TX]  {alertlogic.net}    Occurrence: 3
+
+COMPANY:  <| Alexander ' s Guesthouse |>  -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}    Occurrence: 2
+
+COMPANY: in <| Alexandria VA , Landmark Florist |> in -- [A ALEXANDRIA LANDMARK FLORIST]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY:  <| Homewood |> Plumber -- [HOMEWOOD]  {aleckplumbing.com}    Occurrence: 4
+
+CONTACT:  <| John D. Wolf |> , -- [JOHN WOLF]  {alexanderwolf.com}    Occurrence: 1
+
+COMPANY:  <| Alert Logic |> fully -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY:  <| Advanced Linear Devices |> , -- [ADVANCED LINEAR DEVICES INC]  {aldinc.com}    Occurrence: 3
+
+COMPANY:  <| Alert Logic |> Partners -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+CITY: the <| Alexandria |> , -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY: Visit <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |> | -- [ALDON]  {aldon.com}    Occurrence: 2
+
+ZIP:  <| 78119 |>  -- [78119 0000]  {alexanderautocenter.com}    Occurrence: 7
+
+COMPANY: establishing <| Aldie Veterinary Hospital |> in -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: by <| Alexander & Associates |> , -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY:  <| Alderwood Landscaping |> Receives -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 1
+
+ZIP: , <| 20152 |> vet -- [20152 4456]  {aldievet.com}    Occurrence: 11
+
+ZIP: VA <| 20152 |> ∙ -- [20152 4456]  {aldievet.com}    Occurrence: 7
+
+CITY:  <| LYNNWOOD |> ( -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+CITY: in <| Peoria |> , -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: , <| Alexandria Hyundai |> service -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 1
+
+STATE: , <| AL |> New -- [AL]  {alexanderdodge.com}    Occurrence: 1
+
+COMPANY:  <| Aldrich Guest House |>  -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 5
+
+ZIP:  <| 22312 |>  -- [22312 1707]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY:  <| Newport Beach |> , -- [NEWPORT BEACH]  {alexanderpublications.com}    Occurrence: 1
+
+CITY: in <| Mansfield |> Texas -- [MANSFIELD]  {alexanderportraitdesigners.com}    Occurrence: 1
+
+COMPANY: Every <| Alexander Custom |> Home -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alder Landscape Architecture |>  -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 6
+
+CITY:  <| Lynnwood |> , -- [LYNNWOOD]  {alderwoodvisiontherapy.com}    Occurrence: 2
+
+ZIP: California <| 94089 |>  -- [94089 1706]  {aldinc.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alderson Reporting |> Company -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 8
+
+COMPANY:  <| Aldie Vet Hospital |> ' -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+STATE: , <| TX |> 79401 -- [TX]  {alderson.com}    Occurrence: 11
+
+CITY:  <| Alexandria |> Pastry -- [ALEXANDRIA]  {alexandriapastry.com}    Occurrence: 3
+
+STATE: , <| VA |> . -- [VA]  {alexandriasurveys.com}    Occurrence: 2
+
+COMPANY:  <| Aldo Ventures , Inc |> . -- [ALDO SHOES INC]  {aldo.com}    Occurrence: 3
+
+COMPANY: the <| Aldie Vet Hospital |> is -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 7
+
+ZIP: CT <| 06896 |>  -- [06896 3102]  {alexanderisley.com}    Occurrence: 1
+
+COMPANY:  <| Alderwood Vision Therapy |>  -- [ALDERWOOD VISION THERAPY CTR]  {alderwoodvisiontherapy.com}    Occurrence: 3
+
+COMPANY: when <| Alexander and Associates |> purchased -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+STATE: Charles <| IL |> . -- [IL]  {alexander-travel.com}    Occurrence: 1
+
+STATE: , <| VA |> . -- [VA]  {aldievet.com}    Occurrence: 2
+
+COMPANY: Rocket <| Aldon |> Deployment -- [ALDON]  {aldon.com}    Occurrence: 18
+
+CITY: Amplifiers <| Sunnyvale |>  -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+COMPANY: and <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+STATE: , <| TX |> 75243 -- [TX]  {aldridge.com}    Occurrence: 10
+
+STATE: Aldie <| VA |> , -- [VA]  {aldievet.com}    Occurrence: 21
+
+CITY: sale <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+STATE: , <| VA |> 22902 -- [VA]  {alexandernicholson.com}    Occurrence: 1
+
+COMPANY: — <| Alegria 's Brides |>  -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 2
+
+CITY:  <| Rochelle |> , -- [ROCHELLE]  {aldospizza.net}    Occurrence: 2
+
+ADDRESS:  <| 6408 East Tanque Verde Rd |>  -- [6408 E TANQUE VERDE RD]  {alephcenter.com}    Occurrence: 1
+
+STATE: , <| VA |> 22314 -- [VA]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY: joining <| Alerion Capital Group |> , -- [ALERION CAPITAL GROUP LLC]  {alerion.com}    Occurrence: 1
+
+COMPANY: | <| Alexander ' s Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}    Occurrence: 1
+
+COMPANY: the <| Alexander Street |> platform -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY:  <| Lodi |> , -- [LODI]  {alegretrucking.com}    Occurrence: 1
+
+STATE: Alexandria <| VA |>  -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+COMPANY: to <| Alexander Company. |> `` -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+CITY: make <| Galena |> our -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+ADDRESS:  <| 497 Cave Road |> , -- [497 CAVE RD]  {alexandermetalsinc.com}    Occurrence: 3
+
+COMPANY: At <| Aleck Plumbing |> , -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 1
+
+COMPANY:  <| Alert-O-Lite |> also -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 2
+
+CITY:  <| South Riding |> , -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 9
+
+ZIP: AL <| 36104 |>  -- [36104 3735]  {aldoi.gov}    Occurrence: 1
+
+CITY: , <| Albertville |> , -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 4
+
+ADDRESS: on <| Tasman Drive |>  -- [415 TASMAN DR]  {aldinc.com}    Occurrence: 2
+
+COMPANY: because <| Alexandria Hyundai |> is -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 2
+
+CITY: premier <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 2
+
+COMPANY: Call <| Alert Locksmiths |> , -- [ALERT LOCKSMITHS]  {alertlocksmiths.com}    Occurrence: 1
+
+CITY: including <| Homewood |> , -- [HOMEWOOD]  {aleckplumbing.com}    Occurrence: 1
+
+ZIP:  <| 61614 |>  -- [61614 5849]  {alexander-travel.com}    Occurrence: 3
+
+COMPANY: from <| Alert Logic |> as -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY:  <| ALEXANDER SUMMER |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 4
+
+COMPANY:  <| Alexander Travel |> Agency -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Custom Homes |>  -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 8
+
+CITY:  <| Alexandria |> Flowers -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 2
+
+ZIP: Fl <| 34266 |> Email -- [34266 5257]  {alertplumbing.com}    Occurrence: 1
+
+COMPANY: , <| Alderwood Landscaping |> & -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 1
+
+COMPANY: for <| Alexander Electric |> , -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 1
+
+COMPANY: 1990 <| Alexander Travel |> moved -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: At <| Alexander Ford |> , -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: - <| Nashville |> , -- [NASHVILLE]  {alexandermetalsinc.com}    Occurrence: 1
+
+COMPANY: About <| Aldo ' s Pizzeria |>  -- [ALDO 'S PIZZERIA]  {aldospizza.net}    Occurrence: 1
+
+COMPANY: present <| Alexander Travel |> has -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: service <| Alexander Wolf and Company |> provides -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Electric Co |> . -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY: , <| Alder Landscape Architecture |> , -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 4
+
+CITY: the <| Kenedy |> , -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: of <| Alexander City |>  -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+COMPANY:  <| Aldous Funeral |> Home -- [ALDOUS FUNERAL SVC]  {aldousfuneralhome.com}    Occurrence: 5
+
+COMPANY:  <| Alexander Electric |> Inc -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 5
+
+CITY: of <| Key West |> ’ -- [KEY WEST]  {alexanderskeywest.com}    Occurrence: 1
+
+COMPANY: 2016 <| ALEXANDER METALS , INC |> . -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 3
+
+COMPANY: and <| ALEGRIA ’ S BRIDES |> ! -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+COMPANY:  <| Alef Judaica |> Contact -- [ALEF JUDAICA]  {alefjudaica.com}    Occurrence: 2
+
+COMPANY: 2014 <| Aldo ' s Pizzeria |> and -- [ALDO 'S PIZZERIA]  {aldospizza.net}    Occurrence: 3
+
+CITY:  <| Barre |> history -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 1
+
+CITY:  <| Monroe Township |> , -- [MONROE TWP]  {alensecurity.com}    Occurrence: 11
+
+ADDRESS:  <| 415 Tasman Drive |>  -- [415 TASMAN DR]  {aldinc.com}    Occurrence: 1
+
+ADDRESS:  <| 17902 17th Street East |>  -- [17902 17TH ST E]  {alexanderexhibit.com}    Occurrence: 3
+
+STATE: , <| NY |> 10576 -- [NY]  {alephbet.com}    Occurrence: 6
+
+CITY:  <| Key West |> , -- [KEY WEST]  {alexanderskeywest.com}    Occurrence: 3
+
+COMPANY:  <| Alexander & Associates |> can -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+CITY: the <| Cincinnati |> area -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY:  <| Alexander & Associates |> is -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY:  <| Aldetec , Inc. |> is -- [ALDETEC INC]  {aldetec.com}    Occurrence: 1
+
+CITY: in <| Peoria |> ’ -- [PEORIA]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: for <| Alexander Travel |> , -- [ALEXANDER TRAVEL LTD]  {alexander-travel.com}    Occurrence: 1
+
+COMPANY: About <| Alexander Ford |>  -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: in <| Chicago |> , -- [CHICAGO]  {alencotool.com}    Occurrence: 2
+
+ZIP:  <| 91505 |> ( -- [91505 2815]  {aldrichtaylor.com}    Occurrence: 1
+
+COMPANY: had <| Alexander Co. |> replace -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+STATE: , <| WA |> 98007 -- [WA]  {alderwoodlandscaping.com}    Occurrence: 1
+
+COMPANY: 2013 <| Alexander Electric |>  -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 2
+
+COMPANY:  <| Alert Logic |>  -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 4
+
+STATE: Riding <| VA |> near -- [VA]  {aldievet.com}    Occurrence: 8
+
+ADDRESS:  <| 1411 Belfast Avenue |>  -- [1411 BELFAST AVE]  {alexander-electric.com}    Occurrence: 5
+
+ZIP: VA <| 22302 |> : -- [22302 1921]  {alexandriapastry.com}    Occurrence: 2
+
+CITY: either <| Houston |> or -- [HOUSTON]  {alexanderryan.com}    Occurrence: 2
+
+STATE: , <| FL |>  -- [FL]  {alegriasbrides.com}    Occurrence: 2
+
+ZIP: Florida <| 33134 |>  -- [33134 5406]  {alegriasbrides.com}    Occurrence: 4
+
+COMPANY: , <| Alexandria Surveys |> , -- [ALEXANDRIA SURVEYS INC]  {alexandriasurveys.com}    Occurrence: 1
+
+CITY: in <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 7
+
+STATE: Francisco <| CA |>  -- [CA]  {alexanderco.com}    Occurrence: 1
+
+ADDRESS:  <| 912 N Hollywood Way Ste D |>  -- [912 N HOLLYWOOD WAY # D]  {aldrichtaylor.com}    Occurrence: 1
+
+COMPANY: HouseAldrich <| Guest House |>  -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 6
+
+CITY: in <| Albertville |>  -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 5
+
+COMPANY: , <| Alder Landscape Architecture |> can -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+COMPANY: , <| Landscape Architecture |> , -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 5
+
+COMPANY: © <| Alderwood Landscaping |> . -- [ALDERWOOD LANDSCAPING]  {alderwoodlandscaping.com}    Occurrence: 3
+
+ADDRESS:  <| 120 Miracle Mile |> , -- [120 MIRACLE MILE]  {alegriasbrides.com}    Occurrence: 3
+
+COMPANY: Rocket <| Aldon |> Webinar -- [ALDON]  {aldon.com}    Occurrence: 2
+
+COMPANY:  <| ALESSCO INC |> . -- [ALESSCO INC]  {alessco.com}    Occurrence: 2
+
+CONTACT: to <| Tony Alegre |> , -- [TONY ALEGRE]  {alegretrucking.com}    Occurrence: 1
+
+COMPANY:  <| ALEGRIA ’ S BRIDES |> will -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+COMPANY: to <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alexanders.net}    Occurrence: 1
+
+COMPANY: - <| Risk Management |> Consultants -- [HOLFOTH RISK MANAGEMENT]  {aldrichandcox.com}    Occurrence: 2
+
+CITY: the <| Alexandria |> VA -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+CITY: in <| Kenedy |> , -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 2
+
+COMPANY:  <| Aleph-Bet Books |> sells -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 2
+
+CITY: , <| Barre |> , -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 5
+
+COMPANY:  <| Alexander and Associates |> ( -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+CITY: sunny <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 1
+
+COMPANY:  <| Alexander ’ s Guesthouse |> is -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}    Occurrence: 1
+
+CITY: in <| New York |> . -- [NEW YORK]  {alexanderandbonin.com}    Occurrence: 3
+
+COMPANY: At <| Frank C. Alegre Trucking , Inc. |> we -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 1
+
+CITY: ∙ <| South Riding |> , -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 7
+
+COMPANY: with <| Alert Logic |> ' -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: Greater <| Barre |> Democrats -- [BARRE]  {aldrich.lib.vt.us}    Occurrence: 8
+
+CITY: , <| South Riding |> , -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 1
+
+COMPANY: | <| Alexander 's Office |> Center -- [ALEXANDER OFFICE EQUIPMENT]  {alexandersonline.net}    Occurrence: 1
+
+COMPANY:  <| Alert-O-Lite |> Inc -- [ALERT-O-LITE]  {alertolite.com}    Occurrence: 1
+
+CITY: the <| Galena |> way -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+CONTACT:  <| David L. Aldridge |>  -- [DAVID ALDRIDGE]  {aldridge.com}    Occurrence: 1
+
+COMPANY: , <| Alexander and Associates |> had -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+ADDRESS:  <| 201 Monroe Street |>  -- [201 MONROE ST]  {aldoi.gov}    Occurrence: 1
+
+ADDRESS:  <| 8301 Main St |> Williamsville -- [8301 MAIN ST]  {aletheas.com}    Occurrence: 3
+
+CITY: , <| San Francisco |> , -- [SAN FRANCISCO]  {alexandersrugs.com}    Occurrence: 1
+
+COMPANY:  <| Aleph-Bet Books |>  -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 11
+
+COMPANY: allowed <| Alexander Nicholson |> to -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 1
+
+COMPANY:  <| Alef Judaica |> Online -- [ALEF JUDAICA]  {alefjudaica.com}    Occurrence: 7
+
+COMPANY: – <| Aldrich Public Library |> • -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us}    Occurrence: 6
+
+CITY:  <| Burbank |> Student -- [BURBANK]  {aldrichtaylor.com}    Occurrence: 8
+
+COMPANY: An <| Alert Logic |> representative -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 4
+
+COMPANY:  <| ALDI |> Nord -- [ALDI]  {aldi.com}    Occurrence: 1
+
+COMPANY: to <| Aldie Vet |> for -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 7
+
+CITY:  <| Alexander City |> Inert -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+STATE: , <| NJ |> | -- [NJ]  {alertlocksmiths.com}    Occurrence: 2
+
+STATE: , <| CA |> , -- [CA]  {alexanders.net}    Occurrence: 18
+
+CITY:  <| Alexandria |> , -- [ALEXANDRIA]  {alexandriapastry.com}    Occurrence: 1
+
+STATE: , <| NY |> 11215 -- [NY]  {aldilatrattoria.com}    Occurrence: 1
+
+COMPANY:  <| Alegria ' s Brides |> world -- [ALEGRIA 'S BRIDES]  {alegriasbrides.com}    Occurrence: 1
+
+STATE: , <| AL |> 36104 -- [AL]  {aldoi.gov}    Occurrence: 1
+
+STATE: , <| VA |> provides -- [VA]  {alexandrialandmarkflorist.com}    Occurrence: 1
+
+STATE: Arab <| AL |>  -- [AL]  {alexanderdodge.com}    Occurrence: 1
+
+STATE: , <| CA |> 95062 -- [CA]  {aldos-cruz.com}    Occurrence: 2
+
+CONTACT:  <| Alexander Isley |>  -- [ALEXANDER ISLEY]  {alexanderisley.com}    Occurrence: 5
+
+COMPANY:  <| Alexander Electric |> was -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY:  <| Alderson Court Reporting |> has -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+CITY: ECT <| Tucson |> AZ -- [TUCSON]  {alephcenter.com}    Occurrence: 2
+
+CITY: Discover <| Galena |> for -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+CITY: , <| St. Augustine |> , -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 2
+
+COMPANY:  <| Alexander & Associates |> annually -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+CITY: Alexander <| Miami |> | -- [MIAMI]  {alexanderhotel.com}    Occurrence: 2
+
+COMPANY:  <| Alerion Capital Group |> is -- [ALERION CAPITAL GROUP LLC]  {alerion.com}    Occurrence: 1
+
+COMPANY: Rocket <| Aldon |> Harmonizer -- [ALDON]  {aldon.com}    Occurrence: 17
+
+ZIP:  <| 94901 |>  -- [94901 3484]  {aldersly.com}    Occurrence: 2
+
+ZIP: CA <| 93721 |>  -- [93721 3496]  {alertolite.com}    Occurrence: 1
+
+STATE: , <| IL |> | -- [IL]  {alexander-travel.com}    Occurrence: 4
+
+COMPANY:  <| Frank C. Alegre Trucking , Inc. |> is -- [FRANK C ALEGRE TRUCKING INC]  {alegretrucking.com}    Occurrence: 5
+
+STATE: , <| TX |> New -- [TX]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: with <| Galena |> . -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+COMPANY:  <| Alerion Capital Group |> applies -- [ALERION CAPITAL GROUP LLC]  {alerion.com}    Occurrence: 1
+
+COMPANY: to <| Alexander / Ryan Marine & Safety |> Company -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 2
+
+COMPANY: the <| Alert Logic |> vision -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+STATE: , <| AL |> 36130-3351 -- [AL]  {aldoi.gov}    Occurrence: 1
+
+CITY:  <| Tucson |> Arizona -- [TUCSON]  {alephcenter.com}    Occurrence: 2
+
+ADDRESS: – <| 900 Third Street |> – -- [900 3RD ST]  {aldrichguesthouse.com}    Occurrence: 2
+
+COMPANY:  <| Alexandria Surveys |> , -- [ALEXANDRIA SURVEYS INC]  {alexandriasurveys.com}    Occurrence: 4
+
+COMPANY: At <| Alexander Custom Homes |> its -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY: Installation <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+COMPANY: At <| Aldrich Guest House |> Bed -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 2
+
+CITY:  <| San Francisco |> , -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 6
+
+COMPANY:  <| Alert Logic |> Product -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: the <| Burbank |> Noon -- [BURBANK]  {aldrichtaylor.com}    Occurrence: 2
+
+CITY:  <| Washington |> , -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 9
+
+COMPANY:  <| Alexander Street |> interface -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Street Press |> pairs -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY:  <| Alert Plumbing Service |>  -- [ALERT PLUMBING SVC]  {alertplumbing.com}    Occurrence: 2
+
+COMPANY:  <| Alexander Metals , Inc. |> a -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 1
+
+COMPANY: Why <| Alexander Global Promotions |> ? -- [ALEXANDER GLOBAL PROMOTIONS]  {alexanderglobal.com}    Occurrence: 1
+
+CITY: our <| Alexandria |> dealership -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+ZIP: Vermont <| 05773 |>  -- [05773 9748]  {aldousfuneralhome.com}    Occurrence: 1
+
+CONTACT: by <| James Unruh |> , -- [JAMES UNRUH]  {alerion.com}    Occurrence: 2
+
+CITY:  <| Ashford |> , -- [ASHFORD]  {alexanderscountryinn.com}    Occurrence: 1
+
+COMPANY:  <| Alenco Tool Supply |> - -- [ALENCO TOOL SUPPLY CO]  {alencotool.com}    Occurrence: 1
+
+COMPANY: at <| Alderwood Builders |> are -- [ALDERWOOD BUILDERS INC]  {alderwoodbuilders.com}    Occurrence: 1
+
+CITY: windows <| San Francisco |>  -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+COMPANY: About <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 2
+
+CITY: , <| Nashville |> , -- [NASHVILLE]  {alexandermetalsinc.com}    Occurrence: 3
+
+COMPANY: ; <| Alexander Street |> — -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Dodge Chrysler |> Jeep -- [ALEXANDER DODGE CHRYSLER PLMTH]  {alexanderdodge.com}    Occurrence: 18
+
+CITY: in <| Kenedy |> for -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY:  <| Alexander & Associates |> has -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 10
+
+ZIP: , <| 20152 |> , -- [20152 4456]  {aldievet.com}    Occurrence: 7
+
+COMPANY: of <| Alexander & Associates |> ' -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 2
+
+CONTACT: From <| Joe Bob Shirley |>  -- [JOE BOB SHIRLEY]  {alegal.com}    Occurrence: 1
+
+COMPANY:  <| Alder Landscape Architecture |> services -- [ALDER LANDSCAPE ARCHITECTURE]  {alderlandscapearchitecture.com}    Occurrence: 3
+
+COMPANY: of <| Alert Logic |> by -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY:  <| Lubbock |>  -- [LUBBOCK]  {alderson.com}    Occurrence: 18
+
+COMPANY:  <| Alert Logic |> managed -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: the <| Columbus |> , -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 1
+
+ADDRESS:  <| 5225 Collins Avenue |>  -- [5225 COLLINS AVE]  {alexanderhotel.com}    Occurrence: 2
+
+ADDRESS: / <| 616 Atlantic Ave. |> Santa -- [616 ATLANTIC AVE]  {aldos-cruz.com}    Occurrence: 2
+
+COMPANY: to <| Aldie Veterinary Hospital |> in -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+COMPANY: Give <| Aleck Plumbing |> a -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 1
+
+ZIP: WA <| 98304 |>  -- [98304 9741]  {alexanderscountryinn.com}    Occurrence: 2
+
+CITY: in <| Alexander City |>  -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 3
+
+CITY:  <| Galena |> is -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+CITY:  <| Tucson |> , -- [TUCSON]  {alephcenter.com}    Occurrence: 3
+
+ZIP: NY <| 14221 |>  -- [14221 6139]  {aletheas.com}    Occurrence: 3
+
+STATE: , <| CA |> 93422 -- [CA]  {alexander-co.com}    Occurrence: 1
+
+COMPANY: Why <| Alert Logic |>  -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CONTACT: , <| Frank C. Alegre |> , -- [FRANK C ALEGRE JR]  {alegretrucking.com}    Occurrence: 1
+
+CITY: greater <| Albertville |> area -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 1
+
+CITY: downtown <| Rochelle |> IL -- [ROCHELLE]  {aldospizza.net}    Occurrence: 1
+
+CITY: to <| Santa Cruz |> in -- [SANTA CRUZ]  {aldos-cruz.com}    Occurrence: 1
+
+COMPANY: At <| Aldie Veterinary Hospital |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+CITY: the <| Santa Cruz |> Wharf -- [SANTA CRUZ]  {aldos-cruz.com}    Occurrence: 1
+
+COMPANY:  <| Aldrich Public Library |> • -- [ALDRICH PUBLIC LIBRARY]  {aldrich.lib.vt.us}    Occurrence: 9
+
+CITY: — <| Miami |> , -- [MIAMI]  {alegriasbrides.com}    Occurrence: 2
+
+STATE: Valley <| CA |> 94941 -- [CA]  {alexandersrugs.com}    Occurrence: 1
+
+COMPANY: cute <| Bed and Breakfast |> place -- [ALEXANDRA BED & BREAKFAST]  {alexandrainn.com}    Occurrence: 1
+
+COMPANY: 2010 <| Alexander Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 2
+
+ZIP: VA <| 22314 |>  -- [22314 4596]  {alexanderstreet.com}    Occurrence: 1
+
+CITY: making <| Alexander City |> a -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Homestead |>  -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com}    Occurrence: 3
+
+ZIP: NY <| 10576 |> USA -- [10576 1833]  {alephbet.com}    Occurrence: 5
+
+CITY: in <| South Riding |>  -- [SOUTH RIDING]  {aldievet.com}    Occurrence: 1
+
+COMPANY: of <| Alexander Street |> ' -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+CITY: , <| Cincinnati |> , -- [CINCINNATI]  {alexanderandassoc.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Systems Company |> can -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+COMPANY: of <| Alderson Reporting |> , -- [ALDERSON REPORTING]  {aldersonreporting.com}    Occurrence: 1
+
+CITY: St <| Kenedy |> , -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY:  <| Alexander / Ryan Marine & Safety |> Co -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 12
+
+COMPANY: 2001-2015 <| Alexander Global |> . -- [ALEXANDER GLOBAL PROMOTIONS]  {alexanderglobal.com}    Occurrence: 1
+
+COMPANY: , <| Alexander Metals |> , -- [ALEXANDER METALS INC]  {alexandermetalsinc.com}    Occurrence: 1
+
+CITY: of <| Columbus |> , -- [COLUMBUS]  {alexander-electric.com}    Occurrence: 1
+
+STATE: , <| FL |> 33140 -- [FL]  {alexanderhotel.com}    Occurrence: 5
+
+STATE: Central <| VT |> Building -- [VT]  {aldrich.lib.vt.us}    Occurrence: 8
+
+COMPANY: for <| Alexander Electric Company |> over -- [ALEXANDER ELECTRIC CO]  {alexander-electric.com}    Occurrence: 1
+
+CITY: for <| Alexandria |> & -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+STATE: , <| CA |>  -- [CA]  {alderlandscapearchitecture.com}    Occurrence: 70
+
+COMPANY: , <| Alexander & Associates |> has -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 4
+
+CITY:  <| Charlottesville |> , -- [CHARLOTTESVILLE]  {alexandernicholson.com}    Occurrence: 1
+
+STATE: , <| TX |> 78704 -- [TX]  {aldridge.com}    Occurrence: 10
+
+CITY: for <| Alexandria |> drivers -- [ALEXANDRIA]  {alexandriahyundai.com}    Occurrence: 1
+
+ZIP:  <| 92780 |>  -- [92780 7266]  {alexanders.net}    Occurrence: 1
+
+CITY: | <| Houston |> & -- [HOUSTON]  {aldridge.com}    Occurrence: 2
+
+COMPANY: Rocket <| Aldon |> Customer -- [ALDON]  {aldon.com}    Occurrence: 1
+
+COMPANY: the <| Aldrich Guest House |> , -- [ALDRICH GUEST HOUSE]  {aldrichguesthouse.com}    Occurrence: 1
+
+CITY: Modules <| Sunnyvale |> , -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+ADDRESS: 444 <| N. Elston Ave. |> Chicago -- [4444 N ELSTON AVE]  {alencotool.com}    Occurrence: 2
+
+CITY: in <| Mansfield |> TX -- [MANSFIELD]  {alexanderportraitdesigners.com}    Occurrence: 1
+
+CITY: at <| Tucson |> Medical -- [TUCSON]  {alephcenter.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alexander Nicholson , Inc |> . -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 5
+
+CITY:  <| Galena |> takes -- [GALENA]  {aldrichguesthouse.com}    Occurrence: 1
+
+STATE: , <| IL |>  -- [IL]  {aldrichguesthouse.com}    Occurrence: 4
+
+CITY: the <| San Francisco |> Bay -- [SAN FRANCISCO]  {alderlandscapearchitecture.com}    Occurrence: 1
+
+COMPANY: , <| Alexander and Associates |> has -- [ALEXANDER & ASSOC CO]  {alexanderandassoc.com}    Occurrence: 1
+
+STATE: , <| CA |> 93703 -- [CA]  {alertolite.com}    Occurrence: 1
+
+COMPANY: service <| Alexander Electric |> , -- [ALEXANDER ELECTRIC]  {alexanderelectric.com}    Occurrence: 1
+
+STATE: , <| AK |>  -- [AK]  {aleutcorp.com}    Occurrence: 5
+
+CITY:  <| Tustin |> , -- [TUSTIN]  {alexanders.net}    Occurrence: 13
+
+ADDRESS:  <| 1210 19th Street |> , -- [1210 19TH ST]  {alderson.com}    Occurrence: 6
+
+CITY: of <| St. Augustine |> ' -- [ST AUGUSTINE]  {alexanderhomestead.com}    Occurrence: 1
+
+COMPANY: at <| Aldie Vet |> , -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+STATE: , <| NY |>  -- [NY]  {alephbet.com}    Occurrence: 1
+
+CITY:  <| Houston |>  -- [HOUSTON]  {aldridge.com}    Occurrence: 30
+
+COMPANY:  <| Alexander Tent Rentals , Inc |> . -- [ALEXANDER TENT CO INC]  {alexandertent.com}    Occurrence: 4
+
+CITY: stores <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+CITY: s <| Washington |> D.C. -- [WASHINGTON]  {aldersonreporting.com}    Occurrence: 2
+
+COMPANY: Hyundai <| Alexandria , Hyundai |> Alexandria -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 4
+
+COMPANY: by <| Alexander ' s Mobility |> Services -- [ALEXANDER 'S MOBILITY SVC]  {alexanders.net}    Occurrence: 1
+
+COMPANY: The <| Alert Logic |> Customer -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+COMPANY: - <| Alexander Ryan Marine and Safety |> | -- [ALEXANDER RYAN MARINE & SAFETY]  {alexanderryan.com}    Occurrence: 4
+
+COMPANY:  <| Aleman Auto Rental Inc. |> - -- [ALEMAN AUTO RENTAL INC]  {aleman.net}    Occurrence: 2
+
+CITY: the <| Peoria |> area -- [PEORIA]  {alexander-travel.com}    Occurrence: 2
+
+COMPANY: , <| Aleck Plumbing |> , -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 2
+
+ZIP: VA <| 20152 |> . -- [20152 4456]  {aldievet.com}    Occurrence: 1
+
+COMPANY:  <| Alexander Street |> publishes -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 2
+
+COMPANY: : <| Alert Logic |> Partner -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+CITY: PLLC <| Tucson |> , -- [TUCSON]  {alephcenter.com}    Occurrence: 4
+
+COMPANY: , <| Alert Logic |> steps -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY: The <| Alexander Wolf & Company |> Executive -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+CITY:  <| Albertville |> , -- [ALBERTVILLE]  {alexanderdodge.com}    Occurrence: 3
+
+CONTACT: , <| Joe Barnhart |> , -- [JOE BARNHART]  {aldousfuneralhome.com}    Occurrence: 1
+
+CITY:  <| Paramus |> , -- [PARAMUS]  {alexandersummer.com}    Occurrence: 5
+
+COMPANY: the <| Alexander Wolf and Company |> team -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+COMPANY: out <| Alexander Company |> on -- [ALEXANDER CO]  {alexanderco.com}    Occurrence: 1
+
+COMPANY: of <| Aldie Veterinary Hospital |> and -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 1
+
+CITY: Module <| Sunnyvale |> , -- [SUNNYVALE]  {aldinc.com}    Occurrence: 1
+
+CITY:  <| HOUSTON |>  -- [HOUSTON]  {alexandertent.com}    Occurrence: 2
+
+COMPANY:  <| Aleck Plumbing |> , -- [ALECK PLUMBING CO]  {aleckplumbing.com}    Occurrence: 1
+
+STATE: , <| TX |> 75235 -- [TX]  {aldingercompany.com}    Occurrence: 1
+
+CITY: in <| San Francisco |>  -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 2
+
+COMPANY: At <| Alexander Nicholson |> , -- [ALEXANDER NICHOLSON INC]  {alexandernicholson.com}    Occurrence: 1
+
+COMPANY: choose <| Alexander Custom Homes |> . -- [ALEXANDER CUSTOM HOMES]  {alexanderhomes.com}    Occurrence: 1
+
+CITY: greater <| Kenedy |> area -- [KENEDY]  {alexanderautocenter.com}    Occurrence: 1
+
+CITY: In <| Miami |> Beach -- [MIAMI]  {alexanderhotel.com}    Occurrence: 2
+
+COMPANY: at <| Alert Logic |> who -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 2
+
+CONTACT: Expert <| John F. Ryan |> interviewed -- [JOHN RYAN]  {alexanderryan.com}    Occurrence: 1
+
+COMPANY:  <| Aldetec , Inc |> . -- [ALDETEC INC]  {aldetec.com}    Occurrence: 1
+
+CONTACT: by <| Bob Alexander |> and -- [BOB ALEXANDER]  {alexanderautocenter.com}    Occurrence: 1
+
+COMPANY: | <| Alexander 's Guesthouse |>  -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}    Occurrence: 2
+
+COMPANY: more| <| Alexander Street |>  -- [ALEXANDER STREET PRESS]  {alexanderstreet.com}    Occurrence: 1
+
+COMPANY:  <| Aldie Vet |> follows -- [ALDIE VETERINARY HOSPITAL]  {aldievet.com}    Occurrence: 7
+
+CITY:  <| Alexander City |> boasts -- [ALEXANDER CITY]  {alexandercityonline.com}    Occurrence: 1
+
+CITY:  <| Arcadia |> ' -- [ARCADIA]  {alertplumbing.com}    Occurrence: 1
+
+COMPANY: about <| Alexander Homestead |> Bed -- [ALEXANDER HOMESTEAD]  {alexanderhomestead.com}    Occurrence: 1
+
+CONTACT: and <| John Nicholson Stoner |> and -- [JOHN N STONER]  {alexandernicholson.com}    Occurrence: 1
+
+CITY: in <| Arcadia |> Florida -- [ARCADIA]  {alertplumbing.com}    Occurrence: 1
+
+ADDRESS:  <| 912 N. Hollywood Way Ste D |>  -- [912 N HOLLYWOOD WAY # D]  {aldrichtaylor.com}    Occurrence: 7
+
+COMPANY:  <| Alexander Ford |> , -- [ALEXANDER FORD MERCURY]  {alexanderautocenter.com}    Occurrence: 3
+
+COMPANY:  <| Alexander Wolf and Company |> have -- [ALEXANDER WOLF & CO]  {alexanderwolf.com}    Occurrence: 1
+
+CITY:  <| Williamsville |> , -- [WILLIAMSVILLE]  {aletheas.com}    Occurrence: 1
+
+STATE: , <| NY |> 14221 -- [NY]  {aletheas.com}    Occurrence: 3
+
+COMPANY:  <| ALERT LOGIC |> DOCS -- [ALERT LOGIC]  {alertlogic.net}    Occurrence: 1
+
+COMPANY:  <| Alexander and Bonin |> is -- [ALEXANDER & BONIN]  {alexanderandbonin.com}    Occurrence: 3
+
+COMPANY: , <| Alexander Summer |> , -- [ALEXANDER SUMMER CO]  {alexandersummer.com}    Occurrence: 2
+
+CITY: repair <| San Francisco |> , -- [SAN FRANCISCO]  {alexanderco.com}    Occurrence: 4
+
+CITY:  <| Burbank |> , -- [BURBANK]  {aldrichtaylor.com}    Occurrence: 2
+
+CITY: the <| Alexandria |> area -- [ALEXANDRIA]  {alexandrialandmarkflorist.com}    Occurrence: 3
+
+COMPANY:  <| Alexandria Hyundai |>  -- [ALEXANDRIA HYUNDAI]  {alexandriahyundai.com}    Occurrence: 4
+
+COMPANY: | <| Alexander ' s Guesthouse |>  -- [ALEXANDER 'S GUESTHOUSE]  {alexanderskeywest.com}    Occurrence: 2
+
+ADDRESS:  <| 326 Mission Ave |> . -- [326 MISSION AVE]  {aldersly.com}    Occurrence: 2
+
+STATE: , <| IL |> since -- [IL]  {aldospizza.net}    Occurrence: 3
+
+STATE: , <| TX |>  -- [TX]  {alertlogic.net}    Occurrence: 12
+
+ZIP: TN <| 37210 |>  -- [37210 2301]  {alexandermetalsinc.com}    Occurrence: 3
+
+COMPANY:  <| Aleph-Bet Books |> was -- [ALEPH-BET BOOKS]  {alephbet.com}    Occurrence: 1
+

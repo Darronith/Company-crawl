@@ -1,0 +1,2046 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY: – <| Advantage Learning Center |>  -- [ADVANTAGE LEARNING CTR]  {alctutoring.com}    Occurrence: 2
+
+COMPANY: at <| Alcoa Good Times |> we -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 2
+
+COMPANY: of <| ALCON Systems , Inc. |> , -- [ALCON SYSTEMS INC]  {alconsys.com}    Occurrence: 1
+
+CITY: in <| Santa Rosa |> having -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+COMPANY:  <| Alchemist Pool Service |> has -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+
+ADDRESS: 321 <| Azuar Drive |> , -- [629 AZUAR DR]  {alcometals.com}    Occurrence: 1
+
+CITY:  <| Duarte |> , -- [DUARTE]  {alcotarget.com}    Occurrence: 4
+
+CITY: , <| Walnut Creek |> , -- [WALNUT CREEK]  {alderland.com}    Occurrence: 3
+
+ADDRESS:  <| 1494 Banks Road |> Margate -- [1494 BANKS RD]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Alco Pro |> has -- [ALCO PRO INC]  {alcopro.com}    Occurrence: 1
+
+CITY:  <| Ringwood |> , -- [RINGWOOD]  {aldenskennels.com}    Occurrence: 3
+
+COMPANY: - <| Alden Lane Nursery |>  -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 6
+
+CITY: , <| San Clemente |> , -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 8
+
+ADDRESS:  <| 364 Nassau Blvd |> . -- [364 NASSAU BLVD]  {alcamo.com}    Occurrence: 4
+
+COMPANY:  <| Alden Suites-A Beachfront Resort |> boasts -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+STATE: current <| CA |> rebates -- [CA]  {alderetepools.com}    Occurrence: 1
+
+CITY: in <| Los Angeles |> for -- [LOS ANGELES]  {alchemyglass.com}    Occurrence: 1
+
+ADDRESS:  <| 2037 Hermine Ave |> . -- [2037 HERMINE AVE]  {alderland.com}    Occurrence: 4
+
+CONTACT: to <| Lee Thorne |> at -- [LEE THORNE]  {alderbrookpet.com}    Occurrence: 1
+
+ZIP: CA <| 90505 |>  -- [90505 3729]  {albitzmiloe.com}    Occurrence: 8
+
+COMPANY: , <| Albany International |> is -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 1
+
+COMPANY: , <| Lutheran Church |> in -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}    Occurrence: 1
+
+COMPANY: North <| American Lutheran Church |> : -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}    Occurrence: 1
+
+CITY: | <| Louisville |> , -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 2
+
+ZIP: NY <| 11758 |>  -- [11758 4812]  {alcyoneplumbing.com}    Occurrence: 1
+
+ZIP:  <| 95247 |>  -- [95247 9458]  {alchemymarket.com}    Occurrence: 1
+
+COMPANY:  <| Alchemy Glass |> Inc -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com}    Occurrence: 3
+
+CITY: a <| Los Angeles |> design -- [LOS ANGELES]  {alchemyglass.com}    Occurrence: 1
+
+STATE: Rancho <| NM |> Foreclosures -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY: - <| Albion |> Michigan -- [ALBION]  {albionfoundation.org}    Occurrence: 4
+
+CITY: , <| Torrance |> , -- [TORRANCE]  {albitzmiloe.com}    Occurrence: 4
+
+STATE: , <| AL |> 36104 -- [AL]  {aldaonline.org}    Occurrence: 2
+
+ZIP: FL <| 33706 |>  -- [33706 3793]  {aldenbeachresort.com}    Occurrence: 1
+
+STATE: OUTSIDE <| NJ |> CALL -- [NJ]  {alcdsi.com}    Occurrence: 2
+
+COMPANY:  <| Alco Iron & Metal Company |> was -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+STATE: , <| CA |> 94592 -- [CA]  {alcometals.com}    Occurrence: 2
+
+CITY: in <| St Pete Beach |> . -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+COMPANY: to <| Alden State Bank |>  -- [ALDEN STATE BANK]  {aldenstate.com}    Occurrence: 3
+
+COMPANY: at <| Alden Lane |> until -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+COMPANY:  <| Alchemy Arts |>  -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 5
+
+COMPANY:  <| Alcoa Good Times |> in -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 2
+
+COMPANY: 2016 <| Iron & Metal Co. |> | -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 4
+
+CITY: in <| Alamosa |> , -- [ALAMOSA]  {alconconst.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 1
+
+STATE: , <| NY |> 11725 -- [NY]  {alcamopools.com}    Occurrence: 6
+
+COMPANY:  <| Alco Iron & Metal Co. |> , -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+ADDRESS:  <| 1203 W. Bryn Mawr Ave |> . -- [1203 W BRYN MAWR AVE]  {alchemy-arts.com}    Occurrence: 3
+
+ADDRESS:  <| 1533 FOURTH STREET |>  -- [1533 4TH ST]  {alderbrookpet.com}    Occurrence: 7
+
+CITY: Regency <| Albuquerque |> ; -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY: of <| Medical Examiners |> , -- [MEDICAL EXAMINERS BOARD]  {albme.org}    Occurrence: 2
+
+COMPANY: The <| Jonathan Alder Local School District |> participates -- [JONATHAN ALDER SCHOOL DISTRICT]  {alder.k12.oh.us}    Occurrence: 1
+
+STATE: , <| TN |> 37919 -- [TN]  {alcopro.com}    Occurrence: 2
+
+STATE: , <| CA |> 92672 -- [CA]  {alderetepools.com}    Occurrence: 1
+
+CITY: , <| Margate |> , -- [MARGATE]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Aldeen Golf Club |>  -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 5
+
+CITY:  <| Torrance |> , -- [TORRANCE]  {albitzmiloe.com}    Occurrence: 4
+
+COMPANY:  <| Alden State Bank |> | -- [ALDEN STATE BANK]  {aldenstate.com}    Occurrence: 2
+
+ZIP: MI <| 49224 |> | -- [49224 1844]  {albion.k12.mi.us}    Occurrence: 12
+
+STATE: Tijeras <| NM |> Homes -- [NM]  {albqhomes.com}    Occurrence: 2
+
+CITY:  <| Knoxville |> , -- [KNOXVILLE]  {alcopro.com}    Occurrence: 4
+
+ADDRESS:  <| 514 Route 25A |>  -- [514 ROUTE 25A]  {alborealestate.com}    Occurrence: 4
+
+CITY: of <| Albuquerque |> . -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+COMPANY:  <| ALCUIN MONTESSORI SCHOOL |>  -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org}    Occurrence: 2
+
+CITY: , <| Albuquerque |> Old -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+ADDRESS:  <| 7112 Pan American Fwy , NE |>  -- [7112 PAN AMERICAN EAST FWY NE]  {albuquerquemeadows.com}    Occurrence: 1
+
+ADDRESS:  <| 3945 Idaho Street |>  -- [3945 IDAHO ST]  {alcottinsurance.com}    Occurrence: 1
+
+ADDRESS: at <| 1733 W. Chicago |> Middle -- [1733 W CHICAGO AVE]  {alcalas.com}    Occurrence: 2
+
+CITY:  <| San Diego |>  -- [SAN DIEGO]  {alcottinsurance.com}    Occurrence: 1
+
+CITY: greater <| Albuquerque |> MetroPlex -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 5
+
+COMPANY:  <| Alder Creek Ranch |> Home -- [ALDER CREEK RANCH]  {aldercreekranch.com}    Occurrence: 2
+
+CITY: the <| Albion |> publishing -- [ALBION]  {albion.com}    Occurrence: 1
+
+COMPANY: operate <| Alden Lane Nursery |> with -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+COMPANY:  <| Alcan Electrical & Engineering |> is -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com}    Occurrence: 1
+
+COMPANY:  <| Aldeen Golf Club |> is -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+ADDRESS:  <| 500 Church Drive |> , -- [500 CHURCH DR]  {alc-rantoul.org}    Occurrence: 4
+
+CITY: in <| Union |> , -- [UNION]  {alderbrookresort.com}    Occurrence: 1
+
+CITY:  <| Alamosa |> , -- [ALAMOSA]  {alconconst.com}    Occurrence: 2
+
+COMPANY:  <| Alabama Dental |> Political -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+COMPANY: 2016 <| ALCO Target |> Company -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 4
+
+CITY: the <| Albuquerque |> Convention -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+ZIP: CA <| 92672 |>  -- [92672 0000]  {alderetepools.com}    Occurrence: 1
+
+CITY: the <| Albion |> Public -- [ALBION]  {albion.k12.mi.us}    Occurrence: 3
+
+ZIP: IL <| 60622 |>  -- [60622 5009]  {alcalas.com}    Occurrence: 4
+
+CITY: , <| Louisville |> , -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 1
+
+CITY: , <| Rapid City |> Industrial -- [RAPID CITY]  {alcornella.com}    Occurrence: 4
+
+CONTACT:  <| Mark Mays |>  -- [MARK H MAYS]  {alcottinsurance.com}    Occurrence: 2
+
+CITY:  <| Seattle |> , -- [SEATTLE]  {alcourt.com}    Occurrence: 4
+
+ZIP: CA <| 94592 |> ( -- [94592 1153]  {alcometals.com}    Occurrence: 1
+
+STATE: , <| CO |> 81101 -- [CO]  {alconconst.com}    Occurrence: 2
+
+COMPANY:  <| Al Cornella Refrigeration |> Services -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 1
+
+CITY:  <| Vallejo |> : -- [VALLEJO]  {alcometals.com}    Occurrence: 1
+
+CONTACT:  <| Don Vivatson |> of -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+STATE: Albuquerque <| NM |> Rentals -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY: The <| Albion |> Mission -- [ALBION]  {albion.com}    Occurrence: 1
+
+ADDRESS:  <| 9200 State Route 42 South |> , -- [9200 US HIGHWAY 42 S]  {alder.k12.oh.us}    Occurrence: 1
+
+CITY:  <| Menlo Park |> , -- [MENLO PARK]  {aldenlee.com}    Occurrence: 1
+
+COMPANY: century <| Alder Construction |> has -- [ALDER CONSTRUCTION CO]  {alderconstruction.com}    Occurrence: 1
+
+CONTACT: “ <| Don Vivatson |> and -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+CITY: `` <| Albion |> ? -- [ALBION]  {albion.com}    Occurrence: 1
+
+STATE: UTVs <| TN |>  -- [TN]  {alcoagoodtimes.com}    Occurrence: 2
+
+CITY:  <| Tallahassee |> ' -- [TALLAHASSEE]  {albrittonelectric.com}    Occurrence: 3
+
+COMPANY: : <| Alden Suites Beachfront Resort |>  -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |> - -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}    Occurrence: 2
+
+CITY:  <| Chicago |> , -- [CHICAGO]  {alchemy-arts.com}    Occurrence: 3
+
+CITY: Best <| St. Pete Beach |> resorts -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+CITY:  <| Albuquerque |>  -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY: About <| Alco Management , Inc |> : -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 1
+
+ADDRESS:  <| 4 Brooklyn Avenue |>  -- [4 BROOKLYN AVE]  {alcyoneplumbing.com}    Occurrence: 1
+
+COMPANY: contact <| Albany International |> Corporation -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 2
+
+COMPANY: 2016 <| Ascension Lutheran Church |>  -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 4
+
+CITY: - <| Tucson |> Plumber -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 5
+
+ADDRESS:  <| 95 Allen Road |>  -- [95 ALLEN RD]  {alcvt.org}    Occurrence: 5
+
+COMPANY:  <| Aldeen Golf Club |> – -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 2
+
+STATE: Albuquerque <| NM |> Homes -- [NM]  {albqhomes.com}    Occurrence: 12
+
+ADDRESS:  <| 981 Alden Lane |> - -- [981 ALDEN LN]  {aldenlane.com}    Occurrence: 3
+
+CITY: , <| Hebron |> , -- [HEBRON]  {alden-hebron.org}    Occurrence: 5
+
+CITY: | <| Daphne |> , -- [DAPHNE]  {alccdaphne.org}    Occurrence: 1
+
+COMPANY: of <| Pool Service |>  -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+
+STATE: , <| IL |> 60072 -- [IL]  {aldenskennels.com}    Occurrence: 2
+
+STATE: , <| FL |> 33706 -- [FL]  {aldenbeachresort.com}    Occurrence: 4
+
+ADDRESS: , <| 2048 Central Avenue |> , -- [2048 CENTRAL AVE]  {alcotarget.com}    Occurrence: 1
+
+CITY:  <| Albion |> , -- [ALBION]  {albion.com}    Occurrence: 3
+
+CITY:  <| Albuquerque |>  -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 1
+
+COMPANY: of <| Pool Service |> or -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+
+ADDRESS:  <| 330 Tijeras NW |>  -- [330 TIJERAS AVE NW]  {albuquerque.hyatt.com}    Occurrence: 1
+
+CONTACT: email <| John Sorrell |> at -- [JOHN SORRELL]  {alconcrete.org}    Occurrence: 1
+
+COMPANY:  <| Advantage Learning Center |>  -- [ADVANTAGE LEARNING CTR]  {alctutoring.com}    Occurrence: 2
+
+COMPANY: owned <| ALCO Manufacturing |> has -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}    Occurrence: 1
+
+ZIP: FL <| 32303 |>  -- [32303 6834]  {albrittonelectric.com}    Occurrence: 3
+
+CITY: , <| Alcoa |> , -- [ALCOA]  {alcoaschools.net}    Occurrence: 2
+
+CONTACT:  <| Al Coronado |> Plumber -- [AL CORONADO]  {alcoronadoplumbing.com}    Occurrence: 4
+
+CONTACT:  <| David Cook |>  -- [DAVID COOK]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Alcoa Good Times |> | -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 2
+
+CITY: Road <| Margate |> , -- [MARGATE]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Alder Construction Company |> © -- [ALDER CONSTRUCTION CO]  {alderconstruction.com}    Occurrence: 1
+
+ADDRESS:  <| 7112 Pan American Fwy ~ NE |> Albuquerque -- [7112 PAN AMERICAN EAST FWY NE]  {albuquerquemeadows.com}    Occurrence: 3
+
+COMPANY: of <| Abundant Life Christian |> Center -- [ABUNDANT LIFE CHRISTIAN CHURCH]  {alcc1.org}    Occurrence: 1
+
+COMPANY: the <| Albion Community Foundation |> ? -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org}    Occurrence: 1
+
+CITY: , <| Tucson |> plumbers -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+COMPANY:  <| Al Cornella Refrigeration |> sells -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 2
+
+COMPANY: at <| ALCO Manufacturing , Inc |> . -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}    Occurrence: 2
+
+CITY:  <| Annandale |> , -- [ANNANDALE]  {albionridges.com}    Occurrence: 5
+
+COMPANY: of <| Medical Examiners |> and -- [MEDICAL EXAMINERS BOARD]  {albme.org}    Occurrence: 3
+
+CITY: , <| St Pete Beach |> , -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+ADDRESS:  <| 3296 Meade Avenue |>  -- [3296 MEADE AVE # 2B]  {alchemistpool.com}    Occurrence: 2
+
+CITY: 1 <| Tucson |> Plumber -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 6
+
+COMPANY:  <| Jonathan Alder Junior High |>  -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us}    Occurrence: 5
+
+COMPANY: , <| Alderbrook Pet Hospital |> , -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+ZIP: NY <| 11778 |>  -- [11778 8758]  {alborealestate.com}    Occurrence: 1
+
+COMPANY: new <| Al Bustan |> encapsulates -- [AL BUSTAN RESTAURANT]  {albustanny.com}    Occurrence: 1
+
+ADDRESS:  <| 1152 JERICHO TPKE |> • -- [1152 JERICHO TPKE]  {alcamopools.com}    Occurrence: 5
+
+CITY:  <| Plain City |> Public -- [PLAIN CITY]  {alder.k12.oh.us}    Occurrence: 2
+
+CITY: the <| Santa Rosa |> Junior -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: experience <| Albuquerque |> ' -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+STATE: , <| CA |> 90505 -- [CA]  {albitzmiloe.com}    Occurrence: 8
+
+COMPANY:  <| American Legal Copying |> & -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com}    Occurrence: 6
+
+CITY: sunny <| St. Pete |> . -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+COMPANY: is <| Alca Avionics |> policy -- [ALCA AVIONICS]  {alcaavionics.com}    Occurrence: 1
+
+ZIP: CA <| 92707 |>  -- [92707 4416]  {alcomanufacturinginc.com}    Occurrence: 1
+
+COMPANY: , <| Albion Ridges Golf Course |> now -- [ALBION RIDGES GOLF COURSE]  {albionridges.com}    Occurrence: 1
+
+CITY: , <| Lancaster |> , -- [LANCASTER]  {aldenstate.com}    Occurrence: 1
+
+CITY: attended <| Santa Rosa |> High -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+ADDRESS: 1902 <| Reid Farm Road |>  -- [1900 REID FARM RD]  {aldeengolfclub.com}    Occurrence: 1
+
+COMPANY:  <| Alcon Construction |> at -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+ADDRESS:  <| 191 Main Street |>  -- [191 MAIN ST]  {alchemymarket.com}    Occurrence: 1
+
+CITY:  <| Albuquerque |> , -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 2
+
+COMPANY:  <| Alcoa City School |> District -- [ALCOA CITY SCHOOL SUPT]  {alcoaschools.net}    Occurrence: 2
+
+CITY: [ <| Lindenwold |> , -- [LINDENWOLD]  {alcoyspaparts.com}    Occurrence: 1
+
+COMPANY: reserved <| Abundant Life Christian Academy |> © -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+CITY: Downtown <| Minneapolis |>  -- [MINNEAPOLIS]  {albinson.com}    Occurrence: 5
+
+STATE: , <| NM |> 87109 -- [NM]  {albuquerquemeadows.com}    Occurrence: 4
+
+STATE: , <| TN |> 37040 -- [TN]  {alctutoring.com}    Occurrence: 1
+
+CONTACT: with <| Don Vivatson |> and -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alderland.com}    Occurrence: 4
+
+STATE: Rancho <| NM |> Real -- [NM]  {albqhomes.com}    Occurrence: 15
+
+STATE: , <| OH |> 43064 -- [OH]  {alder.k12.oh.us}    Occurrence: 2
+
+STATE: Seminar <| NV |>  -- [NV]  {aldec.com}    Occurrence: 20
+
+ZIP:  <| 87102 |>  -- [87102 3244]  {albuquerque.hyatt.com}    Occurrence: 2
+
+CITY: - <| Albion |> Comm -- [ALBION]  {albion.k12.mi.us}    Occurrence: 2
+
+COMPANY:  <| Alco |> specializes -- [ALCO]  {alcotech.com}    Occurrence: 1
+
+STATE: , <| IL |> 60660 -- [IL]  {alchemy-arts.com}    Occurrence: 4
+
+CITY:  <| Las Vegas |>  -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 2
+
+COMPANY:  <| Alcala Pet Care |> is -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 3
+
+COMPANY:  <| Alcom Marine Electronics |> Combo -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 2
+
+STATE: Austin <| TX |> 78727 -- [TX]  {alchemystudios.com}    Occurrence: 1
+
+CITY: in <| Torrance |> , -- [TORRANCE]  {albitzmiloe.com}    Occurrence: 4
+
+COMPANY: at <| Alderbrook Pet Hospital |> enjoyed -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+COMPANY: to <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 1
+
+ADDRESS:  <| 12233 County Road 5 South |>  -- [12233 COUNTY ROAD 5 S]  {alconconst.com}    Occurrence: 2
+
+STATE: , <| CA |> 92707 -- [CA]  {alcomanufacturinginc.com}    Occurrence: 1
+
+COMPANY: | <| Alco Iron & Metal Company |> | -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+CITY:  <| Albuquerque |> , -- [ALBUQUERQUE]  {albuquerquemeadows.com}    Occurrence: 1
+
+CITY:  <| Rocky Point |> Homes -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY: 2000-2016 <| ALCO Manufacturing , Inc. |> All -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}    Occurrence: 1
+
+ADDRESS: [ <| 614 S. White Horse Pike |> ] -- [614 S WHITE HORSE PIKE]  {alcoyspaparts.com}    Occurrence: 1
+
+STATE: Western <| NY |> ! -- [NY]  {aldenstate.com}    Occurrence: 2
+
+STATE: Point <| NY |> real -- [NY]  {alborealestate.com}    Occurrence: 1
+
+STATE: Crest <| NM |> Homes -- [NM]  {albqhomes.com}    Occurrence: 2
+
+COMPANY: to <| Aldeen Golf Club |>  -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+COMPANY: founded <| Alcon Construction , Inc. |> in -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Alden Lane |> is -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+COMPANY: About <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 2
+
+ADDRESS:  <| 514 Route 25a |>  -- [514 ROUTE 25A]  {alborealestate.com}    Occurrence: 1
+
+CITY: Three <| Sisters |> , -- [SISTERS]  {aldercreekranch.com}    Occurrence: 1
+
+COMPANY:  <| ALCO Management |> Lauded -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 1
+
+ADDRESS:  <| 7771 20th Street |> Northwest -- [7771 20TH ST NW]  {albionridges.com}    Occurrence: 2
+
+STATE: , <| WA |> on -- [WA]  {alderbrookresort.com}    Occurrence: 1
+
+COMPANY:  <| Alco Iron & Metal Company |> has -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 4
+
+COMPANY: Today <| Alcon Construction , Inc. |> is -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+STATE: , <| GA |> 30722-2449 -- [GA]  {alconsys.com}    Occurrence: 1
+
+COMPANY: 1980 <| Alcon Construction , Inc. |> was -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Alcoa Fastening Systems |> & -- [ALCOA FASTENING SYSTEMS]  {alcoa.com}    Occurrence: 1
+
+CITY: About <| Albion |>  -- [ALBION]  {albion.k12.mi.us}    Occurrence: 19
+
+CITY: in <| Encinitas |> . -- [ENCINITAS]  {alcalapetcare.com}    Occurrence: 1
+
+COMPANY:  <| Alcliff Landscaping & Nursery |> , -- [ALCLIFF LANDSCAPING & NURSERY]  {alcliff.com}    Occurrence: 1
+
+COMPANY:  <| Jonathan Alder Local School District |>  -- [JONATHAN ALDER SCHOOL DISTRICT]  {alder.k12.oh.us}    Occurrence: 5
+
+STATE: , <| VT |> 05403 -- [VT]  {alcvt.org}    Occurrence: 5
+
+CITY:  <| Walnut Creek |> , -- [WALNUT CREEK]  {alderland.com}    Occurrence: 4
+
+CITY: in <| Louisville |> , -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 1
+
+COMPANY:  <| Alcala Pet Care |> Information -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 1
+
+CITY: | <| San Clemente |> | -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 2
+
+CITY:  <| Alcoa |> ' -- [ALCOA]  {alcoaschools.net}    Occurrence: 2
+
+COMPANY:  <| Alchemy Arts , Inc. |> | -- [ALCHEMY ARTS INC]  {alchemyarts.com}    Occurrence: 2
+
+CITY:  <| Massapequa |> , -- [MASSAPEQUA]  {alcyoneplumbing.com}    Occurrence: 1
+
+STATE: , <| NJ |> and -- [NJ]  {alc.com}    Occurrence: 1
+
+CITY:  <| Anchorage |>  -- [ANCHORAGE]  {alcanelectric.com}    Occurrence: 1
+
+COMPANY: the <| Alabama Dental Association |> , -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+STATE: , <| NY |> 11361 -- [NY]  {alcyoneplumbing.com}    Occurrence: 1
+
+STATE: , <| NJ |> 07728 -- [NJ]  {alcdsi.com}    Occurrence: 4
+
+CITY: - <| Louisville |> , -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 4
+
+COMPANY:  <| Jonathan Alder High School |>  -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us}    Occurrence: 5
+
+COMPANY:  <| Alchemy Arts |> is -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 4
+
+COMPANY: Weekly <| Pool Service |> starting -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+
+ADDRESS:  <| 28 Witherspoon St. |> , -- [28 WITHERSPOON ST]  {alchemistandbarrister.com}    Occurrence: 1
+
+CITY: premier <| Albuquerque |> hotel -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {alcottinsurance.com}    Occurrence: 5
+
+CITY: , <| Saint Pete Beach |> , -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 2
+
+COMPANY: The <| Ingles / Company Realtors |> that -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 1
+
+CITY:  <| Union |> City -- [UNION]  {alderbrookresort.com}    Occurrence: 4
+
+COMPANY:  <| Alcon Construction , Inc. |> is -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 2
+
+ZIP: NY <| 11725 |> • -- [11725 3095]  {alcamopools.com}    Occurrence: 5
+
+CITY: ( <| Albuquerque |> , -- [ALBUQUERQUE]  {albuquerquemeadows.com}    Occurrence: 2
+
+CITY: in <| Rocky Point |> . -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY: - <| Al Cornella Refrigeration Service |>  -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 10
+
+ZIP: Washington <| 98592 |>  -- [98592 0000]  {alderbrookresort.com}    Occurrence: 2
+
+COMPANY: visit <| Alden Lane Nursery |> for -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+STATE: , <| TN |> 38103 -- [TN]  {alcomgt.com}    Occurrence: 2
+
+CITY:  <| Tucson |> Plumbing -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 1
+
+COMPANY:  <| Jonathan Alder High School |> : -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us}    Occurrence: 1
+
+COMPANY:  <| Alcom Marine Electronics |> About -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 2
+
+STATE: , <| CA |> 95404 -- [CA]  {alderbrookpet.com}    Occurrence: 7
+
+CITY: , <| Murphys |> , -- [MURPHYS]  {alchemymarket.com}    Occurrence: 8
+
+STATE:  <| TN |> powersport -- [TN]  {alcoagoodtimes.com}    Occurrence: 2
+
+CITY: & <| West Hempstead |> Civic -- [WEST HEMPSTEAD]  {alcamo.com}    Occurrence: 1
+
+CITY: / <| Vallejo |> Building -- [VALLEJO]  {alcometals.com}    Occurrence: 1
+
+ZIP: NM <| 87109 |>  -- [87109 4209]  {albuquerquemeadows.com}    Occurrence: 4
+
+ADDRESS:  <| 9200 US Route 42 S |>  -- [9200 US HIGHWAY 42 S]  {alder.k12.oh.us}    Occurrence: 1
+
+CITY:  <| Commack |> , -- [COMMACK]  {alcamopools.com}    Occurrence: 1
+
+STATE: Albuquerque <| NM |> Condos -- [NM]  {albqhomes.com}    Occurrence: 5
+
+COMPANY: to <| Alcuin Montessori School |> , -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org}    Occurrence: 1
+
+CITY: , <| Albion |> Books -- [ALBION]  {albion.com}    Occurrence: 3
+
+CITY: Our <| Tucson |> Plumbing -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 3
+
+CITY:  <| Oak Park |> , -- [OAK PARK]  {alcuin.org}    Occurrence: 1
+
+COMPANY: The <| Ingles / Company Realtors |>  -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 10
+
+COMPANY:  <| Aldeen Golf Club |> has -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+COMPANY: © <| Abundant Life Christian Center |>  -- [ABUNDANT LIFE CHRISTIAN CTR]  {alccdaphne.org}    Occurrence: 1
+
+CITY: NE <| Albuquerque |> , -- [ALBUQUERQUE]  {albuquerquemeadows.com}    Occurrence: 3
+
+ADDRESS:  <| 9604 Illinois Street |> , -- [9604 ILLINOIS ST]  {alden-hebron.org}    Occurrence: 3
+
+COMPANY: , <| Alco Iron & Metal Company |> continues -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 4
+
+CITY: Services <| San Clemente |>  -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+COMPANY:  <| ALCUIN MONTESSORI SCHOOL |> - -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org}    Occurrence: 2
+
+CITY: served <| Palm Springs |> and -- [PALM SPRINGS]  {aldente-palmsprings.com}    Occurrence: 2
+
+COMPANY:  <| Alcoa Elementary School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}    Occurrence: 5
+
+COMPANY: , <| Pools , Play |> Sets -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 2
+
+COMPANY:  <| Aldec , Inc |> . -- [ALDEC INC]  {aldec.com}    Occurrence: 2
+
+COMPANY: The <| Alchemist & Barrister |> is -- [ALCHEMIST & BARRISTER]  {alchemistandbarrister.com}    Occurrence: 1
+
+STATE: , <| CA |> 95206 -- [CA]  {alcometals.com}    Occurrence: 2
+
+COMPANY:  <| Alden Pools & Play |> has -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+COMPANY: , <| Alston , Courtnage & Bassetti |> LLP -- [ALSTON COURTNAGE & BASSETTI]  {alcourt.com}    Occurrence: 3
+
+CITY:  <| Rockford |> , -- [ROCKFORD]  {aldeengolfclub.com}    Occurrence: 1
+
+CITY:  <| Alden |> , -- [ALDEN]  {aldenpoolsandplay.com}    Occurrence: 1
+
+CITY: about <| Albuquerque |>  -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 5
+
+COMPANY:  <| Alcoa High School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}    Occurrence: 5
+
+COMPANY: AT <| ALCO TARGET |> COMPANY -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 1
+
+COMPANY:  <| Alca Avionics |> , -- [ALCA AVIONICS]  {alcaavionics.com}    Occurrence: 1
+
+COMPANY: 2016 <| Aldeen Golf Club |> All -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 4
+
+COMPANY:  <| Alden Pools & Play |> | -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 2
+
+CITY:  <| San Clemente |> Landscape -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+CITY: in <| St. Pete Beach |> , -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 2
+
+COMPANY: Evangelical <| Lutheran Church |> in -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}    Occurrence: 1
+
+COMPANY: at <| Alcon Construction |> , -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+CITY: , <| Albuquerque |>  -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+CITY:  <| Las Vegas |> , -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 2
+
+ZIP: CA <| 92626 |>  -- [92626 3302]  {aldenmanagement.com}    Occurrence: 1
+
+COMPANY: named <| Allen Lund Company |> the -- [ALLEN LUND CO]  {alclogistics.com}    Occurrence: 1
+
+ADDRESS:  <| 1733 W. Chicago Ave |> . -- [1733 W CHICAGO AVE]  {alcalas.com}    Occurrence: 1
+
+COMPANY: , <| Al Bustan |> restaurant -- [AL BUSTAN RESTAURANT]  {albustanny.com}    Occurrence: 1
+
+CITY: greater <| Rockford |> area -- [ROCKFORD]  {aldeengolfclub.com}    Occurrence: 1
+
+CITY:  <| Rocky Point |> , -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 5
+
+CITY: Ave. <| Chicago |> , -- [CHICAGO]  {alcalas.com}    Occurrence: 4
+
+COMPANY:  <| Alchemy Arts |> : -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 2
+
+ADDRESS:  <| 1733 W. Chicago Ave. |> Chicago -- [1733 W CHICAGO AVE]  {alcalas.com}    Occurrence: 4
+
+CITY:  <| Vallejo |>  -- [VALLEJO]  {alcometals.com}    Occurrence: 5
+
+COMPANY:  <| Abundant Life Christian Academy |>  -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Albritton Electrical Service |> is -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}    Occurrence: 3
+
+ZIP: CA <| 92104 |>  -- [92104 2994]  {alcottinsurance.com}    Occurrence: 1
+
+COMPANY:  <| Alston Courtnage & Bassetti |> LLP -- [ALSTON COURTNAGE & BASSETTI]  {alcourt.com}    Occurrence: 4
+
+ZIP: Illinois <| 60302 |>  -- [60302 2121]  {alcuin.org}    Occurrence: 1
+
+COMPANY: to <| Albion Ridges Golf Course |>  -- [ALBION RIDGES GOLF COURSE]  {albionridges.com}    Occurrence: 1
+
+CITY:  <| Alamosa |> High -- [ALAMOSA]  {alconconst.com}    Occurrence: 7
+
+CONTACT:  <| Lee W. Thorne |> , -- [LEE THORNE]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: in <| Albion |> with -- [ALBION]  {albionfoundation.org}    Occurrence: 1
+
+CITY: , <| Rapid City |> Air -- [RAPID CITY]  {alcornella.com}    Occurrence: 4
+
+COMPANY: 2016 <| Aldec , Inc. |> All -- [ALDEC INC]  {aldec.com}    Occurrence: 20
+
+COMPANY:  <| Alchemy Arts , Inc |> . -- [ALCHEMY ARTS INC]  {alchemyarts.com}    Occurrence: 20
+
+ADDRESS:  <| 2000 Mountain Rd NW |>  -- [2000 MOUNTAIN RD NW]  {albuquerquemuseum.com}    Occurrence: 1
+
+COMPANY: the <| Allen Lund Company |> , -- [ALLEN LUND CO]  {alclogistics.com}    Occurrence: 1
+
+COMPANY:  <| Al Cornella Refrigeration Service |> INC -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 1
+
+STATE: , <| NY |> 11778 -- [NY]  {alborealestate.com}    Occurrence: 1
+
+CITY: Services <| San Clemente |> and -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+CITY: , <| Albion |> is -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+STATE: Albuquerque <| NM |> Houses -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY:  <| Tallahassee |> , -- [TALLAHASSEE]  {albrittonelectric.com}    Occurrence: 6
+
+CITY: approve <| Albion |> schools -- [ALBION]  {albion.k12.mi.us}    Occurrence: 12
+
+CITY:  <| Albion |> Community -- [ALBION]  {albion.k12.mi.us}    Occurrence: 25
+
+CITY: - <| New York |> , -- [NEW YORK]  {albustanny.com}    Occurrence: 3
+
+COMPANY: - <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 2
+
+COMPANY: by <| Al Coronado Plumbing |>  -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com}    Occurrence: 5
+
+COMPANY:  <| Aldeen Golf Club |> and -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+CITY: THE <| ALBUQUERQUE |> METRO-PLEX -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 1
+
+STATE: , <| CA |> 92121 -- [CA]  {alcala.com}    Occurrence: 1
+
+STATE: , <| NY |> 14225 -- [NY]  {aldenvet.com}    Occurrence: 1
+
+CITY: In <| Alden |> & -- [ALDEN]  {aldenstate.com}    Occurrence: 1
+
+CITY: , <| Albuquerque |> NM -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 55
+
+STATE: , <| NJ |> — -- [NJ]  {alc.com}    Occurrence: 6
+
+COMPANY:  <| Hyatt Hotels & Resorts |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com}    Occurrence: 2
+
+COMPANY: About <| Alco Iron & Metal Company |>  -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+COMPANY: to <| Alden Pools & Play |> ! -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+COMPANY:  <| Alchemy Arts |> has -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 1
+
+COMPANY:  <| Alcom Marine Electronics |> Contact -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 2
+
+CITY: Greater <| Albion |> College -- [ALBION]  {albion.k12.mi.us}    Occurrence: 15
+
+CITY: , <| Duarte |> , -- [DUARTE]  {alcotarget.com}    Occurrence: 1
+
+ZIP: TN <| 37939 |>  -- [37939 0954]  {alcopro.com}    Occurrence: 2
+
+STATE: , <| MN |> 55302 -- [MN]  {albionridges.com}    Occurrence: 2
+
+COMPANY: At <| Abundant Life Christian Center |> our -- [ABUNDANT LIFE CHRISTIAN CTR]  {alccdaphne.org}    Occurrence: 1
+
+ADDRESS:  <| 12890 Broadway |>  -- [12890 BROADWAY ST]  {aldenpoolsandplay.com}    Occurrence: 1
+
+COMPANY: makes <| Alden Lane |> a -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+CITY:  <| Clarksville |> , -- [CLARKSVILLE]  {alctutoring.com}    Occurrence: 1
+
+STATE: , <| MI |> 48353 -- [MI]  {alcoholicsforchrist.com}    Occurrence: 1
+
+CONTACT:  <| Lee Thorne |> and -- [LEE THORNE]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: in <| San Diego |> in -- [SAN DIEGO]  {alcala.com}    Occurrence: 1
+
+COMPANY: to <| Alcoa Good Times |> ! -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 1
+
+COMPANY: the <| Alcoholics for Christ |> Movie -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}    Occurrence: 1
+
+COMPANY: to <| Alderbrook Pet Hospital |> and -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alchemyglass.com}    Occurrence: 1
+
+COMPANY:  <| Advantage Learning Center |> offers -- [ADVANTAGE LEARNING CTR]  {alctutoring.com}    Occurrence: 1
+
+CITY: call <| Albion |> Public -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY: from <| Alabama Concrete Industries |> Association -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org}    Occurrence: 1
+
+CITY: , <| Santa Rosa |> , -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 6
+
+STATE: , <| TN |> , -- [TN]  {alcoagoodtimes.com}    Occurrence: 3
+
+STATE: , <| TN |> 37939 -- [TN]  {alcopro.com}    Occurrence: 2
+
+ADDRESS:  <| 208 Saint Onge |> Street -- [208 SAINT ONGE ST]  {alcornella.com}    Occurrence: 6
+
+COMPANY: Are <| American Lutheran |> ( -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}    Occurrence: 1
+
+STATE: , <| CA |>  -- [CA]  {alderetepools.com}    Occurrence: 1
+
+CITY:  <| Santa Rosa |>  -- [SANTA ROSA]  {alcal.com}    Occurrence: 1
+
+ADDRESS:  <| 2547 Sutherland Avenue |> in -- [2547 SUTHERLAND AVE]  {alcopro.com}    Occurrence: 1
+
+COMPANY:  <| Al Coronado Plumbing |> takes -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com}    Occurrence: 1
+
+ZIP: NY <| 10022 |>  -- [10022 7520]  {albustanny.com}    Occurrence: 1
+
+COMPANY: CHOOSE <| AL CORONADO PLUMBING |> ? -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com}    Occurrence: 2
+
+CITY: the <| Livermore |> countryside -- [LIVERMORE]  {aldenlane.com}    Occurrence: 1
+
+COMPANY:  <| Aldec , Inc |> , -- [ALDEC INC]  {aldec.com}    Occurrence: 2
+
+COMPANY:  <| Al Cornella Refrigeration |>  -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 1
+
+COMPANY:  <| Alco Iron & Metal Company |>  -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+CITY: Street <| Albion |> , -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY: the <| Alabama Dental Association |> . -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 1
+
+COMPANY: other <| Alco Iron & Metal |> service -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+CITY: of <| Alden |> , -- [ALDEN]  {aldenvet.com}    Occurrence: 1
+
+COMPANY:  <| Alchemist Pool |> has -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+
+COMPANY:  <| Alcon Mechanical |> | -- [ALCON MECHANICAL INC]  {alconmechanical.com}    Occurrence: 2
+
+COMPANY:  <| Alcom Marine Electronics |> Featured -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 2
+
+ADDRESS:  <| 324 North Oak Park Avenue |>  -- [324 N OAK PARK AVE]  {alcuin.org}    Occurrence: 1
+
+CITY:  <| Chicago |> , -- [CHICAGO]  {alcalas.com}    Occurrence: 1
+
+CITY: Search <| Rocky Point |> Real -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY: 2015 <| Alabama Dental Association |>  -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 9
+
+CITY: Regency <| Albuquerque |>  -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 4
+
+COMPANY:  <| Alco Iron & Metal |> has -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+COMPANY:  <| Aldeen Golf Club |> was -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+STATE: Corrales <| NM |> For -- [NM]  {albqhomes.com}    Occurrence: 2
+
+ZIP: CA <| 92262 |>  -- [92262 5602]  {aldente-palmsprings.com}    Occurrence: 3
+
+CITY:  <| San Clemente |> , -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+COMPANY: s <| Alden Suites Beachfront Resort |> ! -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+ZIP: MN <| 55302 |>  -- [55302 2603]  {albionridges.com}    Occurrence: 2
+
+ZIP: IL <| 60622 |> US -- [60622 5009]  {alcalas.com}    Occurrence: 1
+
+CITY:  <| West Hempstead |> , -- [WEST HEMPSTEAD]  {alcamo.com}    Occurrence: 4
+
+COMPANY:  <| Abundant Life Christian |> Centre -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Alder Construction |> welcomes -- [ALDER CONSTRUCTION CO]  {alderconstruction.com}    Occurrence: 1
+
+COMPANY:  <| Albion Devices , Inc. |> , -- [ALBION DEVICES INC]  {albiondevices.com}    Occurrence: 2
+
+ADDRESS:  <| 191 Main Street |> , -- [191 MAIN ST]  {alchemymarket.com}    Occurrence: 4
+
+COMPANY:  <| Albion Ridges Golf Course |>  -- [ALBION RIDGES GOLF COURSE]  {albionridges.com}    Occurrence: 3
+
+CITY: Ave. <| Chicago |> , -- [CHICAGO]  {alchemy-arts.com}    Occurrence: 1
+
+CITY: , <| Rocky Point |> Houses -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+CITY:  <| Tucson |> Web -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 5
+
+STATE: Albuquerque <| NM |> Listings -- [NM]  {albqhomes.com}    Occurrence: 5
+
+COMPANY: | <| Alco Management |>  -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 4
+
+CITY: , <| Tucson |> plumbing -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+ADDRESS:  <| 1273 Crest Dr |> . -- [1273 CREST DR]  {alcalapetcare.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alco Management |> . -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 3
+
+COMPANY: North <| American Lutheran Church |> ( -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}    Occurrence: 1
+
+CITY: from <| Albion |> Elementary -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY:  <| Alabama Dental |> Clinic -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 9
+
+CITY:  <| Albion |> Bibliography -- [ALBION]  {albion.com}    Occurrence: 1
+
+ADDRESS: , <| 524 Faraday Street |> , -- [524 FARADAY ST]  {alcoaschools.net}    Occurrence: 2
+
+COMPANY: recognized <| Alcom Marine Electronics |> as -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 4
+
+COMPANY: - <| Aldec , Inc |>  -- [ALDEC INC]  {aldec.com}    Occurrence: 3
+
+ZIP: CA <| 95404 |>  -- [95404 4017]  {alderbrookpet.com}    Occurrence: 7
+
+COMPANY:  <| Albany International |> has -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 1
+
+CITY: in <| Duarte |> , -- [DUARTE]  {alcotarget.com}    Occurrence: 1
+
+STATE: , <| TN |> 37701 -- [TN]  {alcoaschools.net}    Occurrence: 2
+
+CITY: Place <| Montgomery |> , -- [MONTGOMERY]  {alconcrete.org}    Occurrence: 1
+
+COMPANY: - <| Albion Community Foundation |> - -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org}    Occurrence: 4
+
+ADDRESS: historic <| Palm Canyon Drive |> , -- [491 N PALM CANYON DR]  {aldente-palmsprings.com}    Occurrence: 2
+
+COMPANY:  <| ALCO Management |> eBrochure -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 1
+
+ZIP: FL <| 33706 |> , -- [33706 3793]  {aldenbeachresort.com}    Occurrence: 3
+
+CITY: the <| Albuquerque |> Metro-Plex -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 5
+
+COMPANY:  <| Al Cornella Refrigeration Service |> Inc. -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 2
+
+COMPANY: The <| Ingles / Company |> agrees -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 1
+
+CITY: our <| Albuquerque |> hotel -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+CITY:  <| Albion |> Michigan -- [ALBION]  {albion.k12.mi.us}    Occurrence: 15
+
+COMPANY:  <| Alcom Marine Electronics |> Home -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 8
+
+CONTACT: and <| David Cook |> founded -- [DAVID COOK]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Alchemy Glass |> Contact -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com}    Occurrence: 2
+
+COMPANY: current <| Alden Pools & Play |> . -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+ZIP: VT <| 05403 |>  -- [05403 7846]  {alcvt.org}    Occurrence: 5
+
+ZIP:  <| 11552 |>  -- [11552 2831]  {alcamo.com}    Occurrence: 1
+
+COMPANY: About <| Hyatt Hotels & Resorts |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com}    Occurrence: 2
+
+CITY: • <| COMMACK |> , -- [COMMACK]  {alcamopools.com}    Occurrence: 5
+
+COMPANY: | <| Alchemy Arts |> | -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 3
+
+STATE: , <| WA |> 98592 -- [WA]  {alderbrookresort.com}    Occurrence: 3
+
+CITY: in <| Santa Rosa |> , -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 2
+
+COMPANY: | <| Alchemy Arts |> - -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 2
+
+COMPANY:  <| Alabama Concrete Industries |> Association -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org}    Occurrence: 3
+
+ADDRESS:  <| 4821 Six Oaks Dr |> . -- [4821 SIX OAKS DR]  {albrittonelectric.com}    Occurrence: 3
+
+COMPANY: opened <| Alderbrook Pet Hospital |> . -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: the <| Alden |> area -- [ALDEN]  {aldenpoolsandplay.com}    Occurrence: 1
+
+CITY: plumbing <| Tucson |> , -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+STATE: , <| NJ |> – -- [NJ]  {alc.com}    Occurrence: 4
+
+CITY: for <| St. Pete Beach |> hotels -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+CITY:  <| Albuquerque |> , -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 3
+
+CITY: your <| Albuquerque |> Metro-Plex -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 5
+
+CITY: North <| Las Vegas |> Lone -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 1
+
+CONTACT:  <| Linda L. Albo |>  -- [LINDA ALBO]  {alborealestate.com}    Occurrence: 1
+
+STATE: , <| TN |>  -- [TN]  {alcoagoodtimes.com}    Occurrence: 4
+
+CONTACT: years <| Don Vivatson |> , -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+CITY: the <| Livermore |> Valley -- [LIVERMORE]  {aldenlane.com}    Occurrence: 1
+
+ZIP: AL <| 36104 |>  -- [36104 3839]  {albme.org}    Occurrence: 1
+
+COMPANY: at <| Alden Suites Beachfront Resort |> . -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+STATE: Rancho <| NM |> Condos -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY: the <| Albuquerque |> MetroPlex -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 1
+
+CITY: of <| Albuquerque |> and -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+ADDRESS: , <| 191 Main Street |> , -- [191 MAIN ST]  {alchemymarket.com}    Occurrence: 4
+
+COMPANY:  <| Alco Iron & Metal |> acquires -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+STATE: , <| IL |> . -- [IL]  {alc-rantoul.org}    Occurrence: 1
+
+COMPANY: at <| Alcon Construction , Inc. |> we -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+STATE: Placitas <| NM |> Homes -- [NM]  {albqhomes.com}    Occurrence: 2
+
+COMPANY: - <| Alcuin Montessori School |> - -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org}    Occurrence: 2
+
+COMPANY:  <| Alco Target |> Tactical -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 1
+
+COMPANY:  <| Albion High |> School -- [ALBION SENIOR HIGH]  {albion.k12.mi.us}    Occurrence: 24
+
+CONTACT:  <| Robert Kinney |>  -- [ROBERT KINNEY]  {alcommarine.com}    Occurrence: 1
+
+COMPANY: Evangelical <| Lutheran Church |> in -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 1
+
+CITY: to <| Murphys |> he -- [MURPHYS]  {alchemymarket.com}    Occurrence: 2
+
+COMPANY: At <| Alchemy Arts |> , -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 1
+
+CITY: in <| Margate |>  -- [MARGATE]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Albritton Electrical Service |> provides -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}    Occurrence: 3
+
+ADDRESS:  <| 23133 Hawthorne Blvd |> . -- [23133 HAWTHORNE BLVD # 305]  {albitzmiloe.com}    Occurrence: 4
+
+CITY:  <| Vallejo |> , -- [VALLEJO]  {alcometals.com}    Occurrence: 1
+
+ZIP: CA <| 94592 |>  -- [94592 1153]  {alcometals.com}    Occurrence: 1
+
+CITY: in <| Albuquerque |> > -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY: 1977-2008 <| Alcoholics for Christ |> ® -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}    Occurrence: 1
+
+CONTACT: Pastor <| Jack Miller |> and -- [JACK MILLER]  {alcc1.org}    Occurrence: 1
+
+CITY: , <| Rocky Point |> Real -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 3
+
+COMPANY: 2008 <| Alcan Electrical & Engineering |> , -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com}    Occurrence: 1
+
+STATE: , <| IL |> . -- [IL]  {aldenskennels.com}    Occurrence: 1
+
+CITY: of <| Palm Springs |> , -- [PALM SPRINGS]  {aldente-palmsprings.com}    Occurrence: 2
+
+CONTACT:  <| Keith & Karen Albritton |>  -- [KEITH ALBRITTON]  {albrittonelectric.com}    Occurrence: 3
+
+CONTACT: Email <| Tom Shamblin |>  -- [TOM SHAMBLIN]  {alcoaschools.net}    Occurrence: 1
+
+STATE: , <| NJ |> 08540 -- [NJ]  {alc.com}    Occurrence: 5
+
+COMPANY:  <| Alder Construction |> - -- [ALDER CONSTRUCTION CO]  {alderconstruction.com}    Occurrence: 2
+
+CITY: & <| Lancaster |>  -- [LANCASTER]  {aldenstate.com}    Occurrence: 1
+
+COMPANY: > <| Albany International |> Machine -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 1
+
+ADDRESS:  <| 491 North Palm Canyon Drive |>  -- [491 N PALM CANYON DR]  {aldente-palmsprings.com}    Occurrence: 3
+
+CITY: - <| Lancaster |> , -- [LANCASTER]  {aldenstate.com}    Occurrence: 4
+
+COMPANY:  <| Alchemist Pool Service |>  -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 4
+
+CONTACT:  <| Jerry Justic |> , -- [JERRY JUSTIC]  {alcamo.com}    Occurrence: 1
+
+STATE: Montgomery <| AL |> 36104 -- [AL]  {albme.org}    Occurrence: 1
+
+COMPANY:  <| Alcala Pet Care |>  -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 2
+
+COMPANY: with <| Alderbrook Hospital |> . -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: to <| Albuquerque |>  -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 1
+
+CITY:  <| Palm Springs |> , -- [PALM SPRINGS]  {aldente-palmsprings.com}    Occurrence: 3
+
+ADDRESS: on <| Six Oaks Dr. |> in -- [4821 SIX OAKS DR]  {albrittonelectric.com}    Occurrence: 3
+
+COMPANY: | <| Alden State Bank |> | -- [ALDEN STATE BANK]  {aldenstate.com}    Occurrence: 2
+
+CITY:  <| Sisters |> , -- [SISTERS]  {aldercreekranch.com}    Occurrence: 1
+
+COMPANY: The <| Ingles Company Realtors |>  -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 1
+
+ZIP: IL <| 60034 |>  -- [60034 9618]  {alden-hebron.org}    Occurrence: 5
+
+ADDRESS: – <| 23133 Hawthorne Blvd |> . -- [23133 HAWTHORNE BLVD # 305]  {albitzmiloe.com}    Occurrence: 4
+
+COMPANY: The <| Albion Community Foundation |> strengthens -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org}    Occurrence: 1
+
+ADDRESS:  <| PO Box 10954 |>  -- [PO BOX 10954]  {alcopro.com}    Occurrence: 2
+
+STATE: , <| NM |>  -- [NM]  {albqhomes.com}    Occurrence: 14
+
+CITY: in <| Rapid City |> , -- [RAPID CITY]  {alcornella.com}    Occurrence: 1
+
+CITY: | <| Alden |> , -- [ALDEN]  {aldenstate.com}    Occurrence: 4
+
+ZIP: Mexico <| 87109 |>  -- [87109 3364]  {albqhomes.com}    Occurrence: 5
+
+STATE: , <| TN |> 3777 -- [TN]  {alcoagoodtimes.com}    Occurrence: 11
+
+CONTACT:  <| Jack Miller |>  -- [JACK MILLER]  {alcc1.org}    Occurrence: 1
+
+COMPANY: the <| Alabama Dental Association |> is -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+CITY: in <| San Diego |> , -- [SAN DIEGO]  {alcottinsurance.com}    Occurrence: 10
+
+CITY: , <| San Diego |> , -- [SAN DIEGO]  {alcottinsurance.com}    Occurrence: 5
+
+ADDRESS:  <| 1975 Military Road |>  -- [1975 MILITARY RD]  {alcliff.com}    Occurrence: 2
+
+COMPANY:  <| ALCON Systems , Inc. |> , -- [ALCON SYSTEMS INC]  {alconsys.com}    Occurrence: 1
+
+ZIP: WA <| 98592 |> | -- [98592 0000]  {alderbrookresort.com}    Occurrence: 3
+
+COMPANY: in <| Alcon Construction , Inc |> . -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+ZIP: GA <| 30721 |>  -- [30721 3013]  {alconsys.com}    Occurrence: 1
+
+COMPANY:  <| ALCO Management |> Begins -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 1
+
+CITY: in <| Daphne |> , -- [DAPHNE]  {alccdaphne.org}    Occurrence: 1
+
+CITY:  <| Encinitas |>  -- [ENCINITAS]  {alcalapetcare.com}    Occurrence: 1
+
+COMPANY: , <| Alco Iron & Metal |> now -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 4
+
+STATE: , <| FL |> 33063 -- [FL]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |> Welcomes -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 1
+
+COMPANY:  <| Plain City Elementary |> School -- [PLAIN CITY ELEMENTARY]  {alder.k12.oh.us}    Occurrence: 5
+
+CITY: , <| Rapid City |> Refrigeration -- [RAPID CITY]  {alcornella.com}    Occurrence: 4
+
+COMPANY:  <| Alcan Electrical & Engineering |> has -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com}    Occurrence: 1
+
+ADDRESS:  <| 2000 Mountain Dr NW |> , -- [2000 MOUNTAIN RD NW]  {albuquerquemuseum.com}    Occurrence: 1
+
+STATE: , <| NV |> 89074 -- [NV]  {aldec.com}    Occurrence: 8
+
+STATE: , <| DE |> 19701 -- [DE]  {alcc1.org}    Occurrence: 1
+
+COMPANY: About <| Alden State Bank |>  -- [ALDEN STATE BANK]  {aldenstate.com}    Occurrence: 2
+
+CITY:  <| Rocky Point |> Real -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 2
+
+STATE: , <| NY |>  -- [NY]  {alcamo.com}    Occurrence: 4
+
+COMPANY: of <| Alchemy Arts , Inc. |> by -- [ALCHEMY ARTS INC]  {alchemyarts.com}    Occurrence: 2
+
+ADDRESS: 207 <| East Alton Avenue |> , -- [213 E ALTON AVE]  {alcomanufacturinginc.com}    Occurrence: 1
+
+COMPANY:  <| Alcala Country Pet |> Resort -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 3
+
+COMPANY: About <| Aldeen Golf Club |>  -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+CITY:  <| Niagara Falls |> , -- [NIAGARA FALLS]  {alcliff.com}    Occurrence: 2
+
+COMPANY: with <| Alden Pools & Play |> . -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+COMPANY:  <| Alden Suites-A Beachfront Resort |>  -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+CITY: in <| St. Pete Beach |>  -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+COMPANY: 2014 <| Alcom Marine Electronics |> . -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 8
+
+COMPANY: to <| Alchemy Arts |> shortly -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 1
+
+STATE: , <| NY |> , -- [NY]  {aldenvet.com}    Occurrence: 1
+
+CITY: then <| Alamosa |> Concrete -- [ALAMOSA]  {alconconst.com}    Occurrence: 1
+
+STATE: , <| MN |>  -- [MN]  {albionridges.com}    Occurrence: 5
+
+STATE: , <| CA |> 95834 -- [CA]  {alcal.com}    Occurrence: 6
+
+ZIP: CA <| 94550 |> - -- [94550 6350]  {aldenlane.com}    Occurrence: 3
+
+CITY: About <| Albuquerque |> Real -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 1
+
+CITY:  <| Henderson |> , -- [HENDERSON]  {aldec.com}    Occurrence: 8
+
+CONTACT:  <| Don Vivatson |>  -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+CITY: , <| Albion |> Channel -- [ALBION]  {albion.com}    Occurrence: 1
+
+COMPANY:  <| Alco Target |> is -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 1
+
+COMPANY:  <| Alcuin Montessori School |> : -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org}    Occurrence: 1
+
+STATE: , <| CA |> and -- [CA]  {alderetepools.com}    Occurrence: 1
+
+CITY: Street <| San Diego |> , -- [SAN DIEGO]  {alcottinsurance.com}    Occurrence: 5
+
+COMPANY: The <| Alchemist & Barrister |> ! -- [ALCHEMIST & BARRISTER]  {alchemistandbarrister.com}    Occurrence: 1
+
+CITY: greater <| Albuquerque |> / -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 1
+
+COMPANY:  <| Alcoa Good Times |>  -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 4
+
+CITY:  <| Louisville |> , -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 4
+
+COMPANY:  <| Alden Pools & Play |> started -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+STATE: Albuquerque <| NM |> Lots -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY: in <| Murphys |> CA -- [MURPHYS]  {alchemymarket.com}    Occurrence: 1
+
+CITY: , <| Rocky Point |> Properties -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY:  <| Alden State Bank |> is -- [ALDEN STATE BANK]  {aldenstate.com}    Occurrence: 1
+
+CITY: downtown <| Albuquerque |> hotel -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY:  <| Alden State Bank |> . -- [ALDEN STATE BANK]  {aldenstate.com}    Occurrence: 2
+
+CITY: downtown <| Santa Rosa |> ' -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+COMPANY:  <| Alcon Construction , Inc. |> knows -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 2
+
+COMPANY: © <| Albany International |> Corp -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 3
+
+COMPANY: © <| Alcon Construction , Inc. |> All -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 6
+
+STATE: , <| SD |> 57702 -- [SD]  {alcornella.com}    Occurrence: 6
+
+COMPANY:  <| Alchemy Glass |> About -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com}    Occurrence: 2
+
+CITY: in <| Torrance |> . -- [TORRANCE]  {albitzmiloe.com}    Occurrence: 8
+
+STATE: , <| NY |> 14004 -- [NY]  {aldenvet.com}    Occurrence: 8
+
+CITY:  <| Albion |> Services -- [ALBION]  {albion.com}    Occurrence: 1
+
+CITY:  <| Albion |> Home -- [ALBION]  {albion.com}    Occurrence: 3
+
+STATE: Albion <| MI |> 49224 -- [MI]  {albion.k12.mi.us}    Occurrence: 12
+
+CONTACT:  <| Phil Albitz |>  -- [PHIL ALBITZ]  {albitzmiloe.com}    Occurrence: 4
+
+STATE: in <| CA |> as -- [CA]  {albitzmiloe.com}    Occurrence: 4
+
+COMPANY:  <| Hyatt Hotels |>  -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com}    Occurrence: 5
+
+COMPANY:  <| Alco Iron & Metal |>  -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+CITY: serving <| San Diego |> , -- [SAN DIEGO]  {alcottinsurance.com}    Occurrence: 1
+
+COMPANY: The <| Aldeen Golf Club |> has -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |> , -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 4
+
+CITY:  <| Albion |> College -- [ALBION]  {albion.k12.mi.us}    Occurrence: 20
+
+ADDRESS: 865-981-4434 <| 2019 Topside Road |> Louisville -- [2019 TOPSIDE RD]  {alcoagoodtimes.com}    Occurrence: 4
+
+COMPANY: © <| Alcala Pet Care |> , -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 1
+
+COMPANY:  <| Albritton Electrical Service , Inc. |> Â -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}    Occurrence: 3
+
+CONTACT: years <| Don Vivatson |> of -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+CITY: the <| Rocky Point |> area -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+CITY: beautiful <| Sisters |> , -- [SISTERS]  {aldercreekranch.com}    Occurrence: 1
+
+COMPANY:  <| Alcala Pet Care |> has -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 1
+
+COMPANY: The <| Alabama Dental |> Foundation -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+STATE: Rancho <| NM |> Lots -- [NM]  {albqhomes.com}    Occurrence: 5
+
+ADDRESS:  <| 3945 Idaho Street |> San -- [3945 IDAHO ST]  {alcottinsurance.com}    Occurrence: 5
+
+COMPANY: feature <| Alco Iron & Metal |> is -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+CITY: VISIT <| ALBUQUERQUE |>  -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+COMPANY: at <| Alchemy Arts |> , -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 1
+
+COMPANY: Alcyone <| Plumbing Company , Inc. |> All -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com}    Occurrence: 4
+
+COMPANY: , <| Alco Target |> Company -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 1
+
+CITY:  <| Murphys |>  -- [MURPHYS]  {alchemymarket.com}    Occurrence: 1
+
+ZIP:  <| 91010 |>  -- [91010 2913]  {alcotarget.com}    Occurrence: 4
+
+ZIP: CA <| 92104 |> | -- [92104 2994]  {alcottinsurance.com}    Occurrence: 5
+
+ADDRESS:  <| 10 E Alderbrook Drive |> , -- [10 E ALDERBROOK DR]  {alderbrookresort.com}    Occurrence: 3
+
+COMPANY: , <| Alden Lane Nursery |> has -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+CITY: in <| Torrance |> with -- [TORRANCE]  {albitzmiloe.com}    Occurrence: 4
+
+STATE: , <| WA |> located -- [WA]  {alderbrookresort.com}    Occurrence: 1
+
+COMPANY: of <| Medical Examiners |>  -- [MEDICAL EXAMINERS BOARD]  {albme.org}    Occurrence: 4
+
+CITY: in <| Rocky Point |> and -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY:  <| ALDERBROOK PET HOSPITAL |>  -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 6
+
+COMPANY:  <| Alden Lee |> - -- [ALDEN LEE CO]  {aldenlee.com}    Occurrence: 4
+
+CONTACT:  <| Linda Albo |>  -- [LINDA ALBO]  {alborealestate.com}    Occurrence: 1
+
+CONTACT: the <| Al Coronado |> Team -- [AL CORONADO]  {alcoronadoplumbing.com}    Occurrence: 2
+
+COMPANY: helped <| Alcon Construction , Inc. |> win -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+ADDRESS:  <| 1152 Jericho Tpke |>  -- [1152 JERICHO TPKE]  {alcamopools.com}    Occurrence: 1
+
+COMPANY:  <| Alden Lane Nursery |> stands -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+CONTACT:  <| John H. Sorrell |>  -- [JOHN SORRELL]  {alconcrete.org}    Occurrence: 1
+
+STATE: , <| NY |> 14304 -- [NY]  {alcliff.com}    Occurrence: 1
+
+CITY: the <| Kentwood |> and -- [KENTWOOD]  {alchurch.org}    Occurrence: 1
+
+ZIP: NY <| 10022 |> 212.759.5933 -- [10022 7520]  {albustanny.com}    Occurrence: 3
+
+CITY: of <| Union |> with -- [UNION]  {alderbrookresort.com}    Occurrence: 1
+
+ADDRESS:  <| 2547 Sutherland Ave |> . -- [2547 SUTHERLAND AVE]  {alcopro.com}    Occurrence: 2
+
+STATE: Montgomery <| AL |> 36101-0887 -- [AL]  {albme.org}    Occurrence: 1
+
+STATE:  <| FL |> , -- [FL]  {aldenbeachresort.com}    Occurrence: 2
+
+COMPANY: Contact <| Alcoa Good Times |> | -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 1
+
+COMPANY: | <| Alden Pools & Play |> | -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 4
+
+COMPANY: the <| Alabama Concrete Industries |> Association -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org}    Occurrence: 1
+
+ZIP:  <| 91010 |> . -- [91010 2913]  {alcotarget.com}    Occurrence: 1
+
+CITY:  <| Albuquerque |> Adventures -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY:  <| Alabama Dental Association |> ? -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 1
+
+STATE: , <| CA |> 95112 -- [CA]  {alcometals.com}    Occurrence: 2
+
+CITY: in <| Tucson |> AZ -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+CITY: , <| Santa Ana |> , -- [SANTA ANA]  {alcomanufacturinginc.com}    Occurrence: 1
+
+COMPANY:  <| Alcalde & Fay |> - -- [ALCALDE & FAY]  {alcalde-fay.com}    Occurrence: 2
+
+COMPANY:  <| Alcon Construction , Inc. |> wouldnâ -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+STATE: , <| IL |> 60034 -- [IL]  {alden-hebron.org}    Occurrence: 5
+
+COMPANY:  <| Alco Iron & Metal Co. |> has -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+CITY: , <| Alden |> , -- [ALDEN]  {aldenvet.com}    Occurrence: 8
+
+CITY:  <| Massapequa |> Location -- [MASSAPEQUA]  {alcyoneplumbing.com}    Occurrence: 1
+
+CITY:  <| South Burlington |> , -- [SOUTH BURLINGTON]  {alcvt.org}    Occurrence: 5
+
+COMPANY:  <| Alden Lane |> serves -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+COMPANY:  <| Alcala Co. |> , -- [ALCALA CO]  {alcala.com}    Occurrence: 1
+
+CITY:  <| Montgomery |> AL -- [MONTGOMERY]  {albme.org}    Occurrence: 3
+
+STATE: , <| IL |> 61866 -- [IL]  {alc-rantoul.org}    Occurrence: 4
+
+COMPANY: that <| Alden Pools and Play |> is -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+CITY: Road <| Louisville |> , -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 4
+
+CITY:  <| SANTA ROSA |> , -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 7
+
+CITY: helping <| Las Vegas |> Valley -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 1
+
+STATE: , <| CA |> 92626 -- [CA]  {aldenmanagement.com}    Occurrence: 1
+
+CITY: | <| Albuquerque |> / -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 2
+
+COMPANY:  <| Albany International |> Corp. -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 5
+
+ADDRESS:  <| 2048 Central Ave |>  -- [2048 CENTRAL AVE]  {alcotarget.com}    Occurrence: 4
+
+CITY: to <| Alden |> , -- [ALDEN]  {aldenstate.com}    Occurrence: 1
+
+STATE: Albuquerque <| NM |> Foreclosures -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY:  <| Albion |> ’ -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY: , <| Alcom Marine Electronics |> has -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 14
+
+COMPANY:  <| Advantage Learning Center |> – -- [ADVANTAGE LEARNING CTR]  {alctutoring.com}    Occurrence: 2
+
+COMPANY:  <| Canaan Middle School |>  -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us}    Occurrence: 5
+
+COMPANY: at <| Alco Pro |> is -- [ALCO PRO INC]  {alcopro.com}    Occurrence: 1
+
+CITY: services <| San Clemente |>  -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 2
+
+COMPANY:  <| American Lutheran Church |>  -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}    Occurrence: 5
+
+CITY:  <| Albion |> Innovation -- [ALBION]  {albionfoundation.org}    Occurrence: 1
+
+STATE: , <| NJ |> ] -- [NJ]  {alcoyspaparts.com}    Occurrence: 1
+
+COMPANY: The <| Alabama Concrete Industries |> Association -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org}    Occurrence: 1
+
+CITY: Former <| Albion |> Student -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY:  <| Alco Target |>  -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 1
+
+ZIP: NV <| 89074 |>  -- [89074 7712]  {aldec.com}    Occurrence: 8
+
+STATE: , <| CA |> 92870 -- [CA]  {albrightmachinery.com}    Occurrence: 6
+
+CITY: of <| Plain City |>  -- [PLAIN CITY]  {alder.k12.oh.us}    Occurrence: 1
+
+COMPANY:  <| Alder Creek Ranch |> provides -- [ALDER CREEK RANCH]  {aldercreekranch.com}    Occurrence: 1
+
+COMPANY: to <| Alder Creek Ranch |> ! -- [ALDER CREEK RANCH]  {aldercreekranch.com}    Occurrence: 1
+
+COMPANY:  <| Alden Property Management |>  -- [ALDEN MANAGEMENT GROUP]  {aldenmanagement.com}    Occurrence: 2
+
+CITY: in <| Los Angeles |> and -- [LOS ANGELES]  {alchemyglass.com}    Occurrence: 1
+
+ZIP: CO <| 81101 |>  -- [81101 9627]  {alconconst.com}    Occurrence: 2
+
+STATE: , <| MA |>  -- [MA]  {alcom.org}    Occurrence: 3
+
+CITY: to <| Murphys |> by -- [MURPHYS]  {alchemymarket.com}    Occurrence: 2
+
+STATE: , <| NY |> - -- [NY]  {aldenstate.com}    Occurrence: 8
+
+COMPANY:  <| Canaan Middle School |> Unity -- [CANAAN MIDDLE SCHOOL]  {alder.k12.oh.us}    Occurrence: 1
+
+COMPANY:  <| Alcliff Landscaping & Nursery |>  -- [ALCLIFF LANDSCAPING & NURSERY]  {alcliff.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |>  -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}    Occurrence: 1
+
+COMPANY:  <| Alder Group , Landscape |> Design -- [ALDER LANDSCAPE CO]  {alderland.com}    Occurrence: 1
+
+COMPANY:  <| Alcon Construction , Inc. |> has -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 2
+
+STATE: , <| FL |> 32303 -- [FL]  {albrittonelectric.com}    Occurrence: 3
+
+COMPANY:  <| ALCOHOLICS FOR CHRIST |> MOVIE -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}    Occurrence: 1
+
+ZIP:  <| 92024 |>  -- [92024 5205]  {alcalapetcare.com}    Occurrence: 1
+
+COMPANY:  <| Alcom Marine Electronics |>  -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 8
+
+COMPANY: - <| Abundant Life Christian |> Center -- [ABUNDANT LIFE CHRISTIAN CHURCH]  {alcc1.org}    Occurrence: 10
+
+COMPANY:  <| Alden Lane Nursery |> is -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 1
+
+COMPANY:  <| Al Bustan |> also -- [AL BUSTAN RESTAURANT]  {albustanny.com}    Occurrence: 1
+
+CITY: a <| San Clemente |> Pool -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+CITY:  <| San Clemente |> Pool -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 2
+
+COMPANY:  <| Alchemy Arts |> Occult -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 1
+
+COMPANY: The <| Ingles / Company Realtors |> Listings -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 5
+
+ZIP: NM <| 87104 |>  -- [87104 1459]  {albuquerquemuseum.com}    Occurrence: 2
+
+STATE: Rancho <| NM |> Homes -- [NM]  {albqhomes.com}    Occurrence: 12
+
+CITY: About <| Albion |> - -- [ALBION]  {albion.k12.mi.us}    Occurrence: 2
+
+ADDRESS:  <| 5900 Gulf Blvd |> . -- [5900 GULF BLVD]  {aldenbeachresort.com}    Occurrence: 2
+
+CITY: , <| Rantoul |> , -- [RANTOUL]  {alc-rantoul.org}    Occurrence: 4
+
+COMPANY: 2016 <| Alden Pools & Play |> and -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 4
+
+COMPANY:  <| Albritton Electrical Service |> : -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}    Occurrence: 6
+
+CITY:  <| Birmingham |> , -- [BIRMINGHAM]  {aldensys.com}    Occurrence: 7
+
+CITY: Plumbing <| Tucson |> , -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+COMPANY: - <| ALDERBROOK PET HOSPITAL |>  -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 12
+
+CONTACT: Dr. <| Lee Thorne |> is -- [LEE THORNE]  {alderbrookpet.com}    Occurrence: 1
+
+ZIP: [ <| 08021 |> ] -- [08021 2307]  {alcoyspaparts.com}    Occurrence: 1
+
+COMPANY:  <| ALCO Manufacturing , Inc |> . -- [ALCO MANUFACTURING INC]  {alcomanufacturinginc.com}    Occurrence: 1
+
+CITY: , <| Rocky Point |> Home -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+STATE: , <| AL |> 36117 -- [AL]  {alconcrete.org}    Occurrence: 1
+
+CONTACT:  <| John Sorrell |> , -- [JOHN SORRELL]  {alconcrete.org}    Occurrence: 1
+
+COMPANY: to <| Alchemy Arts |> , -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 1
+
+COMPANY: to <| Abundant Life Christian Center |> ! -- [ABUNDANT LIFE CHRISTIAN CTR]  {alccdaphne.org}    Occurrence: 3
+
+COMPANY:  <| Alco |> ’ -- [ALCO]  {alcotech.com}    Occurrence: 1
+
+CITY: in <| Encinitas |> , -- [ENCINITAS]  {alcalapetcare.com}    Occurrence: 1
+
+CITY: / <| Vallejo |> Location -- [VALLEJO]  {alcometals.com}    Occurrence: 1
+
+CITY: A <| Santa Rosa |> native -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+COMPANY:  <| Albion Ridges Golf Course |> – -- [ALBION RIDGES GOLF COURSE]  {albionridges.com}    Occurrence: 2
+
+COMPANY:  <| Aldec , Inc. |> product -- [ALDEC INC]  {aldec.com}    Occurrence: 2
+
+STATE: , <| NJ |> 07068 -- [NJ]  {alcdsi.com}    Occurrence: 2
+
+ZIP: IL <| 61866 |> ( -- [61866 1525]  {alc-rantoul.org}    Occurrence: 4
+
+COMPANY: , <| Alcoa Good Times |> , -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 3
+
+COMPANY:  <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 6
+
+COMPANY: The <| Ingles / Company Realtors |> ® -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 2
+
+COMPANY: Christmas <| Lutheran Church |> , -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 1
+
+CITY:  <| San Diego |> , -- [SAN DIEGO]  {alcala.com}    Occurrence: 1
+
+COMPANY: The <| Albion Community Foundation |> helps -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org}    Occurrence: 1
+
+COMPANY:  <| Al Cornella Refrigeration Service |>  -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 1
+
+COMPANY:  <| Alco Iron & Metal |> always -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+COMPANY: , <| Alco |> Technologies -- [ALCO]  {alcotech.com}    Occurrence: 1
+
+COMPANY: , <| Alco Iron & Metal |> will -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 1
+
+COMPANY: named <| Aldeen Golf Club |> one -- [ALDEEN GOLF CLUB]  {aldeengolfclub.com}    Occurrence: 1
+
+STATE: , <| CA |> 92104 -- [CA]  {alcottinsurance.com}    Occurrence: 6
+
+CITY: Drive <| Union |> , -- [UNION]  {alderbrookresort.com}    Occurrence: 1
+
+CITY: , <| Rantoul |> . -- [RANTOUL]  {alc-rantoul.org}    Occurrence: 1
+
+COMPANY: the <| Abundant Life Christian |> Center -- [ABUNDANT LIFE CHRISTIAN CHURCH]  {alcc1.org}    Occurrence: 2
+
+COMPANY: to <| Abundant Life Christian Academy |> , -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+COMPANY:  <| Alca Avionics |> is -- [ALCA AVIONICS]  {alcaavionics.com}    Occurrence: 1
+
+COMPANY:  <| Alcoy Industries |>  -- [ALCOY INDUSTRIES INC]  {alcoyspaparts.com}    Occurrence: 1
+
+COMPANY:  <| Alcott Insurance |>  -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 1
+
+COMPANY: & <| Landscape Co |> . -- [ALDER LANDSCAPE CO]  {alderland.com}    Occurrence: 1
+
+COMPANY:  <| Albany International |> trades -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 1
+
+ZIP: FL <| 33063 |>  -- [33063 3920]  {alcapro.com}    Occurrence: 1
+
+CITY: - <| Albion |> Community -- [ALBION]  {albion.k12.mi.us}    Occurrence: 22
+
+CONTACT:  <| Tom Shamblin |>  -- [TOM SHAMBLIN]  {alcoaschools.net}    Occurrence: 1
+
+COMPANY: , <| Alco Iron & Metal Company |> , -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 5
+
+COMPANY: The <| Albion Community Foundation |> • -- [ALBION COMMUNITY FOUNDATION]  {albionfoundation.org}    Occurrence: 3
+
+CITY: in <| Rocky Point |> , -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+CITY:  <| Montgomery |> , -- [MONTGOMERY]  {aldaonline.org}    Occurrence: 2
+
+CITY: , <| Union |> , -- [UNION]  {alderbrookresort.com}    Occurrence: 3
+
+CITY:  <| Albuquerque |> NM -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 7
+
+COMPANY:  <| Alder Creek Ranch |> is -- [ALDER CREEK RANCH]  {aldercreekranch.com}    Occurrence: 1
+
+CITY:  <| New York |> , -- [NEW YORK]  {albustanny.com}    Occurrence: 1
+
+STATE: Murphys <| CA |> . -- [CA]  {alchemymarket.com}    Occurrence: 1
+
+ZIP: TN <| 37040 |>  -- [37040 3860]  {alctutoring.com}    Occurrence: 1
+
+CITY: greater <| Albion |> area -- [ALBION]  {albionfoundation.org}    Occurrence: 6
+
+COMPANY: Alcyone <| Plumbing Company , Inc |> . -- [PAT DOLAN PLUMBING CO INC]  {alcyoneplumbing.com}    Occurrence: 13
+
+COMPANY:  <| American Lutheran |>  -- [AMERICAN LUTHERAN CHURCH]  {alc-rantoul.org}    Occurrence: 6
+
+CITY: , <| South Burlington |> , -- [SOUTH BURLINGTON]  {alcvt.org}    Occurrence: 4
+
+CITY:  <| Albion |> Public -- [ALBION]  {albion.k12.mi.us}    Occurrence: 27
+
+CITY: , <| Rocky Point |> NY -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+STATE: Rancho <| NM |> Houses -- [NM]  {albqhomes.com}    Occurrence: 5
+
+COMPANY:  <| Al Coronado Plumbing |>  -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com}    Occurrence: 2
+
+STATE: , <| CA |> | -- [CA]  {aldente-palmsprings.com}    Occurrence: 3
+
+CITY: in <| St Pete Beach |>  -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+COMPANY:  <| Alcon Mechanical Piping , Inc. |> is -- [ALCON MECHANICAL INC]  {alconmechanical.com}    Occurrence: 1
+
+COMPANY:  <| Al Cornella Refrigeration Service |> , -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 18
+
+COMPANY: to <| Alden ' s Kennels |>  -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}    Occurrence: 1
+
+CITY:  <| Juneau |>  -- [JUNEAU]  {alcanelectric.com}    Occurrence: 1
+
+CITY: – <| Annandale |> , -- [ANNANDALE]  {albionridges.com}    Occurrence: 2
+
+STATE: Albuquerque <| NM |> Commercial -- [NM]  {albqhomes.com}    Occurrence: 5
+
+COMPANY: to <| Alco |> Technologies -- [ALCO]  {alcotech.com}    Occurrence: 2
+
+CITY: , <| Rapid City |> Commercial -- [RAPID CITY]  {alcornella.com}    Occurrence: 8
+
+ZIP:  <| 94596 |>  -- [94596 5908]  {alderland.com}    Occurrence: 4
+
+CITY:  <| Rocky Point |>  -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 2
+
+ADDRESS:  <| 6810 Barnard Mill Rd |> . -- [6810 BARNARD MILL RD]  {aldenskennels.com}    Occurrence: 1
+
+COMPANY:  <| Alcon Construction Inc. |> - -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 12
+
+COMPANY: 2010 <| American Legal Copying |> & -- [AMERICAN LEGAL COPYING & SVC]  {alcdsi.com}    Occurrence: 2
+
+STATE: , <| NY |> 11758 -- [NY]  {alcyoneplumbing.com}    Occurrence: 1
+
+CITY: of <| Rapid City |> , -- [RAPID CITY]  {alcornella.com}    Occurrence: 2
+
+CITY: from <| Alden |> . -- [ALDEN]  {aldenvet.com}    Occurrence: 1
+
+CITY: | <| Palm Springs |> , -- [PALM SPRINGS]  {aldente-palmsprings.com}    Occurrence: 3
+
+ZIP: TN <| 37701 |> . -- [37701 2057]  {alcoaschools.net}    Occurrence: 2
+
+ADDRESS:  <| 1203 W. Bryn Mawr Ave. |> Chicago -- [1203 W BRYN MAWR AVE]  {alchemy-arts.com}    Occurrence: 1
+
+CITY: in <| Knoxville |> , -- [KNOXVILLE]  {alcopro.com}    Occurrence: 1
+
+CITY: 106 <| Union |> , -- [UNION]  {alderbrookresort.com}    Occurrence: 1
+
+COMPANY: to <| Alden Lane |> this -- [ALDEN LANE NURSERY]  {aldenlane.com}    Occurrence: 2
+
+COMPANY: 2016 <| Albion Ridges Golf Course |> All -- [ALBION RIDGES GOLF COURSE]  {albionridges.com}    Occurrence: 2
+
+ADDRESS: 6739 <| Academy Rd NE Ste # |> 250 -- [6711 ACADEMY RD NE # B]  {albqhomes.com}    Occurrence: 5
+
+STATE: Montgomery <| AL |> 36101-0946 -- [AL]  {albme.org}    Occurrence: 1
+
+COMPANY:  <| Alden Kennels |> provides -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}    Occurrence: 1
+
+CONTACT: Pastors <| Jack and Teresa Miller |> . -- [JACK MILLER]  {alcc1.org}    Occurrence: 1
+
+CITY: exploring <| Albuquerque |> ’ -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+STATE: , <| CA |> 92262 -- [CA]  {aldente-palmsprings.com}    Occurrence: 3
+
+COMPANY: At <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 1
+
+COMPANY: Your <| Pool and Spa Service |>  -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 1
+
+CITY: : <| Tallahassee |> Electrician -- [TALLAHASSEE]  {albrittonelectric.com}    Occurrence: 6
+
+STATE: Rancho <| NM |> Listings -- [NM]  {albqhomes.com}    Occurrence: 5
+
+COMPANY: About <| Alcoholics for Christ |>  -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}    Occurrence: 2
+
+STATE: , <| NM |> 87104 -- [NM]  {albuquerquemuseum.com}    Occurrence: 2
+
+STATE: , <| CA |> 94577 -- [CA]  {alcometals.com}    Occurrence: 11
+
+ADDRESS:  <| 10 East Alderbrook Drive |> Union -- [10 E ALDERBROOK DR]  {alderbrookresort.com}    Occurrence: 1
+
+COMPANY:  <| Aldec , Inc. |> : -- [ALDEC INC]  {aldec.com}    Occurrence: 4
+
+COMPANY:  <| Alcamo Realty Associates |>  -- [ALCAMO REALTY ASSOC INC]  {alcamo.com}    Occurrence: 1
+
+ADDRESS:  <| 848 Washington Avenue |>  -- [848 WASHINGTON AVE]  {albme.org}    Occurrence: 1
+
+CITY:  <| Dalton |> , -- [DALTON]  {alconsys.com}    Occurrence: 2
+
+CITY:  <| San Diego |> , -- [SAN DIEGO]  {alcottinsurance.com}    Occurrence: 1
+
+CITY: visit <| Albion |> , -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY: The <| Alchemist & Barrister |> . -- [ALCHEMIST & BARRISTER]  {alchemistandbarrister.com}    Occurrence: 1
+
+ADDRESS:  <| 2000 Mountain Road NW |>  -- [2000 MOUNTAIN RD NW]  {albuquerquemuseum.com}    Occurrence: 1
+
+COMPANY:  <| Aldec , Inc. |> is -- [ALDEC INC]  {aldec.com}    Occurrence: 3
+
+STATE: , <| CA |> 92627 -- [CA]  {alcommarine.com}    Occurrence: 9
+
+CITY: comprehensive <| Tucson |> plumbing -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 1
+
+COMPANY:  <| Jonathan Alder Junior High School |> is -- [JONATHAN ALDER HIGH SCHOOL]  {alder.k12.oh.us}    Occurrence: 1
+
+COMPANY: to <| Alderbrook Pet Hospital |> for -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+ZIP: Illinois <| 61107 |>  -- [61107 5644]  {aldeengolfclub.com}    Occurrence: 1
+
+CONTACT:  <| Al Coronado |> Education -- [AL CORONADO]  {alcoronadoplumbing.com}    Occurrence: 5
+
+CITY:  <| St Pete Beach |> Hotels -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 3
+
+COMPANY:  <| ALCON Systems |> specializes -- [ALCON SYSTEMS INC]  {alconsys.com}    Occurrence: 1
+
+ZIP: NY <| 14004 |>  -- [14004 1222]  {aldenpoolsandplay.com}    Occurrence: 1
+
+CITY: North <| Las Vegas |> . -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 1
+
+CITY:  <| Albion |> Votes -- [ALBION]  {albion.k12.mi.us}    Occurrence: 13
+
+COMPANY:  <| Alchemy Glass |>  -- [ALCHEMY GLASS & LIGHT]  {alchemyglass.com}    Occurrence: 2
+
+CITY: Downtown <| Albuquerque |> Hotels -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 2
+
+CITY: approve <| Albion |> Schools -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+CITY: in <| San Clemente |> offers -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+COMPANY: the <| Alabama Dental |> Foundation -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+CITY: our <| Rocky Point |> 5 -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |> is -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}    Occurrence: 1
+
+COMPANY:  <| Abundant Life Christian |> Center -- [ABUNDANT LIFE CHRISTIAN CHURCH]  {alcc1.org}    Occurrence: 21
+
+CITY: in <| Newark |> , -- [NEWARK]  {alcc1.org}    Occurrence: 1
+
+COMPANY:  <| Alcon Construction , Inc. |> provides -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+CITY: best <| Las Vegas |> swimming -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 1
+
+COMPANY:  <| Alabama Dental Association |>  -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 20
+
+CITY:  <| Albuquerque |> New -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 10
+
+COMPANY: | <| Alabama Concrete Industries |> Association -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org}    Occurrence: 6
+
+CITY:  <| Plain City |> , -- [PLAIN CITY]  {alder.k12.oh.us}    Occurrence: 1
+
+CITY: an <| Alamosa |> native -- [ALAMOSA]  {alconconst.com}    Occurrence: 1
+
+STATE: , <| NM |> ) -- [NM]  {albuquerquemeadows.com}    Occurrence: 2
+
+CITY: asÂ <| Alamosa |> Concrete -- [ALAMOSA]  {alconconst.com}    Occurrence: 1
+
+COMPANY: Contact <| Alcoa Good Times |> |Motorcycle -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 1
+
+COMPANY:  <| Hyatt Hotels |> in -- [HYATT HOTELS & RESORTS]  {albuquerque.hyatt.com}    Occurrence: 4
+
+COMPANY: - <| Alcan Electrical & Engineering |> , -- [ALCAN ELECTRICAL & ENGINEERING]  {alcanelectric.com}    Occurrence: 2
+
+STATE: Tucson <| AZ |> , -- [AZ]  {alcoronadoplumbing.com}    Occurrence: 2
+
+STATE: , <| NY |> 14004 -- [NY]  {aldenpoolsandplay.com}    Occurrence: 1
+
+ADDRESS:  <| 2019 Topside Rd |> . -- [2019 TOPSIDE RD]  {alcoagoodtimes.com}    Occurrence: 3
+
+CITY: Regency <| Albuquerque |> > -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+CONTACT: founder <| Jack Singleton |> established -- [JACK SINGLETON]  {alcopro.com}    Occurrence: 1
+
+CITY: in <| Oak Park |> , -- [OAK PARK]  {alcuin.org}    Occurrence: 2
+
+CITY: in <| San Clemente |> , -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+COMPANY: now <| Alcala Country Pet |> Resort -- [ALCALA PET CARE]  {alcalapetcare.com}    Occurrence: 2
+
+STATE: , <| MI |> 49224 -- [MI]  {albion.k12.mi.us}    Occurrence: 1
+
+CONTACT:  <| Phil Albitz |> , -- [PHIL ALBITZ]  {albitzmiloe.com}    Occurrence: 4
+
+COMPANY:  <| Alco Iron & Metal |> is -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+COMPANY:  <| Alcoa Middle School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}    Occurrence: 5
+
+COMPANY: 1977-2001 <| Alcoholics for Christ |> ® -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}    Occurrence: 1
+
+STATE: , <| OR |>  -- [OR]  {aldercreekranch.com}    Occurrence: 1
+
+CITY:  <| Las Vegas |> Henderson -- [LAS VEGAS]  {alchemistpool.com}    Occurrence: 1
+
+CITY:  <| Albuquerque |> ' -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+ZIP: CA <| 95247 |>  -- [95247 9458]  {alchemymarket.com}    Occurrence: 4
+
+CITY:  <| St. Pete Beach |> , -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+ZIP: AL <| 36104 |>  -- [36104 3839]  {aldaonline.org}    Occurrence: 2
+
+ZIP: TN <| 37919 |>  -- [37919 3226]  {alcopro.com}    Occurrence: 2
+
+CITY: few <| Murphys |> restaurant -- [MURPHYS]  {alchemymarket.com}    Occurrence: 1
+
+CITY: , <| Vallejo |> , -- [VALLEJO]  {alcometals.com}    Occurrence: 3
+
+COMPANY:  <| Alchemist Pool Service |> - -- [ALCHEMIST POOL SVC]  {alchemistpool.com}    Occurrence: 2
+
+COMPANY: with <| Alco Iron & Metal Company |> | -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+COMPANY:  <| Abundant , Life , Christian , Academy |> , -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+ZIP: IL <| 60660 |>  -- [60660 4205]  {alchemy-arts.com}    Occurrence: 4
+
+STATE: , <| MN |>  -- [MN]  {albinson.com}    Occurrence: 10
+
+COMPANY:  <| Alcoa Good Times |> is -- [ALCOA GOOD TIMES INC]  {alcoagoodtimes.com}    Occurrence: 1
+
+COMPANY:  <| Alco Target |> Apparel -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 4
+
+STATE: , <| AL |> 35242 -- [AL]  {aldensys.com}    Occurrence: 7
+
+STATE: , <| NJ |>  -- [NJ]  {alchemistandbarrister.com}    Occurrence: 1
+
+COMPANY:  <| Abundant Life Christian Academy |> ( -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+COMPANY: For <| Ascension Lutheran Church |> ' -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}    Occurrence: 1
+
+STATE: , <| NM |> 87508 -- [NM]  {albuquerqueawning.com}    Occurrence: 2
+
+COMPANY: Â <| Alcon Construction , Inc. |> was -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Alchemy Arts , Inc. |> , -- [ALCHEMY ARTS INC]  {alchemyarts.com}    Occurrence: 1
+
+COMPANY:  <| Alcoa Intermediate School |>  -- [ALCOA MIDDLE SCHOOL]  {alcoaschools.net}    Occurrence: 5
+
+CITY: , <| Rocky Point |> Homes -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+CITY: in <| Santa Rosa |> . -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+COMPANY: American <| Dental Association |> and -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+STATE: , <| NY |>  -- [NY]  {aldenstate.com}    Occurrence: 4
+
+ZIP: SD <| 57702 |>  -- [57702 8177]  {alcornella.com}    Occurrence: 6
+
+COMPANY: TO <| ALDER CONSTRUCTION |>  -- [ALDER CONSTRUCTION CO]  {alderconstruction.com}    Occurrence: 1
+
+CITY: in <| Louisville |> near -- [LOUISVILLE]  {alcoagoodtimes.com}    Occurrence: 1
+
+STATE: , <| AL |>  -- [AL]  {alconcrete.org}    Occurrence: 1
+
+CITY: to <| Santa Rosa |> to -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: in <| Rocky Point |> on -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 1
+
+COMPANY: explore <| Alcuin Montessori |> and -- [ALCUIN MONTESSORI SCHOOL]  {alcuin.org}    Occurrence: 1
+
+CITY: - <| Livermore |> , -- [LIVERMORE]  {aldenlane.com}    Occurrence: 3
+
+COMPANY: , <| Alcoy Industries |> provides -- [ALCOY INDUSTRIES INC]  {alcoyspaparts.com}    Occurrence: 1
+
+COMPANY:  <| Alabama Dental |> Foundation -- [ALABAMA DENTAL ASSN]  {aldaonline.org}    Occurrence: 2
+
+CITY: to <| Albion |> for -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+CITY:  <| Massapequa |> : -- [MASSAPEQUA]  {alcyoneplumbing.com}    Occurrence: 4
+
+ZIP: OH <| 43064 |>  -- [43064 0000]  {alder.k12.oh.us}    Occurrence: 2
+
+STATE: Albuquerque <| NM |> Real -- [NM]  {albqhomes.com}    Occurrence: 15
+
+ADDRESS:  <| 225 Watson Street |> Albion -- [225 E WATSON ST]  {albion.k12.mi.us}    Occurrence: 13
+
+ZIP: NY <| 11725 |>  -- [11725 3095]  {alcamopools.com}    Occurrence: 1
+
+ADDRESS:  <| 836 Washington Ave |> . -- [836 WASHINGTON AVE]  {aldaonline.org}    Occurrence: 2
+
+CITY:  <| Albuquerque |> , -- [ALBUQUERQUE]  {albqhomes.com}    Occurrence: 15
+
+ADDRESS:  <| 6810 Barnard Mill Rd |>  -- [6810 BARNARD MILL RD]  {aldenskennels.com}    Occurrence: 2
+
+CITY: Street <| Tucson |> , -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 1
+
+ZIP: CA <| 95247 |> ( -- [95247 9458]  {alchemymarket.com}    Occurrence: 4
+
+CITY:  <| Albuquerque |>  -- [ALBUQUERQUE]  {albuquerquemeadows.com}    Occurrence: 2
+
+CITY: along <| Albuquerque |> ’ -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+CITY: in <| Tallahassee |> Florida -- [TALLAHASSEE]  {albrittonelectric.com}    Occurrence: 3
+
+CITY: About <| Albion |>  -- [ALBION]  {albion.com}    Occurrence: 1
+
+CITY: & <| Rocky Point |> Homes -- [ROCKY POINT]  {alborealestate.com}    Occurrence: 2
+
+CONTACT:  <| Don Vivatson |> – -- [DON VIVATSON]  {alderland.com}    Occurrence: 1
+
+CITY: | <| Tucson |> Plumbing -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+COMPANY:  <| Alden Suites-A Beachfront Resort |> is -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+CITY: sunny <| St. Pete Beach |> , -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 1
+
+CITY:  <| Minneapolis |> , -- [MINNEAPOLIS]  {albinson.com}    Occurrence: 5
+
+COMPANY:  <| Alden Pools & Play |> - -- [ALDEN POOLS & PLAY]  {aldenpoolsandplay.com}    Occurrence: 6
+
+ADDRESS:  <| 330 Tijeras NW |> , -- [330 TIJERAS AVE NW]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY: for <| Albany International |> Corporate -- [ALBANY INTERNATIONAL FABRICS]  {albint.com}    Occurrence: 1
+
+COMPANY:  <| Albritton Electrical Service , Inc |> . -- [ALBRITTON ELECTRICAL SVC INC]  {albrittonelectric.com}    Occurrence: 9
+
+COMPANY:  <| Alden Management Group |> . -- [ALDEN MANAGEMENT GROUP]  {aldenmanagement.com}    Occurrence: 1
+
+COMPANY: The <| Alchemist & Barrister |>  -- [ALCHEMIST & BARRISTER]  {alchemistandbarrister.com}    Occurrence: 1
+
+COMPANY: , <| Alcon Construction , Inc. |> will -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Alden Lee Company |>  -- [ALDEN LEE CO]  {aldenlee.com}    Occurrence: 1
+
+STATE: conducts <| CA |> insurance -- [CA]  {albitzmiloe.com}    Occurrence: 4
+
+CITY: serving <| Tallahassee |> and -- [TALLAHASSEE]  {albrittonelectric.com}    Occurrence: 3
+
+CITY:  <| Costa Mesa |> , -- [COSTA MESA]  {aldenmanagement.com}    Occurrence: 1
+
+CITY: at <| Union |> City -- [UNION]  {alderbrookresort.com}    Occurrence: 3
+
+COMPANY:  <| Al Cornella Refrigeration Service |> has -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 2
+
+STATE: Rancho <| NM |> Commercial -- [NM]  {albqhomes.com}    Occurrence: 5
+
+STATE: Rancho <| NM |> Rentals -- [NM]  {albqhomes.com}    Occurrence: 5
+
+CITY:  <| Rapid City |> , -- [RAPID CITY]  {alcornella.com}    Occurrence: 6
+
+CONTACT: Gloria <| Taylor Brown |>  -- [TAYLOR BROWN]  {alchemyarts.com}    Occurrence: 1
+
+COMPANY: at <| Alder Creek Ranch |> for -- [ALDER CREEK RANCH]  {aldercreekranch.com}    Occurrence: 1
+
+COMPANY:  <| Alco Target |> Com -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 4
+
+STATE: , <| CA |> 95247 -- [CA]  {alchemymarket.com}    Occurrence: 8
+
+COMPANY:  <| Alcoholics for Christ |> : -- [ALCOHOLICS FOR CHRIST]  {alcoholicsforchrist.com}    Occurrence: 4
+
+COMPANY: at <| Alcon Construction , Inc. |> ( -- [ALCON CONSTRUCTION INC]  {alconconst.com}    Occurrence: 1
+
+STATE: , <| GA |> 30721 -- [GA]  {alconsys.com}    Occurrence: 1
+
+STATE: , <| CA |> 94550 -- [CA]  {aldenlane.com}    Occurrence: 3
+
+STATE: , <| VT |>  -- [VT]  {alcvt.org}    Occurrence: 4
+
+COMPANY: for <| Alcott Insurance |> Agency -- [ALCOTT INSURANCE]  {alcottinsurance.com}    Occurrence: 6
+
+ZIP: IL <| 60072 |>  -- [60072 9638]  {aldenskennels.com}    Occurrence: 2
+
+STATE: , <| CA |> are -- [CA]  {alcomanufacturinginc.com}    Occurrence: 1
+
+STATE: , <| IL |> 60622 -- [IL]  {alcalas.com}    Occurrence: 5
+
+CITY: in <| St Pete Beach |> | -- [ST PETE BEACH]  {aldenbeachresort.com}    Occurrence: 2
+
+COMPANY:  <| Alchemy Arts , Inc. |> provides -- [ALCHEMY ARTS INC]  {alchemyarts.com}    Occurrence: 1
+
+CITY: in <| Chicago |> and -- [CHICAGO]  {alcalas.com}    Occurrence: 2
+
+STATE: , <| NY |> 10022 -- [NY]  {albustanny.com}    Occurrence: 4
+
+CITY: the <| Albion |> Community -- [ALBION]  {albion.k12.mi.us}    Occurrence: 2
+
+COMPANY: At <| Alden Suites Beachfront Resort |> we -- [ALDEN BEACH RESORT]  {aldenbeachresort.com}    Occurrence: 1
+
+CITY: , <| Encinitas |> , -- [ENCINITAS]  {alcalapetcare.com}    Occurrence: 1
+
+STATE: Murphys <| CA |> Restaurant -- [CA]  {alchemymarket.com}    Occurrence: 8
+
+COMPANY: Contact <| Alco Iron & Metal Company |>  -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+COMPANY:  <| ALCON Systems , Inc |> . -- [ALCON SYSTEMS INC]  {alconsys.com}    Occurrence: 2
+
+STATE: , <| CA |> 94026 -- [CA]  {aldenlee.com}    Occurrence: 1
+
+CITY:  <| Murphys |> CA -- [MURPHYS]  {alchemymarket.com}    Occurrence: 4
+
+COMPANY: ⋆ <| Alchemy Arts |>  -- [ALCHEMY ARTS]  {alchemy-arts.com}    Occurrence: 2
+
+COMPANY:  <| Alco |> Technologies -- [ALCO]  {alcotech.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |> : -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 6
+
+COMPANY:  <| Alco Target |> , -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 1
+
+COMPANY:  <| Alcalde & Fay |> is -- [ALCALDE & FAY]  {alcalde-fay.com}    Occurrence: 1
+
+COMPANY:  <| Abundant Life Christian Academy |> offers -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alden Systems |> , -- [ALDEN SYSTEMS]  {aldensys.com}    Occurrence: 5
+
+CONTACT: Dr. <| Lee W. Thorne |> , -- [LEE THORNE]  {alderbrookpet.com}    Occurrence: 1
+
+CITY:  <| Alden |> , -- [ALDEN]  {aldenvet.com}    Occurrence: 1
+
+CITY:  <| Albion |> Youth -- [ALBION]  {albion.k12.mi.us}    Occurrence: 12
+
+CITY: in <| San Clemente |> at -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+CITY: Regency <| Albuquerque |> . -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+CONTACT:  <| Jerry Justic |>  -- [JERRY JUSTIC]  {alcamo.com}    Occurrence: 1
+
+CITY: to <| Albion |> , -- [ALBION]  {albion.k12.mi.us}    Occurrence: 1
+
+COMPANY:  <| Alco Management |>  -- [ALCO MANAGEMENT INC]  {alcomgt.com}    Occurrence: 5
+
+COMPANY: to <| Alca Avionics |>  -- [ALCA AVIONICS]  {alcaavionics.com}    Occurrence: 2
+
+CITY: Street <| Albion |> MI -- [ALBION]  {albion.k12.mi.us}    Occurrence: 12
+
+CITY: in <| Albuquerque |>  -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+CITY: finding <| Tucson |> plumbing -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 1
+
+COMPANY:  <| Alder Construction Company |> is -- [ALDER CONSTRUCTION CO]  {alderconstruction.com}    Occurrence: 1
+
+ZIP: NY <| 14004 |>  -- [14004 9516]  {aldenvet.com}    Occurrence: 2
+
+ZIP: MI <| 49224 |>  -- [49224 1844]  {albion.k12.mi.us}    Occurrence: 1
+
+CITY:  <| Santa Rosa |> Junior -- [SANTA ROSA]  {alderbrookpet.com}    Occurrence: 4
+
+COMPANY:  <| Alco Target |> Company -- [ALCO TARGET]  {alcotarget.com}    Occurrence: 8
+
+CITY: as <| Alamosa |> Concrete -- [ALAMOSA]  {alconconst.com}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |>  -- [ASCENSION LUTHERAN CHURCH]  {alcvt.org}    Occurrence: 6
+
+CITY: – <| San Clemente |> , -- [SAN CLEMENTE]  {alderetepools.com}    Occurrence: 1
+
+STATE: , <| NY |>  -- [NY]  {alborealestate.com}    Occurrence: 4
+
+CITY: in <| Tallahassee |> . -- [TALLAHASSEE]  {albrittonelectric.com}    Occurrence: 3
+
+CITY: the <| Murphys |> restaurant -- [MURPHYS]  {alchemymarket.com}    Occurrence: 1
+
+CITY: Plumbers <| Tucson |> , -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+CITY: , <| Princeton |> , -- [PRINCETON]  {alchemistandbarrister.com}    Occurrence: 1
+
+STATE: , <| CA |> 95834P -- [CA]  {alcal.com}    Occurrence: 1
+
+COMPANY: the <| Allen Lund Company |> was -- [ALLEN LUND CO]  {alclogistics.com}    Occurrence: 1
+
+CONTACT: Pastor <| Jack Miller |>  -- [JACK MILLER]  {alcc1.org}    Occurrence: 1
+
+ZIP: NY <| 14304 |>  -- [14304 1724]  {alcliff.com}    Occurrence: 1
+
+ADDRESS: 101 <| S. Glenwood Ave. Suite 4 |>  -- [110 S GLENWOOD AVE # 4]  {alconsys.com}    Occurrence: 1
+
+ADDRESS:  <| 150 Paularino Avenue , Suite 194 |>  -- [150 PAULARINO AVE # 194]  {aldenmanagement.com}    Occurrence: 1
+
+COMPANY:  <| Al Coronado Plumbing |> Services -- [AL CORONADO PLUMBING]  {alcoronadoplumbing.com}    Occurrence: 2
+
+COMPANY: | <| Albuquerque Awning |> | -- [ALBUQUERQUE AWNING]  {albuquerqueawning.com}    Occurrence: 2
+
+CITY: | <| Murphys |> CA -- [MURPHYS]  {alchemymarket.com}    Occurrence: 4
+
+COMPANY:  <| Alco Iron & Metal Co |> . -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 4
+
+STATE: , <| FL |> . -- [FL]  {alcaavionics.com}    Occurrence: 1
+
+COMPANY: Aldens <| Kennels Inc |> . -- [ALDEN 'S KENNELS INC]  {aldenskennels.com}    Occurrence: 1
+
+COMPANY: - <| Abundant Life Christian Academy |>  -- [ABUNDANT LIFE CHRISTIAN ACAD]  {alcapro.com}    Occurrence: 2
+
+CITY: at <| Albion |> College -- [ALBION]  {albion.k12.mi.us}    Occurrence: 12
+
+CITY: in <| Tucson |> , -- [TUCSON]  {alcoronadoplumbing.com}    Occurrence: 2
+
+CITY: , <| Plain City |> , -- [PLAIN CITY]  {alder.k12.oh.us}    Occurrence: 1
+
+COMPANY: The <| Ingles / Company Realtors |> are -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 5
+
+COMPANY:  <| Alcom Marine Electronics |> is -- [ALCOM MARINE ELECTRONICS]  {alcommarine.com}    Occurrence: 1
+
+CITY: Downtown <| Albuquerque |> Hotel -- [ALBUQUERQUE]  {albuquerque.hyatt.com}    Occurrence: 1
+
+COMPANY:  <| Ingles Co |> . -- [INGLES CO REALTORS]  {albqhomes.com}    Occurrence: 5
+
+COMPANY: 2009-2016 <| Alston , Courtnage & Bassetti |> LLP -- [ALSTON COURTNAGE & BASSETTI]  {alcourt.com}    Occurrence: 2
+
+CITY: of <| Albion |> Innovation -- [ALBION]  {albionfoundation.org}    Occurrence: 1
+
+COMPANY:  <| Ascension Lutheran Church |> ( -- [ASCENSION LUTHERAN CHURCH]  {alchurch.org}    Occurrence: 1
+
+COMPANY:  <| Alden Lee Company |> , -- [ALDEN LEE CO]  {aldenlee.com}    Occurrence: 4
+
+CITY:  <| Albion |> Cooks -- [ALBION]  {albion.com}    Occurrence: 1
+
+COMPANY:  <| Alabama Concrete |> Association -- [ALABAMA CONCRETE INDUSTRIES]  {alconcrete.org}    Occurrence: 1
+
+CONTACT:  <| Phil Albitz |> is -- [PHIL ALBITZ]  {albitzmiloe.com}    Occurrence: 8
+
+COMPANY: at <| Alderbrook Pet Hospital |> for -- [ALDERBROOK PET HOSPITAL]  {alderbrookpet.com}    Occurrence: 1
+
+CITY: of <| Albuquerque |> , -- [ALBUQUERQUE]  {albuquerquemuseum.com}    Occurrence: 1
+
+COMPANY:  <| Al Cornella Refrigeration Service |> - -- [AL CORNELLA REFRIGERATION SVC]  {alcornella.com}    Occurrence: 4
+
+ADDRESS: Tennessee <| 2019 Topside Road |> - -- [2019 TOPSIDE RD]  {alcoagoodtimes.com}    Occurrence: 4
+
+COMPANY: at <| Alco Iron & Metal Company |>  -- [ALCO IRON & METAL CO INC]  {alcometals.com}    Occurrence: 2
+
+ZIP: NY <| 14004 |> ( -- [14004 9516]  {aldenvet.com}    Occurrence: 6
+

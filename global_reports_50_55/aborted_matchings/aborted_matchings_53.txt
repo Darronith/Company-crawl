@@ -1,0 +1,118 @@
+Format: Word chain: Actual words in document  Next word: This word caused the abort  Target: target
+
+Word chain: Al Hill ,  Next word: Al  Target: AL HILL 'S BOILER SALES
+
+Word chain: Alfa Insurance  Next word: Alfa  Target: ALFA REALTY INC
+
+Word chain: Modesto ,  Next word: Modesto  Target: MODESTO
+
+Word chain: Alexander City  Next word: City  Target: ALEXANDER CITY
+
+Word chain: Roofing , Industrial  Next word: Roofing  Target: ALEX ROOFING CONSTRUCTION CO
+
+Word chain: Alford Homes ,  Next word: Greg  Target: GREG ALFORD
+
+Word chain: Alford Homes , Greg  Next word: Alford  Target: ALFORD HOMES LLP
+
+Word chain: Mazda , Browning  Next word: Mazda  Target: ALHAMBRA MAZDA
+
+Word chain: Alfa |  Next word: Alfa  Target: ALFA CORP
+
+Word chain: Alfa |  Next word: Alfa  Target: ALFA INSURANCE CORP
+
+Word chain: Alfa Realty ,  Next word: Alfa  Target: ALFA REALTY INC
+
+Word chain: Alabama ,  Next word: Al  Target: AL HILL 'S BOILER SALES
+
+Word chain: Roofing , Industrial  Next word: Roofing  Target: ALEX ROOFING INC
+
+Word chain: Mazda Of  Next word: Alhambra  Target: ALHAMBRA MAZDA
+
+Word chain: Village of  Next word: Algonquin  Target: ALGONQUIN VILLAGE PUBLIC WORKS
+
+Word chain: Bridal Gowns from  Next word: Alfred  Target: ANGELO ALFRED BRIDAL
+
+Word chain: Greg Alford of  Next word: Alford  Target: GREG ALFORD
+
+Word chain: Alhambra | New Mazda dealership in  Next word: Alhambra  Target: ALHAMBRA MAZDA
+
+Word chain: ASHLAND HEATING ,  Next word: ASHLAND  Target: ASHLAND
+
+Word chain: Alexza Pharmaceuticals -  Next word: Alexza  Target: ALEXZA MOLECULAR DELIVERY CORP
+
+Word chain: Restaurant  Next word: Alfama  Target: ALFAMA RESTAURANT INC
+
+Word chain: E A L  Next word: E  Target: 3 E 69TH ST # 11B
+
+Word chain: Alhambra in  Next word: Alhambra  Target: ALHAMBRA MAZDA
+
+Word chain: Mazda ,  Next word: Alhambra  Target: ALHAMBRA MAZDA
+
+Word chain: Village of  Next word: Algonquin  Target: ALGONQUIN VILLAGE HALL
+
+Word chain: AL , Prattville  Next word: AL  Target: AL
+
+Word chain: Alicat Scientific  Next word: Alicat  Target: ALICAT SCIENTIFIC INC
+
+Word chain: Lumber ,  Next word: Alexander  Target: ALEXANDER LUMBER CO
+
+Word chain: Alger –  Next word: Alger  Target: ALGER MANUFACTURING CO INC
+
+Word chain: Aliano Real Estate -  Next word: Aliano  Target: ALIANO REAL ESTATE
+
+Word chain: Figliolia President of  Next word: Alex  Target: ALEX FIGLIOLIA CONTRACTING
+
+Word chain: Alexander City  Next word: City  Target: ALEXANDER CITY OUTLOOK
+
+Word chain: Alexian Brothers Health System -  Next word: Alexian  Target: ALEXIAN BROTHERS HEALTH SYSTEM
+
+Word chain: Insurance |  Next word: Alfa  Target: ALFA INSURANCE CORP
+
+Word chain: AL , Wetumpka  Next word: AL  Target: AL
+
+Word chain: AL , Auburn  Next word: AL  Target: AL
+
+Word chain: Alicia Mugetti ,  Next word: Mugetti  Target: ALICIA MUGETTI
+
+Word chain: Alfred ,  Next word: Angelo  Target: ANGELO ALFRED BRIDAL
+
+Word chain: Roofing , Residential  Next word: Roofing  Target: ALEX ROOFING INC
+
+Word chain: Alfa Insurance |  Next word: Insurance  Target: ALFA INSURANCE CORP
+
+Word chain: Mazda of  Next word: Alhambra  Target: ALHAMBRA MAZDA
+
+Word chain: Figliolia President of  Next word: Alex  Target: ALEX FIGLIOLIA
+
+Word chain: Clinic , Walk-in  Next word: Clinic  Target: ALEXANDRIA CLINIC
+
+Word chain: Alfred  Next word: Angelo  Target: ANGELO ALFRED BRIDAL
+
+Word chain: Health  Next word: Alexian  Target: ALEXIAN BROTHERS HEALTH SYSTEM
+
+Word chain: Alfred University and  Next word: Alfred  Target: ALFRED
+
+Word chain: Toyota of  Next word: Alexandria  Target: ALEXANDRIA TOYOTA
+
+Word chain: South Florida '  Next word: s  Target: 830 S FLAMINGO RD
+
+Word chain: Insurance Agent |  Next word: Farmers  Target: FARMERS INSURANCE GROUP
+
+Word chain: Tom Knabe , Mark  Next word: Knabe  Target: TOM KNABE
+
+Word chain: Alicia Mugetti ,  Next word: Mugetti  Target: ALICIA MUGETTI INC
+
+Word chain: Alhambra in  Next word: Alhambra  Target: ALHAMBRA
+
+Word chain: Advanced Logic Industries Achieves the  Next word: Advanced  Target: ADVANCED LOGIC INDUSTRIES INC
+
+Word chain: Alex Roofing Company , Professional  Next word: Roofing  Target: ALEX ROOFING CONSTRUCTION CO
+
+Word chain: Transformer : :  Next word: Transformer  Target: ALLEN TRANSFORMER CO
+
+Word chain: Algona Marine & Sport , Inc. , in  Next word: Algona  Target: ALGONA MARINE & SPORT INC
+
+Word chain: Roofing , Residential  Next word: Roofing  Target: ALEX ROOFING CONSTRUCTION CO
+
+Word chain: ALFRED  Next word: ANGELO  Target: ANGELO ALFRED BRIDAL
+

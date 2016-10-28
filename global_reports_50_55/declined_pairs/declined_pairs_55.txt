@@ -1,0 +1,1494 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY:  <| Real |> estate -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Roofing |> Contractor -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| All-City |> ’ -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Print |> , -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: PNC <| PARK |>  -- [ALLISON PARK]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: years <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: OF <| CONSTRUCTION |> BIDS -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: of <| Allegra |> franchise -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Certificate <| Covers |> and -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: prices.All <| City |> provide -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| ALL |> ' -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Green <| Bay |> Show -- [BAY LAKES MARKETING INC]  {allcanada.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| John |> Sayegh -- [JOHN MOSHIER]  {allegany.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Akins |> has -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: s <| New |> ? -- [NEW YORK]  {allcovered.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: founded <| Allegiant |> with -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: joined <| ALL |> in -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Print |> Design -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 9
+
+COMPANY:  <| All |> our -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> Get -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 43
+
+COMPANY:  <| Jewelry |> Collection -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Allegra |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: Dependable <| Roofing |> Repair -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Michael |> . -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: sell <| California |> real -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> mailing -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All-City |> works -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Print |> On -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Digital <| Print |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: ™ <| All |> rights -- [ALL COUNTIES COURIER]  {allcountiescourier.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| A |> / -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Rights -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: General <| Contractors |> License -- [ALL BAY CONTRACTORS INC]  {allbaycontractors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Allegra |> for -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Flyers <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Specialty <| Metals |> | -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Residential <| Roofing |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY: of <| Disaster |> Restoration -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2015 <| Allegra |> Network -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: - <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| ALL |> your -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> has -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Only <| Chem-Dry |> uses -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Michael |> Spatola -- [MICHAEL WOJTOWICZ]  {allanbriteway.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ’ <| s |> commonly -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Akins |> fascinated -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: • <| All |> Rights -- [ALL CARE]  {allcareipa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: - <| Allbrite |> Electric -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| All American |> Trucking -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Bohemian <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+ADDRESS:  <| Vernon Rd |> . -- [2482 MOUNT VERNON RD # C]  {allcreaturesanimalhospital.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY: County <| Construction |> provides -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: at <| Allbrite |> we -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: City <| Metal |> special -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALLAN |> NEWS -- [ALLAN INDUSTRIES INC]  {allanindustries.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Contact <| Allan 's |>  -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All |> trademarks -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Why <| Chem-Dry |> ? -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Real Estate |> . -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Staffing <| Business |>  -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| All |> rights -- [ALL CUSTOM ALUMINUM]  {allcustomaluminum.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Cost <| Funeral |> and -- [ALL COUNTY FUNERAL HOME]  {allcounty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Contact <| Us |> | -- [270 US HIGHWAY 46]  {allanindustries.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Farm |> Manager -- [ALLANDALE FARM]  {allandalefarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> Cities -- [ALL CITYS REALTY INC]  {allcitiesrealty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALLEGRA |>  -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Dead <| Animals |> , -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: National <| Crane |> , -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Offset <| Print |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Animal <| Care |> Costa -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Muhlhaus <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Property <| Claims |> Consulting -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Town <| Highway |> Secretary -- [ALLEGANY HIGHWAY DEPT]  {allegany.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> owners -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 1925Allegheny <| Installations |> is -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY:  <| Allegra |> - -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 38
+
+COMPANY: the <| Disaster |> is -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| John |> Boolukos -- [JOHN KOIS]  {allcovered.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: 2005 <| Allan Company |> , -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Wood <| Floors |> In -- [ALL BRITE FLOORS INC]  {allbritefloors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Contact <| Allegra |> Scottsdale -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Johnson |> : -- [DARYLE JOHNSON]  {allamericanturf.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> work -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: An <| Allan Briteway |> senior -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: for <| California |> . -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All County |> Pre-Arrangement -- [ALL COUNTY FUNERAL HOME]  {allcounty.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Menu <| Covers |> - -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Electric <| All |> Rights -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| All |> rights -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: All <| Credit |> Cards -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| ALL |> took -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Data <| Print |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: About <| ALL |>  -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+ADDRESS: 505 <| Route |> 837 -- [17960 STATE ROUTE 7]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Southern <| California |> Since -- [28910 RANCHO CALIFORNIA # 204]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Allegra |> Web-to-Print -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 38
+
+COMPANY: Let <| Allegiant |> handle -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| RV |> Dealer -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Auto |> Shippers -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Preventative <| Care |>  -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: , <| All Chicagoland |> takes -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Allchem |> has -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: choose <| All |> . -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: ABOUT <| US |>  -- [270 US HIGHWAY 46]  {allanindustries.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: Specialty <| Metals |>  -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Southern <| California |> Real -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All American |> Programs -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY: Emergency <| Plumbing |> & -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: - <| All |> Rights -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: | <| Auto Transport |> | -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CITY: All <| City |> Metal -- [LONG ISLAND CITY]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: Verde <| Law |> offices -- [ALLEGAN LAW OFFICES]  {alleganlaw.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Lift <| Service |> Ohio -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: and <| Allandale |> Street -- [ALLANDALE FARM]  {allandalefarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Credit |> is -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: British <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: on <| Allegra |> to -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Wings of Hope |> can -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: local <| Allegra |> location -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Glenn |> @ -- [GLENN ZIMMERMAN]  {allamericanrealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY:  <| Allegra |> Network -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: Pinon <| Hills |>  -- [OAK HILLS]  {allamericanrealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: Boat <| RV |> and -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 555th <| Ave |>  -- [5421 NAVARRE AVE]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Service |> Shops -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY:  <| Service |>  -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 26
+
+ADDRESS: , <| North |> Liberty -- [1103 N LINCOLN ST]  {allamericanturf.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Team <| Allegra |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALL |> Family -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| Main |> menu -- [2001 W MAIN ST]  {allegianttechnology.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| All Area |> is -- [ALL AREA PROPERTY MANAGEMENT]  {allareamgmt.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: of <| Chem-Dry |> ’ -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: by <| Alleghany |> Chevrolet -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Allegra |> . -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: used <| RV |> inventory -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: the <| Chem-Dry |> way -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> offers -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: 140 <| West 19th Street |> , -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: s <| Car |> Culture -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Mard <| Electric |> and -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> a -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| WILLIAM |> PENN -- [3600 WILLIAM FLYNN HWY]  {alleghenyinstallations.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: operated <| Allegra |> is -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alleghany |> Motor -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Allegra |> franchise -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| E. Sir Francis Drake |> Blvd -- [17 E SIR FRANCIS DRAKE BL # 200]  {allcalifornia.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Nursing <| Care |>  -- [ALL ANIMAL CARE VETERINARY]  {allanimalcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| PRINT |> MANAGEMENT -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| PLUMBING |>  -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alliance |> Partners -- [ALLIANCE CO]  {allco.net} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: Devils <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT:  <| John |> began -- [JOHN KOIS]  {allcovered.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Jeffers |> Branches -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: About <| Allan |> ' -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: American <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Arkansas |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: COUNTY <| CONSTRUCTION |> – -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: / <| Old |> Seale -- [7900 OLD ROCKSIDE RD]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT:  <| Greenberg |> belongs -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: local <| Allegra |> center. -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ' <| s |> spot -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Hawaiian <| Destinations |> Specialist -- [ALL DESTINATIONS INC]  {alldestinations.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Sports |> Medicine -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Personal <| Credit |> Not -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: the <| Allegra |> Home -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| ALL |> Canada -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY: Renters <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: A <| Crane |>  -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: with <| Allegiant Finance |> , -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| Limo |> Service -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: HEALTH <| CARE |> , -- [ALL CARE]  {allcareipa.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS:  <| Box |> 249 -- [PO BOX 167789]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: with <| Alleghany |> Chevrolet -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: with <| Fisher |> her -- [GAIL FISHER]  {alldogsgym.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allan ' s Jewelry |> Only -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY:  <| Chem-Dry |> professionals -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Vernon |> Shopping -- [2482 MOUNT VERNON RD # C]  {allcreaturesanimalhospital.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Other <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Allan |> Company- -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| Box |> 70 -- [PO BOX 167789]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| AllChem |> purchases -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: AND <| PRINT |> COMPANY -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Moving |> Guru -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 46th <| Street |> , -- [5316 35TH ST # 3B]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Best <| Dog Waste Cleanup |> Service -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Contact <| Allan Briteway |>  -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: in <| Animal |> and -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Limo |> Service -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Dental <| Construction |>  -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: the <| California Residential Mortgage |> Act -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CITY: of <| New |> Hampshire -- [NEW YORK]  {allcovered.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Alleghany |> ’ -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: were <| ALL |> ' -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Akins |> loves -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Supervisor <| John |> Hare -- [JOHN MOSHIER]  {allegany.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Allcounty Plumbing |> & -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: About <| Us |>  -- [270 US HIGHWAY 46]  {allanindustries.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+COMPANY: your <| Car |> Long-lasting -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Allan Company |> ? -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Jets <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CITY:  <| San |> Diego -- [SAN JUAN CPSTRNO]  {allco.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| ALL |> began -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| All City |> Floors -- [ALL CITY FLOOR CO]  {allcityfloors.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Wildlife <| Care |> Center -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Heating |> Repair -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| All-City |> proudly -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: in <| Print |> and -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY:  <| Allan Automatic |> Sprinklers -- [ALLAN AUTOMATIC SPRINKLER CORP]  {allansocal.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: Need <| Service |> Now -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: , <| Lake |> Park -- [LAKE WORTH]  {allcounty.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+ADDRESS: Washington <| West |> Virginia -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+ADDRESS: , <| Katy |> and -- [9446 OLD KATY RD # 105]  {allbritefloors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Any <| Plumbing |> Service -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: : <| John |> Jones -- [JOHN MOSHIER]  {allegany.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: ’ <| s |> work -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: based <| Auto |> transport -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: as <| Allegheny |> Technologies -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: The <| ALL |> Store -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+COMPANY: at <| All Creatures |> , -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Animal <| Rescue |> , -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: Larry <| Liptak |> , -- [MICHAEL LIPTAK]  {allcrane.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Michael <| Villar |>  -- [MIKE VILLAR]  {alleganlaw.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: County <| Construction |> | -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 14
+
+COMPANY: Area <| Auto Transport |> Company -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+ADDRESS: and <| Westwood |> Veterinary -- [842 N WESTWOOD ST]  {allcreaturespetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: goal <| Allblack |> is -- [ALLBLACK CO]  {allblackco-llc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Allan Briteway |> is -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| Moving |>  -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Service <| Crane |> Shop -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: and <| American |> Express -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Industrial <| Metals |> Supplier -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: City <| Metal |>  -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 24
+
+COMPANY:  <| Rental |>  -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+CONTACT: About <| Allan |>  -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: The <| ALL |> Family -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: NORTH <| PARK |> LOUNGE -- [ALLISON PARK]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: have <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Residential <| Moving |>  -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Plumbing |>  -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY: , <| Chem-Dry |> developed -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ® <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: at <| Allbritten |> and -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: View <| All |>  -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Allegra |> Tucson -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 40
+
+CONTACT: , <| Greenberg |> was -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Upper <| West |> Side -- [53 W 36TH ST]  {allcityny.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> hands -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: : <| Jewelry |> , -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Roofing |> in -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: Mount <| Pleasant |> , -- [MT PLEASANT]  {allamericanturf.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: from <| Allegiant |> . -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: All <| City |> prides -- [LONG ISLAND CITY]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Your <| Car |> ’ -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ; <| Jewelry |> , -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: All <| Credit Card |> Services -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 10
+
+COMPANY:  <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 7
+
+COMPANY: choose <| ALL |> . -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| Heating |> & -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| All |> americans -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: - <| Allegra |>  -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY:  <| Allegra |> Network -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: County <| Construction |>  -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 14
+
+COMPANY:  <| Allcounty Plumbing |> & -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: , <| Architect |> , -- [ALLAN GREENBERG ARCHITECT]  {allangreenberg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: • <| Technology |> Consulting -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All Dead |> Termite -- [ALL DEAD TERMITE-PEST CONTROL]  {alldeadpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY:  <| All |> of -- [ALL AREA ROOFING]  {allarearoofing.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allan Briteway |> Electrical -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY: | <| Metals |> Technology -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> of -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: in <| Costa |> Rica -- [COSTA MESA]  {allcreaturescarecottage.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Let <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+ADDRESS: ’ <| s |> all -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Bradley |> Jordan -- [RON BRADLEY]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+CITY:  <| Long |> term -- [LONG BEACH]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: At <| ALL |> , -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Kevin |> Cushing -- [KEVIN WILLIAMS]  {allegraprint.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: City <| Metal |> chute -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Allegra |> . -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: YOUR <| BUSINESS |> ! -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALLEGHENY |> GENERAL -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allan Briteway |>  -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Outstanding <| Care |>  -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Skyline <| RV |> Dealer -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: MANAGED <| CARE |> , -- [ALL CARE]  {allcareipa.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: behind <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Allbritten |>  -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: , <| Alleghany |> Chevrolet -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: & <| Plumbing |> Repair -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2015 <| All |> rights -- [ALL AREA PROPERTY MANAGEMENT]  {allareamgmt.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Custom <| Metals |>  -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Allegiant |> Support -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Fire <| Sprinkler |> Association -- [ALLAN AUTOMATIC SPRINKLER CORP]  {allansocal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alleghany |> Advantage -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| All |> rights -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: County <| Construction |> is -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+CONTACT: see <| Bryan |> at -- [BRYAN SPINKS]  {alldade.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allbritten |> is -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alleghany |> is -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: , <| Technology |> , -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: recommend <| Allegiant |> to -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: southern <| California |> including -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Industrial <| Drilling |>  -- [ALL-DADE DRILLING CORP]  {alldade.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| American |> Express -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Medical <| Construction |>  -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: Mexico <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Jordan <| Construction |> Co -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+COMPANY: Your <| Car |> Before -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| AllBrite |> Electric -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: for <| Allegra |> Tucson -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| WEST |> VIRGINIA -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: , <| West |> Virginia -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: 22568 <| Mission Blvd |> . -- [24808 MISSION BLVD # 152]  {allcreditcardservices.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS:  <| s |> next -- [820 S LEXINGTON AVE]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contact <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Contact <| Allchem |> , -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: 4655 <| West 137th St |> . -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: About <| Alleghany |>  -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 18
+
+COMPANY:  <| Credit Card |> Machines -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: Islanders <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Specialty <| Metals |> Supplier -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: TO <| ALLEGRA |> , -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Allan |> Electric -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: STATE <| PARK |> SIDEWALKS -- [ALLISON PARK]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: American <| Animal Hospital |> Association -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: behind <| Allegra |> in -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Your <| Car |> with -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Allegra |>  -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY:  <| Moving |> Checklist -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY:  <| Crane |> Safety -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Green <| Bay |> , -- [BAY LAKES MARKETING INC]  {allcanada.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS: Contact <| Us |>  -- [270 US HIGHWAY 46]  {allanindustries.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: from <| Allegra |> make -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS:  <| Box |> 505 -- [PO BOX 167789]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Awesome <| Heating |> , -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> heads -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Family <| Law |> , -- [ALLEGAN LAW OFFICES]  {alleganlaw.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> : -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: Town <| Highway |>  -- [ALLEGANY HIGHWAY DEPT]  {allegany.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+ADDRESS: ’ <| s |> reach -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: into <| Alleghany |> Chevrolet -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Categories -- [ALL AMERICAN TENT & AWNING INC]  {allamericantentandawning.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> not -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: down <| Allandale |> Street -- [ALLANDALE FARM]  {allandalefarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Print |> Management -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All County |> Treasure -- [ALL COUNTY FUNERAL HOME]  {allcounty.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Allchem |> , -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: At <| All Area |> , -- [ALL AREA PROPERTY MANAGEMENT]  {allareamgmt.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Contact <| All Claims |> Repair -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Rec <| Dept |> Facilities -- [ALLEGANY HIGHWAY DEPT]  {allegany.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Allegra |> Newsletter -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: Stray <| Animals |>  -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ) <| ALL |> - -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CITY:  <| New |> Jersey -- [NEW YORK]  {allcovered.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 22
+
+COMPANY: At <| Allbritten |> , -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Southern <| California |> for -- [28910 RANCHO CALIFORNIA # 204]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> is -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: N. <| HELLMAN |> , -- [HOWARD HELLMAN]  {allbrightelectric.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allegheny |> Technologies -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 22
+
+COMPANY:  <| All Cities Realty |> ® -- [ALL CITYS REALTY INC]  {allcitiesrealty.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| ALL |> acquired -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Our <| Print |> • -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+ADDRESS: ' <| s |> Dream -- [150 S WATER ST]  {alldressedupcostumes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Greenberg |> ’ -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: southern <| California |> will -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> rights -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| All Class |> has -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Downtown <| Allegra |> Promotional -- [ALLEGRA PRINT & IMAGING]  {allegraplymouth.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| 842 N. |> Westwoo -- [842 N WESTWOOD ST]  {allcreaturespetcare.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS:  <| West |> Elizabeth -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Allan Company |> currently -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> start -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: from <| Limo |> Service -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alleghany |> Info -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Penguins <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Plumbing |> Service -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> is -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS: ’ <| s |> why -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All Area |> Brokerage -- [ALL AREA PROPERTY MANAGEMENT]  {allareamgmt.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: to <| Alleghany |> Chevrolet -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: ALL <| City |> Metal -- [LONG ISLAND CITY]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: the <| Farm |>  -- [ALLANDALE FARM]  {allandalefarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Chicagoland |> ’ -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Print |> & -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CITY: , <| New |> Jersey -- [NEW YORK]  {allcovered.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: near <| Beach |> , -- [HALLANDALE BEACH]  {allclaimsrepairs.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS:  <| Box |> 807 -- [PO BOX 167789]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: with <| Allegiant |> has -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Moving |> Supplies -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+ADDRESS: Carner <| Ave |> . -- [5421 NAVARRE AVE]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: - <| All City |> Hardwood -- [ALL CITY FLOOR CO]  {allcityfloors.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Rental |> Fleet -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Realtors <| All |> rights -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| Box |> 50 -- [PO BOX 167789]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Farm |> Staff -- [ALLANDALE FARM]  {allandalefarm.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> rights -- [ALL ANIMAL CARE VETERINARY]  {allanimalcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All County |> ' -- [ALL COUNTY FUNERAL HOME]  {allcounty.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: the <| Service |> Hot -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Allegiant |> ’ -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ' <| s |> commitment -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> clients -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Arkansas |> Offices -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+COMPANY:  <| Credit Card |>  -- [AMERICAN CREDIT CARD SYSTEMS]  {allcreditcardservices.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: , <| All Chicagoland |> offers -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Home <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Gary |> , -- [GARY ZAK]  {allbritefloors.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CITY: , <| New |> Orleans -- [NEW YORK]  {allcovered.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALL |> bridges -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alleghany |> ’ -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Discount |> is -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> paperwork -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Allbrite Care |> Care -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: call <| Allbritten |> for -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> is -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Juan <| Capistrano |> , -- [31815 CAMINO CAPISTRANO # 21]  {allco.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: View <| Kevin |> ' -- [KEVIN WILLIAMS]  {allegraprint.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Wings of Hope |> Service -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Electrical |> Service -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Because <| Chem-Dry |> uses -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Allan 's |>  -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Sewer |> Services -- [ALL AMERICAN SEWER SVC]  {allamericansewerservice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> high-quality -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Plumbing |> , -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: full-service <| ALL |> branch -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: the <| Toole |> family -- [MICHAEL TOOLE]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Alleghany |> Capital -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: OC <| Limo |> Service -- [ALL CITY LIMO]  {allcitylimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| AllChem |> , -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Kennedy <| Ave |> . -- [5421 NAVARRE AVE]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS:  <| Vernon Road |>  -- [2482 MOUNT VERNON RD # C]  {allcreaturesanimalhospital.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: 1972 <| Greenberg |> established -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Moving |> the -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: End-of-Life <| Care |>  -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY:  <| All City |> Floors -- [ALL CITY FLOOR CO]  {allcityfloors.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Motorcycle <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: by <| Allegra |> owners -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Print |> Services -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Allan |> has -- [ALLAN MARSH]  {allanmarsh.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Menu <| Covers |>  -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Recycling <| Company |> in -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: now <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Wine <| Book |>  -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: by <| ALL |> . -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Call <| Around |> ... -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Rec <| Dept |> Programs -- [ALLEGANY HIGHWAY DEPT]  {allegany.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 14
+
+COMPANY: by <| ALL |> who -- [ALL CREATURES CARE COTTAGE]  {allcreaturescarecottage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| Street |>  -- [3233 ENTERPRISE ST]  {allansocal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: At <| Allegra |> , -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Between <| Chem-Dry |> and -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: York <| City |> has -- [LONG ISLAND CITY]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: with <| Allbritten |> ? -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Turf Beauty |> Program -- [ALL AMERICAN TURF BEAUTY INC]  {allamericanturf.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY:  <| All |> bookings -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Equipment <| Rental |>  -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: MAKE <| ALL |>  -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: professional <| Service |> firm -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: & <| Funeral |> Services -- [ALL COUNTY FUNERAL HOME]  {allcounty.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 36
+
+COMPANY: , <| Allchem |> LLC -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| Jewelry |> and -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contractors <| Service |> , -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Chem-Dry |> vs -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY: ATI <| Metals |> . -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+COMPANY: , <| Chem-Dry |> offers -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: to <| Allegra |> , -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: of <| Allan Briteway |> from -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: Centerless <| Grinding |>  -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CITY: Deerfield <| Beach |> , -- [HALLANDALE BEACH]  {allclaimsrepairs.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: at <| Wings |> Home -- [WINGS OF HOPE HOSPICE]  {alleganhospice.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS: Seattle <| University |> and -- [600 UNIVERSITY ST # 2800]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Family <| Law |>  -- [ALLEGAN LAW OFFICES]  {alleganlaw.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Welltown <| Rd |> , -- [11809 CANYON RD E]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: About <| Allan |> - -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: full <| Service |> Construction -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Roofing |> Company -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: - <| Allan Briteway |> Electrical -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 8
+
+COMPANY:  <| Service |> means -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Allchem |> can -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Akins |> shares -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allan Company |> , -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| All |> fields -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: with <| Allegra |> BrandBUILDER -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY: Contact <| Allbritten |>  -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: The <| Allegra |> Home -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: make <| ALL |> the -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Auto <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY: Southern <| California |> including -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: County <| Plumbing |> and -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+CONTACT:  <| John |> Hare -- [JOHN MOSHIER]  {allegany.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT:  <| John |> joined -- [JOHN KOIS]  {allcovered.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| ALL |> bet -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Real Estate |> News -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 6
+
+COMPANY:  <| Heating |>  -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+CONTACT: Cindy <| Moshier |>  -- [JOHN MOSHIER]  {allegany.org} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Allan Company |> has -- [ALLAN CO RE-CYCLING CTR]  {allancompany.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: Dr. <| Akins |> enjoys -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Estate <| Brokerage |> based -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: email <| Laura |> @ -- [LAURA MORALES]  {alldogyardcleanup.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: RV <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+CITY: BETHEL <| PARK |> COMMUNITY -- [ALLISON PARK]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: professional <| Chem-Dry |> carpet -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: WESTIN <| WILLIAM |> PENN -- [3600 WILLIAM FLYNN HWY]  {alleghenyinstallations.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Full <| Service |> Contents -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Allan Briteway |> has -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY:  <| All |> our -- [ALL CITIES ENTERPRISES]  {allcitiesfence.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: of <| North |> Carolina -- [842 N WESTWOOD ST]  {allcreaturespetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| RV |> , -- [ALLAN MARSH RV & BOAT SALES]  {allanmarsh.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: | <| AllChem |> , -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Iridized <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| ALL |> . -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| John |> has -- [JOHN KOIS]  {allcovered.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALL |> ' -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: onto <| Allandale |> Street -- [ALLANDALE FARM]  {allandalefarm.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: , <| Allegra |> will -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| California |> homes -- [ALL CALIFORNIA BROKERAGE INC]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Contact <| Allan |> ' -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| Mortgage |> loan -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Bryan |> with -- [BRYAN SPINKS]  {alldade.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allbritten |> offers -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Call <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY:  <| Allegiant |> , -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Crane |> Parts -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 11
+
+ADDRESS: ' <| s |> work -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY:  <| ALLEGHENY |> COLLEGE -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Roofing |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Alleghany |> Chevrolet -- [ALLEGHANY MOTORS CORP]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 17
+
+ADDRESS:  <| Box |> 44080 -- [PO BOX 167789]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: from <| Allegra |> Tucson -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| ALL |> ' -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: traditional <| American |> sports -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Powder <| Metals |>  -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 44
+
+COMPANY: select <| Chem-Dry |> products -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: YOUR <| BUSINESS |> . -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Allegiant |>  -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CITY: Pinon <| Hills |> , -- [OAK HILLS]  {allamericanrealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> Destinations-Travel -- [ALL DESTINATIONS INC]  {alldestinations.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Property <| Claims |> adjusting -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Average <| Roofing |> Company -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: serving <| California |> and -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: PWC <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS: a <| s |> . -- [20 S QUAKER LN # 300]  {allangarnaas.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Allan Briteway |> Electrical -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY:  <| Moving |> & -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+ADDRESS: WELLTOWN <| ROAD |>  -- [11809 CANYON RD E]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: & <| Print |> Programs -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allegra |> ' -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> rights -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: truck <| ALL |> owned -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Hammond <| Electric |> . -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: WEST <| ALLEGHENY |> ELEMENTARY -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALL |> received -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Dr. <| Akins |> ’ -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allcounty |>  -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: © <| All Dead |> Termite -- [ALL DEAD TERMITE-PEST CONTROL]  {alldeadpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: WEST <| ALLEGHENY |> HIGH -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Moving |> Terminology -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: Vandelae <| Studios |>  -- [ALLA PRIMA STUDIOS]  {allaprimastudios.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| All Chicagoland |> maintains -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: and <| 17 |> western -- [17 E SIR FRANCIS DRAKE BL # 200]  {allcalifornia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Why <| Chem-Dry |>  -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Dogs |> have -- [ALL DOGS GYM]  {alldogsgym.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Karolyn <| Akins |> , -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+COMPANY: hour <| Crane |> Repair -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Jake <| Liptak |> , -- [MICHAEL LIPTAK]  {allcrane.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Call <| Around |> , -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| All-City |> Service -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Local <| Moving |>  -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY:  <| All |> bacteria -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: Town <| Highway |> Department -- [ALLEGANY HIGHWAY DEPT]  {allegany.org} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+CITY: PINON <| HILLS |>  -- [OAK HILLS]  {allamericanrealestate.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allegra |> Printing -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 38
+
+COMPANY: to <| Allegra |> ? -- [ALLEGRA PRINT & IMAGING]  {allegraplymouth.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Real Estate |> listings -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: : <| Alleghany |> Celebrates -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> of -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Only <| Roofing |> Contractor -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Primary <| Care |> Physician -- [ALL CARE]  {allcareipa.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Tablet <| Covers |> – -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Residential <| Construction |>  -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 7
+
+CONTACT:  <| Buddy |> @ -- [BUDDY BUZZARD]  {allamericansupply.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: , <| Plumbing |> Contractors -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 8
+
+COMPANY: Stack <| Electric |> . -- [ALL BRIGHT ELECTRIC CO]  {allbrightelectric.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: without <| Alleghany |> ’ -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: a <| Dog |> waste -- [ALL DOG YARD CLEANUP]  {alldogyardcleanup.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| ALL |> responds -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: About <| Allegra |> | -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: my <| Real Estate |> website -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Alleghany |> - -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 8
+
+COMPANY:  <| Allegiant |> delivers -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: , <| ALL |> ' -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> get -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| ALL |> throughout -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: Paul <| Alderman |>  -- [WAYNE ALDERMAN]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: of <| Allegiant |> . -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| ALL |> currently -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All |> Hesperia -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Allegiant |> has -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: , <| CO |> 80919 -- [ALLIANCE CO]  {allco.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: the <| Allegra |> Team -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT:  <| Reed |> Corry -- [REED CORY]  {allegiantbusinessfinance.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Allegra |> will -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Plumbing |> & -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Allbrite |> remains -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Wood <| Floors |> Houston -- [ALL BRITE FLOORS INC]  {allbritefloors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Pacific <| Mortgage |> Corporation -- [ALL CALIFORNIA MORTGAGE INC]  {allcalifornia.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT:  <| Gary |> has -- [GARY ZAK]  {allbritefloors.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> Rights -- [ALL DESTINATIONS INC]  {alldestinations.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: it <| ALL |> ! -- [ALL AROUND COMPUTERS WE COME]  {allaroundcomputers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: call <| Allcounty Plumbing |> & -- [ALLCOUNTY PLUMBING & HTG CORP]  {allcountycorp.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Golden <| West |> College -- [W PASCO]  {allcreaturescarecottage.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All |> Services -- [ALL COUNTIES COURIER]  {allcountiescourier.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alleghany |> Properties -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 15
+
+COMPANY: , <| American |> football -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Plumbing |> , -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: of <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CITY: Deerfield <| Beach |>  -- [HALLANDALE BEACH]  {allclaimsrepairs.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Company |> Name -- [ALLBLACK CO]  {allblackco-llc.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| ALLEGIANT |> STAFFING -- [ALLEGIANT BUSINESS FINANCE LLC]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: YOUR <| ELECTRICAL |> SYSTEM -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: “ <| Allegra |> ” -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Chem-Dry |> ' -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: 2016 <| Allan Briteway |> Electrical -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+COMPANY: your <| Print |> & -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Alleghany |> Investor -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 5
+
+COMPANY: REPORT <| A |> CLAIM -- [A ALL CLAIMS INSURANCE REPAIRS]  {allclaimsrepairs.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ; <| s |> birthday -- [150 S WATER ST]  {alldressedupcostumes.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Animals |> Since -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: year <| Chem-Dry |> locations -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: At <| Allan Briteway |> we -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Rental |> Fast -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 16
+
+COMPANY: , <| All Class |> Limo -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+COMPANY: Local <| Roofing |> Contractor -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Alleghany |> Corporation -- [ALLEGHANY CORP]  {alleghany.com} REASON:ONLY_ONE_WORD  Occurrence: 10
+
+CITY: All <| City |> ’ -- [LONG ISLAND CITY]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| All |> Rights -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Dr. <| Akins |> essentially -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Sports |> Categories -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Certificate <| Covers |>  -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 12
+
+COMPANY:  <| All |> About -- [ALL CLASS LIMOUSINE SVC]  {allclasslimo.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: French <| Art |> Glass -- [ART AMERICA GALLERY]  {allantiqueglass.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: the <| All American |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY:  <| Sports |> equipment -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: local <| Allegra |>  -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+CONTACT: Dr. <| Boyd |> , -- [BILLIE A BOYD]  {allanimalcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allbrite Products |> are -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+ADDRESS: ’ <| s |> sign-making -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Arkansas |>  -- [ALL AMERICAN ARKANSAS POLY]  {allampoly.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: the <| University |> of -- [600 UNIVERSITY ST # 2800]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Allbrite |> Electric -- [ALLBRITE ELECTRICAL CONTRACTOR]  {allbrite.net} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> high -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> business -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> kinds -- [ALL AMERICAN SPORTS CTR]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| HEATING |>  -- [ALLBRITTEN PLUMBING HEATING]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| All |> Contents -- [ALL AMERICAN SUPPLY]  {allamericansupply.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: integrates <| Allegheny |> Technologies -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Introducing <| Dogs |> to -- [ALL DOGS GYM]  {alldogsgym.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Customer <| Service |>  -- [JEFFERS CRANE SVC]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: At <| Allegheny |> Installation -- [ALLEGHENY INSTALLATIONS]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: 2016 <| All |> Rights -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: ’ <| s |> philanthropic -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: about <| Allegra |> Tucson -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: and <| Allegra |> : -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: Deerfield <| Beach |> Florida -- [HALLANDALE BEACH]  {allclaimsrepairs.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CONTACT: Member <| John |> Sayegh -- [JOHN MOSHIER]  {allegany.org} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All Creatures |> Blog -- [ALL CREATURES ANIMAL HOSPITAL]  {allcreaturesanimalhospital.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 9
+
+COMPANY: Equipment <| Rentals |> ! -- [ALL AMERICAN RENTALS INC]  {allamericanrentals.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: | <| Allegra |> Printing -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: , <| All-City |> has -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: at <| Allegra |> . -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Urgent <| Care |>  -- [ALL CARE]  {allcareipa.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY:  <| Allegra |> in -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: became <| Allan Briteway |> in -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+CONTACT: Dr. <| Imbach |> is -- [DAVID G IMBACH]  {allcreaturespetcare.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| Chem-Dry |> ( -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: 2016 <| Chem-Dry |>  -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CITY: , <| Pleasant |> Hill -- [MT PLEASANT]  {allamericanturf.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| All-City |> ' -- [ALL-CITY METAL INC]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Seattle <| University |> . -- [600 UNIVERSITY ST # 2800]  {allegiantbusinessfinance.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: Rangers <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ’ <| s |> essential -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Today <| Allbrite |> offers -- [ALLBRITE CAR CARE PRODUCTS]  {allbriteusa.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: PRIMARY <| CARE |> PHYSICIAN -- [ALL CARE]  {allcareipa.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+COMPANY: Your <| Disaster |> Becomes -- [ALL DISASTER SVC]  {alldisasters.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+ADDRESS: Larkin <| Ave |> . -- [2914 PHILLIP AVE]  {allbritten.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS:  <| West |> Virginia -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| All Area |> Realty -- [ALL AREA PROPERTY MANAGEMENT]  {allareamgmt.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 4
+
+CONTACT: Dr. <| Akins |> takes -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: valued <| ALL |> drivers -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CONTACT: about <| Gail |> ' -- [GAIL FISHER]  {alldogsgym.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Commercial <| Roofing |>  -- [ALL AMERICAN ROOFING]  {allamericanrfg.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 15
+
+COMPANY: TX <| All Brite |>  -- [ALL BRITE FLOORS INC]  {allbritefloors.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 2
+
+CONTACT: Dr. <| Pasco |> , -- [W PASCO]  {allcreaturescarecottage.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: EXCELLENT <| CONSTRUCTION |> ! -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: ’ <| s |> see -- [1300 S PARK AVE]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Trusted <| Auto |> Mover -- [ALL AMERICAN AUTO TRANSPORT]  {allamericantransport.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Print |>  -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 23
+
+COMPANY: At <| Allegra |> , -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Real Estate |> Websites -- [ALL AMERICAN REAL ESTATE CO]  {allamericanrealestate.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: — <| Print |>  -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 5
+
+CONTACT: “ <| Greenberg |> is -- [ALLAN GREENBERG]  {allangreenberg.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: with <| Allegra |> : -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: Criminal <| Law |> , -- [ALLEGAN LAW OFFICES]  {alleganlaw.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: CENTERLESS <| GRINDING |> ALONG -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: ( <| s |> ) -- [820 S LEXINGTON AVE]  {alleghanymotors.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+ADDRESS: 4640 <| West 120th St |> . -- [5130 W 161ST ST]  {allcrane.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 3
+
+COMPANY: with <| Allan Briteway |> working -- [ALLAN BRITEWAY ELEC CONTRACTOR]  {allanbriteway.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 1
+
+COMPANY: And <| Covers |>  -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: At <| Allegiant |> , -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 3
+
+CITY: ALAMEDA <| PARK |> BATHHOUSE -- [ALLISON PARK]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+CONTACT: Dr. <| Akins |> received -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+ADDRESS: Reebok <| Center |> Ice -- [37500 CENTER RIDGE RD]  {allamericansportscenter.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 7
+
+COMPANY:  <| Technology |> . -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY:  <| Camera |>  -- [ALL SEASONS CAMERA]  {allcamera.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+CITY: HOLIDAY <| PARK |> ELEMENTARY -- [ALLISON PARK]  {alleghenyinstallations.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Commercial <| Insurance |>  -- [ALL DISCOUNT INSURANCE SVC]  {alldiscountins.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| ALL |> is -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+ADDRESS: Hyland <| Ave. |> , -- [5421 NAVARRE AVE]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY:  <| Print |> & -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 10
+
+COMPANY: , <| Allegra |> is -- [ALLEGRA PRINT & IMAGING]  {allegraprint.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| ALL |> Aerials -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 3
+
+COMPANY: Inc. <| All |> rights -- [ALL DIAMETER GRINDING INC]  {alldiametergrinding.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY:  <| CONSTRUCTION |> CONSULTATION -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: 3515 <| Sycamore School Rd |> . -- [3501 SYCAMORE SCHOOL RD # 125]  {alldeadpestcontrol.com} REASON:TOO_SHORT_OR_FEW_CAPITALS  Occurrence: 5
+
+COMPANY:  <| Allegra |> | -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: ll <| American |> high -- [ALL AMERICAN SUPPLY]  {allamericansupply.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: on <| Chem-Dry |> ’ -- [ALL CLEAN CHEM-DRY]  {allcleanchemdry.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY:  <| Print |>  -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 19
+
+COMPANY:  <| Metals |>  -- [ALLEGHENY RODNEY METALS]  {alleghenytechnologies.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| Allegiant |> has -- [ALLEGIANT TECHNOLOGY]  {allegianttechnology.com} REASON:ONLY_ONE_WORD  Occurrence: 4
+
+COMPANY: General <| Construction |> Company -- [ALL-COUNTY CONSTRUCTION]  {allcountyconstruction.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+CITY: All <| City |> proudly -- [LONG ISLAND CITY]  {allcitymetal.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: , <| ALL |> moved -- [ALL CRANE RENTAL]  {allcrane.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: Animal <| Rescue |>  -- [ALL ANIMALS RESCUE & TRNSPRTN]  {allanimalsrescue.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+CONTACT: Barbara <| Lynch |>  -- [FRANK LYNCH IV]  {allcaliforniabrokerage.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+
+COMPANY: IPad <| Covers |>  -- [ALL BOOK COVERS INC]  {allbookcovers.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY:  <| Allegra |> ’ -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+CONTACT: Karolyn <| Akins |> has -- [MICHAEL AKINS]  {allcreaturesanimalhospital.com} REASON:ONLY_ONE_WORD  Occurrence: 1
+
+COMPANY: Interstate <| Moving |>  -- [ALL CHICAGOLAND MOVING & STG]  {allchicagoland.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 6
+
+COMPANY: 2016 <| Allchem |> , -- [ALLCHEM INC]  {allchem-inc.com} REASON:ONLY_ONE_WORD  Occurrence: 2
+
+ADDRESS: CONTACT <| US |>  -- [270 US HIGHWAY 46]  {allanindustries.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 13
+
+COMPANY: GOLD <| JEWELRY |> IN -- [ALLAN 'S JEWELRY & LOAN INC]  {allans.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 4
+
+COMPANY: The <| Allegra |> Web-to-Print -- [ALLEGRA PRINT & IMAGING]  {allegraaz.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 2
+
+COMPANY: gives <| Allegra |> the -- [ALLEGRA PRINT & IMAGING]  {allegra-arizona.com} REASON:TOO_SMALL_OR_TOO_SHORT  Occurrence: 1
+

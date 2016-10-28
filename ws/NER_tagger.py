@@ -6,16 +6,23 @@ from collections import defaultdict
 import shutil
 import os
 
+# REQUIRED FILE STRUCTURE:
+#                 -root:
+#                   -NER_tagger.py
+#                   -crawl:
+#                       -data:
+#                           -every file that needs to be processed
+
+# file structure definition
+input_dir = 'crawl\\data\\'
+output_dir = 'crawl\\silver_labels\\'
+report_dir = 'crawl\\local_reports\\'
+global_report_dir = 'crawl\\global_reports\\'
+# list of file names of the data that needs to be processed
+list_of_file_names = os.listdir(input_dir)
+
 ##################################################################
 # SETUP CONSTANTS AND PATHS
-
-java_path = "C:/Program Files/Java/jre1.8.0_45/bin/java.exe"
-os.environ['JAVAHOME'] = java_path
-
-input_dir = '..\\..\\data_set\\data\\crawl\\'
-output_dir = '..\\..\\data_set\\data\\silver_labels\\'
-report_dir = '..\\..\\data_set\\data\\local_reports\\'
-global_report_dir = '..\\..\\data_set\\data\\global_reports\\'
 
 # controls whether we want to process only the index page or all four pages (for statistics only)
 only_index = False
@@ -26,20 +33,20 @@ num_of_target_skip = 2  # default: 2
 num_of_word_skip = 2  # default: 2
 # controls the ratio of word chain length to target length to decide if the matching is accepted
 accept_ratio = 2.0  # default: 2.0
-# number of lower case words allowed in a matching
+# number of lower case words allowed in a matching (scales with length)
 allowed_lowercase_words = 1  # default: 1
 
-# position of first file in list.txt that needs to be processed
-from_num = 4000
+# position before the first file in the list that needs to be processed
+from_num = 5000  # default: 0
 # position of last file
-to_num = 4100
+to_num = 5500  # default: len(list_of_file_names)
 # number of files per global report
-global_report_interval = 50
+global_report_interval = 100
+# controls the production of local reports, each containing labelling information for the corresponding file
+local_report_enabled = True
 
 ##########################################################################
-
-list_of_file_names = os.listdir(input_dir)
-'''
+# creating empty directory structure
 if os.path.exists(global_report_dir+'declined_pairs'):
     shutil.rmtree(global_report_dir+'declined_pairs')
 os.makedirs(global_report_dir+'declined_pairs')
@@ -52,10 +59,22 @@ os.makedirs(global_report_dir+'pairs')
 if os.path.exists(global_report_dir+'uneven_pairs'):
     shutil.rmtree(global_report_dir+'uneven_pairs')
 os.makedirs(global_report_dir+'uneven_pairs')
-'''
+if os.path.exists(global_report_dir+'aborted_matchings'):
+    shutil.rmtree(global_report_dir+'aborted_matchings')
+os.makedirs(global_report_dir+'aborted_matchings')
+
+if not os.path.exists(output_dir[:-1]):
+    os.makedirs(output_dir[:-1])
+if (not os.path.exists(report_dir[:-1])) and local_report_enabled:
+    os.makedirs(report_dir[:-1])
+if not os.path.exists(global_report_dir[:-1]):
+    os.makedirs(global_report_dir[:-1])
+
+if (not local_report_enabled) and os.path.exists(report_dir[:-1]):
+    shutil.rmtree(report_dir[:-1])
+
 useless_pages = open(global_report_dir+'useless.txt', 'w', encoding='utf-8')
 almost_useless_pages = open(global_report_dir+'almost_useless.txt', 'w', encoding='utf-8')
-aborted_word_chains = open(global_report_dir+'aborted_matchings.txt', 'w', encoding='utf-8')
 # collects aborted matchings due to repetition of a previously matched word
 aborted_matchings = set()
 # collects matched pairs with holes
@@ -88,24 +107,46 @@ for item in total_label_count:
     item.append(0)
     item.append(0)
 
-# case sensitive fields
-case_sensitive = ['STATE', 'CONTACT']
+# case sensitive field(s)
+case_sensitive = ['STATE']
 
-# interchangeable words
-switchable_words = {'&': 'and',
+# these categories cannot be used on unit labels when the target has multiple words
+denied_unit_labels = ['CONTACT', 'COMPANY', 'ADDRESS', 'CITY']
+
+# interchangeable words, keys must be all lower case, multi-worded states are ignored, because current implementation can only handle single words: 'nh': 'New Hampshire', 'nj': 'New Jersey', 'nm': 'New Mexico', 'ny': 'New York', 'nc': 'North Carolina','nd': 'North Dakota', 'ri': 'Rhode Island', 'sc': 'South Carolina', 'sd': 'South Dakota', 'wv': 'West Virginia',
+switchable_words = {'alabama':	'AL', 'alaska':	'AK', 'arizona':	'AZ', 'arkansas':	'AR', 'california':	'CA', 'colorado':	'CO',
+                    'connecticut':	'CT', 'delaware':	'DE', 'florida':	'FL', 'georgia':	'GA', 'hawaii':	'HI', 'idaho':	'ID',
+                    'illinois':	'IL', 'indiana':	'IN', 'iowa':	'IA', 'kansas':	'KS', 'kentucky':	'KY', 'louisiana':	'LA',
+                    'maine':	'ME', 'maryland':	'MD', 'massachusetts':	'MA', 'michigan':	'MI', 'minnesota':	'MN',
+                    'mississippi':	'MS', 'missouri':	'MO', 'montana':	'MT', 'nebraska':	'NE', 'nevada':	'NV',
+                    'ohio':	'OH', 'oklahoma':	'OK', 'oregon':	'OR', 'pennsylvania':	'PA', 'tennessee':	'TN', 'texas':	'TX',
+                    'utah':	'UT', 'vermont':	'VT', 'virginia':	'VA', 'washington':	'WA', 'wisconsin':	'WI', 'wyoming':	'WY',
+                    '&': 'and',
                     'inc': 'incorporation',
                     'ave': 'avenue',
                     'rd': 'road',
-                    '1st': 'first',
+                    '1st': 'first', '2nd': 'second', '3rd': 'third',
                     'ctr': 'center',
-                    'st': 'street',
-                    'E': 'east',
-                    'N': 'north',
-                    'co': 'company'}
+                    'street': 'st',
+                    'saint': 'st',
+                    'e': 'east', 'n': 'north', 's': 'south', 'w': 'west',
+                    'drive': 'dr',
+                    'doctor': 'dr',
+                    'co': 'company',
+                    'assoc': 'associates',
+                    'assn': 'association',
+                    'twp': 'township',
+                    'pl': 'place',
+                    'U.S.A': 'USA',
+                    'svc': 'service',
+                    'intl': 'international',
+                    'ln': 'lane',
+                    'acad': 'academy',
+                    'veterinary': 'vet'}
 
 # matching with these words won't count because it's too easy to fit on these due to their commonness
 # this change probably won't ruin many valid matches, but it'll surely prevent many invalid ones (be careful, IN can be a state for example)
-too_common_words = {'the', 'of', 'and'}
+too_common_words = {'the', 'of', 'and', 'for', '&'}
 
 if only_index:
     keys_to_pages = ['index']
@@ -126,8 +167,7 @@ for file_name in list_of_file_names:
         print("Processing: " + file_name)
         company_data = json.load(open(input_dir + file_name, 'r', encoding='utf-8'))
         file = open(output_dir + file_name, 'w', encoding='utf-8')
-        labelling_report = open(report_dir + file_name, 'w', encoding='utf-8')
-        # format: [[word_list], label_name, local_counter, offset, skipped_words, score, is_normal, first_match, skip]
+        # format: [[word_list], label_name, local_counter, offset, skipped_words, score, is_normal, first_match, skip, matched_words]
         target_list = []
         for field in range(0, len(json_fields)):
             item_list = company_data[json_fields[field][0]]
@@ -142,7 +182,7 @@ for file_name in list_of_file_names:
                             if item in item2 or item2 in item:
                                 if len(item) > len(item2) and item2 in temp_set:
                                     temp_set.remove(item2)
-                                elif item in temp_set:
+                                elif len(item) < len(item2) and item in temp_set:
                                     temp_set.remove(item)
             item_set = temp_set
             # skipped targets due to repetition
@@ -151,7 +191,7 @@ for file_name in list_of_file_names:
             for item in item_set:
                 # Nan symbol means the target is always skippable
                 if isinstance(item, float) and math.isnan(item):
-                    target_list.append([['NaN'], json_fields[field][1], 0, 0, 0, -100, 0, -1, 1])
+                    target_list.append([['NaN'], json_fields[field][1], 0, 0, 0, -100, 0, -1, 1, 0])
                     continue
                 target = nltk.word_tokenize(item)
                 # case sensitivity check
@@ -167,32 +207,41 @@ for file_name in list_of_file_names:
                     # remove ending if it is a point
                     if t[-1:] == '.' and len(t) > 1:
                         t = t[:-1]
-                    if t.lower() in switchable_words:
-                        if not case_sensitive.__contains__(json_fields[field][1]):
-                            target[i] = switchable_words[t.lower()].upper()
-                        else:
-                            target[i] = switchable_words[t.lower()]
 
                 if json_fields[field][1] == 'ZIP':  # ZIP code needs additional splitting
                     target = target[0].split('-')
                 if not target_set.__contains__(' '.join(target)):
-                    target_list.append([target, json_fields[field][1], 0, 0, 0, 0, 0, -1, 0])
+                    target_list.append([target, json_fields[field][1], 0, 0, 0, 0, 0, -1, 0, 0])
                     target_set.add(' '.join(target))
         # for each target, we create a set to store unique word chains labelled with that target
         # we use this information in local reports
         list_of_dicts_of_labelled_chains = []
         for t in target_list:
             list_of_dicts_of_labelled_chains.append(defaultdict(int))
+        # a secondary copy of target list is maintaining the actual matching numbers
+        temp_target_list = copy.deepcopy(target_list)
         ################################################
         # MATCHING TARGETS WITH WORDS FROM THE DOCUMENT
         ################################################
         for dictionary_element in keys_to_pages:
+            num_of_words += 1  # for every new line that separates pages
             if dictionary_element in company_data['content']:
-                num_of_words += 1
                 for content in company_data['content'][dictionary_element]:
                     for sentence in tokenizer.tokenize(content):
                         word_chain = []
-                        temp_target_list = copy.deepcopy(target_list)
+                        # resetting constants instead of deepcopying
+                        for temp_target in temp_target_list:
+                            temp_target[3] = 0
+                            temp_target[4] = 0
+                            temp_target[6] = 0
+                            temp_target[7] = -1
+                            temp_target[9] = 0
+                            if temp_target[0][0] == 'NaN':
+                                temp_target[5] = -100
+                                temp_target[8] = 1
+                            else:
+                                temp_target[5] = 0
+                                temp_target[8] = 0
                         chain_label = 'New'
                         # tells us the position of our matching progress in the current target
                         position = 0
@@ -216,11 +265,11 @@ for file_name in list_of_file_names:
                                     # altering the current word by previously defined rules,
                                     # later, the original word will be used in the output
                                     current_word = word_list[i]
-                                    if not case_sensitive.__contains__(target[1]):
+                                    if not case_sensitive.__contains__(target[1]) and (current_word[:1].isupper() or not current_word[:1].isalpha()):
                                         current_word = current_word.upper()
                                     if current_word[-1:] == '.' and len(current_word) > 1:
                                         current_word = current_word[:-1]
-                                    if current_word.lower() in switchable_words:
+                                    if current_word.lower() in switchable_words and target[1] != 'STATE':
                                         if not case_sensitive.__contains__(target[1]):
                                             current_word = switchable_words[current_word.lower()].upper()
                                         else:
@@ -229,7 +278,15 @@ for file_name in list_of_file_names:
                                     # the same word twice, that means overlapping named entities being merged, which is
                                     # undesired, so we set this target to skip mode
                                     if position+target[3] > 0:
-                                        if current_word in target[0][:position+target[3]] and current_word.lower() not in too_common_words:
+                                        partial_target = target[0][:position+target[3]]
+                                        switched_words = partial_target
+                                        for p in range(0, len(partial_target)):
+                                            if partial_target[p].lower() in switchable_words and target[1] != 'STATE':
+                                                if not case_sensitive.__contains__(target[1]):
+                                                    switched_words[p] = switchable_words[partial_target[p].lower()].upper()
+                                                else:
+                                                    switched_words[p] = switchable_words[partial_target[p].lower()]
+                                        if current_word in switched_words and current_word.lower() not in too_common_words:
                                             target[8] = 1  # if you find the same word that has already been matched, that probably means, that the matching should start from the second occurrence of said word
                                             if i < len(word_list):
                                                 next_word = word_list[i]
@@ -246,14 +303,21 @@ for file_name in list_of_file_names:
                                         if not matched:
                                             # normal position is modified by the accumulated offset and j, which allows holes
                                             mod_position = position+target[3]+j
+                                            # word from current target at current modified position
+                                            target_word = ""
                                             if len(target[0]) > mod_position:  # preventing out of range indexing
                                                 target_word = target[0][mod_position]
+                                                if target_word.lower() in switchable_words and target[1] != 'STATE':
+                                                    if not case_sensitive.__contains__(target[1]):
+                                                        target_word = switchable_words[target_word.lower()].upper()
+                                                    else:
+                                                        target_word = switchable_words[target_word.lower()]
                                                 # short words need to be identical for matching
                                                 # sim_threshold defines the maximum acceptable length difference
                                                 if len(target_word) <= 4:
                                                     sim_threshold = 0
                                                 else:
-                                                    sim_threshold = 1
+                                                    sim_threshold = 0  # the input already has no excess characters, so we don't need to allow even a letter difference when comparing
                                                 # any number needs perfect matching
                                                 if current_word.isdigit():
                                                     if current_word == target_word:
@@ -280,6 +344,7 @@ for file_name in list_of_file_names:
                                                 target[3] += j  # increasing the offset appropriately so the modified position will mark the next word in the target
                                                 target[4] = 0  # since we have matched a target, the number of skipped words at the end of the chain is 0
                                                 target[5] += 1 - j*0.55  # increase score because successful matching, but also decrease for skipping words in target
+                                                target[9] += 1  # increase the number of matched words
                                                 if target[7] == -1:  # saving the position of the first match, to use it during contact person matching
                                                     target[7] = mod_position
                                             elif j == 2:  # we have skipped ahead as many words in target as allowed, but still no matching
@@ -330,6 +395,12 @@ for file_name in list_of_file_names:
                                     t = temp_target_list[j]
                                     if t[5] > max_score:
                                         max_score = t[5]
+                                min_length = 100
+                                # use the shortest target of the highest score
+                                for j in range(0, len(temp_target_list)):
+                                    t = temp_target_list[j]
+                                    if t[5] == max_score and len(t[0]) < min_length:
+                                        min_length = len(t[0])
                                         max_index = j
                                 target = temp_target_list[max_index]  # best target
                                 chain_label = target[1]  # label of best target
@@ -350,7 +421,7 @@ for file_name in list_of_file_names:
                                 else:
                                     next_word = ''
                                 # an informative string to write into various report files
-                                string_to_write = chain_label+': '+prev_word+'   <| '+' '.join(word_chain)+' |>   '+next_word+'   --   ['+' '.join(temp_target_list[max_index][0])+']  {'+file_name+'}'
+                                string_to_write = chain_label+': '+prev_word+' <| '+' '.join(word_chain)+' |> '+next_word+' -- ['+' '.join(temp_target_list[max_index][0])+']  {'+file_name+'}'
                                 if len(word_chain) == 1:
                                     # special case where the Unit label is probably not appropriate,
                                     # because the chain is small and the word is small and it is not a STATE
@@ -359,9 +430,9 @@ for file_name in list_of_file_names:
                                     if len(word_chain[0]) <= 3 and chain_label != 'STATE' and chain_label != 'ZIP' or len(target[0]) > 2 or word_chain[0].isdigit() and chain_label != 'ZIP':
                                         file.write(word_chain[0] + " O" + '\n')
                                         declined_matches_dict[string_to_write+' REASON:TOO_SMALL_OR_TOO_SHORT'] += 1
-                                    # we do not allow single words to match with names or company names, because
+                                    # we do not allow single words to match with names or company names or addresses, because
                                     # these usually wrong (e.g. matching last names generally doesn't mean it's the same person)
-                                    elif (chain_label == 'CONTACT' or chain_label == 'COMPANY') and len(target[0]) > 1:
+                                    elif denied_unit_labels.__contains__(chain_label) and len(target[0]) > 1:
                                         file.write(word_chain[0] + " O" + '\n')
                                         declined_matches_dict[string_to_write+' REASON:ONLY_ONE_WORD'] += 1
                                     else:
@@ -376,10 +447,14 @@ for file_name in list_of_file_names:
                                     # limit the number of lowercase words for better performance
                                     capital_letters = 0
                                     for doc_word in word_chain:
-                                        if doc_word.isdigit() or doc_word[:1].isupper():
+                                        if doc_word.isdigit() or doc_word[:1].isupper() or too_common_words.__contains__(doc_word.lower()) or len(doc_word) == 1:
                                             capital_letters += 1
-                                    # chain length must be at least half of the length of the target, plus 1 (by default)
-                                    if len(word_chain) >= (len(target[0])+1)/accept_ratio and capital_letters >= len(word_chain)-allowed_lowercase_words * (1+len(word_chain)/5) and capital_letters >= 1:
+                                    # number of matched words must be at least half of the length of the target excluding too common words, plus 1 (with default accept ratio)
+                                    target_length = 0
+                                    for w in target[0]:
+                                        if w not in too_common_words and w.lower() != '\'s':  # tokenizer usually separates 's into ' and s and this makes the matching to fail
+                                            target_length += 1
+                                    if target[9] >= (target_length+1)/accept_ratio and capital_letters >= len(word_chain)-allowed_lowercase_words * (len(word_chain)/3) and capital_letters >= 1:
                                         file.write(word_chain[0] + " B-" + chain_label + '\n')
                                         for j in range(1, len(word_chain) - 1):
                                             file.write(word_chain[j] + " I-" + chain_label + '\n')
@@ -405,16 +480,30 @@ for file_name in list_of_file_names:
                                     pair_dict[string_to_write] += 1
                                 # resetting variables
                                 word_chain = []
-                                temp_target_list = copy.deepcopy(target_list)
+                                # resetting constants instead of deepcopying
+                                for temp_target in temp_target_list:
+                                    temp_target[3] = 0
+                                    temp_target[4] = 0
+                                    temp_target[6] = 0
+                                    temp_target[7] = -1
+                                    temp_target[9] = 0
+                                    if temp_target[0][0] == 'NaN':
+                                        temp_target[5] = -100
+                                        temp_target[8] = 1
+                                    else:
+                                        temp_target[5] = 0
+                                        temp_target[8] = 0
                                 chain_label = 'New'
                                 position = 0
                             i += 1
                         file.write('\n')  # marks the end of a sentence
-                file.write('\n')  # marks the end of a page
+            file.write('\n')  # marks the end of a page, even if it's empty
 
         file.close()
         print("Labelling done in: " + file_name + '\n')
-        labelling_report.write('Labelling in: ' + file_name + '\n\n')
+        if local_report_enabled:
+            labelling_report = open(report_dir + file_name, 'w', encoding='utf-8')
+            labelling_report.write('Labelling in: ' + file_name + '\n\n')
         ##################################
         # CREATING REPORTS AND STATISTICS
         ##################################
@@ -425,14 +514,14 @@ for file_name in list_of_file_names:
         for i in range(0, len(target_list)):
             t = target_list[i]
             if t[0][0] != 'NaN':
-                report = 'Labelled ' + str(t[2]) + ' word chains with ' + t[1] + ', pattern used: ' + ' '.join(
-                    t[0]) + '.'
-                labelling_report.write(report + '\n')
-                report = '-> '
-                for w, ww in list_of_dicts_of_labelled_chains[i].items():
-                    report += w+' ('+str(ww)+'),  '
-                report = report[:-3]+'\n\n'
-                labelling_report.write(report)
+                if local_report_enabled:
+                    report = 'Labelled ' + str(t[2]) + ' word chains with ' + t[1] + ', pattern used: ' + ' '.join(t[0]) + '.'
+                    labelling_report.write(report + '\n')
+                    report = '-> '
+                    for w, ww in list_of_dicts_of_labelled_chains[i].items():
+                        report += w+' ('+str(ww)+'),  '
+                    report = report[:-3]+'\n\n'
+                    labelling_report.write(report)
                 for tt in total_label_count:
                     if tt[1] == t[1]:
                         tt[2] += t[2]
@@ -441,8 +530,9 @@ for file_name in list_of_file_names:
                             useless_page = False
 
             else:
-                report = 'Failed to find ' + t[1] + ', pattern was \'Nan\'.\n'
-                labelling_report.write(report + '\n')
+                if local_report_enabled:
+                    report = 'Failed to find ' + t[1] + ', pattern was \'Nan\'.\n'
+                    labelling_report.write(report + '\n')
                 failed_match += 1
                 nan_set.add(t[1])
 
@@ -455,8 +545,8 @@ for file_name in list_of_file_names:
                 threshold -= 1
         if threshold < 0 or useless_page:
             almost_no_match = False
-
-        labelling_report.write('\n')
+        if local_report_enabled:
+            labelling_report.write('\n')
         num_of_files += 1
         total_num_of_targets += len(target_list)
         print("\nProcessed " + str(num_of_files) + ' files.\n')
@@ -471,21 +561,21 @@ for file_name in list_of_file_names:
         if useless_page:
             num_of_useless_pages += 1
             useless_pages.write(file_name + '\n')
-            labelling_report.write('This document was useless.\n')
+            if local_report_enabled:
+                labelling_report.write('This document was useless.\n')
         if almost_no_match:
             almost_useless_pages.write(file_name + '\n')
-            labelling_report.write('This document was almost useless.\n')
+            if local_report_enabled:
+                labelling_report.write('This document was almost useless.\n')
         # extra data to check if every word is written in the labelled file
-        labelling_report.write('Number of processed words and empty lines: '+str(num_of_words-2)+'\n')
-        for t in aborted_matchings:
-            aborted_word_chains.write(t+'\n')
-        aborted_matchings.clear()
-        aborted_word_chains.flush()
+        if local_report_enabled:
+            labelling_report.write('Number of processed words and empty lines: '+str(num_of_words-2)+'\n')
+            labelling_report.close()
 
         # global report after a given amount of files or when the processing of files is finished
         if periodic_report_progress == global_report_interval or progress_count == to_num:
             periodic_report_progress = 0
-            interval_index += 1
+            interval_index = math.ceil(progress_count/global_report_interval)
             useless_pages.flush()
             almost_useless_pages.flush()
 
@@ -508,27 +598,32 @@ for file_name in list_of_file_names:
             total_report.close()
 
             every_pair_set = open(global_report_dir+'pairs\\every_pair_'+str(interval_index)+'.txt', 'w', encoding='utf-8')
-            every_pair_set.write('Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence\n\n')
+            every_pair_set.write('Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence\n\n')
             for t, tt in pair_dict.items():
-                every_pair_set.write(t+'    Occurrence: '+str(tt)+'\n')
+                every_pair_set.write(t+'    Occurrence: '+str(tt)+'\n\n')
             every_pair_set.close()
             pair_dict.clear()
 
             declined_matches = open(global_report_dir+'declined_pairs\\declined_pairs_'+str(interval_index)+'.txt', 'w', encoding='utf-8')
-            declined_matches.write('Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence\n\n')
+            declined_matches.write('Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence\n\n')
             for t, tt in declined_matches_dict.items():
-                declined_matches.write(t+'    Occurrence: '+str(tt)+'\n')
+                declined_matches.write(t+'  Occurrence: '+str(tt)+'\n\n')
             declined_matches.close()
             declined_matches_dict.clear()
 
             uneven_pairs_set = open(global_report_dir+'uneven_pairs\\uneven_pairs_'+str(interval_index)+'.txt', 'w', encoding='utf-8')
-            uneven_pairs_set.write('Format: LABEL: Actual words in document  --  [Pattern used]  {Original file}  Number of occurrence\n\n')
+            uneven_pairs_set.write('Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence\n\n')
             for t, tt in uneven_dict.items():
-                uneven_pairs_set.write(t+'    Occurrence: '+str(tt)+'\n')
+                uneven_pairs_set.write(t+'  Occurrence: '+str(tt)+'\n\n')
             uneven_pairs_set.close()
             uneven_dict.clear()
 
+            aborted_word_chains = open(global_report_dir+'aborted_matchings\\aborted_matchings_'+str(interval_index)+'.txt', 'w', encoding='utf-8')
+            aborted_word_chains.write('Format: Word chain: Actual words in document  Next word: This word caused the abort  Target: target\n\n')
+            for t in aborted_matchings:
+                aborted_word_chains.write(t+'\n\n')
+            aborted_matchings.clear()
+            aborted_word_chains.close()
+
 useless_pages.close()
 almost_useless_pages.close()
-aborted_word_chains.close()
-

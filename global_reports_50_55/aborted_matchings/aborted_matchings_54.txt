@@ -1,0 +1,74 @@
+Format: Word chain: Actual words in document  Next word: This word caused the abort  Target: target
+
+Word chain: All American Custom Pools and Spas , Inc.  Next word: All  Target: ALL AMERICAN POOLS & SPAS INC
+
+Word chain: All Things Irish -  Next word: All  Target: ALL THINGS IRISH
+
+Word chain: Skin Ceuticals  Next word: Skin  Target: ALISON ANDREWS SKIN THERAPY
+
+Word chain: All American Limousine | Chicago IL |  Next word: All  Target: ALL AMERICAN LIMO OF CHICAGO
+
+Word chain: All-Cal Insurance ~  Next word: Insurance  Target: ALL-CAL INSURANCE
+
+Word chain: All Star Turboblowers ,  Next word: All  Target: ALL STAR PRODUCTS
+
+Word chain: AL JADID |  Next word: Al  Target: AL JADID MAGAZINE
+
+Word chain: Alkota Plumbing and Heating | Why  Next word: Alkota  Target: ALKOTA PLUMBING & HEATING
+
+Word chain: All City Technology |  Next word: All  Target: ALL CITY
+
+Word chain: Lavender Farm in  Next word: Maui  Target: MAUI KULA LAVENDER
+
+Word chain: Porterville Cakes ,  Next word: Porterville  Target: PORTERVILLE
+
+Word chain: Limo Service | Chicago |  Next word: All  Target: ALL AMERICAN LIMO OF CHICAGO
+
+Word chain: About Us –  Next word: All  Target: ALL ABOUT DANCE
+
+Word chain: Mortgage Loans ,  Next word: Mortgage  Target: ALL AMERICAN MORTGAGE
+
+Word chain: Alita Pumps ,  Next word: Alita  Target: ALITA INDUSTRIES INC
+
+Word chain: Christmas Decorations |  Next word: All  Target: ALL AMERICAN CHRISTMAS CO
+
+Word chain: All Things Irish -  Next word: Irish  Target: ALL THINGS IRISH
+
+Word chain: All Makes |  Next word: All  Target: ALL MAKES OFFICE MACHINE CO
+
+Word chain: All American Appliance Service -  Next word: Appliance  Target: ALL AMERICAN APPLIANCE SVC
+
+Word chain: Aboard an  Next word: ALL  Target: ALL ABOARD AMERICA
+
+Word chain: Seattle , West  Next word: Seattle  Target: SEATTLE
+
+Word chain: Fultz and  Next word: Bob  Target: BOB FULTZ
+
+Word chain: All Things Irish with your  Next word: Irish  Target: ALL THINGS IRISH
+
+Word chain: All American Products Group ,  Next word: All  Target: ALL AMERICAN PRODUCTS
+
+Word chain: About Us |  Next word: All  Target: ALL ABOUT PETCARE
+
+Word chain: Lavender Products ,  Next word: Lavender  Target: MAUI KULA LAVENDER
+
+Word chain: Limousine Service , Airport  Next word: Service  Target: A LIST LIMOUSINE SVC
+
+Word chain: About  Next word: All  Target: ALL ABOUT DANCE
+
+Word chain: All Aboard America -  Next word: All  Target: ALL ABOARD AMERICA
+
+Word chain: All Star Products ,  Next word: All  Target: ALL STAR PRODUCTS
+
+Word chain: All American Farms Inc. ,  Next word: All  Target: ALL AMERICAN FARMS INC
+
+Word chain: All Makes /  Next word: All  Target: ALL AMERICAN APPLIANCE SVC
+
+Word chain: Al ` Aql  Next word: Al  Target: AL JADID MAGAZINE
+
+Word chain: Kula Lavender in  Next word: Maui  Target: MAUI KULA LAVENDER
+
+Word chain: Alabama Kidney Foundation serves  Next word: Kidney  Target: ALABAMA KIDNEY FOUNDATION INC
+
+Word chain: Limousine -  Next word: All  Target: ALL ACTION LIMOUSINE SVC
+

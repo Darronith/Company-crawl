@@ -1,0 +1,206 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY:  <| Alkota Plumbing and Heating |> | -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 14
+
+COMPANY: and <| All American Limousine in Chicago |> will -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}  Occurrence: 1
+
+COMPANY: | <| All About Books and Comics |>  -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}  Occurrence: 4
+
+COMPANY: 2011 <| Alita Industries , Inc. |> All -- [ALITA INDUSTRIES INC]  {alita.com}  Occurrence: 1
+
+COMPANY:  <| A-Line , Machine , Tool , Company |> , -- [A-LINE MACHINE TOOL CO]  {alinetools.com}  Occurrence: 1
+
+COMPANY: choose <| Alkota Plumbing and Heating |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+CITY: downtown <| Coeur d ' Alene |> , -- [COEUR D ALENE]  {all-thingsirish.com}  Occurrence: 6
+
+COMPANY:  <| All American Custom Pools and Spas |> specializes -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 2
+
+COMPANY: s <| True Value Hardware |> - -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com}  Occurrence: 2
+
+COMPANY:  <| All American Custom Pools and Spas |> | -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 2
+
+COMPANY:  <| Alion Science and Technology |> delivers -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}  Occurrence: 1
+
+COMPANY:  <| All About Books and Comics |> | -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}  Occurrence: 2
+
+ADDRESS: 21A <| Van Blarcom Ave. |> All -- [21 VAN BLARCOM AVE]  {allamericanapplianceservice.com}  Occurrence: 1
+
+CITY: downtown <| Coeur d ’ Alene |> , -- [COEUR D ALENE]  {all-thingsirish.com}  Occurrence: 2
+
+COMPANY: Copyright <| Alignment Services of North |> America -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com}  Occurrence: 5
+
+ADDRESS:  <| 9536 Foster Ave |> , -- [9536 W FOSTER AVE]  {allamericanlimo.com}  Occurrence: 10
+
+COMPANY:  <| ALL ABOARD CRUISES , INC |> . -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}  Occurrence: 1
+
+ADDRESS: 1710 <| Patterson St. |> , -- [1718 PATTERSON ST]  {alivehospice.org}  Occurrence: 1
+
+COMPANY:  <| Alkota Plumbing and Heating |> ’ -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY: i <| Kula Lavender |> Farm -- [MAUI KULA LAVENDER]  {aliikulalavender.com}  Occurrence: 13
+
+CONTACT: by <| John and Karla Carson |> , -- [JOHN CARSON]  {alink.com}  Occurrence: 1
+
+COMPANY: Alokota <| Plumbing and Heating |> get -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY: of <| All about PetCare |> and -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 1
+
+CONTACT: Dr. <| Matthew J Heller |> include -- [MATTHEW HELLER]  {allaboutpetcare.com}  Occurrence: 1
+
+COMPANY: of <| Alkota Plumbing and Heating |> , -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY: by <| All American Custom Pools and Spas , Inc. |> All -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 4
+
+COMPANY: call <| All American Limousine of Chicago |> today -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}  Occurrence: 1
+
+COMPANY: 2015 <| All-Mode Communications , Inc. |> All -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}  Occurrence: 7
+
+CONTACT:  <| Stephen J. Borrelli |>  -- [STEPHEN BORRELLI]  {all-briteinc.com}  Occurrence: 2
+
+CONTACT: brothers <| Stephen and Paul Borrelli |> , -- [STEPHEN BORRELLI]  {all-briteinc.com}  Occurrence: 3
+
+COMPANY: Alii <| Kula Lavender |> , -- [MAUI KULA LAVENDER]  {aliikulalavender.com}  Occurrence: 2
+
+COMPANY: choose <| Alkota Plumbing and Heating |> you -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+ADDRESS: 21A <| Van Blarcom Ave |> . -- [21 VAN BLARCOM AVE]  {allamericanapplianceservice.com}  Occurrence: 1
+
+COMPANY:  <| All about PetCare |> is -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 5
+
+COMPANY: Why <| All Action Chicago Limo Service |> ? -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 5
+
+COMPANY: At <| Alkota Plumbing and Heating |> we -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 3
+
+COMPANY:  <| Alignment Services of North |> America -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com}  Occurrence: 7
+
+COMPANY: About <| All American Limousine | Chicago |> IL -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}  Occurrence: 2
+
+COMPANY: - <| All Action Chicago Limousine |> has -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 1
+
+COMPANY: i <| Kula Lavender |> in -- [MAUI KULA LAVENDER]  {aliikulalavender.com}  Occurrence: 1
+
+COMPANY: At <| Alkota Plumbing and Heating |> , -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 2
+
+ADDRESS:  <| 5112 Hwy 153 |>  -- [5112 HIGHWAY 153]  {allamericanpos.com}  Occurrence: 1
+
+CONTACT: Dr. <| Matthew J Heller |> and -- [MATTHEW HELLER]  {allaboutpetcare.com}  Occurrence: 1
+
+ADDRESS: 3576 <| W. 95th St. |> Evergreen -- [3514 W 95TH ST]  {allamericancomicshops.com}  Occurrence: 1
+
+ADDRESS: up <| Waipoli Road |> . -- [1100 WAIPOLI RD]  {aliikulalavender.com}  Occurrence: 2
+
+COMPANY:  <| Align Technology , Inc |> . -- [ALIGN TECHNOLOGY INC]  {aligntech.com}  Occurrence: 1
+
+COMPANY: , <| All about PetCare |> serves -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 1
+
+COMPANY: to <| Alkota Plumbing and Heating |> , -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY:  <| All about PetCare |>  -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 30
+
+COMPANY:  <| Alion Science and Technology |> Names -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}  Occurrence: 2
+
+COMPANY:  <| All About Books and Comics |> is -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}  Occurrence: 1
+
+COMPANY: AKL <| Maui - Organic Lavender |> Body -- [MAUI KULA LAVENDER]  {aliikulalavender.com}  Occurrence: 2
+
+COMPANY: at <| All about PetCare |> , -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 1
+
+COMPANY: Contact <| Alkota Plumbing and Heating |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY:  <| Alkota Plumbing and Heating |> Inc -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 9
+
+COMPANY: About <| All Action Chicago Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 3
+
+COMPANY:  <| All American Limousine of Chicago |> has -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}  Occurrence: 1
+
+COMPANY:  <| All About Books and Comics |> offers -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}  Occurrence: 1
+
+COMPANY: of <| All about PetCare |> by -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 2
+
+COMPANY:  <| All Brite Electric , Inc. |> • -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}  Occurrence: 2
+
+COMPANY:  <| All About Books and Comics |> has -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}  Occurrence: 2
+
+CITY: downtown <| Coeur d ' Alene |> . -- [COEUR D ALENE]  {all-thingsirish.com}  Occurrence: 5
+
+COMPANY:  <| All Action Chicago Limousine |> is -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 6
+
+COMPANY: At <| All-Safe Pest and Termite |> , -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}  Occurrence: 4
+
+COMPANY:  <| Alive Hospice Residence Nashville |>  -- [ALIVE HOSPICE OF NASHVILLE]  {alivehospice.org}  Occurrence: 1
+
+COMPANY: why <| All-Safe Pest and Termite |> ' -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}  Occurrence: 1
+
+COMPANY: formed <| All about Petcare |> in -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 1
+
+COMPANY: of <| All American Farms , Inc |> . -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com}  Occurrence: 3
+
+COMPANY: Alii <| Kula Lavender |> . -- [MAUI KULA LAVENDER]  {aliikulalavender.com}  Occurrence: 2
+
+COMPANY: from <| Alkota Plumbing and Heating |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY: used <| All American Custom Pools |> for -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 1
+
+CITY: in <| Coeur d ' Alene |> . -- [COEUR D ALENE]  {all-thingsirish.com}  Occurrence: 1
+
+CITY: the <| Coeur d ' Alene |> Downtown -- [COEUR D ALENE]  {all-thingsirish.com}  Occurrence: 1
+
+COMPANY: , <| All American Custom Pools and Spas |> has -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 2
+
+COMPANY:  <| Alkota Plumbing and Heating |> provides -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 1
+
+COMPANY: the <| All about PetCare |> team -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 3
+
+COMPANY: , <| All-Mode Communications , Inc. |> provides -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}  Occurrence: 1
+
+COMPANY:  <| All American Custom Pools & Spas |> 225 -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 4
+
+COMPANY: 2016 <| Alion Science and Technology |> Corporation -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}  Occurrence: 7
+
+COMPANY: a <| GC International , Inc. |> Company -- [GC INTL INC]  {aljcast.com}  Occurrence: 2
+
+CONTACT: son <| Jack D. Wigley |> as -- [JACK WIGLEY]  {allaboardamerica.com}  Occurrence: 1
+
+COMPANY: by <| Alignment Services of North |>  -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com}  Occurrence: 10
+
+COMPANY: and <| All American Custom Pools and Spas |> build -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 1
+
+CONTACT: husband <| Jack L. Wigley |> later -- [JACK WIGLEY]  {allaboardamerica.com}  Occurrence: 1
+
+COMPANY:  <| Alkota Plumbing and Heating |> serves -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 4
+
+COMPANY: choosing <| All Action Chicago Limo Service |> . -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 5
+
+COMPANY: at <| Alive Hospice Nashville |> , -- [ALIVE HOSPICE OF NASHVILLE]  {alivehospice.org}  Occurrence: 1
+
+COMPANY: | <| All Action Chicago Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 10
+
+COMPANY: merchandise <| All About Comics |> subscribers -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}  Occurrence: 1
+
+CONTACT: , <| John and Debbie Lopez |> purchased -- [JOHN LOPEZ]  {allabouticecream.com}  Occurrence: 1
+
+COMPANY: joined <| All about PetCare |> in -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 1
+
+COMPANY:  <| All about PetCare |> | -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 2
+
+COMPANY: at <| All about PetCare |> place -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 2
+
+COMPANY: Align-Ritet <| Tool Co |> . -- [ALIGN-RITE TOOL CO]  {alignritetool.com}  Occurrence: 5
+
+COMPANY:  <| Alkota Plumbing and Heating |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}  Occurrence: 8
+
+ADDRESS: 1710 <| Patterson Street |>  -- [1718 PATTERSON ST]  {alivehospice.org}  Occurrence: 1
+
+COMPANY: 2000-2016 <| ALIGN TECHNOLOGY , INC. |> ALL -- [ALIGN TECHNOLOGY INC]  {aligntech.com}  Occurrence: 2
+
+COMPANY:  <| All Action Chicago Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}  Occurrence: 9
+
+COMPANY:  <| All about PetCare |> , -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 1
+
+COMPANY: awarded <| Alion Science and Technology |> , -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}  Occurrence: 1
+
+COMPANY:  <| All American Custom Pools and Spas |> ' -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}  Occurrence: 2
+
+COMPANY: The <| All about PetCare |> staff -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}  Occurrence: 2
+

@@ -1,0 +1,2130 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+COMPANY:  <| All About Dance |> offers -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 2
+
+COMPANY:  <| Alkota Plumbing and Heating |> | -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 14
+
+STATE: , <| CA |> Division -- [CA]  {all-coast.com}    Occurrence: 1
+
+CONTACT: by <| Edward R. Kissell |> . -- [EDWARD R KISSELL]  {all-pack.com}    Occurrence: 1
+
+COMPANY: At <| AlphaLink |> Technologies -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+CITY: between <| Lansing |> and -- [LANSING]  {all-of-grace.org}    Occurrence: 1
+
+COMPANY: keep <| All American |> well -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: | <| Alien Technology |>  -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 2
+
+COMPANY: , <| All Things Irish |> adds -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 1
+
+COMPANY: through <| All Alaska Tours |>  -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+ZIP:  <| 92262 |>  -- [92262 5938]  {allamericangifts.com}    Occurrence: 1
+
+ZIP: TN <| 37643 |>  -- [37643 3312]  {all4jesus.com}    Occurrence: 2
+
+COMPANY: , <| All-American Grilled Delivery |> . -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+STATE: , <| FL |> 33186 -- [FL]  {allaboardcruises.com}    Occurrence: 1
+
+STATE: , <| TN |> 38122-0366 -- [TN]  {aljc.org}    Occurrence: 4
+
+CITY: including <| Chicago |> Architecture -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All American Custom Pools and Spas |> specializes -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 2
+
+CITY: , <| Newark |> , -- [NEWARK]  {alink.com}    Occurrence: 1
+
+CITY: the <| Colorado Springs |> Utilities -- [COLORADO SPRINGS]  {allamericangrounds.com}    Occurrence: 4
+
+CITY: in <| Chicago |> brings -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: for <| Al Jadid |> ( -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: at <| All about PetCare |> , -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: in <| Alive Hospice |> ' -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Alien Technology |> Provides -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 1
+
+STATE: , <| AZ |>  -- [AZ]  {allaboardamerica.com}    Occurrence: 9
+
+COMPANY: At <| ALL ABOARD AMERICA |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY: of <| All Alaska Tours |> , -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+COMPANY: 2016 <| All American KTM |>  -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 3
+
+COMPANY: , <| Alive Hospice |> is -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 3
+
+ZIP: CA <| 92262 |>  -- [92262 5938]  {allamericangifts.com}    Occurrence: 3
+
+COMPANY: [ <| All-American Grilled Delivery |> ] -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+COMPANY: , <| All Aboard Cruises |> , -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY: At <| Alkota Plumbing and Heating |> , -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 2
+
+ADDRESS:  <| 3410 Tytus Ave |> . -- [3410 TYTUS AVE]  {allaboutpetcare.com}    Occurrence: 9
+
+ZIP: OH <| 43055 |> . -- [43055 1825]  {alink.com}    Occurrence: 1
+
+CITY: the <| Phoenix |> Area -- [PHOENIX]  {all-about-comics.com}    Occurrence: 1
+
+ZIP: CT <| 06851 |> 203-847-2704 -- [06851 2706]  {allamericanpools.com}    Occurrence: 4
+
+COMPANY: Us <| All American KTM |> Ramona -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 4
+
+COMPANY:  <| All Aboard Cruises |> specializes -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY: and <| All American Custom Pools and Spas |> build -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 1
+
+COMPANY: 2015 <| All City |> Technology -- [ALL CITY]  {all-city.com}    Occurrence: 1
+
+COMPANY: the <| All American Builders |> personalized -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+CONTACT: Principals <| Susan Alisberg |> and -- [SUSAN ALISBERG]  {alisbergparker.com}    Occurrence: 1
+
+COMPANY:  <| All American Custom Pools and Spas |> | -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 2
+
+COMPANY:  <| All American |>  -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+CITY: , <| Los Angeles |> , -- [LOS ANGELES]  {all-makes.com}    Occurrence: 5
+
+STATE: , <| NY |> 11520 -- [NY]  {alkit.com}    Occurrence: 3
+
+COMPANY: the <| Alabama Kidney Foundation |> for -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+COMPANY: by <| Alive Hospice |> ’ -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+ADDRESS: Spas <| 225 Main |> Avenue -- [225 MAIN ST]  {allamericanpools.com}    Occurrence: 4
+
+COMPANY: The <| Aliso Electric |> Difference -- [ALISO ELECTRIC]  {alisoelectric.com}    Occurrence: 1
+
+STATE: , <| OH |> at -- [OH]  {all-american-pools.com}    Occurrence: 1
+
+COMPANY: in <| Al Jadid |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> carries -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 2
+
+COMPANY:  <| Align Technology , Inc |> . -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85210 -- [AZ]  {allaboardamerica.com}    Occurrence: 1
+
+CITY:  <| Petaluma |> , -- [PETALUMA]  {allamericanprinting.com}    Occurrence: 16
+
+COMPANY: by <| All American Custom Pools and Spas , Inc. |> All -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 4
+
+COMPANY: Send <| All American Christmas Co. |> an -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+ZIP: Texas <| 75074 |>  -- [75074 8674]  {all-safe-pest.com}    Occurrence: 1
+
+COMPANY: to <| Alkota Plumbing and Heating |> , -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> - -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 12
+
+COMPANY:  <| All Industrial Engine |>  -- [ALL INDUSTRIAL ENGINE SVC]  {all-industrial.com}    Occurrence: 1
+
+CITY: in <| Los Angeles |> , -- [LOS ANGELES]  {aljadid.com}    Occurrence: 1
+
+COMPANY: to <| All Events |>  -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| All American Builders |> are -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+STATE: , <| CO |> 80916 -- [CO]  {allamericangrounds.com}    Occurrence: 5
+
+COMPANY: referred <| All Action Limousine |> . -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 9
+
+CITY: Greater <| Chicago |> Area -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: for <| AL JADID |> online -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 3
+
+COMPANY: ​ <| All-Tex |> Roofing -- [ALL-TEX]  {all-texroofing.com}    Occurrence: 1
+
+ZIP: CT <| 06870 |>  -- [06870 1626]  {alisbergparker.com}    Occurrence: 2
+
+CITY: , <| Cincinnati |> , -- [CINCINNATI]  {all-american-pools.com}    Occurrence: 1
+
+COMPANY:  <| AL JADID |> is -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY:  <| All American Limo |> office -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 5
+
+COMPANY: Why <| Alive Hospice |> ? -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> Grief -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: for <| Al Jadid |>  -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CITY: , <| Nashville |> , -- [NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+ADDRESS:  <| 1402 W. State Road |>  -- [1402 W STATE RD]  {allamericandev.com}    Occurrence: 1
+
+COMPANY: to <| All American Christmas Co |> . -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+COMPANY: to <| AL JADID Magazine |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CITY: in <| Nashville |> & -- [NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All Brite Electric , Inc. |> • -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}    Occurrence: 2
+
+CITY: , <| La Crosse |> , -- [LA CROSSE]  {alinetools.com}    Occurrence: 1
+
+COMPANY: taken <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY:  <| Aliso Escrow |> - -- [ALISO ESCROW INC]  {alisoescrow.com}    Occurrence: 2
+
+COMPANY: At <| All American Mortgage |> Inc -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 1
+
+COMPANY: At <| All Aboard Cruises |> , -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> is -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 6
+
+COMPANY: | <| All-Mode Communications |>  -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}    Occurrence: 10
+
+CITY:  <| Wooster |> , -- [WOOSTER]  {all-events-rental.com}    Occurrence: 1
+
+ADDRESS:  <| 4 Industry Drive |> , -- [4 INDUSTRY DR]  {all-briteinc.com}    Occurrence: 9
+
+COMPANY: contact <| AlphaLink |> and -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+CITY:  <| Little Rock |> Arkansas -- [LITTLE ROCK]  {alkar1.com}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> provides -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Align Technology |> to -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 2
+
+CITY: , <| Norwalk |> , -- [NORWALK]  {allamericanpools.com}    Occurrence: 4
+
+ADDRESS:  <| 533 East Elk Ave |>  -- [533 E ELK AVE]  {all4jesus.com}    Occurrence: 2
+
+CITY: in <| Coeur d ' Alene |> . -- [COEUR D ALENE]  {all-thingsirish.com}    Occurrence: 1
+
+COMPANY: , <| AL JADID |> is -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: the <| All American Products |> Group -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com}    Occurrence: 1
+
+CITY: in <| Chicago |> . -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: 8 <| Palm Springs |> , -- [PALM SPRINGS]  {allamericangifts.com}    Occurrence: 1
+
+COMPANY: with <| All About Pets |> since -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 1
+
+CITY: our <| Anchorage |> home -- [ANCHORAGE]  {alisonsrelo.com}    Occurrence: 1
+
+COMPANY: the <| Alive Hospice |> mission -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All American |> is -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alion Science and Technology |> Corporation -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}    Occurrence: 7
+
+COMPANY: keep <| All American |> Maintenance -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+ADDRESS: at <| 15613 South 71st |> Court -- [15613 S 71ST CT]  {alisonandrews.com}    Occurrence: 1
+
+COMPANY: the <| Alive Hospice |> Medical -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: At <| Alkota Plumbing and Heating |> we -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 3
+
+COMPANY: , <| All About Ice Cream |> , -- [ALL ABOUT ICE CREAM]  {allabouticecream.com}    Occurrence: 1
+
+CONTACT: , <| Jim Schumacher |> said -- [JIM SCHUMACHER]  {all-safe-pest.com}    Occurrence: 1
+
+COMPANY:  <| All Star |> Sales -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 1
+
+CITY: Blessing <| Seattle |> , -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+STATE: throughout <| CT |> · -- [CT]  {all-briteinc.com}    Occurrence: 9
+
+COMPANY:  <| Alabama Kidney Foundation |> Partners -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+ADDRESS: • <| 4 Industry Drive |> P.O -- [4 INDUSTRY DR]  {all-briteinc.com}    Occurrence: 2
+
+COMPANY: supporting <| Alive Hospice |> ' -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+STATE: , <| OH |> 45042 -- [OH]  {allaboutpetcare.com}    Occurrence: 9
+
+ZIP: CO <| 80916 |> | -- [80916 4206]  {allamericangrounds.com}    Occurrence: 4
+
+COMPANY: 1986-2016 <| All American Gifts |>  -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 1
+
+STATE: , <| OH |>  -- [OH]  {allaboutpetcare.com}    Occurrence: 16
+
+COMPANY:  <| All Makes Office Machine Company |> has -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com}    Occurrence: 1
+
+CITY:  <| Plano |>  -- [PLANO]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY: acclaim <| AL JADID |> has -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: to <| All About Tennis |>  -- [ALL ABOUT TENNIS]  {allabouttennis.com}    Occurrence: 1
+
+COMPANY: on <| All American Christmas Co. |> are -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+COMPANY:  <| AlphaLink |>  -- [ALPHALINK]  {alink.com}    Occurrence: 3
+
+COMPANY: , <| All American Custom Pools and Spas |> has -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 2
+
+COMPANY:  <| All About Dogs |> : -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 6
+
+COMPANY: `` <| AL JADID |> is -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY:  <| AlphaLink |> IT -- [ALPHALINK]  {alink.com}    Occurrence: 2
+
+COMPANY: 2015 <| All Alaska Tours |>  -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+COMPANY:  <| All American Business Systems |> Contact -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 2
+
+CITY: in <| Miami |> , -- [MIAMI]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> sells -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 1
+
+COMPANY: At <| All-Ink.com |> we -- [ALL-INK.COM]  {all-ink.com}    Occurrence: 2
+
+STATE: , <| NY |> 11566 -- [NY]  {alkit.com}    Occurrence: 1
+
+COMPANY: s <| True Value Hardware |> - -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com}    Occurrence: 2
+
+STATE: , <| DC |> ; -- [DC]  {alionscience.com}    Occurrence: 1
+
+CONTACT: ( <| Carl Bonasera |> ) -- [CARL BONASERA]  {allamericancomicshops.com}    Occurrence: 2
+
+COMPANY: - <| All Things Irish |> - -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 18
+
+CITY: Historic <| Chicago |> Tours -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: , <| Anchorage |> to -- [ANCHORAGE]  {alisonsrelo.com}    Occurrence: 1
+
+STATE: , <| CA |> 92065 -- [CA]  {allamericanktm.com}    Occurrence: 1
+
+COMPANY: like <| Al Jadid |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY:  <| All American Christmas Co. |> has -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+COMPANY: the <| Alive Hospice |> Griefline -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+STATE: , <| TN |> Headquarters -- [TN]  {all-star-usa.com}    Occurrence: 2
+
+STATE: Chattanooga <| TN |> ; -- [TN]  {allamericanpos.com}    Occurrence: 3
+
+COMPANY:  <| All American Custom Pools & Spas |> 225 -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 4
+
+COMPANY:  <| Alive Hospice |> Medical -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+CITY:  <| Chicago |> Ridge -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All American KTM |> Ramona -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 2
+
+CITY:  <| Provo |> , -- [PROVO]  {allaboutpetsprovo.com}    Occurrence: 7
+
+COMPANY: Alokota <| Plumbing and Heating |> get -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+CITY: for <| Anchorage |> Bowl -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 1
+
+STATE: , <| IL |> . -- [IL]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY:  <| All American LImo |>  -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 12
+
+COMPANY: Service <| All American KTM |> Ramona -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 4
+
+COMPANY:  <| All American Appliance Service |> - -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 7
+
+COMPANY:  <| All American Builders |> Projects -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+STATE:  <| OH |> Snap -- [OH]  {all-events-rental.com}    Occurrence: 2
+
+CITY: of <| Colorado Springs |> has -- [COLORADO SPRINGS]  {allamericangrounds.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {all-coast.com}    Occurrence: 1
+
+COMPANY:  <| All About Dance |> ! -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 1
+
+CITY: in <| Scottsdale |> , -- [SCOTTSDALE]  {allaboutdance-az.com}    Occurrence: 3
+
+ADDRESS: 21A <| Van Blarcom Ave. |> All -- [21 VAN BLARCOM AVE]  {allamericanapplianceservice.com}    Occurrence: 1
+
+CITY: West <| Seattle |>  -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+ZIP:  <| 45042 |>  -- [45042 2634]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY:  <| All-Mode Communications |> has -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> at -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+CITY: | <| Memphis |> , -- [MEMPHIS]  {aljc.org}    Occurrence: 6
+
+CITY: , <| Porterville |> , -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 3
+
+ZIP: IL <| 60462 |>  -- [60462 5135]  {alisonandrews.com}    Occurrence: 7
+
+COMPANY:  <| Alive Hospice |> ' -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+CITY:  <| Hixson |> , -- [HIXSON]  {allamericanpos.com}    Occurrence: 1
+
+CITY: in <| Ventura |> County -- [VENTURA]  {alisoescrow.com}    Occurrence: 1
+
+CITY: East <| Chicago |> . -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: , <| Chateaugay |> , -- [CHATEAUGAY]  {alixs.com}    Occurrence: 1
+
+STATE: , <| TN |> for -- [TN]  {all-star-usa.com}    Occurrence: 1
+
+COMPANY: , <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY: helps <| Alive Hospice |> in -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: email <| All Things Irish |> with -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 1
+
+COMPANY: , <| Aliso Electric |> can -- [ALISO ELECTRIC]  {alisoelectric.com}    Occurrence: 1
+
+CITY:  <| Scottsdale |> , -- [SCOTTSDALE]  {allaboutdance-az.com}    Occurrence: 1
+
+COMPANY:  <| Align Technology |> is -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 2
+
+STATE: Washington <| DC |> . -- [DC]  {allafrica.com}    Occurrence: 4
+
+CITY:  <| Coral Springs |> , -- [CORAL SPRINGS]  {allaboutpainting.com}    Occurrence: 1
+
+COMPANY: on <| Alive Hospice |> when -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+CITY: , <| Wooster |> , -- [WOOSTER]  {all-events-rental.com}    Occurrence: 4
+
+COMPANY:  <| Alion Science and Technology |> Names -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}    Occurrence: 2
+
+COMPANY: to <| All About Dogs |> in -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY: , <| All Star |> , -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 4
+
+COMPANY: , <| Alisberg Parker |> is -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com}    Occurrence: 1
+
+STATE: , <| CA |> ( -- [CA]  {allamericanktm.com}    Occurrence: 10
+
+CITY: in <| Chicago |> IL -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY: The <| Alabama Kidney Foundation |> ( -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+ZIP: TN <| 38112 |> , -- [38112 2404]  {allamericaninc.com}    Occurrence: 1
+
+COMPANY: Contact <| Alkota Plumbing and Heating |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+CITY:  <| Miami |> , -- [MIAMI]  {allaboardcruises.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {all-makes.com}    Occurrence: 5
+
+STATE: , <| CT |> 06851 -- [CT]  {allamericanpools.com}    Occurrence: 5
+
+COMPANY:  <| Align Technology |> has -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+ZIP: Hawaii <| 96790 |> , -- [96790 7818]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY: 's <| All American Racers |>  -- [ALL AMERICAN RACERS INC]  {allamericanracers.com}    Occurrence: 5
+
+ZIP: CA <| 90007 |>  -- [90007 2708]  {all-makes.com}    Occurrence: 2
+
+CITY: , <| Ramona |> CA -- [RAMONA]  {allamericanktm.com}    Occurrence: 1
+
+COMPANY:  <| All About Ice Cream |> & -- [ALL ABOUT ICE CREAM]  {allabouticecream.com}    Occurrence: 4
+
+CITY:  <| Kula |> , -- [KULA]  {aliikulalavender.com}    Occurrence: 2
+
+ADDRESS:  <| 6189 DeBarr Road |>  -- [6189 DEBARR RD]  {alkotaphi.com}    Occurrence: 9
+
+ZIP:  <| 60805 |>  -- [60805 2105]  {allamericancomicshops.com}    Occurrence: 1
+
+CITY:  <| Anchorage |>  -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 1
+
+CITY: the <| Chicago |> . -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY:  <| Alien Technology |> Professional -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 2
+
+COMPANY: At <| Alisberg Parker |> our -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com}    Occurrence: 1
+
+CITY: | <| Orland Park |> Spa -- [ORLAND PARK]  {alisonandrews.com}    Occurrence: 2
+
+COMPANY: , <| All Star |> Regenerative -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 4
+
+CONTACT: | <| Dan Gurney |> 's -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 3
+
+STATE: , <| CA |> 95602 -- [CA]  {all-about-gutters.com}    Occurrence: 9
+
+COMPANY: and <| All American Mortgage Company |> to -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 1
+
+ZIP:  <| 96790 |>  -- [96790 7818]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY:  <| All About Pets |> is -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 2
+
+COMPANY:  <| All-Pack-Co |> . -- [ALL-PACK-CO]  {all-pack.com}    Occurrence: 2
+
+COMPANY:  <| Align-Rite Tool Co |> . -- [ALIGN-RITE TOOL CO]  {alignritetool.com}    Occurrence: 3
+
+CONTACT: : <| Dan Gurney |> was -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 2
+
+COMPANY: Gurney’s <| All American Racers |> | -- [ALL AMERICAN RACERS INC]  {allamericanracers.com}    Occurrence: 1
+
+COMPANY: for <| Al Jadid |> ’ -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CONTACT: contact <| Kerri Bauer |> via -- [KERRI BAUER]  {allaboutdance-az.com}    Occurrence: 1
+
+ADDRESS:  <| 1925 Aeroplaza Drive |> , -- [1925 AEROPLAZA DR]  {allamericangrounds.com}    Occurrence: 4
+
+CITY:  <| Chicago |> Midway -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+STATE: , <| TN |> 37129 -- [TN]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: from <| All American Appliance Service |> . -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+CITY: visit <| Chicago |> Metromix -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY:  <| Alive Hospice |> helps -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice Residence Nashville |>  -- [ALIVE HOSPICE OF NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: the <| AL JADID |> offices -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+STATE: Alkota <| AK |>  -- [AK]  {alkotaphi.com}    Occurrence: 2
+
+CITY: Landscaping <| Colorado Springs |> | -- [COLORADO SPRINGS]  {allamericangrounds.com}    Occurrence: 2
+
+STATE: of <| NH |> Kevin -- [NH]  {alignmentservices.com}    Occurrence: 1
+
+COMPANY: a <| GC International , Inc. |> Company -- [GC INTL INC]  {aljcast.com}    Occurrence: 2
+
+ZIP: TN <| 38122 |>  -- [38122 3021]  {aljc.org}    Occurrence: 4
+
+COMPANY: by <| Alignment Services of North |>  -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com}    Occurrence: 10
+
+CITY:  <| Ramona |>  -- [RAMONA]  {allamericanktm.com}    Occurrence: 3
+
+COMPANY: use <| All Action Limousine |> to -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 9
+
+COMPANY:  <| Alisberg Parker |>  -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com}    Occurrence: 4
+
+COMPANY: from <| All Events |> , -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| All About PetCare |> , -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 2
+
+STATE: , <| NY |> 11360 -- [NY]  {aliciasjewelers.com}    Occurrence: 1
+
+COMPANY:  <| Alion Science and Technology |> delivers -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}    Occurrence: 1
+
+CITY:  <| Chicago |> Limousine -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 8
+
+COMPANY: contact <| All Aboard America |> with -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+ZIP: CA <| 95425 |>  -- [95425 0000]  {all-coast.com}    Occurrence: 2
+
+STATE: Jasper <| TN |> POS -- [TN]  {allamericanpos.com}    Occurrence: 1
+
+STATE: Chattanooga <| TN |> , -- [TN]  {allamericanpos.com}    Occurrence: 1
+
+CITY: popular <| Chicago |> Area -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| AlphaLink |> Launches -- [ALPHALINK]  {alink.com}    Occurrence: 2
+
+ADDRESS:  <| 10810 E. Via Linda # 106 |>  -- [10810 E VIA LINDA # 106]  {allaboutdance-az.com}    Occurrence: 1
+
+COMPANY: why <| All-Safe Pest and Termite |> ' -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 1
+
+ADDRESS:  <| 872 Main Street |>  -- [872 MAIN ST]  {allamericanktm.com}    Occurrence: 4
+
+COMPANY: to <| All American Mortgage Company |> . -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 1
+
+ADDRESS:  <| 1718 Patterson Street |> Nashville -- [1718 PATTERSON ST]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All about PetCare |> , -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: of <| All About Pets |> . -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 1
+
+ZIP: TX <| 75074 |>  -- [75074 8674]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY:  <| Alki Congregational United |> Church -- [ALKI CONGREGATIONAL UNITED CHR]  {alkiucc.org}    Occurrence: 4
+
+STATE: , <| NY |> 12901 -- [NY]  {alixs.com}    Occurrence: 1
+
+COMPANY:  <| All American Business Systems |>  -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 1
+
+COMPANY: About <| Alphalink |> - -- [ALPHALINK]  {alink.com}    Occurrence: 2
+
+ZIP: AK <| 99501 |>  -- [99501 2126]  {allalaskatours.com}    Occurrence: 3
+
+COMPANY:  <| ALITA Industries |> - -- [ALITA INDUSTRIES INC]  {alita.com}    Occurrence: 2
+
+CITY: , <| Porterville |> Ice -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+COMPANY:  <| All American Custom Pools and Spas |> ' -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 2
+
+CITY:  <| Birmingham |> Stocking -- [BIRMINGHAM]  {alkidney.org}    Occurrence: 1
+
+COMPANY: and <| All American Limousine in Chicago |> will -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: - <| Chateaugay |>  -- [CHATEAUGAY]  {alixs.com}    Occurrence: 1
+
+CITY: in <| Porterville |> , -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+COMPANY: 2016 <| AlphaLink |> . -- [ALPHALINK]  {alink.com}    Occurrence: 7
+
+CITY: downtown <| Coeur d ' Alene |> , -- [COEUR D ALENE]  {all-thingsirish.com}    Occurrence: 6
+
+CITY: , <| Colorado Springs |> , -- [COLORADO SPRINGS]  {allamericangrounds.com}    Occurrence: 4
+
+COMPANY: the <| All About Dance |> Home -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 1
+
+CITY: for <| Chicago |> Bears -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: West <| Seattle |> UCC -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+STATE: , <| AZ |> 85253 -- [AZ]  {allabouttennis.com}    Occurrence: 2
+
+ADDRESS:  <| 875 N White Station Rd |> | -- [875 N WHITE STATION RD]  {aljc.org}    Occurrence: 3
+
+STATE: with <| OH |> Snap -- [OH]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY: Choose <| All-Tex |> Roofing -- [ALL-TEX]  {all-texroofing.com}    Occurrence: 1
+
+STATE: , <| VA |> – -- [VA]  {alionscience.com}    Occurrence: 1
+
+COMPANY: on <| All American Appliance Service |>  -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+CITY: Animals <| Seattle |> , -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+CITY: , <| Chicago |> Limousine -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: Copyright <| Alignment Services of North |> America -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com}    Occurrence: 5
+
+COMPANY: used <| All American Custom Pools |> for -- [ALL AMERICAN POOLS & SPAS INC]  {allamericanpools.com}    Occurrence: 1
+
+COMPANY:  <| All American Gifts |> manufactures -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 1
+
+ZIP: CA <| 92262 |> . -- [92262 5938]  {allamericangifts.com}    Occurrence: 1
+
+COMPANY: to <| A-Line Machine Tool Company |> . -- [A-LINE MACHINE TOOL CO]  {alinetools.com}    Occurrence: 1
+
+COMPANY: means <| AL JADID |> . -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CITY: of <| Chicago |> ! -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: Alii <| Kula Lavender |> . -- [MAUI KULA LAVENDER]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY: With <| All American Builders |> you -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 2
+
+COMPANY:  <| All American Mortgage Company |> provides -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 1
+
+COMPANY: of <| All about PetCare |> and -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: by <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY:  <| All American Limo |>  -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 10
+
+CITY:  <| Anchorage |> , -- [ANCHORAGE]  {alisonsrelo.com}    Occurrence: 7
+
+COMPANY: , <| All American Mortgage |> Inc -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 1
+
+ZIP: CA <| 94954 |>  -- [94954 1143]  {allamericanprinting.com}    Occurrence: 16
+
+COMPANY: 2016 <| Alien Technology |>  -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 2
+
+COMPANY:  <| All-Safe Pest & Termite |> Coupons -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 4
+
+COMPANY: Contact <| All About Tennis |>  -- [ALL ABOUT TENNIS]  {allabouttennis.com}    Occurrence: 2
+
+ADDRESS:  <| 1100 Waipoli Road |> Kula -- [1100 WAIPOLI RD]  {aliikulalavender.com}    Occurrence: 7
+
+CITY: in <| Phoenix |> we -- [PHOENIX]  {all-about-comics.com}    Occurrence: 1
+
+COMPANY:  <| All-Pack-Co |> offers -- [ALL-PACK-CO]  {all-pack.com}    Occurrence: 1
+
+STATE: , <| AK |>  -- [AK]  {alkotaphi.com}    Occurrence: 12
+
+COMPANY: About <| Alive Hospice |> | -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 4
+
+COMPANY:  <| All American |>  -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com}    Occurrence: 2
+
+COMPANY:  <| AlphaLink |> Offers -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+STATE: Phoenix <| AZ |> Bus -- [AZ]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY:  <| AlphaLink |> Upgrades -- [ALPHALINK]  {alink.com}    Occurrence: 2
+
+COMPANY: used <| All Action Limousine |> more -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 9
+
+COMPANY:  <| Alignment Services of North |> America -- [ALIGNMENT SERVICES OF N AMER]  {alignmentservices.com}    Occurrence: 7
+
+COMPANY:  <| Alabama Kidney Foundation |> couldn -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+COMPANY:  <| All About Tennis |> - -- [ALL ABOUT TENNIS]  {allabouttennis.com}    Occurrence: 4
+
+COMPANY: The <| Alabama Kidney Foundation |> diligently -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+COMPANY: of <| Alive Hospice |> . -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All American Appliance Service |>  -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+COMPANY:  <| ALL AMERICAN GIFTS |> is -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 1
+
+STATE: Chicago <| IL |>  -- [IL]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY: to <| AL JADID |> . -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+ADDRESS:  <| 4607 Hamann |> Parkway -- [4607 HAMANN PKWY]  {all-industrial.com}    Occurrence: 1
+
+CONTACT: Dr. <| Matthew J Heller |> and -- [MATTHEW HELLER]  {allaboutpetcare.com}    Occurrence: 1
+
+CITY:  <| Santa Clarita |> , -- [SANTA CLARITA]  {all-prolandscape.com}    Occurrence: 1
+
+ADDRESS: up <| Waipoli Road |> . -- [1100 WAIPOLI RD]  {aliikulalavender.com}    Occurrence: 2
+
+CITY: | <| Chicago |> , -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 10
+
+STATE: , <| TN |> 37115 -- [TN]  {alivehospice.org}    Occurrence: 2
+
+STATE: , <| NH |> 03840 -- [NH]  {alignmentservices.com}    Occurrence: 6
+
+COMPANY: in <| AL JADID |> challenges -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: , <| All-Safe Pest & Termite |>  -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY:  <| All American Mortgage |> Inc -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 1
+
+COMPANY: Let <| ALL ABOARD AMERICA |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY: , <| All Star |> Turboblowers -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 4
+
+STATE: Dallas <| TX |> area -- [TX]  {all-safe-pest.com}    Occurrence: 3
+
+ZIP: AZ <| 85210 |>  -- [85210 1248]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY: with <| All Alaska Tours |> we -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+COMPANY:  <| All About Painting |>  -- [ALL ABOUT PAINTING INC]  {allaboutpainting.com}    Occurrence: 6
+
+COMPANY: At <| All American |> Maintenance -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+STATE: , <| CA |> , -- [CA]  {allabouticecream.com}    Occurrence: 1
+
+COMPANY:  <| All About Dance |>  -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 4
+
+COMPANY:  <| AL JADID |> accepts -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+STATE: , <| AK |> . -- [AK]  {alisonsrelo.com}    Occurrence: 1
+
+COMPANY:  <| All About Dance |> has -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 5
+
+COMPANY: at <| All About Dance |> . -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 2
+
+COMPANY: 2015 <| Alisberg Parker |> All -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com}    Occurrence: 1
+
+COMPANY: At <| All American Builders |> we -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+CITY: , <| Auburn |> , -- [AUBURN]  {all-about-gutters.com}    Occurrence: 8
+
+STATE: , <| CA |> was -- [CA]  {all-about-gutters.com}    Occurrence: 3
+
+COMPANY: About <| All Action Chicago Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 3
+
+COMPANY:  <| Alabama Kidney Foundation |> Corporate -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+STATE: Chicago <| IL |> | -- [IL]  {allamericanlimo.com}    Occurrence: 8
+
+COMPANY: , <| All American |> of -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: 2016 <| All About Pets |>  -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 5
+
+COMPANY:  <| Alisberg Parker Architects |> is -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com}    Occurrence: 1
+
+COMPANY: formed <| All about Petcare |> in -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+CONTACT: , <| Susan Alisberg |> and -- [SUSAN ALISBERG]  {alisbergparker.com}    Occurrence: 1
+
+COMPANY: Copyright <| All American Christmas Co |> . -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 3
+
+CITY: in <| Tempe |> and -- [TEMPE]  {allabouttennis.com}    Occurrence: 1
+
+ZIP: CA <| 95602 |>  -- [95602 2055]  {all-about-gutters.com}    Occurrence: 9
+
+COMPANY: from <| Alkota Plumbing and Heating |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+CITY:  <| Memphis |> , -- [MEMPHIS]  {aljc.org}    Occurrence: 2
+
+ADDRESS: , <| 1100 Waipoli Road |> , -- [1100 WAIPOLI RD]  {aliikulalavender.com}    Occurrence: 2
+
+ZIP: IL <| 60656 |>  -- [60656 1029]  {allamericanlimo.com}    Occurrence: 20
+
+COMPANY:  <| ALL AMERICAN BUILDERS |>  -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 4
+
+COMPANY: view <| Alive Hospice |> ' -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 3
+
+COMPANY: at <| All American Appliance Service |> . -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+COMPANY:  <| Abraham Lincoln Book Shop |> , -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com}    Occurrence: 2
+
+CITY: , <| Chicago |> Art -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: the <| All about PetCare |> team -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 3
+
+CITY:  <| Nashville |> , -- [NASHVILLE]  {alivehospice.org}    Occurrence: 9
+
+COMPANY: , <| All-Mode Communications , Inc. |> provides -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}    Occurrence: 1
+
+STATE: , <| IL |>  -- [IL]  {allamericanlimo.com}    Occurrence: 10
+
+STATE: Cloverdale <| CA |> , -- [CA]  {all-coast.com}    Occurrence: 2
+
+COMPANY:  <| All American Business Systems |> is -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 1
+
+CITY: minister <| Seattle |> , -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+COMPANY:  <| All-Mode Communications |>  -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}    Occurrence: 11
+
+CITY: the <| Chicago |> area -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 3
+
+CITY: , <| Porterville |> 's -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 2
+
+CONTACT: by <| John and Karla Carson |> , -- [JOHN CARSON]  {alink.com}    Occurrence: 1
+
+COMPANY: at <| All Events |> is -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| All Alaska Tours |> Inc. -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+COMPANY: > <| AlphaLink |> Upgrades -- [ALPHALINK]  {alink.com}    Occurrence: 3
+
+COMPANY:  <| All American Builders |>  -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 2
+
+COMPANY:  <| All American KTM |> , -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85259 -- [AZ]  {allaboutdance-az.com}    Occurrence: 4
+
+CITY: Downtown <| Middletown |> ! -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: At <| A-Line Machine Tool Company |> , -- [A-LINE MACHINE TOOL CO]  {alinetools.com}    Occurrence: 1
+
+CITY: of <| Chicago |> , -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> entered -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+CONTACT: : <| Rich Allen |>  -- [RICH ALLEN]  {all-cityinsurance.com}    Occurrence: 1
+
+ZIP: , <| 45239 |>  -- [45239 4511]  {all-american-pools.com}    Occurrence: 1
+
+CITY:  <| Evergreen Park |>  -- [EVERGREEN PARK]  {allamericancomicshops.com}    Occurrence: 1
+
+COMPANY:  <| Al Jadid |> the -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+STATE: Dallas <| TX |> exterminators -- [TX]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY: At <| A-Line Machine Tool Company |> we -- [A-LINE MACHINE TOOL CO]  {alinetools.com}    Occurrence: 1
+
+COMPANY:  <| All About Books and Comics |> is -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 1
+
+CITY: North <| Scottsdale |> area -- [SCOTTSDALE]  {allaboutdance-az.com}    Occurrence: 1
+
+COMPANY:  <| All American Builders |> will -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+COMPANY:  <| All American Business Systems |> About -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 2
+
+STATE: , <| UT |> 84657 -- [UT]  {allaboutpetsprovo.com}    Occurrence: 5
+
+ZIP: TN <| 37412 |>  -- [37412 1207]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+ZIP: AK <| 99504 |>  -- [99504 2313]  {alkotaphi.com}    Occurrence: 9
+
+COMPANY:  <| All Action Limousine |> . -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 9
+
+CITY: attending <| Porterville |> College -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+CITY: , <| Kula |> , -- [KULA]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY: choose <| Alkota Plumbing and Heating |> . -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+CITY: our <| Orland Park |> spa -- [ORLAND PARK]  {alisonandrews.com}    Occurrence: 1
+
+CITY: famous <| Chicago |> restaurants -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All American |> strives -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: to <| Alive Hospice |> . -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY:  <| All Events Rental |> Contact -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 1
+
+COMPANY:  <| ALL ABOARD AMERICA |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 2
+
+ZIP: OH <| 44691 |>  -- [44691 1213]  {all-events-rental.com}    Occurrence: 1
+
+COMPANY:  <| All American Builders |> originated -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+ZIP: MI <| 48906 |>  -- [48906 1895]  {all-of-grace.org}    Occurrence: 1
+
+CITY: the <| Chicago |> Symphony -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: From <| Chicago |> airports -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 3
+
+CONTACT: , <| John and Debbie Lopez |> purchased -- [JOHN LOPEZ]  {allabouticecream.com}    Occurrence: 1
+
+CITY: Street <| Nashville |> , -- [NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+STATE: , <| CA |> 95678-2638 -- [CA]  {all-calinsurance.com}    Occurrence: 1
+
+COMPANY: featured <| All-Safe Pest |> in -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 1
+
+COMPANY: to <| All About PetCare |>  -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+CITY: the <| Anchorage |> , -- [ANCHORAGE]  {allalaskatours.com}    Occurrence: 1
+
+CITY: best <| Chicago |> Limousine -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: about <| All American Appliance Service |> . -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+CITY:  <| Bartlett |>  -- [BARTLETT]  {allactionlimousine.com}    Occurrence: 9
+
+STATE: , <| UT |> 84062 -- [UT]  {allamericandev.com}    Occurrence: 1
+
+COMPANY: , <| Aliso Electric |> Inc. -- [ALISO ELECTRIC]  {alisoelectric.com}    Occurrence: 1
+
+CITY: between <| Chicago |> Suburbs -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+ZIP:  <| 60103 |>  -- [60103 5131]  {allactionlimousine.com}    Occurrence: 9
+
+CITY:  <| Middletown |> , -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 10
+
+CITY: St. <| Evergreen Park |> , -- [EVERGREEN PARK]  {allamericancomicshops.com}    Occurrence: 1
+
+COMPANY: The <| Alabama Kidney Foundation |> is -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+CITY: the <| Santa Clarita |> Valley -- [SANTA CLARITA]  {all-prolandscape.com}    Occurrence: 1
+
+CONTACT: brothers <| Stephen and Paul Borrelli |> , -- [STEPHEN BORRELLI]  {all-briteinc.com}    Occurrence: 3
+
+COMPANY: local <| All Star Products |> representative -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 1
+
+CITY:  <| Orland Park |> , -- [ORLAND PARK]  {alisonandrews.com}    Occurrence: 1
+
+ADDRESS:  <| 9536 W Foster Ave |>  -- [9536 W FOSTER AVE]  {allamericanlimo.com}    Occurrence: 10
+
+COMPANY: About <| All-Safe Pest & Termite |>  -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 4
+
+COMPANY: - <| All American Limo |>  -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 4
+
+STATE: , <| OH |>  -- [OH]  {all-american-pools.com}    Occurrence: 2
+
+ADDRESS:  <| 1100 Waipoli Road |>  -- [1100 WAIPOLI RD]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY:  <| All About Pets |>  -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 11
+
+COMPANY: are <| All American Builders |>  -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+STATE: , <| OH |> 43055 -- [OH]  {alink.com}    Occurrence: 1
+
+COMPANY: | <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY:  <| Alkota Plumbing and Heating |> Inc -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 9
+
+ZIP: AK <| 99501 |>  -- [99501 1853]  {alisonsrelo.com}    Occurrence: 7
+
+COMPANY: the <| All Aboard America |> Holdings -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY: from <| Alive Hospice |> . -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: | <| All American Limo |>  -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 12
+
+COMPANY: designated <| Alive Hospice |> in -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: contacting <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+STATE: , <| CA |> 92262 -- [CA]  {allamericangifts.com}    Occurrence: 4
+
+CITY:  <| Midland Park |> , -- [MIDLAND PARK]  {allamericanapplianceservice.com}    Occurrence: 1
+
+ADDRESS:  <| 230 S. Country Club Dr |> . -- [230 S COUNTRY CLUB DR]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY:  <| All Star |> Distributors -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 1
+
+CITY:  <| Pleasant Grove |> , -- [PLEASANT GROVE]  {allamericandev.com}    Occurrence: 1
+
+COMPANY: at <| All About Painting |> guarantee -- [ALL ABOUT PAINTING INC]  {allaboutpainting.com}    Occurrence: 3
+
+CITY:  <| West Haven |> , -- [WEST HAVEN]  {all-briteinc.com}    Occurrence: 2
+
+COMPANY:  <| AL JADID |> was -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CONTACT: husband <| Jack L. Wigley |> later -- [JACK WIGLEY]  {allaboardamerica.com}    Occurrence: 1
+
+ADDRESS:  <| 875 N White Station Rd |>  -- [875 N WHITE STATION RD]  {aljc.org}    Occurrence: 1
+
+CITY:  <| Cincinnati |> , -- [CINCINNATI]  {all-american-pools.com}    Occurrence: 2
+
+COMPANY: AKL <| Maui - Organic Lavender |> Body -- [MAUI KULA LAVENDER]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY:  <| All American Limo |> & -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All American Builders |> Values -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+COMPANY:  <| All-City Insurance |> finds -- [ALL-CITY INSURANCE]  {all-cityinsurance.com}    Occurrence: 1
+
+COMPANY:  <| All American Products |> Group -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com}    Occurrence: 8
+
+COMPANY: - <| All Star Products |> , -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 2
+
+CONTACT:  <| Dan Gurney |> ' -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 3
+
+COMPANY: An <| All Events |> Wedding -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| All-Cal Insurance |> ~ -- [ALL-CAL INSURANCE]  {all-calinsurance.com}    Occurrence: 2
+
+COMPANY:  <| All American Mortgage Company |>  -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 2
+
+STATE: , <| TN |> 37412 -- [TN]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+COMPANY: , <| Align Technology |> pioneered -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+STATE: , <| OH |> 44691 -- [OH]  {all-events-rental.com}    Occurrence: 5
+
+ADDRESS:  <| 3507 Ringgold Rd |> . -- [3507 RINGGOLD RD]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+COMPANY: about <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+STATE: , <| OH |> , -- [OH]  {all-american-pools.com}    Occurrence: 3
+
+COMPANY:  <| All About Ice Cream |>  -- [ALL ABOUT ICE CREAM]  {allabouticecream.com}    Occurrence: 1
+
+CITY: all <| Chicago |> sporting -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+ZIP: CA <| 93257 |>  -- [93257 4750]  {allabouticecream.com}    Occurrence: 1
+
+ADDRESS:  <| 600 W. Ray Road |> , -- [600 W RAY RD # D3]  {all-cityinsurance.com}    Occurrence: 1
+
+COMPANY:  <| All American KTM |> is -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 4
+
+COMPANY: at <| All American Christmas Co. |> can -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+STATE: , <| OH |> . -- [OH]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: – <| All American Builders |>  -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 6
+
+COMPANY:  <| All About PetCare |> is -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 3
+
+STATE: , <| TN |> 37343 -- [TN]  {allamericanpos.com}    Occurrence: 1
+
+ZIP: OH <| 45042 |>  -- [45042 2634]  {allaboutpetcare.com}    Occurrence: 9
+
+ZIP: IL <| 60462 |> . -- [60462 5135]  {alisonandrews.com}    Occurrence: 1
+
+COMPANY: The <| Alabama Kidney Foundation |> serves -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 8
+
+COMPANY: at <| All About Dogs |> in -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 2
+
+CITY:  <| Cloverdale |> , -- [CLOVERDALE]  {all-coast.com}    Occurrence: 5
+
+CITY: | <| Chicago |> IL -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 6
+
+COMPANY:  <| All Star |> Customer -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 1
+
+STATE: , <| CT |>  -- [CT]  {allamericanpools.com}    Occurrence: 1
+
+CITY:  <| Porterville |> , -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+STATE: , <| NH |> 03804 -- [NH]  {alignmentservices.com}    Occurrence: 1
+
+CONTACT: owner <| Ilene Moss |> organizes -- [ILENE MOSS]  {all-thingsirish.com}    Occurrence: 1
+
+COMPANY: , <| Alive Hospice |> has -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY:  <| Alien Technology |> Trusted -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 2
+
+STATE: , <| CA |> 92707-3250 -- [CA]  {allamericanracers.com}    Occurrence: 1
+
+ADDRESS: | <| 1725 Dryden Road |> , -- [1725 DRYDEN RD]  {all-mode.com}    Occurrence: 7
+
+CITY:  <| Norwalk |> , -- [NORWALK]  {allamericanpools.com}    Occurrence: 1
+
+STATE: , <| CA |> 90630 -- [CA]  {aljadid.com}    Occurrence: 4
+
+STATE: , <| TN |> 38112 -- [TN]  {allamericaninc.com}    Occurrence: 1
+
+STATE: Dance <| AZ |>  -- [AZ]  {allaboutdance-az.com}    Occurrence: 9
+
+COMPANY:  <| All American Builders |> is -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 6
+
+ZIP: VA <| 22102 |>  -- [22102 4220]  {alionscience.com}    Occurrence: 1
+
+STATE: , <| AK |> 99501 -- [AK]  {allalaskatours.com}    Occurrence: 3
+
+COMPANY: At <| AlphaLink |> , -- [ALPHALINK]  {alink.com}    Occurrence: 2
+
+CITY: and <| Washington |> DC -- [WASHINGTON]  {allafrica.com}    Occurrence: 4
+
+STATE: , <| CA |> 93257 -- [CA]  {allabouticecream.com}    Occurrence: 1
+
+CITY: of <| Chicago |> and -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 3
+
+COMPANY: on <| All-Coast Forest Products |> as -- [ALL-COAST FOREST PRODUCTS INC]  {all-coast.com}    Occurrence: 1
+
+CITY: serves <| Anchorage |> , -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 4
+
+COMPANY:  <| All American Development |>  -- [ALL AMERICAN DEVELOPMENT CO]  {allamericandev.com}    Occurrence: 2
+
+CITY: of <| Kailua |> town -- [KAILUA]  {aliiantiques.com}    Occurrence: 1
+
+ADDRESS:  <| 4 Industry Drive |>  -- [4 INDUSTRY DR]  {all-briteinc.com}    Occurrence: 2
+
+COMPANY: an <| All American Builders |> Guarantee -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+CITY: , <| Porterville |> Cakes -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+CITY: to <| Chicago |> or -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY:  <| All Makes Office Machine Co. |> , -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com}    Occurrence: 1
+
+CONTACT:  <| Rob Murchie |> take -- [ROB MURCHIE]  {all-florida-fishing.com}    Occurrence: 1
+
+CITY: the <| Chicago |> metropolitan -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> is -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 4
+
+CONTACT:  <| Bahman Atefi |>  -- [BAHMAN ATEFI]  {alionscience.com}    Occurrence: 2
+
+COMPANY:  <| All Action Chicago Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 9
+
+COMPANY: , <| Align Technology |> brings -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+COMPANY:  <| Alien Technology |> Introduces -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 1
+
+CITY: pass <| Kula |> Elementary -- [KULA]  {aliikulalavender.com}    Occurrence: 2
+
+STATE: , <| CA |> 94954 -- [CA]  {allamericanprinting.com}    Occurrence: 16
+
+ADDRESS:  <| 4671 Calle Carga |>  -- [4671 CALLE CARGA]  {aljcast.com}    Occurrence: 1
+
+CONTACT: , <| Jim Schumacher |> gives -- [JIM SCHUMACHER]  {all-safe-pest.com}    Occurrence: 1
+
+COMPANY: the <| Alive Hospice |> Giving -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+CITY:  <| Chicago |> Airport -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY:  <| All ABOARD CRUISES |> OFFERS -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY: of <| Alkota Plumbing and Heating |> , -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+COMPANY: - <| All American Products |> Group -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com}    Occurrence: 8
+
+ZIP: Alaska <| 99501 |>  -- [99501 2126]  {allalaskatours.com}    Occurrence: 1
+
+STATE: , <| UT |> 84604 -- [UT]  {allaboutpetsprovo.com}    Occurrence: 7
+
+COMPANY: s <| All American Racers |>  -- [ALL AMERICAN RACERS INC]  {allamericanracers.com}    Occurrence: 6
+
+CITY: KTM <| Ramona |> , -- [RAMONA]  {allamericanktm.com}    Occurrence: 10
+
+STATE: , <| CT |> . -- [CT]  {alisbergparker.com}    Occurrence: 2
+
+COMPANY:  <| All About Pets |> | -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 2
+
+COMPANY: 2013 <| Abraham Lincoln Book Shop |> , -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com}    Occurrence: 2
+
+STATE: Chattanooga <| TN |> Cash -- [TN]  {allamericanpos.com}    Occurrence: 2
+
+CITY: , <| Porterville |> ' -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 2
+
+CITY: West <| Seattle |> Neighbors -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+ADDRESS:  <| 1925 Aeroplaza Drive |>  -- [1925 AEROPLAZA DR]  {allamericangrounds.com}    Occurrence: 1
+
+STATE: Scottsdale <| AZ |> . -- [AZ]  {allabouttennis.com}    Occurrence: 1
+
+CITY: North <| Chicago |>  -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: ” <| All American Builders |> is -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+STATE: in <| NH |> and -- [NH]  {alignmentservices.com}    Occurrence: 1
+
+ADDRESS:  <| 3410 Tytus Ave |>  -- [3410 TYTUS AVE]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: to <| All About Dance |> ! -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 1
+
+COMPANY:  <| A-Line Machine Tool Company |> has -- [A-LINE MACHINE TOOL CO]  {alinetools.com}    Occurrence: 1
+
+STATE: , <| CO |> 80125 -- [CO]  {allamerican4x4.com}    Occurrence: 2
+
+COMPANY: Contact <| ALL ABOARD AMERICA |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+CITY:  <| Mesa |> , -- [MESA]  {allaboardamerica.com}    Occurrence: 1
+
+STATE: , <| TN |> , -- [TN]  {allamericanpos.com}    Occurrence: 4
+
+STATE: , <| MI |> 48906 -- [MI]  {all-of-grace.org}    Occurrence: 1
+
+STATE: Ramona <| CA |> , -- [CA]  {allamericanktm.com}    Occurrence: 1
+
+COMPANY:  <| ALL MAKES OFFICE MACHINE CO. |> , -- [ALL MAKES OFFICE MACHINE CO]  {all-makes.com}    Occurrence: 1
+
+CITY: and <| Cloverdale |> , -- [CLOVERDALE]  {all-coast.com}    Occurrence: 1
+
+COMPANY: 2015 <| All-Mode Communications , Inc. |> All -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}    Occurrence: 7
+
+CONTACT: manufacturer <| Dan Gurney |> is -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 1
+
+COMPANY:  <| All American |> Maintenance -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY:  <| Align Technology |> Ltd. -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+COMPANY: to <| All American Builders |>  -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> Physicians -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY: , <| AlphaLink |> is -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+CITY: all <| Chicago |> area -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY: , <| All American Builders |> must -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+COMPANY: an <| ALL ABOARD AMERICA |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+STATE: to <| AK |> and -- [AK]  {alisonsrelo.com}    Occurrence: 3
+
+CITY: , <| Birmingham |> and -- [BIRMINGHAM]  {alkidney.org}    Occurrence: 1
+
+COMPANY: at <| All American Mortgage |> is -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 1
+
+CONTACT: legend <| Dan Gurney |> . -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 2
+
+COMPANY:  <| All Alaska Tours |> , -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 6
+
+CONTACT: have <| John Romano |> and -- [JOHN ROMANO]  {allamericanpools.com}    Occurrence: 1
+
+CONTACT: of <| Dan Gurney |> Alligator -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 1
+
+CITY: from <| Chicago |> O -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY:  <| All About Pets |> uses -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 2
+
+ADDRESS:  <| 7919 Colerain Avenue |> , -- [7919 COLERAIN AVE]  {all-american-pools.com}    Occurrence: 1
+
+COMPANY: of <| All American Racers |> . -- [ALL AMERICAN RACERS INC]  {allamericanracers.com}    Occurrence: 1
+
+COMPANY:  <| All American Mortgage |> , -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 3
+
+CITY: - <| Midland Park |> , -- [MIDLAND PARK]  {allamericanapplianceservice.com}    Occurrence: 2
+
+COMPANY: Contact <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+CITY: in <| Anchorage |> , -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 1
+
+COMPANY: , <| All Alaska Tours |> , -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+STATE: , <| VA |> 22102 -- [VA]  {alionscience.com}    Occurrence: 1
+
+CITY: • <| Auburn |> , -- [AUBURN]  {all-about-gutters.com}    Occurrence: 8
+
+COMPANY: s <| All American Racers |> | -- [ALL AMERICAN RACERS INC]  {allamericanracers.com}    Occurrence: 1
+
+COMPANY:  <| Align-Rite Tool |> Excellent -- [ALIGN-RITE TOOL CO]  {alignritetool.com}    Occurrence: 2
+
+CITY: in <| Colorado Springs |> | -- [COLORADO SPRINGS]  {allamericangrounds.com}    Occurrence: 2
+
+CONTACT: | <| Dan Gurney |> ' -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 3
+
+COMPANY: years <| Alien Technology |> has -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 1
+
+STATE: , <| DE |> 19808 -- [DE]  {allaboardcruisestravel.com}    Occurrence: 1
+
+COMPANY: as <| Alisberg Parker |> . -- [ALISBERG PARKER ARCHITECTS]  {alisbergparker.com}    Occurrence: 1
+
+STATE: , <| DC |> , -- [DC]  {allafrica.com}    Occurrence: 1
+
+COMPANY: what <| All Aboard America |> is -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY:  <| AL JADID |> regularly -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY:  <| All Action Limousine |> Services -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 14
+
+STATE: Chattanooga <| TN |>  -- [TN]  {allamericanpos.com}    Occurrence: 1
+
+COMPANY: About <| Al Jadid |>  -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 3
+
+CITY:  <| Middletown |>  -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 1
+
+ADDRESS:  <| 250 Asti Rd |> . -- [250 ASTI RD]  {all-coast.com}    Occurrence: 2
+
+COMPANY:  <| All-Mode Communications |> Recognized -- [ALL-MODE COMMUNICATIONS INC]  {all-mode.com}    Occurrence: 10
+
+CITY: in <| Nashville |> and -- [NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Aliso Electric |> , -- [ALISO ELECTRIC]  {alisoelectric.com}    Occurrence: 1
+
+ZIP: CO <| 80916 |>  -- [80916 4206]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: of <| All American Builders |> are -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+COMPANY:  <| All-American Grilled Delivery |>  -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+COMPANY:  <| All American Mortgage |> is -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 1
+
+ADDRESS: , <| 4671 Calle Carga |> , -- [4671 CALLE CARGA]  {aljcast.com}    Occurrence: 2
+
+CITY: around <| Chicago |> , -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: , <| All Star |> Rocking -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 1
+
+COMPANY: , <| Aliso Electric |> provides -- [ALISO ELECTRIC]  {alisoelectric.com}    Occurrence: 1
+
+COMPANY:  <| All American Gifts |> About -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 2
+
+COMPANY:  <| All Events Rental |> is -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 4
+
+CITY: , <| Memphis |> , -- [MEMPHIS]  {allamericaninc.com}    Occurrence: 1
+
+CITY: in <| Anchorage |> . -- [ANCHORAGE]  {alisonsrelo.com}    Occurrence: 1
+
+COMPANY: listed <| All About Dogs |> as -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY: 1999 <| All American Farms Inc. |> , -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com}    Occurrence: 3
+
+CITY: greater <| Chicago |> area -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+ZIP: TN <| 37343 |>  -- [37343 4520]  {allamericanpos.com}    Occurrence: 1
+
+CITY:  <| Elizabethton |> , -- [ELIZABETHTON]  {all4jesus.com}    Occurrence: 2
+
+COMPANY:  <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+STATE: in <| CA |> ) -- [CA]  {allamericanracers.com}    Occurrence: 1
+
+CITY:  <| Chicago |> , -- [CHICAGO]  {alincolnbookshop.com}    Occurrence: 1
+
+CITY: Serving <| Ventura |> County -- [VENTURA]  {alisoescrow.com}    Occurrence: 2
+
+COMPANY:  <| Align Technology |> Reaches -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+STATE: , <| CA |> . -- [CA]  {alisoescrow.com}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> will -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: 2016 <| All American Mortgage |>  -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 3
+
+CITY: to <| Birmingham |> for -- [BIRMINGHAM]  {alkidney.org}    Occurrence: 6
+
+COMPANY:  <| All Events |> : -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 8
+
+COMPANY: at <| All about PetCare |> place -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 2
+
+COMPANY: of <| Alive Hospice |> , -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All American |> listens -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY:  <| ALL ABOARD CRUISES , INC |> . -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY:  <| All about PetCare |> | -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 2
+
+COMPANY: , <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 2
+
+CITY: In <| Anchorage |> , -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 1
+
+COMPANY: of <| Alive Hospice |> patients -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+CITY: of <| New York |> LLC -- [NEW YORK]  {alkit.com}    Occurrence: 3
+
+COMPANY:  <| All American Mortgage |>  -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 6
+
+ZIP: TN <| 37203 |>  -- [37203 2926]  {alivehospice.org}    Occurrence: 11
+
+CITY: in <| Cloverdale |> , -- [CLOVERDALE]  {all-coast.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85225 -- [AZ]  {all-cityinsurance.com}    Occurrence: 1
+
+COMPANY: of <| AL JADID |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 2
+
+COMPANY:  <| All About Books & Comics |> has -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 1
+
+COMPANY: support <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+STATE: Freeville <| NY |> 13068 -- [NY]  {all-mode.com}    Occurrence: 7
+
+COMPANY: , <| Alive Hospice |> never -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+STATE: , <| CA |>  -- [CA]  {all-coast.com}    Occurrence: 2
+
+COMPANY: with <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All American Christmas Co. |> launched -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 2
+
+COMPANY: | <| All Aboard America |>  -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 6
+
+CITY:  <| Anchorage |> , -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 9
+
+COMPANY:  <| All Events Rental |> Products -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 1
+
+CITY: , <| Orland Park |> , -- [ORLAND PARK]  {alisonandrews.com}    Occurrence: 7
+
+CITY: 12505 <| Birmingham |> , -- [BIRMINGHAM]  {alkidney.org}    Occurrence: 7
+
+COMPANY:  <| All-Safe Pest & Termite |>  -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY: in <| All American Builders |> services -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 2
+
+CITY: in <| Woodbridge |> since -- [WOODBRIDGE]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY: © <| All About Tennis |> Inc -- [ALL ABOUT TENNIS]  {allabouttennis.com}    Occurrence: 2
+
+CITY: downtown <| Coeur d ’ Alene |> , -- [COEUR D ALENE]  {all-thingsirish.com}    Occurrence: 2
+
+CITY: , <| Middletown |> , -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 17
+
+CITY: in <| Old Greenwich |> , -- [OLD GREENWICH]  {alisbergparker.com}    Occurrence: 2
+
+CITY: , <| Santa Ana |> , -- [SANTA ANA]  {allamericanracers.com}    Occurrence: 1
+
+STATE: , <| CA |> 93012 -- [CA]  {aljcast.com}    Occurrence: 3
+
+CITY: downtown <| Elizabethton |> ) -- [ELIZABETHTON]  {all4jesus.com}    Occurrence: 1
+
+COMPANY: call <| All American Limousine of Chicago |> today -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All Alaska Tours |> Mission -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+COMPANY:  <| All about PetCare |> is -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 5
+
+COMPANY: , <| All American Gifts |> , -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 1
+
+CONTACT:  <| Stephen J. Borrelli |>  -- [STEPHEN BORRELLI]  {all-briteinc.com}    Occurrence: 2
+
+CITY:  <| Old Greenwich |> , -- [OLD GREENWICH]  {alisbergparker.com}    Occurrence: 2
+
+CITY: the <| Coeur d ' Alene |> Downtown -- [COEUR D ALENE]  {all-thingsirish.com}    Occurrence: 1
+
+CITY: in <| Chicago |> , -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+STATE: , <| TN |>  -- [TN]  {allamericanpos.com}    Occurrence: 3
+
+COMPANY: 2015 <| Elizabethton Alliance Church |>  -- [ELIZABETHTON ALLIANCE CHURCH]  {all4jesus.com}    Occurrence: 1
+
+STATE: , <| HI |> . -- [HI]  {aliikulalavender.com}    Occurrence: 2
+
+ADDRESS:  <| 15613 South 71st |> Court -- [15613 S 71ST CT]  {alisonandrews.com}    Occurrence: 1
+
+COMPANY: Alii <| Kula Lavender |> , -- [MAUI KULA LAVENDER]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY:  <| AL JADID |> ' -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+STATE: Bayside <| NY |> 11360 -- [NY]  {aliciasjewelers.com}    Occurrence: 2
+
+STATE: , <| CA |> 91351 -- [CA]  {all-prolandscape.com}    Occurrence: 1
+
+COMPANY:  <| All Events |> now -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 4
+
+CITY: UCC <| Seattle |> , -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+STATE: , <| NY |> 12920 -- [NY]  {alixs.com}    Occurrence: 1
+
+COMPANY: to <| All-City Insurance |> ! -- [ALL-CITY INSURANCE]  {all-cityinsurance.com}    Occurrence: 1
+
+ADDRESS:  <| 10810 E. Via Linda # 106 |> , -- [10810 E VIA LINDA # 106]  {allaboutdance-az.com}    Occurrence: 3
+
+COMPANY: about <| AL JADID |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+STATE: , <| TN |> 38122 -- [TN]  {aljc.org}    Occurrence: 4
+
+COMPANY: trust <| All-Ink.com |> to -- [ALL-INK.COM]  {all-ink.com}    Occurrence: 2
+
+CITY: in <| Washington |> , -- [WASHINGTON]  {alionscience.com}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> opened -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 1
+
+ZIP: NY <| 12920 |>  -- [12920 0290]  {alixs.com}    Occurrence: 1
+
+ADDRESS: at <| 1496 West Main Street |> , -- [1496 W MAIN ST]  {alink.com}    Occurrence: 1
+
+COMPANY:  <| Alien Technology |> ® -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 1
+
+STATE: , <| TN |>  -- [TN]  {alivehospice.org}    Occurrence: 1
+
+ADDRESS: 3576 <| W. 95th St. |> Evergreen -- [3514 W 95TH ST]  {allamericancomicshops.com}    Occurrence: 1
+
+CITY: , <| Lansing |> , -- [LANSING]  {all-of-grace.org}    Occurrence: 1
+
+COMPANY: with <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+CITY: serving <| Porterville |> for -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+ADDRESS: | <| 15613 South 71st |> Court -- [15613 S 71ST CT]  {alisonandrews.com}    Occurrence: 6
+
+COMPANY:  <| All American Gifts |>  -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 4
+
+COMPANY: | <| All Action Chicago Limousine |>  -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 10
+
+COMPANY:  <| AL JADID MAGAZINE |>  -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 3
+
+CITY:  <| Nashville |> on -- [NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: from <| All-American Grilled Delivery |> , -- [ALL-AMERICAN GRILLED DELIVERY]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+CITY: of <| Chicago |> Chauffeurs -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: church <| Seattle |>  -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+COMPANY:  <| Align Technology Inc. |> - -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+COMPANY: ABOUT <| AL JADID |>  -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: 2016 <| Alabama Kidney Foundation |> Calendar -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+COMPANY: Contact <| Align-Rite Tool Co |> . -- [ALIGN-RITE TOOL CO]  {alignritetool.com}    Occurrence: 2
+
+COMPANY: as <| AlphaLink |> Technologies -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+COMPANY: 2016 <| All Alaska Tours |>  -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 2
+
+COMPANY: contact <| All Brite Electric |> with -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}    Occurrence: 2
+
+CITY:  <| Old Greenwich |>  -- [OLD GREENWICH]  {alisbergparker.com}    Occurrence: 2
+
+COMPANY: of <| All American Mortgage Company |> , -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 1
+
+CITY: / <| Mesa |> , -- [MESA]  {allaboardamerica.com}    Occurrence: 5
+
+ZIP: AZ <| 85719 |>  -- [85719 6946]  {alignritetool.com}    Occurrence: 2
+
+CITY: in <| Anchorage |> , -- [ANCHORAGE]  {alisonsrelo.com}    Occurrence: 1
+
+COMPANY: At <| All American Builders |> , -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> can -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 1
+
+COMPANY: of <| Alive Hospice |> ’ -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY: | <| All American |> Grounds -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 8
+
+COMPANY:  <| All American |> was -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+STATE: , <| IL |> 60642 -- [IL]  {alincolnbookshop.com}    Occurrence: 1
+
+STATE: Warren <| UT |> , -- [UT]  {allaboutpetsprovo.com}    Occurrence: 1
+
+COMPANY: , <| AL JADID |> switched -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+ZIP: UT <| 84604 |>  -- [84604 1515]  {allaboutpetsprovo.com}    Occurrence: 7
+
+COMPANY: about <| AL JADID |> : -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY:  <| All-City Insurance |> Agency -- [ALL-CITY INSURANCE]  {all-cityinsurance.com}    Occurrence: 3
+
+COMPANY: of <| All About Dogs |> , -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY: Support <| Alive Hospice |>  -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+CITY: in <| Los Angeles |> , -- [LOS ANGELES]  {all-makes.com}    Occurrence: 4
+
+COMPANY: at <| All American |> have -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: , <| All-American Pools |> , -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com}    Occurrence: 1
+
+COMPANY:  <| All Star |> Producs -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 3
+
+STATE: , <| AK |> 99504 -- [AK]  {alkotaphi.com}    Occurrence: 9
+
+CITY: The <| Tempe |> store -- [TEMPE]  {allabouttennis.com}    Occurrence: 1
+
+ZIP: FL <| 33186 |>  -- [33186 4702]  {allaboardcruises.com}    Occurrence: 1
+
+CITY: to <| Provo |> in -- [PROVO]  {allaboutpetsprovo.com}    Occurrence: 1
+
+COMPANY:  <| Alien Technology |> is -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 1
+
+CITY: into <| Kula |> , -- [KULA]  {aliikulalavender.com}    Occurrence: 2
+
+COMPANY:  <| All Action Limousine |> is -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 5
+
+COMPANY:  <| Alive Hospice |> Admissions -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All American Racers |> is -- [ALL AMERICAN RACERS INC]  {allamericanracers.com}    Occurrence: 2
+
+COMPANY: The <| Alabama Kidney Foundation |> helped -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 6
+
+COMPANY: 2016 <| Alabama Kidney Foundation |> . -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 7
+
+COMPANY: at <| All About Pets |> is -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 1
+
+ADDRESS:  <| 225 Main |> Avenue -- [225 MAIN ST]  {allamericanpools.com}    Occurrence: 1
+
+CITY:  <| Palm Springs |> Ca -- [PALM SPRINGS]  {allamericangifts.com}    Occurrence: 1
+
+CONTACT:  <| Dan Gurney |> ’ -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 2
+
+CITY: Downtown <| Middletown |> going -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY:  <| All City |> Technology -- [ALL CITY]  {all-city.com}    Occurrence: 2
+
+ZIP: CA <| 92065 |>  -- [92065 1932]  {allamericanktm.com}    Occurrence: 1
+
+COMPANY:  <| All Alaska Tours |>  -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 7
+
+CITY: , <| Ventura |> , -- [VENTURA]  {alisoescrow.com}    Occurrence: 1
+
+COMPANY: designating <| Alive Hospice |> in -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+CITY:  <| Chateaugay |>  -- [CHATEAUGAY]  {alixs.com}    Occurrence: 3
+
+COMPANY:  <| Alkota Plumbing and Heating |>  -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 8
+
+COMPANY: The <| Alabama Kidney Foundation |> has -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 6
+
+COMPANY: 2015 <| All American Gifts |>  -- [ALL AMERICAN GIFTS]  {allamericangifts.com}    Occurrence: 2
+
+CITY: the <| Anchorage |> Bowl -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 1
+
+ADDRESS:  <| 2012 University |> Boulevard -- [2012 UNIVERSITY BLVD]  {alkidney.org}    Occurrence: 7
+
+COMPANY: 2000-2016 <| ALIGN TECHNOLOGY , INC. |> ALL -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 2
+
+CONTACT:  <| Rob Murchie |>  -- [ROB MURCHIE]  {all-florida-fishing.com}    Occurrence: 1
+
+COMPANY:  <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 2
+
+COMPANY: the <| AL JADID |> staff -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CITY:  <| Chicago |> Suburbs -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 10
+
+COMPANY: of <| All American Farms , Inc |> . -- [ALL AMERICAN FARMS INC]  {allamericanfarms.com}    Occurrence: 3
+
+ADDRESS:  <| 2255 North Freedom Blvd |> . -- [2255 N FREEDOM BLVD]  {allaboutpetsprovo.com}    Occurrence: 6
+
+COMPANY: 2009 <| All American Products |> Group -- [ALL AMERICAN PRODUCTS]  {allamericanproducts.com}    Occurrence: 4
+
+COMPANY:  <| Alixs True Value |>  -- [ALIXS TRUE VALUE HARDWARE]  {alixs.com}    Occurrence: 3
+
+COMPANY: The <| All about PetCare |> staff -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 2
+
+CITY:  <| East Ridge |> , -- [EAST RIDGE]  {all-americangrilleddelivery.com}    Occurrence: 1
+
+COMPANY:  <| All About Books and Comics |> | -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 2
+
+COMPANY: | <| All About Books and Comics |>  -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 4
+
+COMPANY: 2011 <| Alita Industries , Inc. |> All -- [ALITA INDUSTRIES INC]  {alita.com}    Occurrence: 1
+
+COMPANY:  <| All American Business Systems |> Point -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 2
+
+CONTACT:  <| Diane Darling |> , -- [DIANE DARLING]  {alkiucc.org}    Occurrence: 1
+
+COMPANY: - <| All Action Chicago Limousine |> has -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 1
+
+CITY: , <| Phoenix |> , -- [PHOENIX]  {all-about-comics.com}    Occurrence: 2
+
+ADDRESS:  <| 222 Sound Beach Avenue |>  -- [222 SOUND BEACH AVE]  {alisbergparker.com}    Occurrence: 2
+
+CITY: , <| Freeville |> NY -- [FREEVILLE]  {all-mode.com}    Occurrence: 7
+
+COMPANY: | <| All About PetCare |> , -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 14
+
+CITY: Serving <| Norwalk |> , -- [NORWALK]  {allamericanpools.com}    Occurrence: 1
+
+CONTACT:  <| Dan Gurney |>  -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 4
+
+COMPANY:  <| All About Dance |> Company -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 1
+
+COMPANY: TO <| ALL AMERICAN BUILDERS |>  -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+ZIP:  <| 92065 |>  -- [92065 1932]  {allamericanktm.com}    Occurrence: 3
+
+COMPANY: with <| Alive Hospice |> , -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Align Technology |> B.V -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+CONTACT:  <| Matt Dunne |> / -- [MATT DUNNE]  {alignritetool.com}    Occurrence: 2
+
+COMPANY: , <| AL JADID |> offered -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: that <| All Brite Electric |> can -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}    Occurrence: 2
+
+CITY: West <| Chicago |>  -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| Abraham Lincoln Book Shop |> Contact -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com}    Occurrence: 3
+
+ADDRESS:  <| 2334 South Broadway |> , -- [2334 S BROADWAY]  {allamericanracers.com}    Occurrence: 1
+
+STATE: , <| NJ |> 07432 -- [NJ]  {allamericanapplianceservice.com}    Occurrence: 1
+
+CITY:  <| Los Angeles |>  -- [LOS ANGELES]  {all-makes.com}    Occurrence: 1
+
+CITY: , <| West Haven |> , -- [WEST HAVEN]  {all-briteinc.com}    Occurrence: 11
+
+STATE: , <| TN |>  -- [TN]  {all-star-usa.com}    Occurrence: 1
+
+COMPANY:  <| All About Dance |> AZ -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 5
+
+COMPANY: The <| Alabama Kidney Foundation |> was -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 6
+
+CITY: , <| Plano |> , -- [PLANO]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY: using <| AlphaLink |> ' -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+COMPANY: is <| All About Dogs |> ' -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+ZIP: NY <| 11360 |>  -- [11360 2492]  {aliciasjewelers.com}    Occurrence: 3
+
+CITY: from <| Chicago |> Suburbs -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: © <| All-City Insurance |> , -- [ALL-CITY INSURANCE]  {all-cityinsurance.com}    Occurrence: 1
+
+COMPANY:  <| All Events Rental |>  -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 4
+
+STATE: , <| CA |> and -- [CA]  {allabouticecream.com}    Occurrence: 1
+
+CITY: Best <| Chicago |> Limousine -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: , <| Camarillo |> , -- [CAMARILLO]  {aljcast.com}    Occurrence: 2
+
+COMPANY: About <| All Things Irish |> - -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 2
+
+ZIP:  <| 75074 |>  -- [75074 8674]  {all-safe-pest.com}    Occurrence: 2
+
+CONTACT: , <| Elie Chalala |> , -- [ELIE CHALALA]  {aljadid.com}    Occurrence: 1
+
+STATE: , <| IL |> 60462 -- [IL]  {alisonandrews.com}    Occurrence: 8
+
+COMPANY: i <| Kula Lavender |> in -- [MAUI KULA LAVENDER]  {aliikulalavender.com}    Occurrence: 1
+
+ADDRESS:  <| 150 West 24th Street |>  -- [150 W 24TH ST]  {all-makes.com}    Occurrence: 2
+
+ZIP: Ohio <| 44094 |>  -- [44094 5631]  {all-industrial.com}    Occurrence: 1
+
+ADDRESS:  <| 5112 Hwy 153 |>  -- [5112 HIGHWAY 153]  {allamericanpos.com}    Occurrence: 1
+
+CITY: Serving <| Anchorage |> , -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 1
+
+STATE: , <| AZ |> 85013 -- [AZ]  {all-about-comics.com}    Occurrence: 2
+
+CITY: in <| Chicago |>  -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: , <| AlphaLink |> will -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+STATE: , <| AK |> 99501 -- [AK]  {alisonsrelo.com}    Occurrence: 7
+
+COMPANY:  <| All About Dogs |> - -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 6
+
+CITY: in <| Cincinnati |> , -- [CINCINNATI]  {all-american-pools.com}    Occurrence: 1
+
+COMPANY: 2016 <| ALL ABOARD CRUISES |> and -- [ALL ABOARD CRUISES]  {allaboardcruisestravel.com}    Occurrence: 3
+
+COMPANY:  <| All Action Limousine |> - -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 2
+
+ZIP:  <| 90007 |> . -- [90007 2708]  {all-makes.com}    Occurrence: 1
+
+COMPANY: – <| All About Dance |> AZ -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 4
+
+COMPANY: Align-Ritet <| Tool Co |> . -- [ALIGN-RITE TOOL CO]  {alignritetool.com}    Occurrence: 5
+
+COMPANY: joined <| All About Dogs |> in -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 2
+
+COMPANY: with <| All About Dance |> ! -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 3
+
+CITY:  <| CHICAGO |> LIMOUSINE -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: identified <| All About Pets |> offers -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 2
+
+CITY: Christ <| Seattle |> , -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+COMPANY: , <| All Star |> Rotary -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 4
+
+COMPANY: 2016 <| All Aboard America |> - -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 3
+
+COMPANY: , <| All About Dance |> Company -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 3
+
+COMPANY: from <| All American Christmas Co |> . -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+CITY: all <| Chicago |> Suburbs -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+COMPANY: Contact <| All American Mortgage |> Inc -- [ALL AMERICAN MORTGAGE]  {allamericanmortgage.com}    Occurrence: 1
+
+COMPANY: at <| All About Dogs |> , -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 2
+
+COMPANY:  <| All American Limousine of Chicago |> has -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All About Books and Comics |> offers -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 1
+
+COMPANY:  <| All-Pack-Co |> was -- [ALL-PACK-CO]  {all-pack.com}    Occurrence: 2
+
+COMPANY:  <| Elizabethton Alliance Church |>  -- [ELIZABETHTON ALLIANCE CHURCH]  {all4jesus.com}    Occurrence: 2
+
+COMPANY:  <| All About Books and Comics |> has -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 2
+
+COMPANY:  <| All About Dogs |> has -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY: : <| Alabama Kidney Foundation |>  -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 12
+
+COMPANY: About <| All About Dance |>  -- [ALL ABOUT DANCE]  {allaboutdance-az.com}    Occurrence: 6
+
+COMPANY:  <| All Action Chicago Limousine |> is -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 6
+
+COMPANY: ABOUT <| All aLAska Tours |>  -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+COMPANY: an <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+CITY: Downtown <| Middletown |> for -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 1
+
+CITY: in <| Camarillo |> , -- [CAMARILLO]  {aljcast.com}    Occurrence: 2
+
+CITY:  <| LOS ANGELES |>  -- [LOS ANGELES]  {all-makes.com}    Occurrence: 1
+
+COMPANY: to <| All About Pets |> . -- [ALL ABOUT PETS]  {allaboutpetsprovo.com}    Occurrence: 1
+
+COMPANY:  <| All American Limo |> Email -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 5
+
+COMPANY:  <| All About Dogs |> © -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 4
+
+COMPANY: the <| Alabama Kidney Foundation |> . -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 8
+
+CITY: | <| Midland Park |> , -- [MIDLAND PARK]  {allamericanapplianceservice.com}    Occurrence: 4
+
+ADDRESS:  <| 3230 Summer Avenue |>  -- [3230 SUMMER AVE]  {allamericaninc.com}    Occurrence: 1
+
+COMPANY: About <| All American Limousine | Chicago |> IL -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+STATE: , <| TX |> 75074 -- [TX]  {all-safe-pest.com}    Occurrence: 2
+
+COMPANY: at <| All Events |> has -- [ALL EVENTS RENTAL]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| Alkota Plumbing and Heating |> provides -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+ZIP: DE <| 19808 |>  -- [19808 0000]  {allaboardcruisestravel.com}    Occurrence: 1
+
+CITY: of <| Chateaugay |> from -- [CHATEAUGAY]  {alixs.com}    Occurrence: 1
+
+COMPANY: through <| All About Dogs |> . -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+CITY: | <| Anchorage |> , -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 14
+
+COMPANY: Call <| All American Appliance Service |> at -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+COMPANY: at <| All About Dogs |> . -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+ADDRESS: 1710 <| Patterson Street |>  -- [1718 PATTERSON ST]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| Alkota Plumbing and Heating |> serves -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 4
+
+COMPANY: by <| All Action Limousine |> . -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 1
+
+COMPANY:  <| Aliso Escrow |> , -- [ALISO ESCROW INC]  {alisoescrow.com}    Occurrence: 1
+
+CITY:  <| WOODBRIDGE |>  -- [WOODBRIDGE]  {allaboutdogsinc.com}    Occurrence: 4
+
+COMPANY: choosing <| All Action Chicago Limo Service |> . -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 5
+
+CITY: Best <| Chicago |> Party -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 4
+
+COMPANY:  <| All about PetCare |>  -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 30
+
+COMPANY: merchandise <| All About Comics |> subscribers -- [ALL ABOUT BOOKS & COMICS]  {all-about-comics.com}    Occurrence: 1
+
+ADDRESS: 1710 <| Patterson St. |> , -- [1718 PATTERSON ST]  {alivehospice.org}    Occurrence: 1
+
+CITY: , <| Scottsdale |> , -- [SCOTTSDALE]  {allaboutdance-az.com}    Occurrence: 3
+
+CITY:  <| Chandler |> , -- [CHANDLER]  {all-cityinsurance.com}    Occurrence: 1
+
+COMPANY: , <| All Star Products |> , -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 4
+
+STATE: , <| CA |> 90007 -- [CA]  {all-makes.com}    Occurrence: 2
+
+COMPANY: , <| All About Dogs |> LLC -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY: , <| All American Mortgage Company |> has -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 1
+
+CITY: the <| Chicago |> and -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+STATE: , <| TN |> ) -- [TN]  {alivehospice.org}    Occurrence: 2
+
+COMPANY: at <| All About Dogs |> since -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 1
+
+COMPANY:  <| Alabama Kidney Foundation |>  -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 2
+
+COMPANY: About <| All American Appliance Service |> | -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 2
+
+COMPANY: | <| Al Jadid Magazine |>  -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 4
+
+CITY: serve <| Porterville |> better -- [PORTERVILLE]  {allabouticecream.com}    Occurrence: 1
+
+COMPANY:  <| Alien Technology |> provides -- [ALIEN TECHNOLOGY CORP]  {alientechnology.com}    Occurrence: 1
+
+COMPANY: awarded <| Alion Science and Technology |> , -- [ALION SCIENCE & TECHNOLOGY]  {alionscience.com}    Occurrence: 1
+
+COMPANY: at <| All American Appliance Service |> you -- [ALL AMERICAN APPLIANCE SVC]  {allamericanapplianceservice.com}    Occurrence: 1
+
+COMPANY: of <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+STATE: Chino <| CA |> , -- [CA]  {all-coast.com}    Occurrence: 3
+
+COMPANY: the <| Alabama Kidney Foundation |> ( -- [ALABAMA KIDNEY FOUNDATION INC]  {alkidney.org}    Occurrence: 1
+
+COMPANY:  <| Alive Hospice |> was -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY:  <| A-Line , Machine , Tool , Company |> , -- [A-LINE MACHINE TOOL CO]  {alinetools.com}    Occurrence: 1
+
+ZIP: CA <| 93012 |>  -- [93012 8560]  {aljcast.com}    Occurrence: 3
+
+COMPANY:  <| Aliso Escrow Inc. |> , -- [ALISO ESCROW INC]  {alisoescrow.com}    Occurrence: 1
+
+COMPANY: About <| All American Christmas Co |> . -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 1
+
+COMPANY:  <| All American Builders |> partners -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 1
+
+ADDRESS:  <| 9536 Foster Ave |> , -- [9536 W FOSTER AVE]  {allamericanlimo.com}    Occurrence: 10
+
+CITY: from <| Anchorage |>  -- [ANCHORAGE]  {alkotaphi.com}    Occurrence: 3
+
+STATE: , <| OH |> including -- [OH]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY:  <| Al Jadid |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 3
+
+CITY: safe <| Chicago |> airport -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 2
+
+CONTACT: Dr. <| Matthew J Heller |> include -- [MATTHEW HELLER]  {allaboutpetcare.com}    Occurrence: 1
+
+STATE: , <| NJ |>  -- [NJ]  {allamericanapplianceservice.com}    Occurrence: 6
+
+CITY:  <| Palm Springs |> , -- [PALM SPRINGS]  {allamericangifts.com}    Occurrence: 3
+
+COMPANY: 2016 <| All Alaska Tours |> , -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+CITY:  <| Ramona |> , -- [RAMONA]  {allamericanktm.com}    Occurrence: 2
+
+COMPANY: | <| AlphaLink |>  -- [ALPHALINK]  {alink.com}    Occurrence: 15
+
+CITY:  <| Anchorage |> , -- [ANCHORAGE]  {allalaskatours.com}    Occurrence: 4
+
+STATE: , <| TN |> 37643 -- [TN]  {all4jesus.com}    Occurrence: 2
+
+CITY: in <| Chicago |> – -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: , <| Cloverdale |> CA -- [CLOVERDALE]  {all-coast.com}    Occurrence: 2
+
+COMPANY:  <| Alkota Plumbing and Heating |> ’ -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+STATE: Dallas <| TX |> | -- [TX]  {all-safe-pest.com}    Occurrence: 4
+
+ZIP: AZ <| 85259 |>  -- [85259 3909]  {allaboutdance-az.com}    Occurrence: 4
+
+COMPANY: i <| Kula Lavender |> Farm -- [MAUI KULA LAVENDER]  {aliikulalavender.com}    Occurrence: 13
+
+STATE: , <| OH |>  -- [OH]  {alink.com}    Occurrence: 7
+
+COMPANY: 2016 <| All-Travel.com |> | -- [ALL-TRAVEL.COM]  {all-travel.com}    Occurrence: 1
+
+STATE:  <| UT |> Vet -- [UT]  {allaboutpetsprovo.com}    Occurrence: 4
+
+CITY:  <| Chicago |> , -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 20
+
+ADDRESS: at <| 1301 W. Wieland Road |> , -- [1301 W WIELAND RD]  {all-of-grace.org}    Occurrence: 1
+
+COMPANY:  <| All Things Irish |> imports -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 2
+
+ADDRESS: 21A <| Van Blarcom Ave |> . -- [21 VAN BLARCOM AVE]  {allamericanapplianceservice.com}    Occurrence: 1
+
+COMPANY:  <| AL JADID |> also -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+CITY: , <| Roseville |> , -- [ROSEVILLE]  {all-calinsurance.com}    Occurrence: 1
+
+ZIP: OH <| 44691 |> | -- [44691 1213]  {all-events-rental.com}    Occurrence: 4
+
+COMPANY: 2016 <| All Brite Electric |> | -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}    Occurrence: 9
+
+COMPANY: of <| All American Builders |> brings -- [ALL AMERICAN BUILDERS INC]  {allamericanbuilders.com}    Occurrence: 2
+
+COMPANY: choose <| Alkota Plumbing and Heating |> you -- [ALKOTA PLUMBING & HEATING]  {alkotaphi.com}    Occurrence: 1
+
+CITY:  <| Colorado Springs |> , -- [COLORADO SPRINGS]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: at <| Abraham Lincoln Book Shop |> ; -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com}    Occurrence: 1
+
+COMPANY:  <| A-Line Machine Tool Company |>  -- [A-LINE MACHINE TOOL CO]  {alinetools.com}    Occurrence: 2
+
+COMPANY:  <| Al Jadid Magazine |>  -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 2
+
+CITY:  <| Plano |> , -- [PLANO]  {all-safe-pest.com}    Occurrence: 1
+
+COMPANY:  <| Grace Orthodox Presbyterian |> Church -- [GRACE ORTHODOX PRESBYTERIAN]  {all-of-grace.org}    Occurrence: 3
+
+COMPANY: Why <| All Action Chicago Limo Service |> ? -- [ALL ACTION LIMOUSINE SVC]  {allactionlimousine.com}    Occurrence: 5
+
+COMPANY: Today <| All Aboard America |> ! -- [ALL ABOARD AMERICA]  {allaboardamerica.com}    Occurrence: 1
+
+CITY: the <| Middletown |> community -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 1
+
+ZIP:  <| 93003 |> . -- [93003 3247]  {alisoescrow.com}    Occurrence: 1
+
+COMPANY:  <| All Aboard Cruises |> offer -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+COMPANY: , <| All Things Irish |> is -- [ALL THINGS IRISH]  {all-thingsirish.com}    Occurrence: 2
+
+COMPANY:  <| All American Mortgage |>  -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 4
+
+COMPANY: with <| All About Dogs |> in -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 2
+
+ADDRESS: at <| 315 E. Sherman Avenue |> in -- [315 E SHERMAN AVE]  {all-thingsirish.com}    Occurrence: 1
+
+STATE: , <| AL |> 35202 -- [AL]  {alkidney.org}    Occurrence: 7
+
+STATE: , <| CA |> 91355 -- [CA]  {allamericanproducts.com}    Occurrence: 1
+
+COMPANY:  <| All American Christmas Co |> . -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 3
+
+CITY: Road <| Kula |> , -- [KULA]  {aliikulalavender.com}    Occurrence: 7
+
+STATE: , <| AZ |> 85719 -- [AZ]  {alignritetool.com}    Occurrence: 2
+
+COMPANY:  <| AlphaLink |> Will -- [ALPHALINK]  {alink.com}    Occurrence: 1
+
+COMPANY: of <| All Aboard Cruises |> SPLASHTACULAR -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+CITY: West <| Seattle |> church -- [SEATTLE]  {alkiucc.org}    Occurrence: 1
+
+COMPANY: , <| All about PetCare |> serves -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+COMPANY: , <| All American |> Maintenance -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+COMPANY: At <| All American |> we -- [ALL AMERICAN GROUND]  {allamericangrounds.com}    Occurrence: 1
+
+ZIP: UT <| 84062 |>  -- [84062 5015]  {allamericandev.com}    Occurrence: 1
+
+COMPANY: | <| All Brite Electric |> | -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}    Occurrence: 18
+
+COMPANY: and <| All American Mortgage Company |> are -- [ALL AMERICAN MORTGAGE CO]  {allamericanmortgage.net}    Occurrence: 1
+
+ZIP: NY <| 13068 |> | -- [13068 9637]  {all-mode.com}    Occurrence: 7
+
+CITY: in <| Orland Park |> offers -- [ORLAND PARK]  {alisonandrews.com}    Occurrence: 1
+
+ADDRESS:  <| 1301 W. Wieland Rd |> , -- [1301 W WIELAND RD]  {all-of-grace.org}    Occurrence: 1
+
+COMPANY:  <| AlphaLink |> Technologies -- [ALPHALINK]  {alink.com}    Occurrence: 3
+
+CITY: , <| Wilmington |> , -- [WILMINGTON]  {allaboardcruisestravel.com}    Occurrence: 1
+
+CONTACT:  <| Dan Gurney |> 's -- [DAN GURNEY]  {allamericanracers.com}    Occurrence: 2
+
+CITY:  <| Chicago |> North -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY: ABOUT <| AL JADID |> | -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 2
+
+CITY: including <| Newark |> , -- [NEWARK]  {alink.com}    Occurrence: 2
+
+CITY: Our <| Evergreen Park |> Store -- [EVERGREEN PARK]  {allamericancomicshops.com}    Occurrence: 1
+
+COMPANY:  <| All-Safe Pest & Termite |> has -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 1
+
+STATE: name <| OH |> Snap -- [OH]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| All American Business Systems |> Homepage-POS -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 2
+
+COMPANY: of <| All about PetCare |> by -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 2
+
+COMPANY: At <| All American Limo |> we -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+ADDRESS:  <| 1718 Patterson Street |>  -- [1718 PATTERSON ST]  {alivehospice.org}    Occurrence: 8
+
+COMPANY: , <| Aliso Electric |> works -- [ALISO ELECTRIC]  {alisoelectric.com}    Occurrence: 1
+
+CITY:  <| Willoughby |> , -- [WILLOUGHBY]  {all-industrial.com}    Occurrence: 1
+
+COMPANY:  <| All-Tex |> Roofing -- [ALL-TEX]  {all-texroofing.com}    Occurrence: 1
+
+CITY: in <| Washington |> , -- [WASHINGTON]  {allafrica.com}    Occurrence: 1
+
+CITY: downtown <| Coeur d ' Alene |> . -- [COEUR D ALENE]  {all-thingsirish.com}    Occurrence: 5
+
+COMPANY:  <| All About Dogs |>  -- [ALL ABOUT DOGS]  {allaboutdogsinc.com}    Occurrence: 5
+
+COMPANY: At <| All-Safe Pest and Termite |> , -- [ALL-SAFE PEST & TERMITE]  {all-safe-pest.com}    Occurrence: 4
+
+STATE: , <| CA |> 95425 -- [CA]  {all-coast.com}    Occurrence: 2
+
+COMPANY:  <| Alive Hospice |> offers -- [ALIVE HOSPICE INC]  {alivehospice.org}    Occurrence: 2
+
+COMPANY:  <| All About Ice Cream |> is -- [ALL ABOUT ICE CREAM]  {allabouticecream.com}    Occurrence: 2
+
+CITY:  <| Los Angeles |> , -- [LOS ANGELES]  {all-makes.com}    Occurrence: 2
+
+STATE: , <| CT |> 06870 -- [CT]  {alisbergparker.com}    Occurrence: 2
+
+COMPANY:  <| All Brite Electric |> Services -- [ALL BRITE ELECTRIC INC]  {all-briteinc.com}    Occurrence: 2
+
+COMPANY:  <| All Star Products |> , -- [ALL STAR PRODUCTS]  {all-star-usa.com}    Occurrence: 8
+
+STATE: , <| CT |> 06516-0960 -- [CT]  {all-briteinc.com}    Occurrence: 13
+
+STATE: , <| IL |> 60656 -- [IL]  {allamericanlimo.com}    Occurrence: 20
+
+ZIP: CT <| 06851 |>  -- [06851 2706]  {allamericanpools.com}    Occurrence: 1
+
+CITY:  <| Chicago |> Heights -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY: in <| Chicago |> and -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY:  <| Auburn |> , -- [AUBURN]  {all-about-gutters.com}    Occurrence: 1
+
+COMPANY:  <| ALL ABOARD CRUISES |> & -- [ALL ABOARD CRUISES]  {allaboardcruisestravel.com}    Occurrence: 3
+
+COMPANY: of <| Al Jadid |> , -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+ADDRESS:  <| 2255 N. Freedom Blvd |> . -- [2255 N FREEDOM BLVD]  {allaboutpetsprovo.com}    Occurrence: 1
+
+CONTACT: son <| Jack D. Wigley |> as -- [JACK WIGLEY]  {allaboardamerica.com}    Occurrence: 1
+
+COMPANY:  <| All-American Pools |> | -- [ALL-AMERICAN POOLS & SPAS]  {all-american-pools.com}    Occurrence: 2
+
+COMPANY: At <| All American Limo |> , -- [ALL AMERICAN LIMO OF CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+COMPANY:  <| All American Business Systems |> Support -- [ALL AMERICAN BUSINESS SYSTEMS]  {allamericanpos.com}    Occurrence: 2
+
+CITY: , <| Chicago |> , -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+CITY:  <| Little Rock |>  -- [LITTLE ROCK]  {alkar1.com}    Occurrence: 1
+
+COMPANY: | <| All American Christmas Co |>  -- [ALL AMERICAN CHRISTMAS CO]  {allamericanchristmas.com}    Occurrence: 6
+
+COMPANY: at <| Alive Hospice Nashville |> , -- [ALIVE HOSPICE OF NASHVILLE]  {alivehospice.org}    Occurrence: 1
+
+COMPANY:  <| All American KTM |>  -- [ALL AMERICAN KTM POLINI]  {allamericanktm.com}    Occurrence: 11
+
+STATE: Cleveland <| TN |> Dalton -- [TN]  {allamericanpos.com}    Occurrence: 1
+
+COMPANY: joined <| All about PetCare |> in -- [ALL ABOUT PETCARE]  {allaboutpetcare.com}    Occurrence: 1
+
+ZIP: NJ <| 07432 |>  -- [07432 1830]  {allamericanapplianceservice.com}    Occurrence: 1
+
+ZIP: AZ <| 85225 |>  -- [85225 7266]  {all-cityinsurance.com}    Occurrence: 1
+
+CITY: | <| Midland Park |>  -- [MIDLAND PARK]  {allamericanapplianceservice.com}    Occurrence: 3
+
+ADDRESS:  <| 3230 Summer Avenue |> , -- [3230 SUMMER AVE]  {allamericaninc.com}    Occurrence: 1
+
+CITY: Street <| Tucson |> , -- [TUCSON]  {alignritetool.com}    Occurrence: 2
+
+STATE: , <| CA |> . -- [CA]  {allabouticecream.com}    Occurrence: 2
+
+COMPANY: about <| Abraham Lincoln Book Shop |> ' -- [ABRAHAM LINCOLN BOOK SHOP]  {alincolnbookshop.com}    Occurrence: 1
+
+CITY: | <| Cincinnati |> , -- [CINCINNATI]  {all-american-pools.com}    Occurrence: 2
+
+CITY: in <| Middletown |> , -- [MIDDLETOWN]  {allaboutpetcare.com}    Occurrence: 3
+
+ADDRESS:  <| 1942 E. 17th Street |> Tucson -- [1942 E 17TH ST]  {alignritetool.com}    Occurrence: 2
+
+CITY: around <| Chicago |> that -- [CHICAGO]  {allamericanlimo.com}    Occurrence: 1
+
+STATE: Dallas <| TX |>  -- [TX]  {all-safe-pest.com}    Occurrence: 4
+
+COMPANY: of <| AL JADID. |> `` -- [AL JADID MAGAZINE]  {aljadid.com}    Occurrence: 1
+
+COMPANY: lastest <| All Aboard Cruises |> Splashtacular -- [ALL ABOARD CRUISES INC]  {allaboardcruises.com}    Occurrence: 1
+
+STATE: our <| UT |> vet -- [UT]  {allaboutpetsprovo.com}    Occurrence: 2
+
+COMPANY:  <| All Alaska Tours |> is -- [ALL ALASKA TOURS]  {allalaskatours.com}    Occurrence: 1
+
+STATE: , <| TN |> 37203 -- [TN]  {alivehospice.org}    Occurrence: 11
+
+STATE: the <| OH |> Snap -- [OH]  {all-events-rental.com}    Occurrence: 2
+
+COMPANY:  <| Align Technology |> Milestones -- [ALIGN TECHNOLOGY INC]  {aligntech.com}    Occurrence: 1
+
+CITY:  <| Camarillo |> , -- [CAMARILLO]  {aljcast.com}    Occurrence: 1
+
+CITY: OF <| PHOENIX |> and -- [PHOENIX]  {all-about-comics.com}    Occurrence: 1
+

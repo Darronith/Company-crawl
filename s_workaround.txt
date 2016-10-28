@@ -1,0 +1,118 @@
+Format: LABEL: Previous <| Matched words |> Next  --  [Pattern used]  {Original file}  Number of occurrence
+
+CITY: ensuring <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> in -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 2
+
+CITY: support <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 3
+
+COMPANY: Akron <| Children ' s Hospital |> Pediatrics -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 12
+
+CITY: in <| Akron |> and -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ’ s Hospital |> has -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children  s Hospital |> to -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY: View <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 11
+
+CITY: Uniquely <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 12
+
+CITY: , <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 44
+
+CITY: the <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 3
+
+COMPANY: Akron <| Children ' s Hospital |> and -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY:  <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 58
+
+COMPANY: Akron <| Children ' s Hospital |> Foundation -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 2
+
+CITY: with <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 2
+
+COMPANY: Akron <| Children ’ s Hospital |> and -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CONTACT: of <| William and Rebecca Considine |> so -- [WILLIAM CONSIDINE]  {akronchildrens.org}    Occurrence: 1
+
+CITY: s <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> is -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 13
+
+CITY: latest <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+CITY: to <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 15
+
+CITY: About <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 14
+
+CITY: : <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 24
+
+CITY: at <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 18
+
+COMPANY: Akron <| Children ' s Hospital |> participates -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |>  -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 30
+
+COMPANY: Akron <| Children ’ s Hospital |> , -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children 's Hospital |>  -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 13
+
+COMPANY: Akron <| Children ’ s Hospital |> . -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> Annual -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY: Why <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 28
+
+CITY: by <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 2
+
+CITY: about <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 12
+
+STATE: , <| OH |> 44512 -- [OH]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: of <| Children  s Medical |> Research -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Best <| Children ' s Hospital |> , -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 12
+
+CITY: downtown <| Akron |> hospital -- [AKRON]  {akronchildrens.org}    Occurrence: 11
+
+CITY: for <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 2
+
+CITY: and <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> , -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> stays -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> . -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 24
+
+STATE: , <| OH |> 44308-1062 -- [OH]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> system -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY: At <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+CITY: trained <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> Partners -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY: of <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 2
+
+CITY: made <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> Mahoning -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY: , <| Akron |> , -- [AKRON]  {akronchildrens.org}    Occurrence: 12
+
+CITY: | <| Akron |> Children -- [AKRON]  {akronchildrens.org}    Occurrence: 2
+
+COMPANY: Akron <| Children ’ s Hospital |> your -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY:  <| Akron |> , -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ’ s Hospital |> event -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+CITY: Clinic <| Akron |> General -- [AKRON]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Best <| Children ' s Hospital |> by -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 1
+
+COMPANY: Akron <| Children ' s Hospital |> touches -- [CHILDREN 'S HOSPITAL MEDICAL]  {akronchildrens.org}    Occurrence: 2
+
