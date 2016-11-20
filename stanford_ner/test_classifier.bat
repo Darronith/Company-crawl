@@ -1,0 +1,3 @@
+java -cp stanford_ner\stanford-ner.jar;stanford_ner\lib\* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ner-model.ser.gz -testFiles test\\a-1health.com,test\\a-1heatandair.com,test\\a-1perfectnanny.com,test\\a-1vacuum.com,test\\a-a-intl.com,test\\a-airservice.com,test\\a-atruckparts.com,test\\a-closer-look.com,test\\a-g-a.com,test\\a-gcs.com,test\\a-jay.com,test\\a-m-c.com,test\\a-m-s.com,test\\a-m.umn.edu,test\\a-mplastics.com,test\\a-repro.com,test\\a-stamp.com,test\\a-tax.com,test\\a-vidd.com,test\\a1fordcollision.com 1>matching_log.txt 2>test_summary.txt
+
+pause
