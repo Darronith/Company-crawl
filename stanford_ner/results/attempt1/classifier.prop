@@ -1,0 +1,37 @@
+trainFile = ..\\stanford_ner\\silver_tsv\\training_data
+serializeTo = ner-model.ser.gz
+map = word=0,answer=1
+
+# quasi-Newton optimizer (L-BFGS) - Number of past guesses
+qnSize=10
+
+# feature names aren't actually needed while the core model estimation (optimization) code is running
+saveFeatureIndexToDisk=true
+
+# see all the features generated - Options that generate huge numbers of features include useWordPairs and useNGrams when maxNGramLeng is a large number.
+printFeatures=false
+
+# This makes it so that you can only label adjacent words with label sequences that were seen next to each other in the training data.
+useObservedSequencesOnly=true
+
+# In training, CRFClassifier will train one model, drop all the features with weight (absolute value) beneath the given threshold, and then train a second model.
+featureDiffThresh=0.05
+
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+useDisjunctive=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+
+# the order of the CRF
+maxLeft=1
+
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC

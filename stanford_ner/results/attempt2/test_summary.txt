@@ -1,0 +1,13 @@
+CRFClassifier invoked on Sat Nov 26 21:41:54 CET 2016 with arguments:
+   -loadClassifier ner-model.ser.gz -testFile test_tsv\test_data
+testFile=test_tsv\test_data
+loadClassifier=ner-model.ser.gz
+Loading classifier from ner-model.ser.gz ... done [1,1 sec].
+[1000][2000]CRFClassifier tagged 19962 words in 2764 documents at 5580,65 words per second.
+         Entity	P	R	F1	TP	FP	FN
+        ADDRESS	0,0000	0,0000	0,0000	0	1	14
+           CITY	0,0000	0,0000	0,0000	0	3	69
+        COMPANY	1,0000	0,1373	0,2414	14	0	88
+          STATE	0,9375	0,2542	0,4000	15	1	44
+            ZIP	1,0000	0,7000	0,8235	14	0	6
+         Totals	0,8958	0,1617	0,2739	43	5	223
