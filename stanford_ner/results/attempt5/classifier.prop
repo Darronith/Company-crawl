@@ -170,7 +170,7 @@ justify=true
 
 # Either "none" for no wordShape use, or the name of a word shape function recognized by WordShapeClassifier.lookupShaper(String) //chris2useLC
 # https://github.com/dat/stanford-ner/blob/master/src/edu/stanford/nlp/process/WordShapeClassifier.java#L285
-wordShape=chris2useLC
+wordShape=chris1
 
 # If true, use gazette features (defined by other flags)
 useGazettes=false

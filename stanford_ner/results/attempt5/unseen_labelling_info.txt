@@ -1,0 +1,7 @@
+CRFClassifier invoked on Sat Dec 03 19:08:43 CET 2016 with arguments:
+   -loadClassifier ner-model.ser.gz -textFile unlabelled_data\unlabelled_data -outputFormat tsv
+loadClassifier=ner-model.ser.gz
+textFile=unlabelled_data\unlabelled_data
+outputFormat=tsv
+Loading classifier from ner-model.ser.gz ... done [2,1 sec].
+CRFClassifier tagged 57 words in 3 documents at 147,29 words per second.
